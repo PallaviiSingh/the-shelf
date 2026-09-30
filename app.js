@@ -1135,7 +1135,7 @@ async function deleteAdded(slug){
 }
 
 /* Public "suggest a book" form — open to everyone; emails the owner via Web3Forms. */
-const WEB3FORMS_KEY=''; // set to your Web3Forms access key to switch suggestions on
+const WEB3FORMS_KEY='7df2f3ab-df9d-41a0-84c4-b4202dd8cbc8'; // Web3Forms access key — routes suggestions to the owner's inbox
 function renderSubmit(){
   const ownerLink=isOwner()?`<div style="margin:-6px 0 18px"><a class="btn ghost sm" href="#/publish">You're the keeper — publish a book directly →</a></div>`:'';
   app.innerHTML=`<div class="wrap add-wrap view">
