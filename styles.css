@@ -550,3 +550,5 @@ h1,h2,h3{font-family:var(--display);font-weight:500;line-height:1.12;margin:0;le
 .added-row span{color:var(--muted);margin-right:auto;font-size:13px}
 .btn.sm{padding:5px 12px;font-size:12px}
 @media(max-width:640px){.fgrid{grid-template-columns:1fr}}
+
+.addform .hp{position:absolute;left:-9999px;width:1px;height:1px;opacity:0;pointer-events:none}

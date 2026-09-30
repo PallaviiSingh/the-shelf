@@ -916,7 +916,8 @@ function render(){
   else if(route==='commonplace')renderCommonplace();
   else if(route==='stats')renderStats();
   else if(route==='owner')renderOwner();
-  else if(route==='add')renderAdd();
+  else if(route==='add')renderSubmit();
+  else if(route==='publish')renderPublish();
   else renderShelf();
   window.__rendered=hash;
   setActiveNav(route==='shelf'?'shelf':route);
@@ -1102,7 +1103,7 @@ function renderOwner(){
         <span id="o_status" class="own-status"></span>
       </div>
     </div>
-    ${isOwner()?`<div style="margin-top:26px"><a class="btn" href="#/add">+ Add a book</a></div>`:''}
+    ${isOwner()?`<div style="margin-top:26px"><a class="btn" href="#/publish">+ Publish a book</a></div>`:''}
     <div id="o_added" style="margin-top:30px"></div>
   </div>`;
   const g=id=>document.getElementById(id);
@@ -1133,11 +1134,59 @@ async function deleteAdded(slug){
   }catch(e){ toast('Delete failed: '+e.message); }
 }
 
-function renderAddGate(){
+/* Public "suggest a book" form — open to everyone; emails the owner via Web3Forms. */
+const WEB3FORMS_KEY=''; // set to your Web3Forms access key to switch suggestions on
+function renderSubmit(){
+  const ownerLink=isOwner()?`<div style="margin:-6px 0 18px"><a class="btn ghost sm" href="#/publish">You're the keeper — publish a book directly →</a></div>`:'';
+  app.innerHTML=`<div class="wrap add-wrap view">
+    <h1 class="section-title">Suggest a book</h1>
+    <p class="lede" style="margin-bottom:18px">Loved a book and think it belongs here? Suggest it below. Every suggestion goes to the keeper of the shelf, who decides what finds a home on it.</p>
+    ${ownerLink}
+    <form id="suggestForm" class="addform">
+      <div class="fgrid">
+        <label class="req">Book title *<input name="title" required></label>
+        <label class="req">Author *<input name="author" required></label>
+        <label>Year first published<input name="year" type="number"></label>
+        <label>Genre<input name="genre"></label>
+      </div>
+      <label class="full req">Why should it be on the shelf? *<textarea name="why" rows="4" required placeholder="A line or two on why you love it…"></textarea></label>
+      <label class="full">Your name (optional)<input name="from_name" placeholder="So the keeper knows who to thank"></label>
+      <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off">
+      <div class="ownrow">
+        <button class="btn" type="submit" id="suggestBtn">Send suggestion</button>
+        <span id="suggestStatus" class="own-status"></span>
+      </div>
+    </form>
+  </div>`;
+  const form=document.getElementById('suggestForm');
+  form.onsubmit=async ev=>{
+    ev.preventDefault();
+    const st=document.getElementById('suggestStatus'), btn=document.getElementById('suggestBtn');
+    const fd=new FormData(form);
+    if(fd.get('botcheck')) return;                 // honeypot
+    if(!WEB3FORMS_KEY){ st.textContent='Suggestions aren’t switched on yet.'; st.className='own-status bad'; return; }
+    const payload={
+      access_key:WEB3FORMS_KEY,
+      subject:'📚 New book suggestion for The Shelf',
+      from_name:'The Shelf',
+      Title:fd.get('title'), Author:fd.get('author'), Year:fd.get('year')||'—', Genre:fd.get('genre')||'—',
+      Why:fd.get('why'), Suggested_by:fd.get('from_name')||'anonymous'
+    };
+    btn.disabled=true; st.textContent='Sending…'; st.className='own-status';
+    try{
+      const r=await fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify(payload)});
+      const j=await r.json();
+      if(j.success){ document.querySelector('.add-wrap').innerHTML=`<h1 class="section-title">Thank you 🌱</h1><p class="lede">Your suggestion is on its way to the keeper of the shelf. If it finds a home here, you may just see it appear.</p><div style="margin-top:22px"><a class="btn" href="#/shelf">Back to the shelf</a></div>`; }
+      else throw new Error(j.message||'Could not send');
+    }catch(e){ btn.disabled=false; st.textContent='✗ '+e.message; st.className='own-status bad'; }
+  };
+}
+
+function renderPublishGate(){
   const c=ownerCfg();
   app.innerHTML=`<div class="wrap owner-wrap view">
-    <h1 class="section-title">Add a book</h1>
-    <p class="lede" style="margin-bottom:18px">Adding books is just for the shelf's owner. If that's you, unlock it with your key (saved only in this browser). Everyone else is welcome to browse — only you can add to the shelf.</p>
+    <h1 class="section-title">Publish a book</h1>
+    <p class="lede" style="margin-bottom:18px">Publishing to the shelf is just for you, the keeper. Unlock it with your key (saved only in this browser). Everyone else can suggest books, but only you put them on the shelf.</p>
     <div class="ownform">
       <label>GitHub username<input id="o_owner" value="${esc(c.owner||'')}" placeholder="your-github-username" autocapitalize="off" autocomplete="off"></label>
       <label>Repository name<input id="o_repo" value="${esc(c.repo||'')}" placeholder="the-shelf" autocapitalize="off" autocomplete="off"></label>
@@ -1152,11 +1201,11 @@ function renderAddGate(){
   </div>`;
   const g=id=>document.getElementById(id);
   const read=()=>({owner:g('o_owner').value.trim(),repo:g('o_repo').value.trim(),branch:(g('o_branch').value.trim()||'main'),token:g('o_token').value.trim()});
-  g('o_unlock').onclick=async()=>{ const st=g('o_status'); setOwnerCfg(read()); st.textContent='Checking…'; st.className='own-status'; try{ await ghTest(); initOwnerUI(); toast('Unlocked'); renderAdd(); }catch(e){ st.textContent='✗ '+e.message; st.className='own-status bad'; } };
+  g('o_unlock').onclick=async()=>{ const st=g('o_status'); setOwnerCfg(read()); st.textContent='Checking…'; st.className='own-status'; try{ await ghTest(); initOwnerUI(); toast('Unlocked'); renderPublish(); }catch(e){ st.textContent='✗ '+e.message; st.className='own-status bad'; } };
   g('o_test').onclick=async()=>{ const st=g('o_status'); setOwnerCfg(read()); st.textContent='Checking…'; st.className='own-status'; try{ const r=await ghTest(); st.textContent='✓ Connected to '+r.full_name; st.className='own-status ok'; }catch(e){ st.textContent='✗ '+e.message; st.className='own-status bad'; } };
 }
-function renderAdd(){
-  if(!isOwner()){ renderAddGate(); return; }
+function renderPublish(){
+  if(!isOwner()){ renderPublishGate(); return; }
   const subjOpts=SUBJECTS.map(s=>`<option value="${esc(s)}">${esc(s)}</option>`).join('');
   const genreOpts=Object.keys(GENRES).map(x=>`<option value="${esc(x)}">${esc(x)}</option>`).join('');
   const moodOpts=MOODS.map(m=>`<label class="pchk"><input type="checkbox" value="${esc(m.slug)}"> ${esc(m.label)}</label>`).join('');
@@ -1164,8 +1213,8 @@ function renderAdd(){
   const paceOpts=[['gentle','Gentle'],['steady','Steady'],['brisk','Brisk'],['propulsive','Propulsive']].map(d=>`<option value="${d[0]}"${d[0]==='steady'?' selected':''}>${d[1]}</option>`).join('');
   const regionList=[...new Set(BOOKS.map(b=>b.region).filter(Boolean))].sort().map(r=>`<option value="${esc(r)}">`).join('');
   app.innerHTML=`<div class="wrap add-wrap view">
-    <h1 class="section-title">Add a book</h1>
-    <p class="lede" style="margin-bottom:20px">It shows on your shelf right away, and goes live for everyone within about a minute.</p>
+    <h1 class="section-title">Publish a book</h1>
+    <p class="lede" style="margin-bottom:20px">Put a book on the shelf. It shows for you right away, and goes live for everyone within about a minute.</p>
     <form id="addForm" class="addform">
       <div class="fgrid">
         <label class="req">Title *<input name="title" required></label>
