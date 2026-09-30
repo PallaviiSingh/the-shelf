@@ -1137,20 +1137,43 @@ async function deleteAdded(slug){
 /* Public "suggest a book" form — open to everyone; emails the owner via Web3Forms. */
 const WEB3FORMS_KEY='7df2f3ab-df9d-41a0-84c4-b4202dd8cbc8'; // Web3Forms access key — routes suggestions to the owner's inbox
 function renderSubmit(){
+  // Same layout as the owner's "Publish a book" form — but a stranger's version emails the keeper instead of committing.
+  const subjOpts=SUBJECTS.map(s=>`<option value="${esc(s)}">${esc(s)}</option>`).join('');
+  const genreOpts=Object.keys(GENRES).map(x=>`<option value="${esc(x)}">${esc(x)}</option>`).join('');
+  const moodOpts=MOODS.map(m=>`<label class="pchk"><input type="checkbox" value="${esc(m.slug)}"> ${esc(m.label)}</label>`).join('');
+  const diffOpts=[['','—'],['gentle','Gentle'],['moderate','Moderate'],['challenging','Challenging'],['summit','Summit']].map(d=>`<option value="${d[0]}">${d[1]}</option>`).join('');
+  const paceOpts=[['','—'],['gentle','Gentle'],['steady','Steady'],['brisk','Brisk'],['propulsive','Propulsive']].map(d=>`<option value="${d[0]}">${d[1]}</option>`).join('');
+  const regionList=[...new Set(BOOKS.map(b=>b.region).filter(Boolean))].sort().map(r=>`<option value="${esc(r)}">`).join('');
   const ownerLink=isOwner()?`<div style="margin:-6px 0 18px"><a class="btn ghost sm" href="#/publish">You're the keeper — publish a book directly →</a></div>`:'';
   app.innerHTML=`<div class="wrap add-wrap view">
     <h1 class="section-title">Suggest a book</h1>
-    <p class="lede" style="margin-bottom:18px">Loved a book and think it belongs here? Suggest it below. Every suggestion goes to the keeper of the shelf, who decides what finds a home on it.</p>
+    <p class="lede" style="margin-bottom:20px">Loved a book and think it belongs here? Fill in what you can — only the title and author are needed. Your suggestion goes to the keeper of the shelf, who decides what finds a home on it.</p>
     ${ownerLink}
     <form id="suggestForm" class="addform">
       <div class="fgrid">
-        <label class="req">Book title *<input name="title" required></label>
-        <label class="req">Author *<input name="author" required></label>
-        <label>Year first published<input name="year" type="number"></label>
-        <label>Genre<input name="genre"></label>
+        <label class="req">Title *<input name="title" required></label>
+        <label>Subtitle<input name="subtitle"></label>
+        <label class="req">Author(s) *<input name="authors" required placeholder="Jane Austen, ..."></label>
+        <label>Year first published<input name="year" type="number" placeholder="1843"></label>
+        <label>Genre<select name="genre"><option value="">—</option>${genreOpts}</select></label>
+        <label>Region / country<input name="region" list="regionlist" placeholder="England"><datalist id="regionlist">${regionList}</datalist></label>
+        <label>Publisher<input name="publisher"></label>
+        <label>Edition / series<input name="series" placeholder="Penguin Clothbound Edition"></label>
+        <label>ISBN<input name="isbn"></label>
+        <label>Pages<input name="pages" type="number"></label>
+        <label>Difficulty<select name="difficulty">${diffOpts}</select></label>
+        <label>Pace<select name="pace">${paceOpts}</select></label>
+        <label>Subject (shelf heading)<select name="subject"><option value="">—</option>${subjOpts}</select></label>
+        <label>Shelf<input name="shelf" list="shelflist" placeholder="New Arrivals"><datalist id="shelflist"></datalist></label>
       </div>
-      <label class="full req">Why should it be on the shelf? *<textarea name="why" rows="4" required placeholder="A line or two on why you love it…"></textarea></label>
-      <label class="full">Your name (optional)<input name="from_name" placeholder="So the keeper knows who to thank"></label>
+      <label class="full">Tags (comma separated)<input name="tags" placeholder="christmas, redemption, ghosts"></label>
+      <fieldset class="moods"><legend>Moods</legend><div class="moodgrid">${moodOpts}</div></fieldset>
+      <label class="full">Summary (~100 words)<textarea name="summary" rows="5"></textarea></label>
+      <label class="full">Why should it be on the shelf?<textarea name="why" rows="2"></textarea></label>
+      <label class="full">A fun fact<textarea name="fact" rows="2"></textarea></label>
+      <label class="full">One-line hook<input name="oneline" placeholder="Three ghosts give a miser one night to change his heart."></label>
+      <label class="full">Cover image<input name="cover" type="file" accept="image/*"></label>
+      <div id="coverPrev" class="cover-prev"></div>
       <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off">
       <div class="ownrow">
         <button class="btn" type="submit" id="suggestBtn">Send suggestion</button>
@@ -1159,22 +1182,41 @@ function renderSubmit(){
     </form>
   </div>`;
   const form=document.getElementById('suggestForm');
+  const shelfList=document.getElementById('shelflist');
+  function fillShelves(){ const subj=(LIB.organization||[]).find(s=>s.subject===form.subject.value); const names=subj?(subj.shelves||[]).map(s=>s.name):[]; shelfList.innerHTML=names.map(n=>`<option value="${esc(n)}">`).join(''); }
+  form.subject.onchange=fillShelves; fillShelves();
+  let coverData=null;
+  form.cover.onchange=async e=>{
+    const file=e.target.files[0]; if(!file)return;
+    try{ const img=await loadImageFile(file); const scaled=scaleToJpeg(img,720); const pal=coverPalette(img); coverData=Object.assign({},scaled,pal);
+      document.getElementById('coverPrev').innerHTML=`<img src="${scaled.dataUrl}" alt=""><div class="pal">${pal.palette.map(h=>`<span style="background:${h}"></span>`).join('')}</div>`;
+    }catch(err){ toast('Could not read that image'); }
+  };
   form.onsubmit=async ev=>{
     ev.preventDefault();
     const st=document.getElementById('suggestStatus'), btn=document.getElementById('suggestBtn');
-    const fd=new FormData(form);
-    if(fd.get('botcheck')) return;                 // honeypot
+    if(form.botcheck&&form.botcheck.checked) return;                 // honeypot
     if(!WEB3FORMS_KEY){ st.textContent='Suggestions aren’t switched on yet.'; st.className='own-status bad'; return; }
-    const payload={
-      access_key:WEB3FORMS_KEY,
-      subject:'📚 New book suggestion for The Shelf',
-      from_name:'The Shelf',
-      Title:fd.get('title'), Author:fd.get('author'), Year:fd.get('year')||'—', Genre:fd.get('genre')||'—',
-      Why:fd.get('why'), Suggested_by:fd.get('from_name')||'anonymous'
-    };
+    const fd=new FormData(form);
+    const g=n=>((fd.get(n)||'')+'').trim();
+    if(!g('title')||!g('authors')){ toast('Title and author are needed'); return; }
+    const moods=[...form.querySelectorAll('.moodgrid input:checked')].map(i=>i.value).join(', ');
+    const out=new FormData();
+    out.append('access_key', WEB3FORMS_KEY);
+    out.append('subject','📚 New book suggestion for The Shelf');
+    out.append('from_name','The Shelf');
+    const add=(label,val)=>out.append(label, val||'—');
+    add('Title', g('title')); add('Author', g('authors')); add('Subtitle', g('subtitle'));
+    add('Year', g('year')); add('Genre', g('genre')); add('Region', g('region'));
+    add('Publisher', g('publisher')); add('Edition / series', g('series')); add('ISBN', g('isbn')); add('Pages', g('pages'));
+    add('Difficulty', g('difficulty')); add('Pace', g('pace'));
+    add('Suggested subject', g('subject')); add('Suggested shelf', g('shelf'));
+    add('Tags', g('tags')); add('Moods', moods);
+    add('Summary', g('summary')); add('Why it belongs', g('why')); add('Fun fact', g('fact')); add('One-line', g('oneline'));
+    if(coverData){ try{ const blob=await (await fetch(coverData.dataUrl)).blob(); out.append('attachment', blob, slugify(g('title'))+'.jpg'); }catch(e){} }
     btn.disabled=true; st.textContent='Sending…'; st.className='own-status';
     try{
-      const r=await fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify(payload)});
+      const r=await fetch('https://api.web3forms.com/submit',{method:'POST',headers:{Accept:'application/json'},body:out});
       const j=await r.json();
       if(j.success){ document.querySelector('.add-wrap').innerHTML=`<h1 class="section-title">Thank you 🌱</h1><p class="lede">Your suggestion is on its way to the keeper of the shelf. If it finds a home here, you may just see it appear.</p><div style="margin-top:22px"><a class="btn" href="#/shelf">Back to the shelf</a></div>`; }
       else throw new Error(j.message||'Could not send');
