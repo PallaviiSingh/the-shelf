@@ -1080,10 +1080,10 @@ function removeFromMemory(slug){
 
 function initOwnerUI(){
   const nav=document.getElementById('nav'); if(!nav)return;
-  let link=document.getElementById('ownerAddLink');
-  if(isOwner()){
-    if(!link){ link=document.createElement('a'); link.id='ownerAddLink'; link.href='#/add'; link.setAttribute('data-view','add'); link.textContent='Add'; nav.appendChild(link); }
-  } else if(link){ link.remove(); }
+  // The "Add" sign shows for everyone; only the owner (who has the key saved in their browser) can actually publish.
+  if(!document.getElementById('ownerAddLink')){
+    const link=document.createElement('a'); link.id='ownerAddLink'; link.href='#/add'; link.setAttribute('data-view','add'); link.textContent='Add'; nav.appendChild(link);
+  }
 }
 
 function renderOwner(){
@@ -1133,8 +1133,30 @@ async function deleteAdded(slug){
   }catch(e){ toast('Delete failed: '+e.message); }
 }
 
+function renderAddGate(){
+  const c=ownerCfg();
+  app.innerHTML=`<div class="wrap owner-wrap view">
+    <h1 class="section-title">Add a book</h1>
+    <p class="lede" style="margin-bottom:18px">Adding books is just for the shelf's owner. If that's you, unlock it with your key (saved only in this browser). Everyone else is welcome to browse — only you can add to the shelf.</p>
+    <div class="ownform">
+      <label>GitHub username<input id="o_owner" value="${esc(c.owner||'')}" placeholder="your-github-username" autocapitalize="off" autocomplete="off"></label>
+      <label>Repository name<input id="o_repo" value="${esc(c.repo||'')}" placeholder="the-shelf" autocapitalize="off" autocomplete="off"></label>
+      <label>Branch<input id="o_branch" value="${esc(c.branch||'main')}" placeholder="main" autocapitalize="off" autocomplete="off"></label>
+      <label>Access token<input id="o_token" type="password" value="${esc(c.token||'')}" placeholder="ghp_…" autocomplete="off"></label>
+      <div class="ownrow">
+        <button class="btn" id="o_unlock">Unlock</button>
+        <button class="btn ghost" id="o_test">Test connection</button>
+        <span id="o_status" class="own-status"></span>
+      </div>
+    </div>
+  </div>`;
+  const g=id=>document.getElementById(id);
+  const read=()=>({owner:g('o_owner').value.trim(),repo:g('o_repo').value.trim(),branch:(g('o_branch').value.trim()||'main'),token:g('o_token').value.trim()});
+  g('o_unlock').onclick=async()=>{ const st=g('o_status'); setOwnerCfg(read()); st.textContent='Checking…'; st.className='own-status'; try{ await ghTest(); initOwnerUI(); toast('Unlocked'); renderAdd(); }catch(e){ st.textContent='✗ '+e.message; st.className='own-status bad'; } };
+  g('o_test').onclick=async()=>{ const st=g('o_status'); setOwnerCfg(read()); st.textContent='Checking…'; st.className='own-status'; try{ const r=await ghTest(); st.textContent='✓ Connected to '+r.full_name; st.className='own-status ok'; }catch(e){ st.textContent='✗ '+e.message; st.className='own-status bad'; } };
+}
 function renderAdd(){
-  if(!isOwner()){ location.hash='#/owner'; return; }
+  if(!isOwner()){ renderAddGate(); return; }
   const subjOpts=SUBJECTS.map(s=>`<option value="${esc(s)}">${esc(s)}</option>`).join('');
   const genreOpts=Object.keys(GENRES).map(x=>`<option value="${esc(x)}">${esc(x)}</option>`).join('');
   const moodOpts=MOODS.map(m=>`<label class="pchk"><input type="checkbox" value="${esc(m.slug)}"> ${esc(m.label)}</label>`).join('');
