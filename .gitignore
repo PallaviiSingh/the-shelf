@@ -13,3 +13,6 @@ Screenshot*.png
 Books Images for claude/
 Possible images for the website/
 .cover_backups/
+
+# private local notes (keys inside) — never publish
+PROJECT_NOTES.md
