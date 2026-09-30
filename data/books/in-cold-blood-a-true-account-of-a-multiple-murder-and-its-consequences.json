@@ -1,0 +1,75 @@
+{
+  "slug": "in-cold-blood-a-true-account-of-a-multiple-murder-and-its-consequences",
+  "title": "In Cold Blood: A True Account of a Multiple Murder and its Consequences",
+  "subtitle": null,
+  "authors": [
+    "truman-capote"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1966,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "0141182571",
+    "pageCount": 352
+  },
+  "cover": {
+    "file": "assets/covers/in-cold-blood-a-true-account-of-a-multiple-murder-and-its-consequences.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#c7c8c4",
+    "w": 633,
+    "h": 970,
+    "trimmed": true,
+    "palette": [
+      "#e5e8e3"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Oral History & Reportage"
+  ],
+  "region": "United States",
+  "tags": [
+    "true crime",
+    "murder",
+    "America",
+    "reportage"
+  ],
+  "moods": [
+    "bleak",
+    "suspenseful",
+    "haunting"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "in bed at night",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "a Kansas farmhouse",
+      "a senseless crime",
+      "two killers"
+    ],
+    "oneLine": "A Kansas family murder, reconstructed into the first true-crime classic."
+  },
+  "summary": "In 1959, four members of a Kansas farm family were murdered in their home, and Truman Capote spent years reconstructing the crime, the killers and the investigation in extraordinary detail. The result reads like a novel while claiming the authority of fact, and effectively invented the modern true-crime and 'non-fiction novel' genres. Chilling, immersive and morally uneasy, especially in Capote's closeness to the killers, it remains a landmark of American journalism and a genuinely unsettling read.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The book that invented modern true crime, and reads like a novel. Chilling, immersive and morally uneasy.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Capote called it a 'non-fiction novel', a form he claimed to have invented with this book.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

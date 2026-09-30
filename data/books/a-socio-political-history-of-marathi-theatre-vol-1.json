@@ -1,0 +1,69 @@
+{
+  "slug": "a-socio-political-history-of-marathi-theatre-vol-1",
+  "title": "A Socio-political history of Marathi Theatre, Vol 1",
+  "subtitle": null,
+  "authors": [
+    "makarand-sathe"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "9780199450381",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/a-socio-political-history-of-marathi-theatre-vol-1.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#c3af0b",
+    "w": 522,
+    "h": 800,
+    "palette": [
+      "#e8cc05",
+      "#3e4f10",
+      "#696e10"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "India",
+  "tags": [
+    "theatre",
+    "Marathi",
+    "literary history",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "the Marathi stage",
+      "theatre and politics",
+      "a pioneering study"
+    ],
+    "oneLine": "A socio-political history of Marathi theatre, volume one."
+  },
+  "summary": "The first volume of Makarand Sathe's monumental study traces the socio-political history of Marathi theatre, one of India's richest and most politically engaged theatrical traditions. It sets the plays, playwrights and movements of the Marathi stage against the social and political currents of their times, from its nineteenth-century beginnings onward. A pioneering, deeply researched scholarly work that treats theatre as a mirror of, and a force within, Maharashtra's public life.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Sathe's pioneering history of Marathi theatre as a socio-political force. Deeply researched scholarship.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "A1",
+  "enriched": true
+}

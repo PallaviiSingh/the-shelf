@@ -1,0 +1,76 @@
+{
+  "slug": "the-master-and-margarita",
+  "title": "The Master and Margarita",
+  "subtitle": null,
+  "authors": [
+    "mikhail-bulgakov"
+  ],
+  "translator": "Michael Glenny (Vintage edition)",
+  "originalLanguage": "Russian",
+  "translated": true,
+  "originalPublicationYear": 1967,
+  "edition": {
+    "publisher": "Vintage",
+    "series": "Vintage",
+    "pageCount": 371
+  },
+  "cover": {
+    "file": "assets/covers/the-master-and-margarita.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/1784871931-L.jpg?default=false",
+    "dominantColor": "#493433",
+    "w": 351,
+    "h": 500,
+    "palette": [
+      "#1f1e21",
+      "#830c11",
+      "#d3c4ac"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Classic"
+  ],
+  "region": "Russia (Soviet Union)",
+  "tags": [
+    "Soviet",
+    "the devil",
+    "satire",
+    "fantasy"
+  ],
+  "moods": [
+    "surreal",
+    "satirical",
+    "fantastical"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "Stalinist Moscow",
+      "the Devil's retinue",
+      "a giant black cat"
+    ],
+    "oneLine": "The Devil visits Soviet Moscow, in a dazzling, funny masterpiece."
+  },
+  "summary": "The Devil arrives in atheist, Stalinist Moscow with a retinue that includes a giant talking cat, and turns the city upside down, while a parallel story retells the trial of Christ before Pontius Pilate, and a persecuted writer and his devoted lover, Margarita, are drawn into the chaos. Written in secret and published decades after Bulgakov's death, this dazzling satire of Soviet life is one of the great novels of the twentieth century: funny, profound and gloriously strange.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A wild, funny, profound masterpiece: the Devil loose in Stalin's Moscow, with a giant talking cat. Utterly unlike anything else.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Bulgakov wrote it in secret; it was published only in 1966-67, decades after his death.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

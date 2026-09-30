@@ -1,0 +1,17 @@
+{
+  "slug": "vijay-tendulkar",
+  "name": "Vijay Tendulkar",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Vijay Dhondopant Tendulkar was an Indian playwright, movie and television writer, literary essayist, political journalist, and social commentator primarily in Marathi. His Marathi plays established him as a writer of plays with contemporary, unconventional themes. He is best known for his plays Shantata! Court Chalu Aahe (1967), Ghashiram Kotwal (1972), and Sakharam Binder (1972). Many",
+  "photo": {
+    "file": "assets/authors/vijay-tendulkar.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vijay_Tendulkar"
+  },
+  "books": [
+    "ghashiram-kotwal"
+  ],
+  "enriched": false
+}

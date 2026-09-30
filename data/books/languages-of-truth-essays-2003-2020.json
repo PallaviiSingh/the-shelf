@@ -1,0 +1,76 @@
+{
+  "slug": "languages-of-truth-essays-2003-2020",
+  "title": "Languages of Truth: Essays: 2003-2020",
+  "subtitle": null,
+  "authors": [
+    "salman-rushdie"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2021,
+  "edition": {
+    "publisher": "Penguin Hamish Hamilton",
+    "series": null,
+    "isbn": "0600635384",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/languages-of-truth-essays-2003-2020.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#575f52",
+    "w": 654,
+    "h": 1000,
+    "palette": [
+      "#011d27",
+      "#e86f4d",
+      "#cec96a"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays"
+  ],
+  "region": "India",
+  "tags": [
+    "literature",
+    "storytelling",
+    "imagination",
+    "criticism"
+  ],
+  "moods": [
+    "cerebral",
+    "warm",
+    "playful"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "in a cafe",
+      "a short sitting"
+    ],
+    "sensory": [
+      "wonder-tales",
+      "a love of books",
+      "the power of fiction"
+    ],
+    "oneLine": "Rushdie's essays on storytelling, imagination and the writers he loves."
+  },
+  "summary": "Nearly two decades of Salman Rushdie's non-fiction, gathered in a rich collection on storytelling, imagination, the writers he loves, and the enduring power of fiction in an age suspicious of it. Ranging from ancient wonder-tales to modern literature and his own creative life, these essays and lectures are erudite, generous and full of delight in books. A warm, expansive companion for readers, and a defence of the truth-telling that only stories can do.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Two decades of Rushdie on storytelling and the writers he loves. Erudite, generous and full of delight in books.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The collection gathers essays and lectures spanning from 2003 to 2020.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

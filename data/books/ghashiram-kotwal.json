@@ -1,0 +1,76 @@
+{
+  "slug": "ghashiram-kotwal",
+  "title": "Ghashiram Kotwal",
+  "subtitle": null,
+  "authors": [
+    "vijay-tendulkar"
+  ],
+  "translator": null,
+  "originalLanguage": "Marathi",
+  "translated": true,
+  "originalPublicationYear": 1972,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/ghashiram-kotwal.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7a7875",
+    "w": 720,
+    "h": 1094,
+    "palette": [
+      "#3b3c3a",
+      "#996e6c",
+      "#694945"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Drama",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Marathi",
+    "drama",
+    "Vijay Tendulkar",
+    "politics"
+  ],
+  "moods": [
+    "dark",
+    "political",
+    "intense"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "eighteenth-century Pune",
+      "folk theatre and menace",
+      "power and its tools"
+    ],
+    "oneLine": "A minister makes and destroys his own police chief, in a landmark Marathi play."
+  },
+  "summary": "Ghashiram Kotwal is Vijay Tendulkar's celebrated Marathi play, a dark political drama set in eighteenth-century Pune that uses music, dance and folk theatre forms to tell how a powerful minister raises up and then destroys a man he has made police chief. A searing allegory of how the powerful create and discard their instruments, it stirred controversy on its release and became one of the most influential and frequently staged works of modern Indian theatre.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Tendulkar's searing Marathi play on how the powerful create and discard their instruments. Bold, musical, influential.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its bold use of music and folk forms made it a milestone of experimental Indian theatre.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

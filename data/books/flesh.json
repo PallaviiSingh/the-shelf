@@ -1,0 +1,76 @@
+{
+  "slug": "flesh",
+  "title": "Flesh",
+  "subtitle": null,
+  "authors": [
+    "david-szalay"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2025,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/flesh.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#929c99",
+    "w": 647,
+    "h": 1000,
+    "palette": [
+      "#e6e7e6",
+      "#236d83",
+      "#6b9899"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Europe",
+  "tags": [
+    "masculinity",
+    "class",
+    "desire",
+    "a life"
+  ],
+  "moods": [
+    "quiet",
+    "bleak",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "on a rainy day",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a housing estate",
+      "London wealth",
+      "the spaces between words"
+    ],
+    "oneLine": "One man's whole life, watched in cool, unsparing close-up."
+  },
+  "summary": "Szalay follows one man, Istvan, from a Hungarian housing estate through the army, wealth and London society across the whole arc of a life, in the spare, watchful style that has become his signature. Told largely through flat, restrained dialogue and the spaces between what people say, it is a novel about bodies, money, sex and the strange passivity with which a life can happen to a person. Cool and precise, it asks how much any of us really author our own story.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A cool, precise novel that watches a whole life drift by. Spare on the surface, but it accumulates real weight.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "David Szalay's earlier novel All That Man Is was shortlisted for the Booker Prize.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A4",
+  "enriched": true
+}

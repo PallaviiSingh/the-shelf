@@ -1,0 +1,77 @@
+{
+  "slug": "the-jungle-book",
+  "title": "The Jungle Book",
+  "subtitle": null,
+  "authors": [
+    "rudyard-kipling"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1894,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141394625",
+    "pageCount": 192
+  },
+  "cover": {
+    "file": "assets/covers/the-jungle-book.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9b9718",
+    "w": 619,
+    "h": 1000,
+    "palette": [
+      "#cbca05",
+      "#b1ae1c",
+      "#868225"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Short Stories"
+  ],
+  "region": "India",
+  "tags": [
+    "animals",
+    "India",
+    "law of the jungle",
+    "childhood"
+  ],
+  "moods": [
+    "epic",
+    "playful",
+    "luminous"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to escape",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "the Indian jungle",
+      "a wolf pack",
+      "a stalking tiger"
+    ],
+    "oneLine": "A boy raised by wolves learns the law of the Indian jungle."
+  },
+  "summary": "Raised by wolves in the Indian jungle, the boy Mowgli learns the law of the wild from the bear Baloo and the panther Bagheera, and faces the tiger Shere Khan, in the linked stories that make up Kipling's most enduring book. Alongside Mowgli's tales are others, including the mongoose Rikki-Tikki-Tavi. Vivid, rhythmic and shot through with Kipling's love of the natural world, it has enchanted children for over a century, even as modern readers weigh its imperial attitudes.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Mowgli, Baloo and Shere Khan, in prose far richer than any cartoon. A vivid, rhythmic classic of the wild.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Kipling wrote it in Vermont, drawing on his childhood memories of India.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B3",
+  "enriched": true
+}

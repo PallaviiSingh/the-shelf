@@ -1,0 +1,17 @@
+{
+  "slug": "kalidas",
+  "name": "Kalidas",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Kālidāsa was a Classical Sanskrit author who is often considered ancient India's greatest poet and playwright. His plays and poetry are primarily based on Hindu Puranas and philosophy. His surviving works consist of three plays, two epic poems and two shorter poems.",
+  "photo": {
+    "file": "assets/authors/kalidas.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kalidasa"
+  },
+  "books": [
+    "the-loom-of-time"
+  ],
+  "enriched": false
+}

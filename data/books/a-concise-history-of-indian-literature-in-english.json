@@ -1,0 +1,69 @@
+{
+  "slug": "a-concise-history-of-indian-literature-in-english",
+  "title": "A Concise History of Indian Literature in English",
+  "subtitle": null,
+  "authors": [
+    "arvind-krishna-mehrotra"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orient Black Swan",
+    "series": null,
+    "isbn": "9788178243023",
+    "pageCount": 472
+  },
+  "cover": {
+    "file": "assets/covers/a-concise-history-of-indian-literature-in-english.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8e8480",
+    "w": 646,
+    "h": 1000,
+    "palette": [
+      "#414065",
+      "#e9e5d3",
+      "#9f9d6e"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "India",
+  "tags": [
+    "Indian literature",
+    "English",
+    "literary history",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "Indian English writing",
+      "from Derozio to now",
+      "essays by scholars"
+    ],
+    "oneLine": "A concise history of Indian literature written in English."
+  },
+  "summary": "Edited by the poet and critic Arvind Krishna Mehrotra, this history traces the story of Indian literature written in English, from its nineteenth-century beginnings to contemporary fiction and poetry. Combining a clear narrative with critical essays by leading scholars on major authors and movements, it is both accessible and authoritative. A valuable, well-shaped guide to how Indian writing in English grew into one of the most vibrant literatures in the world.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Mehrotra's authoritative, readable history of Indian writing in English, from its beginnings to now.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "A1",
+  "enriched": true
+}

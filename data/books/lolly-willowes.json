@@ -1,0 +1,76 @@
+{
+  "slug": "lolly-willowes",
+  "title": "Lolly Willowes",
+  "subtitle": null,
+  "authors": [
+    "sylvia-townsend-warner"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1926,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241573785",
+    "pageCount": 251
+  },
+  "cover": {
+    "file": "assets/covers/lolly-willowes.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b02b2b",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#e33a3d",
+      "#5c120c",
+      "#9b2525"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "spinster",
+    "witchcraft",
+    "independence",
+    "feminist"
+  ],
+  "moods": [
+    "playful",
+    "subversive",
+    "atmospheric"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "a short sitting",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a country village",
+      "a spinster's rebellion",
+      "a quiet pact with the devil"
+    ],
+    "oneLine": "An overlooked aunt escapes her family, moves to the country, and turns witch."
+  },
+  "summary": "A dutiful unmarried aunt, long taken for granted by her family, abruptly moves to a country village on her own, discovers an unexpected freedom, and quietly becomes a witch. Sylvia Townsend Warner's droll, subversive first novel turns a spinster's rebellion into a sly feminist fable about a woman claiming a life, and a self, entirely her own. Charming and strange in equal measure, it has been rediscovered as a small classic of female independence with a wicked supernatural twist.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A spinster claims her freedom by becoming a witch. A sly, charming feminist fable, rightly rediscovered.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was the first book ever chosen by the American Book of the Month Club, in 1926.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

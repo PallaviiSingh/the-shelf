@@ -1,0 +1,77 @@
+{
+  "slug": "emma",
+  "title": "Emma",
+  "subtitle": null,
+  "authors": [
+    "jane-austen"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1815,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9780141192475",
+    "pageCount": 457
+  },
+  "cover": {
+    "file": "assets/covers/emma.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#678982",
+    "w": 663,
+    "h": 1000,
+    "palette": [
+      "#537b73",
+      "#395551",
+      "#759a93"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Romance"
+  ],
+  "region": "England",
+  "tags": [
+    "matchmaking",
+    "comedy",
+    "class",
+    "Regency"
+  ],
+  "moods": [
+    "witty",
+    "warm",
+    "playful"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "to laugh",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a country village",
+      "a meddling matchmaker",
+      "a comedy of errors"
+    ],
+    "oneLine": "A clever young woman meddles in everyone's romance except her own."
+  },
+  "summary": "Handsome, clever and rich, Emma Woodhouse is convinced she has a gift for matchmaking, and proceeds to meddle in her neighbours' hearts with disastrous, comic results, blind all the while to her own. Austen gives us a heroine, she said, whom no one but herself would much like, and turns her small country village into a perfect stage for misjudgement and self-discovery. Wickedly funny and beautifully constructed, it is many readers' favourite Austen and a masterclass in comic irony.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Austen's funniest and most perfectly built comedy, with a heroine who gets everything wrong. A masterclass in irony.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Austen predicted Emma would be a heroine 'whom no one but myself will much like'.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C4",
+  "enriched": true
+}

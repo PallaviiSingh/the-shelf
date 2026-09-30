@@ -1,0 +1,78 @@
+{
+  "slug": "softly-dies-a-lake",
+  "title": "Softly Dies a Lake",
+  "subtitle": null,
+  "authors": [
+    "akkineni-kutumbarao"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orient BlackSwan Pvt. Ltd.",
+    "series": null,
+    "isbn": "9390122589",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/softly-dies-a-lake.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#879d86",
+    "w": 628,
+    "h": 991,
+    "trimmed": true,
+    "palette": [
+      "#206658",
+      "#b3dcce",
+      "#b5b085"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "lake",
+    "fishing community",
+    "Andhra",
+    "translation"
+  ],
+  "moods": [
+    "melancholic",
+    "atmospheric",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "by the water"
+    ],
+    "sensory": [
+      "a great lake",
+      "a fishing community",
+      "a vanishing world"
+    ],
+    "oneLine": "A lake and the fishing community bound to it slowly die together."
+  },
+  "summary": "Translated from the Telugu, Akkineni Kutumba Rao's novel unfolds around a great lake and the fishing community whose lives, livelihoods and culture are bound to its waters, as ecological decline and human greed slowly threaten both. Blending the rhythms of village life with a keen sense of a vanishing world, it is a quietly powerful work of environmental and social fiction. Tender and rooted in place, it mourns the slow death of a lake and of a way of life that depended on it.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A tender Telugu novel of a lake and the fishing people bound to it, as both slowly die. Rooted and quietly powerful.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is translated from Telugu and rooted in the life of a lakeside fishing community.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

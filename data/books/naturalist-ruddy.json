@@ -1,0 +1,77 @@
+{
+  "slug": "naturalist-ruddy",
+  "title": "Naturalist Ruddy",
+  "subtitle": null,
+  "authors": [
+    "rohan-chakravarty-green-humour"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0143455176",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/naturalist-ruddy.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#536c56",
+    "w": 720,
+    "h": 925,
+    "palette": [
+      "#437167",
+      "#285149",
+      "#6cc2af"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Graphic & Comics",
+    "Children's"
+  ],
+  "region": "India",
+  "tags": [
+    "cartoons",
+    "wildlife",
+    "mongoose",
+    "nature"
+  ],
+  "moods": [
+    "playful",
+    "witty",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "comfort reading",
+      "in the sun"
+    ],
+    "sensory": [
+      "an inquisitive mongoose",
+      "India's wildlife",
+      "a comic adventure"
+    ],
+    "oneLine": "Ruddy the mongoose introduces India's wildlife, Green Humour style."
+  },
+  "summary": "Rohan Chakravarty's comic featuring Ruddy, an inquisitive mongoose who guides readers through the wonders of the natural world, introducing India's wildlife and ecology with humour and charm. Blending storytelling, cartooning and real natural history, it makes learning about animals and their habitats delightful for readers young and old. Warm, funny and genuinely informative, it channels the Green Humour touch into a character-led adventure that turns a curious mongoose into an ideal companion for exploring the wild.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A curious mongoose named Ruddy guides you through India's wildlife, Green Humour style. Funny and genuinely informative.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Ruddy the mongoose is a recurring character in Rohan Chakravarty's wildlife comics.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

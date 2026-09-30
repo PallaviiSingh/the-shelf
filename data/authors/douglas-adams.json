@@ -1,0 +1,17 @@
+{
+  "slug": "douglas-adams",
+  "name": "Douglas Adams",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Douglas Noël Adams was an English author, humourist, and screenwriter. He wrote The Hitchhiker's Guide to the Galaxy, which originated in 1978 as a BBC radio comedy, before developing into a \"trilogy\" of five books that sold more than 14 million copies in his lifetime. He also adapted it into a 1981 television series, a",
+  "photo": {
+    "file": "assets/authors/douglas-adams.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Douglas_Adams"
+  },
+  "books": [
+    "hitchhikers-guide-to-the-galaxy"
+  ],
+  "enriched": false
+}

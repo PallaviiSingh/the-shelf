@@ -1,0 +1,76 @@
+{
+  "slug": "vanity-fair",
+  "title": "Vanity Fair",
+  "subtitle": null,
+  "authors": [
+    "william-makepeace-thackeray"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1848,
+  "edition": {
+    "publisher": "Penguin English Library Edition",
+    "series": "Penguin",
+    "isbn": "0141199644",
+    "pageCount": 699
+  },
+  "cover": {
+    "file": "assets/covers/vanity-fair.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#c0ccca",
+    "w": 720,
+    "h": 1107,
+    "palette": [
+      "#bbc7c5",
+      "#e0e8e9"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Satire"
+  ],
+  "region": "England",
+  "tags": [
+    "social climbing",
+    "Napoleonic era",
+    "money",
+    "ambition"
+  ],
+  "moods": [
+    "satirical",
+    "witty",
+    "cynical"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "Regency society",
+      "a ruthless climber",
+      "a world of vanity"
+    ],
+    "oneLine": "The scheming Becky Sharp claws up a society with no heroes."
+  },
+  "summary": "The ruthless, charming Becky Sharp claws her way up through Regency society with no money and no scruples, while her gentle friend Amelia drifts the other way, and Thackeray watches both with a cold, delighted eye. Subtitled 'a novel without a hero', this sweeping panorama of ambition, vanity and self-interest is one of the great satirical portraits of English society. Becky Sharp remains one of literature's most enjoyable schemers, and the book a wickedly clever anatomy of getting on.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A novel without a hero and with one of fiction's great schemers, Becky Sharp. A wickedly clever anatomy of ambition.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Thackeray subtitled it 'A Novel without a Hero', taking its title from Bunyan's Pilgrim's Progress.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C4",
+  "enriched": true
+}

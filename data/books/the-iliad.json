@@ -1,0 +1,76 @@
+{
+  "slug": "the-iliad",
+  "title": "The Iliad",
+  "subtitle": null,
+  "authors": [
+    "homer"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": -762,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "014139465X",
+    "pageCount": 432
+  },
+  "cover": {
+    "file": "assets/covers/the-iliad.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#65302a",
+    "w": 620,
+    "h": 1000,
+    "palette": [
+      "#4d2222",
+      "#804133",
+      "#ac5b40"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Verse Epic",
+    "Classic"
+  ],
+  "region": "Ancient Greece",
+  "tags": [
+    "Trojan War",
+    "rage",
+    "honour",
+    "fate"
+  ],
+  "moods": [
+    "epic",
+    "bleak",
+    "haunting"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "the plains of Troy",
+      "clashing armies",
+      "a hero's rage"
+    ],
+    "oneLine": "Achilles' rage, and the bloody last days of the siege of Troy."
+  },
+  "summary": "In the tenth year of the siege of Troy, the greatest Greek warrior Achilles withdraws in wounded pride, and the tide of war turns bloody in his absence, toward the death of his friend Patroclus and his terrible revenge on Hector. Homer's foundational epic is a poem about rage, glory and mortality, unflinching about the horror of war yet full of tenderness. Composed to be sung nearly three thousand years ago, it stands at the head of the Western literary tradition.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The fountainhead of Western literature, and a shockingly human poem about war and grief. In a good verse translation it still burns.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was composed to be recited or sung, centuries before it was ever written down.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B4",
+  "enriched": true
+}

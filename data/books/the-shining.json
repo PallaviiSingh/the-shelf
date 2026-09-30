@@ -1,0 +1,76 @@
+{
+  "slug": "the-shining",
+  "title": "The Shining",
+  "subtitle": null,
+  "authors": [
+    "stephen-king"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1977,
+  "edition": {
+    "publisher": "Hodder Paperbacks",
+    "series": null,
+    "isbn": "9781444720723",
+    "pageCount": 506
+  },
+  "cover": {
+    "file": "assets/covers/the-shining.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4f4b4a",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#22211f",
+      "#6b1411",
+      "#b01e15"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Gothic & Horror"
+  ],
+  "region": "United States",
+  "tags": [
+    "haunted hotel",
+    "addiction",
+    "family",
+    "isolation"
+  ],
+  "moods": [
+    "suspenseful",
+    "haunting",
+    "bleak"
+  ],
+  "difficulty": "moderate",
+  "pace": "propulsive",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to be thrilled",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a snowbound hotel",
+      "empty corridors",
+      "a father unravelling"
+    ],
+    "oneLine": "A family winters alone in a hotel that is awake, and hungry."
+  },
+  "summary": "A struggling writer takes a winter job as caretaker of the isolated Overlook Hotel, bringing his wife and psychic young son to a place that turns out to be very much alive and very hungry. As the snow seals them in, the hotel works on the father's weakness and rage until the family is fighting for survival. King's classic is far more than a haunted-house story: it is a harrowing portrait of addiction and domestic fear, with the supernatural pressing on real, human cracks.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The haunted-hotel classic, and scarier on the page than on screen. As much about a family cracking as about ghosts.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "King has said the novel drew on his own struggles with drink during the years he wrote it.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

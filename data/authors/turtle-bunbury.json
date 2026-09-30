@@ -1,0 +1,13 @@
+{
+  "slug": "turtle-bunbury",
+  "name": "Turtle Bunbury",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "James Alexander Hugh McClintock Bunbury, known as Turtle Bunbury, is an Irish author, historian, and television presenter. He has published a number of books such as the Vanishing Ireland series, Ireland's Forgotten Past, Easter Dawn -The 1916 Rising, The Glorious Madness and 1847 – A Chronicle of Genius, Generosity & Savagery.",
+  "photo": null,
+  "books": [
+    "irelands-forgotten-past"
+  ],
+  "enriched": false
+}

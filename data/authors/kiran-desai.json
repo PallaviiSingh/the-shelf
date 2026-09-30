@@ -1,0 +1,17 @@
+{
+  "slug": "kiran-desai",
+  "name": "Kiran Desai",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Kiran Desai is an Indian author. Her novel The Inheritance of Loss won the 2006 Man Booker Prize and the National Book Critics Circle Award for Fiction. In 2015, The Economic Times named her one of 20 most influential global Indian women.",
+  "photo": {
+    "file": "assets/authors/kiran-desai.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kiran_Desai"
+  },
+  "books": [
+    "the-inheritence-of-loss"
+  ],
+  "enriched": false
+}

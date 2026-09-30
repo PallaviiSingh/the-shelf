@@ -1,0 +1,65 @@
+{
+  "slug": "the-penguin-dictionary-of-literary-terms-and-literary-theory",
+  "title": "The Penguin Dictionary of Literary Terms and Literary Theory",
+  "subtitle": null,
+  "authors": [],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0141047151",
+    "pageCount": 991
+  },
+  "cover": {
+    "file": "assets/covers/the-penguin-dictionary-of-literary-terms-and-literary-theory.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#664546",
+    "w": 720,
+    "h": 1109,
+    "palette": [
+      "#001920",
+      "#8c1618",
+      "#d56e22"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Reference"
+  ],
+  "region": "World",
+  "tags": [
+    "reference",
+    "literary theory",
+    "criticism"
+  ],
+  "moods": [
+    "cerebral",
+    "clear-eyed"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "terms and theory",
+      "world literature",
+      "a reliable reference"
+    ],
+    "oneLine": "A comprehensive dictionary of literary terms and theory."
+  },
+  "summary": "This comprehensive Penguin dictionary defines the terms of both traditional literary study and modern literary theory, from classical rhetoric to structuralism, feminism and postmodernism. Wide-ranging and clearly written, it covers forms, genres, movements and critical concepts across world literature. A thorough and reliable reference, it is a valued companion for students navigating the often bewildering language of literature and theory alike.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A thorough, reliable dictionary of literary terms and theory. A trusted companion for the language of criticism.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

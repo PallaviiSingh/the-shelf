@@ -1,0 +1,69 @@
+{
+  "slug": "oxford-history-of-english-literature-english-literature-in-the-early-e",
+  "title": "Oxford History of English Literature: English Literature in the Early Eighteenth Century (1700-1740)",
+  "subtitle": null,
+  "authors": [
+    "bonamy-dobree"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Clarendon Press",
+    "series": null,
+    "isbn": "0198122055",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/oxford-history-of-english-literature-english-literature-in-the-early-e.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b16f4b",
+    "w": 646,
+    "h": 959,
+    "trimmed": true,
+    "palette": [
+      "#b05225",
+      "#d2c39f",
+      "#c57f55"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "eighteenth century",
+    "Augustan",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "Augustan wit",
+      "Swift and Pope",
+      "the novel's birth"
+    ],
+    "oneLine": "The Oxford history of early eighteenth-century literature, 1700 to 1740."
+  },
+  "summary": "Bonamy Dobree's volume in the Oxford History of English Literature covers English literature in the early eighteenth century, from 1700 to 1740, the Augustan age of Swift, Pope, Addison and Defoe. It surveys the satire, poetry, essays and the birth of the novel in an age of wit, reason and elegant prose. An authoritative scholarly account of the early eighteenth century, one of the most polished and influential periods in English letters.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Oxford account of the Augustan age, Swift, Pope and the birth of the novel. Authoritative scholarship.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

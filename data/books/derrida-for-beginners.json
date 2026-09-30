@@ -1,0 +1,72 @@
+{
+  "slug": "derrida-for-beginners",
+  "title": "Derrida for Beginners",
+  "subtitle": null,
+  "authors": [
+    "jim-powell",
+    "van-howell"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "1934389110",
+    "pageCount": 192
+  },
+  "cover": {
+    "file": "assets/covers/derrida-for-beginners.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a03c78",
+    "w": 657,
+    "h": 1000,
+    "palette": [
+      "#ce277e",
+      "#5564c6",
+      "#9b1c52"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy",
+    "Introduction",
+    "Graphic & Comics"
+  ],
+  "region": "France",
+  "tags": [
+    "deconstruction",
+    "Derrida",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "deconstruction",
+      "the slipperiness of meaning",
+      "cartoons and clarity"
+    ],
+    "oneLine": "An illustrated introduction to Derrida and deconstruction."
+  },
+  "summary": "Part of the illustrated For Beginners series, this book braves the notoriously difficult thought of Jacques Derrida, the founder of deconstruction, explaining ideas like differance and the instability of meaning through clear text and cartoons. It sets his work in context and traces its enormous influence on literary theory and philosophy. An accessible, if inevitably simplified, first step into one of the hardest and most controversial thinkers of recent times.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The famously difficult Derrida and deconstruction, made approachable with text and cartoons. A brave first step.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

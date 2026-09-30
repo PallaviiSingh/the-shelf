@@ -1,0 +1,17 @@
+{
+  "slug": "kurt-vonnegut",
+  "name": "Kurt Vonnegut",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Kurt Vonnegut was an American author known for his satirical and darkly humorous novels. His published work includes fourteen novels, three short-story collections, five plays, and five nonfiction works over fifty years; further works have been published since his death.",
+  "photo": {
+    "file": "assets/authors/kurt-vonnegut.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kurt_Vonnegut"
+  },
+  "books": [
+    "cats-cradle"
+  ],
+  "enriched": false
+}

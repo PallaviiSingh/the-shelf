@@ -1,0 +1,17 @@
+{
+  "slug": "john-keats",
+  "name": "John Keats",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "John Keats was an English poet of the second generation of Romantic poets, along with Lord Byron and Percy Bysshe Shelley. His poems had been in publication for less than four years when he died of tuberculosis at the age of 25. They were indifferently received in his lifetime, but his fame grew rapidly after",
+  "photo": {
+    "file": "assets/authors/john-keats.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_Keats"
+  },
+  "books": [
+    "lamia-isabella-the-eve-of-st-agnes-and-other-poems"
+  ],
+  "enriched": false
+}

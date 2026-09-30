@@ -1,0 +1,77 @@
+{
+  "slug": "passing",
+  "title": "Passing",
+  "subtitle": null,
+  "authors": [
+    "nella-larsen"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1929,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241573742",
+    "pageCount": 179
+  },
+  "cover": {
+    "file": "assets/covers/passing.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4d2034",
+    "w": 639,
+    "h": 1000,
+    "palette": [
+      "#25263b",
+      "#b21322",
+      "#e80716"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "race",
+    "identity",
+    "Harlem",
+    "1920s"
+  ],
+  "moods": [
+    "unsettling",
+    "melancholic",
+    "cerebral"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "1920s New York",
+      "a dangerous friendship",
+      "a double life"
+    ],
+    "oneLine": "Two Black friends reunite in 1920s New York, one of them passing as white."
+  },
+  "summary": "Two light-skinned Black women, childhood friends, meet again as adults in 1920s New York: one lives openly in Harlem, the other has been 'passing' as white, married to a bigoted husband who has no idea. Their renewed, charged friendship pulls both toward danger. Nella Larsen's short, taut novel of the Harlem Renaissance is a coolly brilliant study of race, class and identity as performance, and its ambiguous, shocking ending has kept readers arguing for nearly a century.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A taut, brilliant Harlem Renaissance novel about race as performance. Short, sharp, and it ends on a jolt.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Long under-read, it has become a central text of the Harlem Renaissance and was recently filmed.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "the-loom-of-time",
+  "title": "The Loom of Time",
+  "subtitle": null,
+  "authors": [
+    "kalidas"
+  ],
+  "translator": null,
+  "originalLanguage": "Sanskrit",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin India",
+    "series": null,
+    "isbn": "140424539",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-loom-of-time.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#777e43",
+    "w": 430,
+    "h": 650,
+    "palette": [
+      "#84873f",
+      "#4e582a",
+      "#aba138"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Kalidasa",
+    "Sanskrit",
+    "poetry",
+    "classic"
+  ],
+  "moods": [
+    "luminous",
+    "romantic",
+    "sensuous"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "in a garden",
+      "to feel something deeply",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a cloud-messenger",
+      "the seasons turning",
+      "love and longing"
+    ],
+    "oneLine": "The masterpieces of Kalidasa, supreme poet of classical Sanskrit."
+  },
+  "summary": "A selection of the works of Kalidasa, the supreme poet and dramatist of classical Sanskrit literature, gathering his masterpieces: the play Shakuntala, the lyric poem of the cloud-messenger Meghaduta, and the seasonal cycle Ritusamhara. Kalidasa's verse is celebrated for its beauty, its imagery of nature, and its tender depiction of love and longing. This translation offers an ideal introduction to the writer often called the Shakespeare of India and the glory of the Sanskrit golden age.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The masterpieces of Kalidasa, the 'Shakespeare of India', Shakuntala and the cloud-messenger. The glory of Sanskrit poetry.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Kalidasa is traditionally counted among the 'nine gems' of the court of a legendary Indian king.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

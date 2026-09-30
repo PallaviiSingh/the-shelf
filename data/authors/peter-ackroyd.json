@@ -1,0 +1,18 @@
+{
+  "slug": "peter-ackroyd",
+  "name": "Peter Ackroyd",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Peter Ackroyd is an English novelist, biographer and critic with a specialist interest in the history and culture of London. He is noted for his \"technically innovative novels\", the volume of work he has produced, the range of styles therein, his skill at assuming different voices, and the depth of his research.",
+  "photo": {
+    "file": "assets/authors/peter-ackroyd.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Peter_Ackroyd"
+  },
+  "books": [
+    "the-history-of-england-revolution-vol-4",
+    "the-history-of-england-tudors-vol-2"
+  ],
+  "enriched": false
+}

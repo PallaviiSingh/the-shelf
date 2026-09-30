@@ -1,0 +1,76 @@
+{
+  "slug": "the-african-trilogy",
+  "title": "The African Trilogy",
+  "subtitle": null,
+  "authors": [
+    "chinua-achebe"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1958,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 560
+  },
+  "cover": {
+    "file": "assets/covers/the-african-trilogy.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#493c37",
+    "w": 613,
+    "h": 1000,
+    "palette": [
+      "#3a302e",
+      "#684c3e",
+      "#856851"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Historical Fiction"
+  ],
+  "region": "Nigeria",
+  "tags": [
+    "colonialism",
+    "Igbo",
+    "Nigeria",
+    "tradition"
+  ],
+  "moods": [
+    "political",
+    "epic",
+    "bleak"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "an Igbo village",
+      "missionaries arriving",
+      "a changing world"
+    ],
+    "oneLine": "Colonialism meets Igbo tradition, told at last from the inside."
+  },
+  "summary": "Three novels, Things Fall Apart, No Longer at Ease and Arrow of God, gathered as the sweep that made Achebe the founding figure of modern African fiction. Beginning with the proud Igbo wrestler Okonkwo and the arrival of British missionaries, the trilogy traces the collision of colonialism and tradition across generations, from a village's undoing to the compromised lives of the Africans who inherit the colonial world. Written in clear, proverb-rich English, it answered centuries of stories told about Africa with one told, at last, from inside it.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The cornerstone of modern African literature in one volume. Things Fall Apart alone changed how the world reads a continent.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Things Fall Apart has sold over twenty million copies and been translated into some sixty languages.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A4",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "hard-times",
+  "title": "Hard Times",
+  "subtitle": null,
+  "authors": [
+    "charles-dickens"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1854,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "0141199563",
+    "pageCount": 326
+  },
+  "cover": {
+    "file": "assets/covers/hard-times.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8b9868",
+    "w": 720,
+    "h": 1105,
+    "palette": [
+      "#8a9985",
+      "#dedc14",
+      "#293d48"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Satire"
+  ],
+  "region": "England",
+  "tags": [
+    "industrialism",
+    "education",
+    "factory town",
+    "class"
+  ],
+  "moods": [
+    "bleak",
+    "satirical",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a smoky factory town",
+      "a schoolroom of facts",
+      "a starved imagination"
+    ],
+    "oneLine": "A town run on nothing but facts, and the children it deforms."
+  },
+  "summary": "In the grim northern factory town of Coketown, the schoolmaster Gradgrind raises his children on nothing but facts and drives all imagination out of them, with quietly disastrous results. Dickens's shortest novel is a sharp fable attacking industrial utilitarianism, the reduction of human beings to statistics, and an education that starves the heart. Compact and pointed where his other books sprawl, it makes a fierce case for wonder, feeling and the life of the imagination.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Dickens's short, sharp attack on soulless education and industrial 'facts'. A fierce little fable for the imagination.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is by far Dickens's shortest novel, written for weekly serial publication.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

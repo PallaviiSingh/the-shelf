@@ -1,0 +1,13 @@
+{
+  "slug": "platania-joe",
+  "name": "Platania Joe",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "jung-for-beginners"
+  ],
+  "enriched": false
+}

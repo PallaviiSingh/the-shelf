@@ -1,0 +1,75 @@
+{
+  "slug": "vismrit-rachnakar-shivrani-devi",
+  "title": "Vismrit Rachnakar- Shivrani Devi",
+  "subtitle": null,
+  "authors": [
+    "kshma-shankar-pandey"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Nayee Kitab Prakashan",
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vismrit-rachnakar-shivrani-devi.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#962b27",
+    "w": 168,
+    "h": 266,
+    "palette": [
+      "#9a0605",
+      "#3b0d0b",
+      "#df0d0c"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Criticism",
+    "Memoir & Biography"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Shivrani Devi",
+    "biography",
+    "criticism"
+  ],
+  "moods": [
+    "cerebral",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "a forgotten writer",
+      "a life recovered",
+      "a woman's own pen"
+    ],
+    "oneLine": "A critical study recovering the forgotten Hindi writer Shivrani Devi."
+  },
+  "summary": "A critical and biographical study of Shivrani Devi, the Hindi writer, freedom fighter and wife of Premchand, by Dr Kshma Shankar Pandey. Positioning her as an important but forgotten author in her own right, it recovers her life and literary contribution and documents how she remained active in the literary world, including in the running of the magazine Hans, even after Premchand's death. A valuable act of recovery for a neglected woman's voice in modern Hindi letters.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A study recovering Shivrani Devi as a Hindi writer in her own right, not merely Premchand's wife. An overdue act of recovery.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It documents how Shivrani Devi helped run the influential magazine Hans after Premchand's death.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

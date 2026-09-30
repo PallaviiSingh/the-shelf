@@ -1,0 +1,68 @@
+{
+  "slug": "a-critical-history-of-english-literature-vol-1-from-the-beginnings-to-",
+  "title": "A Critical History of English Literature Vol 1 From the Beginnings to Milton",
+  "subtitle": null,
+  "authors": [
+    "david-daiches"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Supernova Publishers",
+    "series": null,
+    "isbn": "8189930435",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/a-critical-history-of-english-literature-vol-1-from-the-beginnings-to-.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#14b0da",
+    "w": 211,
+    "h": 350,
+    "palette": [
+      "#02aedd",
+      "#0888b1",
+      "#52cae2"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "literary history",
+    "Daiches",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "a thousand years",
+      "from Beowulf to Milton",
+      "one critic's sweep"
+    ],
+    "oneLine": "Daiches's critical history of English literature, from the beginnings to Milton."
+  },
+  "summary": "The first volume of David Daiches's classic Critical History of English Literature runs from Anglo-Saxon beginnings through to Milton, surveying more than a thousand years of English writing in a single continuous narrative. Daiches combines historical breadth with sharp critical judgement, making it one of the most readable and widely used one-author histories of English literature. Authoritative yet personal, this volume covers the medieval, Tudor and early seventeenth-century periods with clarity and insight.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Daiches's classic one-author history, from Anglo-Saxon beginnings to Milton. Readable, authoritative, opinionated.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "0",
+  "enriched": true
+}

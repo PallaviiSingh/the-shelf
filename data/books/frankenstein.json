@@ -1,0 +1,78 @@
+{
+  "slug": "frankenstein",
+  "title": "Frankenstein",
+  "subtitle": null,
+  "authors": [
+    "mary-shelly"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1818,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141393394",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/frankenstein.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a0a3a9",
+    "w": 627,
+    "h": 1000,
+    "palette": [
+      "#b0b4b3",
+      "#58577b",
+      "#322f63"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Gothic & Horror",
+    "Science Fiction",
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "creation",
+    "monster",
+    "ambition",
+    "responsibility"
+  ],
+  "moods": [
+    "unsettling",
+    "haunting",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a laboratory",
+      "Arctic ice",
+      "a creature seeking love"
+    ],
+    "oneLine": "A student builds a living man, then abandons it to its rage."
+  },
+  "summary": "A brilliant young student, Victor Frankenstein, assembles and animates a living being, then recoils in horror from what he has made and abandons it. The creature, intelligent and desperate for love, is driven by rejection toward revenge. Written by Mary Shelley when she was still a teenager, this is the founding text of science fiction and one of the great gothic novels, a story less about a monster than about the man who plays god and refuses to answer for it. Sad, frightening and unexpectedly philosophical.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The book that invented science fiction, and it is really about a creator abandoning his creation. Far stranger and sadder than any film version.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Mary Shelley conceived it at eighteen, during a ghost-story contest with Byron and her husband Percy Shelley.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B3",
+  "enriched": true
+}

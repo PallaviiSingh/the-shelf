@@ -1,0 +1,70 @@
+{
+  "slug": "beginning-theory",
+  "title": "Beginning Theory",
+  "subtitle": null,
+  "authors": [
+    "peter-barry"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Viva Books",
+    "series": null,
+    "isbn": "9387925560",
+    "pageCount": 349
+  },
+  "cover": {
+    "file": "assets/covers/beginning-theory.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#666240",
+    "w": 615,
+    "h": 1000,
+    "palette": [
+      "#00744a",
+      "#7c2318",
+      "#f8cb0f"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Introduction"
+  ],
+  "region": "World",
+  "tags": [
+    "literary theory",
+    "introduction",
+    "criticism"
+  ],
+  "moods": [
+    "cerebral",
+    "warm",
+    "clear-eyed"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "theory made plain",
+      "step by step",
+      "a reassuring guide"
+    ],
+    "oneLine": "A clear, friendly first introduction to literary and cultural theory."
+  },
+  "summary": "Peter Barry's Beginning Theory is one of the most popular first introductions to literary and cultural theory, explaining structuralism, post-structuralism, psychoanalysis, feminism, postcolonialism and more in plain, friendly language. Each chapter breaks a difficult approach into clear steps and shows it applied to real texts. Reassuring and genuinely useful, it is the book many students turn to when theory first bewilders them, and a reliable companion throughout a literature degree.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The friendliest first introduction to theory, plain-spoken and genuinely useful. The book students reach for when theory bewilders.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "anna-karenina",
+  "title": "Anna Karenina",
+  "subtitle": null,
+  "authors": [
+    "leo-tolstoy"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1877,
+  "edition": {
+    "publisher": null,
+    "series": "Penguin Clothbound Edition",
+    "isbn": "014119961X",
+    "pageCount": 660
+  },
+  "cover": {
+    "file": "assets/covers/anna-karenina.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#615761",
+    "w": 622,
+    "h": 1000,
+    "palette": [
+      "#454544",
+      "#ca9ecb",
+      "#af8ab0"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "Russia",
+  "tags": [
+    "adultery",
+    "society",
+    "marriage",
+    "Russia"
+  ],
+  "moods": [
+    "romantic",
+    "melancholic",
+    "epic"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to feel something deeply",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a train platform",
+      "Moscow drawing rooms",
+      "the Russian countryside"
+    ],
+    "oneLine": "A woman risks everything for love, and a society punishes her for it."
+  },
+  "summary": "A married Petersburg beauty falls for the dashing Count Vronsky, and her open affair scandalises a society happy to forgive the same behaviour in men. Against Anna's slow ruin, Tolstoy sets the quieter, hopeful story of Levin, a landowner searching for a way to live honestly, and the contrast becomes a whole moral universe. Famous from its first line onward, it is a novel about love, hypocrisy, family and the impossible position of women, written with a tenderness and precision that make Anna's fate almost unbearable to watch.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The great novel of love and social cruelty. Anna will break your heart, and Levin will quietly put it back together.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its opening line about happy and unhappy families is one of the most quoted first sentences in literature.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C3",
+  "enriched": true
+}

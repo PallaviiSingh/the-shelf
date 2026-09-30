@@ -1,0 +1,77 @@
+{
+  "slug": "gullivers-travels",
+  "title": "Gulliver's Travels",
+  "subtitle": null,
+  "authors": [
+    "jonathan-swift"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1726,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141196645",
+    "pageCount": 278
+  },
+  "cover": {
+    "file": "assets/covers/gullivers-travels.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#2aadd1",
+    "w": 613,
+    "h": 1000,
+    "palette": [
+      "#019fcd",
+      "#3bb0cc",
+      "#98d2dc"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Satire"
+  ],
+  "region": "Ireland",
+  "tags": [
+    "satire",
+    "voyages",
+    "politics",
+    "human folly"
+  ],
+  "moods": [
+    "satirical",
+    "playful",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to laugh",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "tiny people",
+      "a land of giants",
+      "talking horses"
+    ],
+    "oneLine": "A traveller among tiny people, giants and talking horses, and Swift's savage satire."
+  },
+  "summary": "Lemuel Gulliver's four sea voyages carry him to the tiny people of Lilliput, the giants of Brobdingnag, a floating island of deranged philosophers, and a land where noble horses rule over brutish humans. Beneath the fantastic travelogue, Swift is writing one of the fiercest satires in English, turning his glass on politics, science, war and the whole conceit of human reason. Endlessly reprinted as a children's adventure, it is at heart a savage, brilliant attack on the vanity of our species.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A children's adventure on the surface and one of English literature's most savage satires underneath. Swift skewering all of humankind.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The word 'Lilliputian', meaning tiny, entered English from this book.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B3",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "things-in-nature-merely-grow",
+  "title": "Things in Nature Merely Grow",
+  "subtitle": null,
+  "authors": [
+    "yiyun-li"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2025,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "pageCount": 192
+  },
+  "cover": {
+    "file": "assets/covers/things-in-nature-merely-grow.jpg",
+    "source": "openlibrary",
+    "match": "title-search",
+    "sourceUrl": "https://covers.openlibrary.org/b/id/15236534-L.jpg",
+    "dominantColor": "#849b6e",
+    "w": 325,
+    "h": 500,
+    "palette": [
+      "#99ae85",
+      "#cad0b0",
+      "#274d25"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "United States",
+  "tags": [
+    "grief",
+    "loss",
+    "motherhood",
+    "memory"
+  ],
+  "moods": [
+    "bleak",
+    "tender",
+    "meditative"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard"
+    ],
+    "sensory": [
+      "an abyss of grief",
+      "a precise mind",
+      "a refusal of comfort"
+    ],
+    "oneLine": "Yiyun Li's unflinching meditation on the loss of her sons."
+  },
+  "summary": "After the death of her second son, following the earlier loss of her first, the novelist Yiyun Li writes from what she calls the 'abyss', a place beyond ordinary consolation. Refusing sentiment and easy comfort, she turns her precise, philosophical mind on grief itself, on how to go on living and thinking in the face of the unbearable. Spare, unflinching and profoundly moving, it is a singular work of mourning from one of the finest writers of her generation.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Yiyun Li writing from the depths of unbearable loss, without a shred of easy comfort. Spare, unflinching, profound.",
+  "awards": [
+    "Pulitzer Prize for Memoir or Autobiography 2026",
+    "Andrew Carnegie Medal for Excellence in Nonfiction 2026"
+  ],
+  "funFacts": [
+    {
+      "text": "Li wrote it after the deaths of both her sons, refusing the usual language of consolation.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

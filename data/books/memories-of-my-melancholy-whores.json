@@ -1,0 +1,76 @@
+{
+  "slug": "memories-of-my-melancholy-whores",
+  "title": "Memories of My Melancholy Whores",
+  "subtitle": null,
+  "authors": [
+    "gabriel-garcia-marquez"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2004,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "241968542",
+    "pageCount": 115
+  },
+  "cover": {
+    "file": "assets/covers/memories-of-my-melancholy-whores.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#e38f42",
+    "w": 720,
+    "h": 1105,
+    "palette": [
+      "#fbc624",
+      "#e0087b",
+      "#e18206"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Colombia",
+  "tags": [
+    "old age",
+    "love",
+    "Caribbean",
+    "memory"
+  ],
+  "moods": [
+    "melancholic",
+    "quiet",
+    "tender"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "in bed at night",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "a Caribbean house",
+      "an old man's birthday",
+      "late, unlikely love"
+    ],
+    "oneLine": "At ninety, a man falls in love for the very first time."
+  },
+  "summary": "On his ninetieth birthday, a lifelong bachelor and undistinguished journalist decides to give himself a night with a young virgin, and instead falls, hopelessly and for the first time, into love. Marquez's short final novel is a slender, controversial coda to his career, a meditation on age, desire and the strange lateness of a first real feeling. Told in his warm, ironic late style, it is less a story than a long, rueful sigh about a life half-lived and love arriving far too late to do much good.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A short, bittersweet farewell from a master, about love arriving impossibly late. Slight, but it lingers.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was the last novel Marquez published before his death in 2014.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

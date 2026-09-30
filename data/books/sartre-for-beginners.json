@@ -1,0 +1,71 @@
+{
+  "slug": "sartre-for-beginners",
+  "title": "Sartre for Beginners",
+  "subtitle": null,
+  "authors": [
+    "donald-palmer"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orient Blackswan",
+    "series": null,
+    "isbn": "8125024719",
+    "pageCount": 158
+  },
+  "cover": {
+    "file": "assets/covers/sartre-for-beginners.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#687751",
+    "w": 660,
+    "h": 1000,
+    "palette": [
+      "#89c84e",
+      "#4a3a6a",
+      "#6b3d29"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy",
+    "Introduction",
+    "Graphic & Comics"
+  ],
+  "region": "France",
+  "tags": [
+    "existentialism",
+    "Sartre",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "radical freedom",
+      "bad faith",
+      "cartoons and clarity"
+    ],
+    "oneLine": "An illustrated introduction to the philosophy of Sartre."
+  },
+  "summary": "Part of the illustrated For Beginners series, this book introduces the philosophy of Jean-Paul Sartre, the leading figure of existentialism, from radical freedom and bad faith to being and nothingness, through clear text and cartoons. It traces his life, his politics and the huge cultural influence of existentialism. An accessible, entertaining first encounter with the thinker who insisted we are condemned to be free.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Sartre's existentialism made accessible with text and cartoons. An entertaining first encounter with radical freedom.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

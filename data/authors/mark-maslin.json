@@ -1,0 +1,13 @@
+{
+  "slug": "mark-maslin",
+  "name": "Mark Maslin",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Mark Andrew Maslin is a professor of Earth System Science at University College London and Lead for Climate, Health and Security at the United Nations University. He has published numerous books on a variety of environmental topics including climate change, ecology, the anthropocene and human evolution. His scientific work consists of more than 230 publications.",
+  "photo": null,
+  "books": [
+    "a-very-short-introduction-to-climate-change"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "poems",
+  "title": "Poems",
+  "subtitle": null,
+  "authors": [
+    "wilfred-owen"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1920,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241303117",
+    "pageCount": 151
+  },
+  "cover": {
+    "file": "assets/covers/poems.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4e1923",
+    "w": 575,
+    "h": 1000,
+    "palette": [
+      "#1f1f2b",
+      "#6c151d",
+      "#b30e12"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "England",
+  "tags": [
+    "World War I",
+    "war",
+    "pity",
+    "youth"
+  ],
+  "moods": [
+    "bleak",
+    "haunting",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "the trenches",
+      "the pity of war",
+      "a doomed generation"
+    ],
+    "oneLine": "Wilfred Owen's shattering poems of the First World War."
+  },
+  "summary": "The poems of Wilfred Owen, the greatest of the First World War poets, killed in action a week before the Armistice at the age of twenty-five, and published only after his death. Unflinching about the horror, waste and 'pity of war', poems like 'Dulce et Decorum Est' and 'Anthem for Doomed Youth' shattered the old romantic idea of noble sacrifice. Tender, furious and technically brilliant, they remain the definitive poetic witness to the slaughter of a generation.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The greatest of the war poets, killed a week before the Armistice. Tender, furious and unforgettable witness.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Owen was killed in action just one week before the war ended in November 1918.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

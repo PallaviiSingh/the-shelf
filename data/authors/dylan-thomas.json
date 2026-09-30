@@ -1,0 +1,17 @@
+{
+  "slug": "dylan-thomas",
+  "name": "Dylan Thomas",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Dylan Marlais Thomas was a Welsh poet and writer, whose works include the poems \"Do not go gentle into that good night\" and \"And death shall have no dominion\", as well as the \"play for voices\" Under Milk Wood. He also wrote stories and radio broadcasts such as A Child's Christmas in Wales and Portrait",
+  "photo": {
+    "file": "assets/authors/dylan-thomas.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dylan_Thomas"
+  },
+  "books": [
+    "dylan-thomas-ominbus-under-milk-wood-poems-stories-and-broadcasts"
+  ],
+  "enriched": false
+}

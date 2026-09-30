@@ -1,0 +1,17 @@
+{
+  "slug": "andre-aciman",
+  "name": "Andre Aciman",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "André Aciman is an Italian-American writer. Born and raised in Alexandria, Egypt, he is currently a distinguished professor at the Graduate Center of the City University of New York, where he teaches the history of literary theory and the works of Marcel Proust. Aciman previously taught creative writing at New York University and French literature",
+  "photo": {
+    "file": "assets/authors/andre-aciman.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Aciman"
+  },
+  "books": [
+    "call-me-by-your-name"
+  ],
+  "enriched": false
+}

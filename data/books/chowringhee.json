@@ -1,0 +1,76 @@
+{
+  "slug": "chowringhee",
+  "title": "Chowringhee",
+  "subtitle": null,
+  "authors": [
+    "sankar"
+  ],
+  "translator": null,
+  "originalLanguage": "Bengali",
+  "translated": true,
+  "originalPublicationYear": 1962,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 482
+  },
+  "cover": {
+    "file": "assets/covers/chowringhee.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#738269",
+    "w": 649,
+    "h": 1000,
+    "palette": [
+      "#0f5685",
+      "#20859d",
+      "#f4e29b"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Bengali",
+    "Sankar",
+    "Calcutta"
+  ],
+  "moods": [
+    "warm",
+    "bittersweet",
+    "atmospheric"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a rainy day",
+      "to escape"
+    ],
+    "sensory": [
+      "a grand hotel",
+      "mid-century Calcutta",
+      "glamour and loss"
+    ],
+    "oneLine": "Life behind the facade of a grand Calcutta hotel, in a beloved Bengali novel."
+  },
+  "summary": "Chowringhee is Sankar's hugely popular Bengali novel set in a grand Calcutta hotel, whose lobbies, rooms and staff become a stage for the whole comedy and tragedy of the city's life. Through the eyes of a young new employee, we meet a rich cast of guests and workers whose stories of love, ambition, loneliness and loss unfold behind the hotel's glamorous facade. Warm, bustling and bittersweet, it is a beloved portrait of mid-century Calcutta.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A beloved Bengali novel set in a grand Calcutta hotel, a whole city's life behind the glamour. Warm and bittersweet.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was adapted into a classic Bengali film and later a long-running play.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

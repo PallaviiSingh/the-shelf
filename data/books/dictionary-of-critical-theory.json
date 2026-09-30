@@ -1,0 +1,66 @@
+{
+  "slug": "dictionary-of-critical-theory",
+  "title": "Dictionary of Critical Theory",
+  "subtitle": null,
+  "authors": [],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0141047151",
+    "pageCount": 506
+  },
+  "cover": {
+    "file": "assets/covers/dictionary-of-critical-theory.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#796781",
+    "w": 326,
+    "h": 500,
+    "palette": [
+      "#4d3669",
+      "#e67922",
+      "#f0c39b"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Reference",
+    "Theory"
+  ],
+  "region": "World",
+  "tags": [
+    "reference",
+    "critical theory",
+    "criticism"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "theory's vocabulary",
+      "thinkers and movements",
+      "a map of the field"
+    ],
+    "oneLine": "A reference dictionary of critical theory's concepts and thinkers."
+  },
+  "summary": "A reference dictionary devoted to the concepts, thinkers and movements of critical theory, from Marxism and psychoanalysis to structuralism, deconstruction, feminism and postcolonial thought. It defines difficult terms and situates them within the intellectual currents that produced them, offering a map of one of the most demanding areas of the humanities. A useful guide for students trying to find their footing in the dense vocabulary of modern theory.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A clear map through the dense vocabulary of critical theory. Useful footing for a demanding field.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "beginning-modernism",
+  "title": "Beginning Modernism",
+  "subtitle": null,
+  "authors": [
+    "jeff-wallace"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "0719067898",
+    "pageCount": 300
+  },
+  "cover": {
+    "file": "assets/covers/beginning-modernism.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8d7e70",
+    "w": 646,
+    "h": 1000,
+    "palette": [
+      "#221d1f",
+      "#e3b732",
+      "#2d2a73"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Introduction"
+  ],
+  "region": "World",
+  "tags": [
+    "modernism",
+    "introduction",
+    "criticism"
+  ],
+  "moods": [
+    "cerebral",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "the modernist break",
+      "form and consciousness",
+      "a first guide"
+    ],
+    "oneLine": "An accessible introduction to literary modernism."
+  },
+  "summary": "Jeff Wallace's Beginning Modernism is an accessible introduction to literary modernism, the revolutionary movement in early twentieth-century writing associated with Eliot, Joyce, Woolf, Pound and their contemporaries. It explains modernism's break with tradition, its experiments with form and consciousness, and its historical context, applying the ideas to real texts. Clear and student-friendly, it is a helpful first guide to one of the most important and challenging movements in modern literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A clear, student-friendly introduction to modernism, Eliot, Joyce, Woolf and the break with tradition.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

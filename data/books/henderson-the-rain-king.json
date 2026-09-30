@@ -1,0 +1,75 @@
+{
+  "slug": "henderson-the-rain-king",
+  "title": "Henderson the Rain King",
+  "subtitle": null,
+  "authors": [
+    "saul-bellow"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1959,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "0141188804",
+    "pageCount": 341
+  },
+  "cover": {
+    "file": "assets/covers/henderson-the-rain-king.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#acada9",
+    "w": 720,
+    "h": 1104,
+    "palette": [
+      "#e6e7e3",
+      "#b2c5c5"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "Africa",
+    "midlife",
+    "spiritual quest",
+    "comedy"
+  ],
+  "moods": [
+    "playful",
+    "cerebral",
+    "epic"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "to laugh"
+    ],
+    "sensory": [
+      "a mythic Africa",
+      "a restless giant",
+      "a rain ceremony"
+    ],
+    "oneLine": "A restless American flees to Africa and stumbles into kingship and wisdom."
+  },
+  "summary": "Eugene Henderson, a rich, restless American giant tormented by an inner voice crying I want, I want, flees his tangled life for a journey into a mythic Africa, where he blunders into kingship, rainmaking and a rough sort of wisdom. Bellow's exuberant, comic novel is a philosophical quest dressed as an adventure, ranging over desire, death and the hunger for meaning in a big, generous, roaring voice. Odd, funny and profound, it is many readers' favourite Bellow.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Bellow's roaring, comic quest for meaning, dressed as an African adventure. Big-hearted, funny and profound.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Bellow had never been to Africa when he wrote it; the setting is deliberately mythic.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

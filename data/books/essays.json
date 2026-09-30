@@ -1,0 +1,76 @@
+{
+  "slug": "essays",
+  "title": "Essays",
+  "subtitle": null,
+  "authors": [
+    "george-orwell"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1950,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 318
+  },
+  "cover": {
+    "file": "assets/covers/essays.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8e8561",
+    "w": 644,
+    "h": 1000,
+    "palette": [
+      "#999766",
+      "#7e6b53",
+      "#312823"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays"
+  ],
+  "region": "England",
+  "tags": [
+    "politics",
+    "language",
+    "England",
+    "clarity"
+  ],
+  "moods": [
+    "cerebral",
+    "political",
+    "clear-eyed"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting",
+      "in a cafe"
+    ],
+    "sensory": [
+      "a clear plain style",
+      "politics and language",
+      "an honest eye"
+    ],
+    "oneLine": "Orwell's essays, plain and honest, on politics, language and England."
+  },
+  "summary": "A gathering of George Orwell's essays, the form in which many think he did his very best work, ranging from politics and language to boys' comics, English cooking and the death of an elephant. Whether dissecting propaganda in 'Politics and the English Language' or remembering a hanging in Burma, Orwell writes with a plainness and honesty that has become the model for English non-fiction. Bracing, humane and endlessly clear-sighted, this is the essential Orwell beyond his famous novels.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Many think Orwell's essays are his best work. Plain, honest and bracingly clear, the model for modern non-fiction.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "His essay 'Politics and the English Language' is still assigned to writers for its rules on clear prose.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A4",
+  "enriched": true
+}

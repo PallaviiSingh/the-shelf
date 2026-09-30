@@ -1,0 +1,76 @@
+{
+  "slug": "the-prime-of-miss-jean-brodie",
+  "title": "The Prime of Miss Jean Brodie",
+  "subtitle": null,
+  "authors": [
+    "muriel-spark"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1961,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "0141181427",
+    "pageCount": 164
+  },
+  "cover": {
+    "file": "assets/covers/the-prime-of-miss-jean-brodie.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#71574f",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#6e4d40",
+      "#402126",
+      "#bbaca2"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Scotland",
+  "tags": [
+    "Edinburgh",
+    "teacher",
+    "influence",
+    "betrayal"
+  ],
+  "moods": [
+    "satirical",
+    "playful",
+    "unsettling"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to laugh",
+      "to think hard"
+    ],
+    "sensory": [
+      "1930s Edinburgh",
+      "a favoured set of girls",
+      "a teacher's spell"
+    ],
+    "oneLine": "A magnetic Edinburgh teacher shapes her chosen girls, for better and much worse."
+  },
+  "summary": "At a girls' school in 1930s Edinburgh, the charismatic, self-dramatising Miss Jean Brodie grooms a chosen set of pupils to be the creme de la creme, feeding them her romantic ideas about art, love and, dangerously, fascism. Spark tells it with sly wit and daring leaps forward in time that reveal, early, who will betray whom. Short, sharp and morally slippery, it is a brilliant study of charm and control, and of the fine line between inspiring the young and using them.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A wickedly clever short novel about a magnetic teacher and the harm charm can do. Spark's wit cuts like glass.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Muriel Spark's spare, ironic style has influenced generations of British novelists.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

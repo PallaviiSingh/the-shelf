@@ -1,0 +1,77 @@
+{
+  "slug": "the-mrichchhakatika-of-sudraka",
+  "title": "The Mrichchhakatika of Sudraka",
+  "subtitle": null,
+  "authors": [
+    "m-r-kale"
+  ],
+  "translator": null,
+  "originalLanguage": "Sanskrit",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Motilal Banarsidass Publications",
+    "series": null,
+    "isbn": "8120840100",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-mrichchhakatika-of-sudraka.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#625670",
+    "w": 658,
+    "h": 1000,
+    "palette": [
+      "#866f9a",
+      "#200c0b",
+      "#0a3b23"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Sanskrit",
+    "drama",
+    "classic",
+    "Shudraka"
+  ],
+  "moods": [
+    "romantic",
+    "playful",
+    "warm"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "ancient India",
+      "a poor Brahmin and a courtesan",
+      "a stolen clay cart"
+    ],
+    "oneLine": "The Little Clay Cart, a warm classic of ancient Sanskrit drama."
+  },
+  "summary": "The Mrichchhakatika, or The Little Clay Cart, is one of the best-loved of all ancient Sanskrit plays, a warm, humane drama of love between a poor but noble Brahmin and a wealthy, generous courtesan, entangled with political intrigue and a stolen cart of jewels. Unusually earthy and full of ordinary life, thieves, gamblers and townsfolk, it stands apart from the more courtly Sanskrit dramas. This classic edition with notes makes a delightful and human masterpiece accessible.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The warmest, most human of Sanskrit plays, a love story of a poor Brahmin and a generous courtesan. A delightful classic.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its earthy realism and lowlife characters make it unlike almost any other surviving Sanskrit play.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

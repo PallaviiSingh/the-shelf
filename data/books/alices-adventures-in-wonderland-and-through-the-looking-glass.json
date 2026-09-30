@@ -1,0 +1,76 @@
+{
+  "slug": "alices-adventures-in-wonderland-and-through-the-looking-glass",
+  "title": "Alice's Adventures in Wonderland and Through the Looking Glass",
+  "subtitle": null,
+  "authors": [
+    "lewis-carroll"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1865,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "9780141192468",
+    "pageCount": 134
+  },
+  "cover": {
+    "file": "assets/covers/alices-adventures-in-wonderland-and-through-the-looking-glass.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#e0c2cf",
+    "w": 663,
+    "h": 1000,
+    "palette": [
+      "#ebeaeb",
+      "#c20655",
+      "#e0c7d3"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "nonsense",
+    "logic",
+    "childhood",
+    "fantasy"
+  ],
+  "moods": [
+    "playful",
+    "dreamlike",
+    "cerebral"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to laugh",
+      "in a garden"
+    ],
+    "sensory": [
+      "a rabbit hole",
+      "a mad tea party",
+      "a chessboard world"
+    ],
+    "oneLine": "Down the rabbit hole and through the looking-glass into glorious nonsense."
+  },
+  "summary": "Both of Lewis Carroll's Alice books in one volume: the tumble down the rabbit hole into a Wonderland of mad tea parties and murderous queens, and the step through the looking-glass into a backwards world run like a game of chess. Beneath the nonsense lies a sly, brilliant play with logic, language and the strangeness of growing up. Endlessly quoted and adapted, they are children's books that adults keep returning to, funnier and cleverer the older you get.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Nonsense of the highest order, and secretly some of the cleverest writing about logic and language. Better every time you reread it.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Carroll, in real life the mathematician Charles Dodgson, packed the books with logic and wordplay jokes.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B3",
+  "enriched": true
+}

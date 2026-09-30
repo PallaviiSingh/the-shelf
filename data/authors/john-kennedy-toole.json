@@ -1,0 +1,13 @@
+{
+  "slug": "john-kennedy-toole",
+  "name": "John Kennedy Toole",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "John Kennedy Toole was an American novelist from New Orleans, Louisiana, whose posthumously published novel, A Confederacy of Dunces, won the Pulitzer Prize for Fiction in 1981. At 16 in 1954, he wrote his first novel, The Neon Bible, which he shelved in the same year, not finding a willing publisher; he later dismissed it",
+  "photo": null,
+  "books": [
+    "a-confederacy-of-dunces"
+  ],
+  "enriched": false
+}

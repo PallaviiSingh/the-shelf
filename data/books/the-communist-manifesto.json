@@ -1,0 +1,77 @@
+{
+  "slug": "the-communist-manifesto",
+  "title": "The Communist Manifesto",
+  "subtitle": null,
+  "authors": [
+    "karl-marx",
+    "friedrich-engels"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1848,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9780141395906",
+    "pageCount": 89
+  },
+  "cover": {
+    "file": "assets/covers/the-communist-manifesto.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9e351d",
+    "w": 578,
+    "h": 1000,
+    "palette": [
+      "#8a1d1f",
+      "#b5521d",
+      "#e08319"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory"
+  ],
+  "region": "Germany",
+  "tags": [
+    "Marxism",
+    "politics",
+    "Marx",
+    "revolution"
+  ],
+  "moods": [
+    "political",
+    "intense",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting",
+      "to study"
+    ],
+    "sensory": [
+      "class struggle",
+      "a call to revolution",
+      "a world-changing text"
+    ],
+    "oneLine": "Marx and Engels's blazing call for workers to unite."
+  },
+  "summary": "Karl Marx and Friedrich Engels's Communist Manifesto is one of the most influential political documents ever written, a short, blazing call for the workers of the world to unite and overthrow the capitalist order. It lays out their theory of class struggle as the engine of history and their vision of revolution, in prose of astonishing force. Whatever one makes of its politics, it remains essential reading, a text that reshaped the modern world.",
+  "summarySource": "knowledge",
+  "whyReadIt": "One of history's most influential and incendiary documents. Short, blazing, and essential whatever your politics.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It ends with the famous rallying cry, 'Workers of the world, unite!'",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

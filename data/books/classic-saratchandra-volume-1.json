@@ -1,0 +1,78 @@
+{
+  "slug": "classic-saratchandra-volume-1",
+  "title": "Classic Saratchandra Volume 1",
+  "subtitle": null,
+  "authors": [
+    "saratchandra-chattopadhyay"
+  ],
+  "translator": null,
+  "originalLanguage": "Bengali",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "9780143101253",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/classic-saratchandra-volume-1.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#e9d6b7",
+    "w": 673,
+    "h": 1057,
+    "trimmed": true,
+    "palette": [
+      "#fbe5c4",
+      "#574d3f",
+      "#c5b79d"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Anthology",
+    "Classic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Bengali",
+    "Saratchandra",
+    "classic"
+  ],
+  "moods": [
+    "tender",
+    "melancholic",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "on a rainy day",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "Bengali domestic life",
+      "women bound by custom",
+      "love and sorrow"
+    ],
+    "oneLine": "A collection of the beloved Bengali novelist Saratchandra, volume one."
+  },
+  "summary": "The first volume of a collection of Saratchandra Chattopadhyay, one of the most popular and beloved Bengali novelists of all time. Writing with deep sympathy about the sorrows of ordinary people, especially women bound by social convention, he created enduring works like Devdas and Parineeta that have been adapted for the screen again and again. Tender, emotional and socially aware, his fiction remains widely read across India for its heartfelt portraits of love and suffering.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The beloved Bengali storyteller behind Devdas and Parineeta, tender and socially aware. Endlessly adapted, endlessly read.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "His novel Devdas has been adapted into film more than a dozen times across Indian languages.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

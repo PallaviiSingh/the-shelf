@@ -1,0 +1,17 @@
+{
+  "slug": "ovid",
+  "name": "Ovid",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Publius Ovidius Naso, known in English as Ovid, was a Roman poet who lived during the reign of Augustus. He was a younger contemporary of Virgil and Horace, with whom he is often ranked as one of the three canonical poets of Latin literature. The Imperial scholar Quintilian considered him to be the last of",
+  "photo": {
+    "file": "assets/authors/ovid.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ovid"
+  },
+  "books": [
+    "metamorphoses"
+  ],
+  "enriched": false
+}

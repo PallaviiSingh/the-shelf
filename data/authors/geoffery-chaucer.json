@@ -1,0 +1,17 @@
+{
+  "slug": "geoffery-chaucer",
+  "name": "Geoffery Chaucer",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Geoffrey Chaucer was an English poet, writer and civil servant best known for The Canterbury Tales. He has been called the 'father of English literature', or alternatively, the 'father of English poetry'. He was the first writer to be buried in what has since become Poets' Corner in Westminster Abbey.",
+  "photo": {
+    "file": "assets/authors/geoffery-chaucer.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Geoffrey_Chaucer"
+  },
+  "books": [
+    "the-wife-of-baths-prologue-and-tale"
+  ],
+  "enriched": false
+}

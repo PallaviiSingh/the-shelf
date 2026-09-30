@@ -1,0 +1,14 @@
+{
+  "slug": "homer",
+  "name": "Homer",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Homer was an ancient Greek poet who is traditionally credited as the author of the Iliad and the Odyssey, two epic poems that are foundational works of ancient Greek literature. Homer was highly revered in ancient Greek society and is considered one of the most influential authors in history. Today, the question of Homer's identity",
+  "photo": null,
+  "books": [
+    "the-iliad",
+    "the-odyssey"
+  ],
+  "enriched": false
+}

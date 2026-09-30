@@ -1,0 +1,77 @@
+{
+  "slug": "malloban",
+  "title": "Malloban",
+  "subtitle": null,
+  "authors": [
+    "jibananandan-das"
+  ],
+  "translator": null,
+  "originalLanguage": "Bengali",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin Modern Classics",
+    "series": null,
+    "isbn": "0143451685",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/malloban.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8b7643",
+    "w": 422,
+    "h": 612,
+    "trimmed": true,
+    "palette": [
+      "#e7420e",
+      "#f49c03",
+      "#105969"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Bengali",
+    "Jibanananda Das",
+    "marriage"
+  ],
+  "moods": [
+    "melancholic",
+    "quiet",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a lonely marriage",
+      "interior estrangement",
+      "a poet's prose"
+    ],
+    "oneLine": "A troubled marriage laid bare, by the great Bengali poet Jibanananda Das."
+  },
+  "summary": "Malloban is a novel by Jibanananda Das, better known as one of the greatest modern Bengali poets, published only long after his death. An intimate, painful study of a troubled marriage and the loneliness within it, it reveals the same brooding sensibility that marks his poetry. Quiet, interior and psychologically raw, it offers a rare glimpse of the celebrated poet working in fiction, and a moving portrait of estrangement in ordinary domestic life.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A rare novel by the great Bengali poet Jibanananda Das, an intimate, painful study of a lonely marriage.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Jibanananda Das's fiction, including this novel, was published only after his death.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

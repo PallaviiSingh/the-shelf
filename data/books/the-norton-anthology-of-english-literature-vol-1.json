@@ -1,0 +1,69 @@
+{
+  "slug": "the-norton-anthology-of-english-literature-vol-1",
+  "title": "The Norton Anthology of English Literature Vol 1",
+  "subtitle": null,
+  "authors": [
+    "m-h-abrams",
+    "stephen-greenblatt"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "W W Norton & Co Inc",
+    "series": null,
+    "isbn": "0393974863",
+    "pageCount": 2686
+  },
+  "cover": {
+    "file": "assets/covers/the-norton-anthology-of-english-literature-vol-1.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#733c35",
+    "w": 303,
+    "h": 500,
+    "trimmed": true,
+    "palette": [
+      "#540104",
+      "#d0c69d",
+      "#6a2324"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Anthology"
+  ],
+  "region": "England",
+  "tags": [
+    "anthology",
+    "English literature",
+    "reference"
+  ],
+  "moods": [
+    "epic",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "a millennium of writing",
+      "Chaucer to the Augustans",
+      "a whole tradition"
+    ],
+    "oneLine": "The Norton anthology of English literature, the earlier centuries."
+  },
+  "summary": "The first volume of the Norton Anthology of English Literature, the most widely used anthology of its kind, gathers the sweep of English writing from the Middle Ages through the Restoration and eighteenth century. Beowulf, Chaucer, Shakespeare, Milton, the metaphysical poets and the Augustans appear with introductions, notes and context. A cornerstone of English studies worldwide, it is a whole library of the tradition's earlier centuries in a single volume.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The cornerstone anthology of English literature, volume one, Beowulf to the eighteenth century. A whole library in one book.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "0",
+  "enriched": true
+}

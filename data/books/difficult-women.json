@@ -1,0 +1,76 @@
+{
+  "slug": "difficult-women",
+  "title": "Difficult Women",
+  "subtitle": null,
+  "authors": [
+    "roxane-gay"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2017,
+  "edition": {
+    "publisher": "Corsair",
+    "series": null,
+    "isbn": "9781472152770",
+    "pageCount": 272
+  },
+  "cover": {
+    "file": "assets/covers/difficult-women.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#3e3235",
+    "w": 667,
+    "h": 1000,
+    "palette": [
+      "#262023",
+      "#e0b8ae",
+      "#b18883"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "women",
+    "desire",
+    "violence",
+    "stories"
+  ],
+  "moods": [
+    "bleak",
+    "tender",
+    "unsettling"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "the American South",
+      "women under pressure",
+      "survival"
+    ],
+    "oneLine": "Unsentimental stories of women surviving violence, love and loss."
+  },
+  "summary": "Roxane Gay's story collection portrays women in extremity, wives, sisters, strippers, the grieving and the desired, often surviving violence, poverty or bad love, rendered with unsentimental precision and flashes of the surreal. Ranging across the American South and beyond, the stories refuse to make their women likeable or safe, insisting instead on their full, difficult humanity. Sharp, raw and quietly compassionate, it is a striking showcase of Gay's range beyond her essays.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Fierce, unsentimental stories of women in extremity. Gay's fiction is as sharp as her essays, and rawer.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Gay is equally known for her essays (Bad Feminist) and her memoir Hunger.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

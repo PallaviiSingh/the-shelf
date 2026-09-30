@@ -1,0 +1,76 @@
+{
+  "slug": "the-wind-in-the-willow",
+  "title": "The Wind in the Willow",
+  "subtitle": null,
+  "authors": [
+    "kenneth-grahame"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1908,
+  "edition": {
+    "publisher": "Wordsworth Editions Ltd",
+    "series": null,
+    "isbn": "1840227826",
+    "pageCount": 192
+  },
+  "cover": {
+    "file": "assets/covers/the-wind-in-the-willow.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6e6c54",
+    "w": 446,
+    "h": 687,
+    "palette": [
+      "#545850",
+      "#8a956b",
+      "#433429"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "riverbank",
+    "friendship",
+    "England",
+    "animals"
+  ],
+  "moods": [
+    "comforting",
+    "playful",
+    "luminous"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "by the water",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a green riverbank",
+      "a rowing boat",
+      "a runaway motorcar"
+    ],
+    "oneLine": "Mole, Rat, Badger and the incorrigible Toad, at home on the river."
+  },
+  "summary": "On a gentle English riverbank, the shy Mole, the genial Rat, the wise Badger and the incorrigible, motorcar-mad Toad muddle through adventures, escapades and the deep pleasures of home and friendship. Kenneth Grahame's classic is two books in one: a riotous comedy of Toad's misdeeds, and a quieter, almost mystical hymn to the countryside and the comfort of good companions. Beloved for over a century, it is one of the coziest and most re-readable books ever written.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The coziest book on the shelf. Messing about in boats, a bombastic Toad, and the deep pleasure of home and friends.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It began as bedtime stories Grahame told his young son.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

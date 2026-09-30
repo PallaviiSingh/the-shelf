@@ -1,0 +1,17 @@
+{
+  "slug": "samuel-beckett",
+  "name": "Samuel Beckett",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Samuel Barclay Beckett was an Irish playwright, novelist, and poet. Written in both English and French, his literary and theatrical works feature bleak, impersonal, and tragicomic episodes of life, coupled with black comedy and literary nonsense. As a key proponent of Irish literature, he is best known for his tragicomedy play Waiting for Godot (1953),",
+  "photo": {
+    "file": "assets/authors/samuel-beckett.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Samuel_Beckett"
+  },
+  "books": [
+    "waiting-for-godot"
+  ],
+  "enriched": false
+}

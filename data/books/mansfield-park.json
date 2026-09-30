@@ -1,0 +1,75 @@
+{
+  "slug": "mansfield-park",
+  "title": "Mansfield Park",
+  "subtitle": null,
+  "authors": [
+    "jane-austen"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1814,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "0141199873",
+    "pageCount": 443
+  },
+  "cover": {
+    "file": "assets/covers/mansfield-park.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7c8296",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#6b7389",
+      "#f2e7ed"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "class",
+    "morality",
+    "family",
+    "Regency"
+  ],
+  "moods": [
+    "cerebral",
+    "melancholic",
+    "romantic"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "on a rainy day",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a great English house",
+      "a poor relation",
+      "a quiet conscience"
+    ],
+    "oneLine": "A poor relation holds to her conscience amid a careless wealthy family."
+  },
+  "summary": "Sent as a poor relation to live with wealthy cousins, the shy and principled Fanny Price watches the glittering, careless Crawfords disrupt the household while quietly holding to her own conscience. Austen's most serious and debated novel trades sparkle for moral weight, examining money, theatre, and the quiet cost of integrity. Its heroine is unfashionably good rather than witty, which is exactly what makes the book a subtle, rewarding study of character and the compromises of a grand English house.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Austen's most serious and most argued-over novel, with a quiet, principled heroine. Subtler and darker than her sparklers.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Fanny Price is Austen's least conventionally charming heroine, which has divided readers ever since.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

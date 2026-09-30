@@ -1,0 +1,78 @@
+{
+  "slug": "classic-rabindranath-tagore",
+  "title": "Classic Rabindranath Tagore",
+  "subtitle": null,
+  "authors": [
+    "rabindranath-tagore"
+  ],
+  "translator": null,
+  "originalLanguage": "Bengali",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "9780143416326",
+    "pageCount": 94
+  },
+  "cover": {
+    "file": "assets/covers/classic-rabindranath-tagore.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#bc573c",
+    "w": 651,
+    "h": 1000,
+    "palette": [
+      "#ce6944",
+      "#a04139",
+      "#560d0b"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Anthology",
+    "Classic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Bengali",
+    "Tagore",
+    "poetry",
+    "classic"
+  ],
+  "moods": [
+    "luminous",
+    "tender",
+    "meditative"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "in bed at night",
+      "in a garden"
+    ],
+    "sensory": [
+      "Bengali lyricism",
+      "poetry and story",
+      "a spiritual searching"
+    ],
+    "oneLine": "A collection of the works of the Nobel laureate Rabindranath Tagore."
+  },
+  "summary": "A collection of the works of Rabindranath Tagore, the towering Bengali poet, novelist, playwright and songwriter who became the first non-European to win the Nobel Prize in Literature. Ranging across his poetry, stories and other writing, this volume introduces the extraordinary breadth of a figure who reshaped Bengali culture and gave India and Bangladesh their national anthems. Lyrical, humane and spiritually searching, Tagore's work remains a cornerstone of modern Indian literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The great Rabindranath Tagore, first non-European Nobel laureate, in one collection. Lyrical, humane and searching.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Tagore wrote the national anthems of both India and Bangladesh.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

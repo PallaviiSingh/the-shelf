@@ -1,0 +1,77 @@
+{
+  "slug": "the-odyssey",
+  "title": "The Odyssey",
+  "subtitle": null,
+  "authors": [
+    "homer"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": -725,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141192445",
+    "pageCount": 374
+  },
+  "cover": {
+    "file": "assets/covers/the-odyssey.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#2b8894",
+    "w": 626,
+    "h": 1000,
+    "palette": [
+      "#106a6a",
+      "#3f9eb1",
+      "#65c5e5"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Verse Epic",
+    "Classic"
+  ],
+  "region": "Ancient Greece",
+  "tags": [
+    "journey",
+    "homecoming",
+    "monsters",
+    "Greece"
+  ],
+  "moods": [
+    "epic",
+    "dreamlike",
+    "hopeful"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to escape",
+      "by the water"
+    ],
+    "sensory": [
+      "a wine-dark sea",
+      "a one-eyed giant",
+      "the road home"
+    ],
+    "oneLine": "Odysseus fights monsters and the sea for ten years to get home."
+  },
+  "summary": "After the fall of Troy, the wily Odysseus spends ten years trying to sail home to Ithaca, his wife and his son, blown off course into a world of one-eyed giants, sirens, witches and the sea god's wrath. Homer's second epic is the original adventure and the original homecoming, a poem about cunning, endurance and the longing for home that has shaped storytelling ever since. Endlessly translated and retold, it remains thrilling nearly three thousand years on.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The original adventure and the original homecoming. Monsters, cunning and the ache for home, three thousand years old and still gripping.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its structure, a long journey home full of trials, underlies countless stories ever since.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B4",
+  "enriched": true
+}

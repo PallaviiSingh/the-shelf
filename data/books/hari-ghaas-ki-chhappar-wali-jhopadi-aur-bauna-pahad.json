@@ -1,0 +1,77 @@
+{
+  "slug": "hari-ghaas-ki-chhappar-wali-jhopadi-aur-bauna-pahad",
+  "title": "Hari Ghaas Ki Chhappar Wali Jhopadi Aur Bauna Pahad",
+  "subtitle": null,
+  "authors": [
+    "vinod-kumar-shukla"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Rajkamal Prakashan",
+    "series": null,
+    "isbn": "8126720190",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/hari-ghaas-ki-chhappar-wali-jhopadi-aur-bauna-pahad.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#cbbb79",
+    "w": 346,
+    "h": 550,
+    "palette": [
+      "#edda92",
+      "#e69e52",
+      "#546b21"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Magical Realism"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Vinod Kumar Shukla",
+    "childhood",
+    "village"
+  ],
+  "moods": [
+    "playful",
+    "warm",
+    "dreamlike"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "comfort reading",
+      "to relax and unwind",
+      "in the sun"
+    ],
+    "sensory": [
+      "a thatched hut",
+      "a dwarf mountain",
+      "a child's wonder"
+    ],
+    "oneLine": "A village child's wonder at the world, in a gently magical novel."
+  },
+  "summary": "This gently magical novel by Vinod Kumar Shukla, which he calls a book for children, adolescents and adults alike, follows a village child named Bolu and his friends through a story that blurs the line between prose and poetry. Celebrating a child's wonder at the natural world, its grass, its moon, its dwarf mountain, it turns ordinary rural life into something enchanted in Shukla's inimitable voice. Warm, playful and quietly profound, it was translated into English as Moonrise From the Green Grass Roof.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A gently magical Vinod Kumar Shukla novel of a village child's wonder, for readers of every age. Playful and quietly profound.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was translated into English by Satti Khanna as Moonrise From the Green Grass Roof.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

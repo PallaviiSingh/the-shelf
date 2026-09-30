@@ -1,0 +1,68 @@
+{
+  "slug": "the-short-oxford-history-of-english-literature",
+  "title": "The Short Oxford History of English Literature",
+  "subtitle": null,
+  "authors": [
+    "andrew-sanders"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Oxford",
+    "series": null,
+    "isbn": "9780195672640",
+    "pageCount": 732
+  },
+  "cover": {
+    "file": "assets/covers/the-short-oxford-history-of-english-literature.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#617989",
+    "w": 720,
+    "h": 1079,
+    "palette": [
+      "#396892",
+      "#849dac",
+      "#093c4f"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "literary history",
+    "survey",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "the whole span",
+      "one clear narrative",
+      "a standard reference"
+    ],
+    "oneLine": "A single-volume history of the whole of English literature."
+  },
+  "summary": "Andrew Sanders's widely used single-volume history surveys the whole span of English literature from Anglo-Saxon times to the late twentieth century. Combining a clear chronological narrative with critical discussion of major writers and works, it packs an enormous amount into one accessible book. A reliable, balanced and readable overview, it has become a standard first history for students and a handy reference for anyone wanting the whole story of English literature in one volume.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The standard one-volume history of English literature, from Beowulf to the moderns. Clear, balanced and reliable.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "B1",
+  "enriched": true
+}

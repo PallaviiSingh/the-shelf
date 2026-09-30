@@ -1,0 +1,77 @@
+{
+  "slug": "why-i-write",
+  "title": "Why I Write",
+  "subtitle": null,
+  "authors": [
+    "saadat-hasan-manto"
+  ],
+  "translator": null,
+  "originalLanguage": "Urdu",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Vintage Books",
+    "series": null,
+    "isbn": "0143458523",
+    "pageCount": 184
+  },
+  "cover": {
+    "file": "assets/covers/why-i-write.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b28e6a",
+    "w": 405,
+    "h": 650,
+    "palette": [
+      "#f9e5b3",
+      "#220f0d",
+      "#f7cd83"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays",
+    "Short Stories",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Urdu",
+    "Manto",
+    "essays"
+  ],
+  "moods": [
+    "defiant",
+    "cerebral",
+    "intense"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "the compulsion to write",
+      "defying the censors",
+      "uncomfortable truths"
+    ],
+    "oneLine": "Essays and stories on writing by the fearless Manto."
+  },
+  "summary": "Why I Write gathers essays and stories by Saadat Hasan Manto, including his reflections on the craft and compulsion of writing and his defiant responses to those who tried to censor him. Alongside his thoughts on his own work, it showcases the fearless honesty that made him the greatest and most controversial of Urdu short-story writers. A revealing companion to his fiction and a bracing statement of a writer's refusal to look away from uncomfortable truths.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Manto on the compulsion to write and his defiance of censors, with his stories. A bracing look at a fearless writer.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Manto wrote his own mocking epitaph, wondering whether he or God was the greater storyteller.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

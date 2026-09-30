@@ -1,0 +1,77 @@
+{
+  "slug": "nature-culture-imperialism",
+  "title": "Nature, Culture, Imperialism",
+  "subtitle": null,
+  "authors": [
+    "david-arnold",
+    "ramachandra-guha"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1996,
+  "edition": {
+    "publisher": "Oxford University Press",
+    "series": null,
+    "isbn": "0195640756",
+    "pageCount": 376
+  },
+  "cover": {
+    "file": "assets/covers/nature-culture-imperialism.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d5b698",
+    "w": 639,
+    "h": 1000,
+    "palette": [
+      "#fbc9a8",
+      "#f5f3df",
+      "#ceae96"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History",
+    "Environmental Humanities"
+  ],
+  "region": "India",
+  "tags": [
+    "environmental history",
+    "South Asia",
+    "empire",
+    "ecology"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly",
+    "political"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "colonial forests",
+      "empire and ecology",
+      "the Indian landscape"
+    ],
+    "oneLine": "How colonial rule reshaped nature across the Indian subcontinent."
+  },
+  "summary": "An influential edited collection on the environmental history of South Asia, examining how colonial rule reshaped forests, farming, rivers and ideas of nature across the subcontinent. Bringing together leading historians, including David Arnold and Ramachandra Guha, it traces the tangled relationship between nature, culture and imperial power. Scholarly and foundational, it helped establish environmental history as a serious field in South Asian studies, and remains a key reference for understanding how empire remade the Indian landscape.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A foundational collection on how empire remade South Asia's forests, rivers and land. Key environmental history.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was among the works that established environmental history as a field in South Asian studies.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

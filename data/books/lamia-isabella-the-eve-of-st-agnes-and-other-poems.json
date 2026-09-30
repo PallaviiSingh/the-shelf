@@ -1,0 +1,77 @@
+{
+  "slug": "lamia-isabella-the-eve-of-st-agnes-and-other-poems",
+  "title": "Lamia, Isabella, The Eve of St Agnes and Other Poems",
+  "subtitle": null,
+  "authors": [
+    "john-keats"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1820,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241303141",
+    "pageCount": 337
+  },
+  "cover": {
+    "file": "assets/covers/lamia-isabella-the-eve-of-st-agnes-and-other-poems.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4f6f41",
+    "w": 578,
+    "h": 1000,
+    "palette": [
+      "#1f3e14",
+      "#4e6e40",
+      "#7f9f6e"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "England",
+  "tags": [
+    "Romanticism",
+    "beauty",
+    "myth",
+    "the senses"
+  ],
+  "moods": [
+    "sensuous",
+    "romantic",
+    "dreamlike"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to feel something deeply",
+      "in a garden"
+    ],
+    "sensory": [
+      "lush imagery",
+      "myth and moonlight",
+      "beauty and mortality"
+    ],
+    "oneLine": "Keats's lush narrative poems and great odes, the peak of Romantic verse."
+  },
+  "summary": "This 1820 collection contains the richest work of John Keats, who died at twenty-five: the lush narrative poems 'Lamia', 'Isabella' and 'The Eve of St Agnes', along with the great odes that are among the most beautiful poems in English. Steeped in sensuous imagery, myth and a keen awareness of beauty and mortality, Keats's verse reaches an intensity few poets have matched. A small volume holding some of the supreme achievements of English Romantic poetry.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The richest work of Keats, dead at twenty-five, including the great odes. Some of the most beautiful verse in English.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Keats died the year after this collection appeared, aged just twenty-five.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

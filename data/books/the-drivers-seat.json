@@ -1,0 +1,76 @@
+{
+  "slug": "the-drivers-seat",
+  "title": "The Driver's Seat",
+  "subtitle": null,
+  "authors": [
+    "muriel-spark"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1970,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "141188340",
+    "pageCount": 117
+  },
+  "cover": {
+    "file": "assets/covers/the-drivers-seat.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#988983",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#6b5450",
+      "#c6b9b3",
+      "#3c332c"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Europe",
+  "tags": [
+    "dread",
+    "control",
+    "fate",
+    "travel"
+  ],
+  "moods": [
+    "unsettling",
+    "bleak",
+    "dreamlike"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "in bed at night",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "an airport",
+      "a foreign city",
+      "a woman in control"
+    ],
+    "oneLine": "A woman travels south, hunting the stranger who will kill her."
+  },
+  "summary": "Lise, a woman we are told from the outset will soon be found murdered, flies south on holiday behaving more and more strangely, loudly hunting for a particular kind of man. Spark strips away suspense on purpose, telling us the ending so that the horror lies in watching Lise stage-manage her own fate. Cold, precise and genuinely disturbing, this short novel is one of her strangest and most brilliant, a study of a woman seizing the one form of control left to her.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A chilling, controlled little novel that tells you the ending and unsettles you anyway. Unlike anything else you will read this year.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Spark called it her masterpiece; it was filmed with Elizabeth Taylor in the lead.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

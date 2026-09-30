@@ -1,0 +1,64 @@
+{
+  "slug": "the-norton-anthology-of-american-literature-vol-d",
+  "title": "The Norton Anthology of American Literature, Vol D",
+  "subtitle": null,
+  "authors": [],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-norton-anthology-of-american-literature-vol-d.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5f5947",
+    "w": 644,
+    "h": 1000,
+    "palette": [
+      "#122225",
+      "#6a8a41",
+      "#88a266"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Anthology"
+  ],
+  "region": "United States",
+  "tags": [
+    "anthology",
+    "American literature",
+    "reference"
+  ],
+  "moods": [
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "the modernists",
+      "a century of variety",
+      "contemporary voices"
+    ],
+    "oneLine": "The Norton anthology of American literature, the modern age."
+  },
+  "summary": "Volume D of the Norton Anthology of American Literature covers the modern and contemporary period, from the modernists of the early twentieth century through the postwar decades to recent writing. It gathers poets, novelists and essayists across a century of extraordinary variety, with introductions, notes and context. A cornerstone anthology for the study of modern and contemporary American literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Norton anthology of modern and contemporary American literature. A century of astonishing variety.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "0",
+  "enriched": true
+}

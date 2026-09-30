@@ -1,0 +1,16 @@
+{
+  "slug": "salman-rushdie",
+  "name": "Salman Rushdie",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Sir Ahmed Salman Rushdie is an Indian-born British and American novelist. His work often combines magical realism with historical fiction and primarily deals with connections, disruptions, and migrations between Eastern and Western civilizations. His novels are typically set on the Indian subcontinent, feature an Indian protagonist, and/or portray Indian familial relationships. Rushdie's second novel, Midnight's",
+  "photo": null,
+  "books": [
+    "imaginary-homelands",
+    "knife-meditations-after-an-attempted-murder",
+    "languages-of-truth-essays-2003-2020",
+    "midnights-children"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "little-women",
+  "title": "Little Women",
+  "subtitle": null,
+  "authors": [
+    "loisa-may-alcott"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1868,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9780141192413",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/little-women.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#54312b",
+    "w": 291,
+    "h": 450,
+    "palette": [
+      "#4d3128",
+      "#81393e",
+      "#b14150"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "United States",
+  "tags": [
+    "sisters",
+    "family",
+    "coming of age",
+    "Civil War"
+  ],
+  "moods": [
+    "comforting",
+    "tender",
+    "hopeful"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to relax and unwind",
+      "in winter"
+    ],
+    "sensory": [
+      "a New England home",
+      "four sisters",
+      "wartime thrift"
+    ],
+    "oneLine": "Four sisters grow up together in Civil-War New England."
+  },
+  "summary": "Growing up in Civil-War New England while their father is away, the four March sisters, motherly Meg, tomboy-writer Jo, gentle Beth and vain little Amy, muddle through poverty, ambition, love and loss under the care of their beloved Marmee. Louisa May Alcott's warm, enduring classic follows them from girlhood toward womanhood with humour and real feeling, and in fierce, independent Jo gave generations of readers, and writers, a heroine to grow up with.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The warmest of family classics, with Jo March as patron saint of every girl who wants to write. Comfort reading at its finest.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Alcott based headstrong, writerly Jo March largely on herself.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C4",
+  "enriched": true
+}

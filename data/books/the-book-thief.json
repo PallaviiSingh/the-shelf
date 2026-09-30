@@ -1,0 +1,77 @@
+{
+  "slug": "the-book-thief",
+  "title": "The Book Thief",
+  "subtitle": null,
+  "authors": [
+    "markus-zusak"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2005,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "9780552773898",
+    "pageCount": 560
+  },
+  "cover": {
+    "file": "assets/covers/the-book-thief.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d0c79d",
+    "w": 627,
+    "h": 1000,
+    "palette": [
+      "#e2deb4",
+      "#c9b982",
+      "#533933"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Historical Fiction"
+  ],
+  "region": "Germany",
+  "tags": [
+    "Nazi Germany",
+    "books",
+    "childhood",
+    "Death"
+  ],
+  "moods": [
+    "tender",
+    "bleak",
+    "hopeful"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "in bed at night",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a German street",
+      "a hidden basement",
+      "stolen books"
+    ],
+    "oneLine": "In Nazi Germany, a girl steals books, and Death tells her story."
+  },
+  "summary": "In a small German town during the Second World War, a foster girl named Liesel learns to read and starts stealing books, sharing them in a bomb shelter and hiding a Jewish man in the basement. The whole story is narrated, unforgettably, by Death, weary and oddly tender, who keeps crossing Liesel's path. Zusak's novel is a hugely loved account of ordinary Germans, words as survival and small acts of decency under terror, sad and warm in equal measure and beloved far beyond its original young-adult audience.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Narrated by Death and somehow full of warmth. A book about the saving power of books, guaranteed to make you cry.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The choice of Death as the narrator came to Zusak after many false starts, and defined the whole book.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

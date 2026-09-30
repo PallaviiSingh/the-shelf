@@ -1,0 +1,75 @@
+{
+  "slug": "the-bluest-eye",
+  "title": "The Bluest Eye",
+  "subtitle": null,
+  "authors": [
+    "toni-morrison"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1970,
+  "edition": {
+    "publisher": "Vintage",
+    "series": null,
+    "isbn": "0099759918",
+    "pageCount": 181
+  },
+  "cover": {
+    "file": "assets/covers/the-bluest-eye.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#0b70a4",
+    "w": 651,
+    "h": 1000,
+    "palette": [
+      "#0273af",
+      "#085683",
+      "#07213c"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "race",
+    "beauty",
+    "childhood",
+    "trauma"
+  ],
+  "moods": [
+    "bleak",
+    "tender",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard"
+    ],
+    "sensory": [
+      "1940s Ohio",
+      "a wish for blue eyes",
+      "a community's shame"
+    ],
+    "oneLine": "A Black girl prays for blue eyes in a world that calls her ugly."
+  },
+  "summary": "In 1940s Ohio, a young Black girl named Pecola Breedlove prays for blue eyes, believing that whiteness would make her lovable in a world that treats her as ugly and worthless. Toni Morrison's devastating first novel traces how a whole community's absorbed self-hatred and a family's abuse destroy a child, writing beauty, racism and cruelty with unflinching lyric power. Hard to read and impossible to forget, it announced one of the great voices of American literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Morrison's devastating debut about a child crushed by absorbed self-hatred. Hard to read, impossible to forget.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was Morrison's first novel; she went on to win the Nobel Prize in Literature in 1993.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

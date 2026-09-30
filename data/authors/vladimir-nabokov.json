@@ -1,0 +1,18 @@
+{
+  "slug": "vladimir-nabokov",
+  "name": "Vladimir Nabokov",
+  "birthYear": 1899,
+  "deathYear": 1977,
+  "nationality": "Russian-American",
+  "bio": "Russian-American novelist, poet and butterfly expert, born into an aristocratic St Petersburg family that fled the Revolution. He wrote first in Russian and later in a precise, show-off English. Lolita (1955) made him famous and well off, and he spent his last years living in a Swiss hotel, writing and collecting butterflies.",
+  "photo": {
+    "file": "assets/authors/vladimir-nabokov.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vladimir_Nabokov",
+    "license": "Public domain",
+    "attribution": "Walter Mori (Mondadori Publishers)"
+  },
+  "books": [
+    "lolita"
+  ]
+}

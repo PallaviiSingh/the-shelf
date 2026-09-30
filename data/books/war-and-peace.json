@@ -1,0 +1,75 @@
+{
+  "slug": "war-and-peace",
+  "title": "War and Peace",
+  "subtitle": null,
+  "authors": [
+    "leo-tolstoy"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1869,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9780241265543",
+    "pageCount": 696
+  },
+  "cover": {
+    "file": "assets/covers/war-and-peace.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#353d3f",
+    "w": 653,
+    "h": 1000,
+    "palette": [
+      "#2a3235"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Historical Fiction"
+  ],
+  "region": "Russia",
+  "tags": [
+    "Napoleonic wars",
+    "Russia",
+    "family",
+    "history"
+  ],
+  "moods": [
+    "epic",
+    "romantic",
+    "melancholic"
+  ],
+  "difficulty": "summit",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "in winter",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "snowbound Russia",
+      "grand ballrooms",
+      "the road from Moscow"
+    ],
+    "oneLine": "Napoleon invades Russia, and a handful of families are remade by it."
+  },
+  "summary": "Across the years of Napoleon's invasion of Russia, Tolstoy follows a handful of aristocratic families, above all the searching Pierre, the disillusioned Prince Andrei and the radiant Natasha, as war and peace remake their lives. It is a novel of staggering scope that somehow stays intimate, moving between ballrooms and battlefields, private heartbreak and Tolstoy's own theories of history. Long, yes, but rarely difficult, and full of the most vivid, breathing characters in fiction. The classic account of ordinary people swept up by enormous events.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Vast but astonishingly readable, and warmer than its reputation. Live inside it for a while and you come out feeling you have lived several lives.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Tolstoy rewrote the huge manuscript many times; his wife Sofya is said to have copied it out by hand repeatedly.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B3",
+  "enriched": true
+}

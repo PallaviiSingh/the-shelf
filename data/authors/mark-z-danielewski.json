@@ -1,0 +1,13 @@
+{
+  "slug": "mark-z-danielewski",
+  "name": "Mark Z. Danielewski",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Mark Z. Danielewski is an American fiction author. He is most widely known for his debut novel House of Leaves (2000), which won the New York Public Library's Young Lions Fiction Award. His second novel, Only Revolutions (2006), was nominated for the National Book Award.",
+  "photo": null,
+  "books": [
+    "house-of-leaves"
+  ],
+  "enriched": false
+}

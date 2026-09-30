@@ -1,0 +1,21 @@
+{
+  "_description": "The remaining filter facets and their controlled values. Difficulty and pace are single-select per book; region/language are metadata facets used for filtering and for the natural-language suggester.",
+  "difficulty": [
+    { "slug": "gentle",      "label": "A gentle read", "rank": 1, "description": "Accessible prose, easy to fall into." },
+    { "slug": "moderate",    "label": "A steady climb", "rank": 2, "description": "Rewards attention but never forbidding." },
+    { "slug": "challenging", "label": "A challenge",    "rank": 3, "description": "Dense, allusive, or structurally bold." },
+    { "slug": "summit",      "label": "A summit",       "rank": 4, "description": "For the determined; a lifetime book." }
+  ],
+  "pace": [
+    { "slug": "slow-burn",  "label": "Slow-burn",  "description": "Unhurried, atmospheric." },
+    { "slug": "steady",     "label": "Steady",     "description": "A measured, even current." },
+    { "slug": "brisk",      "label": "Brisk",      "description": "Moves along, keeps you turning." },
+    { "slug": "propulsive", "label": "Propulsive", "description": "Hard to put down." }
+  ],
+  "reading_occasions": {
+    "_description": "Free-tag vocabulary powering the natural-language suggester. Each book lists the occasions it suits; the suggester maps a typed request onto these.",
+    "settings": ["by the water", "by a fire", "in a garden", "on a train or plane", "in a cafe", "in bed at night", "on a rainy day", "in the sun"],
+    "seasons": ["spring", "summer", "autumn", "winter", "any season"],
+    "energy": ["to relax and unwind", "to be absorbed for hours", "to think hard", "to feel something deeply", "to be thrilled", "to laugh", "to escape", "a short sitting"]
+  }
+}

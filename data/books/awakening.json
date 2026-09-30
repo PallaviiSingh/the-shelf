@@ -1,0 +1,77 @@
+{
+  "slug": "awakening",
+  "title": "Awakening",
+  "subtitle": null,
+  "authors": [
+    "kate-chopin"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1899,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "978-0241341438",
+    "pageCount": 214
+  },
+  "cover": {
+    "file": "assets/covers/awakening.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#425176",
+    "w": 659,
+    "h": 1000,
+    "palette": [
+      "#22305e",
+      "#a4cedf",
+      "#7f9eb9"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "freedom",
+    "women",
+    "desire",
+    "Louisiana"
+  ],
+  "moods": [
+    "melancholic",
+    "luminous",
+    "political"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "by the water",
+      "to feel something deeply",
+      "a short sitting"
+    ],
+    "sensory": [
+      "the Gulf coast",
+      "the sea",
+      "a woman waking to herself"
+    ],
+    "oneLine": "A wife and mother wakes to a freedom her world will not allow."
+  },
+  "summary": "On the Louisiana coast, Edna Pontellier, a respectable wife and mother, awakens to her own desires and her longing for a self beyond marriage and motherhood, with consequences her society cannot allow. Kate Chopin's short, lyrical novel scandalised readers in 1899 and was nearly forgotten before being rediscovered as a landmark of early feminist fiction. Sensuous and quietly radical, it is a haunting study of a woman reaching for a freedom the world will not grant her.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A short, sensuous, ahead-of-its-time novel of a woman's awakening. Buried on release, now rightly a feminist classic.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The novel was so condemned in 1899 that Chopin published little afterward; it was rediscovered decades later.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

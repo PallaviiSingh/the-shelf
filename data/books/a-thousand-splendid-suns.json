@@ -1,0 +1,75 @@
+{
+  "slug": "a-thousand-splendid-suns",
+  "title": "A Thousand Splendid Suns",
+  "subtitle": null,
+  "authors": [
+    "khaled-hosseini"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2007,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "0033449430",
+    "pageCount": 406
+  },
+  "cover": {
+    "file": "assets/covers/a-thousand-splendid-suns.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#deb86a",
+    "w": 651,
+    "h": 1000,
+    "palette": [
+      "#fbe89d",
+      "#e6b651",
+      "#fadd43"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Afghanistan",
+  "tags": [
+    "Afghanistan",
+    "women",
+    "marriage",
+    "war"
+  ],
+  "moods": [
+    "bleak",
+    "tender",
+    "hopeful"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "Kabul under siege",
+      "a shared household",
+      "a fierce friendship"
+    ],
+    "oneLine": "Two women, married to the same cruel man, become each other's salvation."
+  },
+  "summary": "Two Afghan women, the illegitimate Mariam and the younger, hopeful Laila, are bound together as unwilling co-wives to the same brutal husband, and across decades of Soviet occupation, civil war and Taliban rule their wary alliance becomes a fierce, sustaining love. Hosseini's second novel turns the history of modern Afghanistan into the intimate story of women's endurance behind closed doors. Unsparing about cruelty yet ultimately tender and hopeful, it is for many readers even more affecting than The Kite Runner.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A devastating, tender story of two women surviving decades of war together. Brutal in places, but it leaves you with hope.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its title comes from a seventeenth-century Persian poem in praise of Kabul.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

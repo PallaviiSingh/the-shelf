@@ -1,0 +1,75 @@
+{
+  "slug": "the-age-of-capital-1848-1875",
+  "title": "The Age of Capital (1848-1875)",
+  "subtitle": null,
+  "authors": [
+    "eric-hobsbawm"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1975,
+  "edition": {
+    "publisher": "Abacus",
+    "series": null,
+    "isbn": null,
+    "pageCount": 393
+  },
+  "cover": {
+    "file": "assets/covers/the-age-of-capital-1848-1875.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#545949",
+    "w": 630,
+    "h": 1000,
+    "palette": [
+      "#1f1f20",
+      "#4d382b",
+      "#038134"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History"
+  ],
+  "region": "World",
+  "tags": [
+    "capitalism",
+    "19th century",
+    "empire",
+    "Europe"
+  ],
+  "moods": [
+    "cerebral",
+    "epic",
+    "political"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a railway age",
+      "booming trade",
+      "bourgeois confidence"
+    ],
+    "oneLine": "Hobsbawm on the decades when triumphant capitalism remade the globe."
+  },
+  "summary": "The second volume of Hobsbawm's history covers the decades when triumphant capitalism, railways and global trade reshaped the world, and the failed revolutions of 1848 gave way to an age of bourgeois confidence and expanding empire. With his characteristic sweep and command of detail, Hobsbawm traces how the modern capitalist order consolidated itself across economics, science and culture. A rich, authoritative account of the mid-nineteenth-century world at the height of its self-belief.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Hobsbawm on capitalism's triumphant mid-century boom. Authoritative and richly detailed.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is the second volume of Hobsbawm's celebrated 'Age of' quartet.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B1",
+  "enriched": true
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "vol-07-oxford-history-of-english-literature-the-early-seventeenth-cent",
+  "title": "Vol 07 Oxford History of English Literature: The Early Seventeenth Century (1600-1660) Jonson, Donne, and Milton",
+  "subtitle": null,
+  "authors": [
+    "douglas-bush"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Clarendon Press",
+    "series": null,
+    "isbn": "0198122330",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-07-oxford-history-of-english-literature-the-early-seventeenth-cent.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#787a83",
+    "w": 720,
+    "h": 1158,
+    "palette": [
+      "#1d2b53",
+      "#eadec6",
+      "#cdc5b4"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "seventeenth century",
+    "Milton",
+    "Donne",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "metaphysical poets",
+      "Milton's age",
+      "a turbulent century"
+    ],
+    "oneLine": "The Oxford history of Jonson, Donne and Milton's seventeenth century."
+  },
+  "summary": "Douglas Bush's celebrated volume in the Oxford History of English Literature covers the early seventeenth century, from 1600 to 1660, the age of Jonson, Donne and Milton. It surveys the metaphysical and Cavalier poets, the great prose writers and the towering figure of Milton, setting the literature of a turbulent, brilliant era against its religious and political upheavals. Long regarded as one of the finest volumes in the series, it is a masterly scholarly account.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Douglas Bush's masterly Oxford account of Jonson, Donne and Milton. One of the finest volumes in the series.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

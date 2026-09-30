@@ -1,0 +1,77 @@
+{
+  "slug": "collected-stories",
+  "title": "Collected Stories",
+  "subtitle": null,
+  "authors": [
+    "frantz-kafka"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1924,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/collected-stories.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#83735e",
+    "w": 720,
+    "h": 1158,
+    "palette": [
+      "#7e6d56",
+      "#cbc2b2",
+      "#503926"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Short Stories"
+  ],
+  "region": "Central Europe",
+  "tags": [
+    "the absurd",
+    "bureaucracy",
+    "alienation",
+    "transformation"
+  ],
+  "moods": [
+    "unsettling",
+    "dreamlike",
+    "bleak"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "in bed at night",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a locked office",
+      "an unpayable debt",
+      "waking as something else"
+    ],
+    "oneLine": "Everyday life tilted into calm, inescapable nightmare."
+  },
+  "summary": "Here is the writer whose name became an adjective. Kafka's stories, from the notorious Metamorphosis, in which a man wakes as a monstrous insect, to A Hunger Artist and In the Penal Colony, turn everyday logic slightly, calmly wrong, until ordinary life reveals itself as a nightmare of guilt, authority and inexplicable rules. The tone is deadpan, even funny, which makes the dread worse. Read together, they map a whole modern condition: the individual small and baffled before systems that never explain themselves.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The source of everything we call Kafkaesque. Short, strange and unforgettable, and funnier than you expect once you catch the deadpan.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Kafka asked his friend Max Brod to burn all his manuscripts after his death; Brod published them instead.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A4",
+  "enriched": true
+}

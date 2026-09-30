@@ -1,0 +1,76 @@
+{
+  "slug": "the-nutcracker",
+  "title": "The Nutcracker",
+  "subtitle": null,
+  "authors": [
+    "e-t-a-hoffmann"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1816,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "0143122509",
+    "pageCount": 96
+  },
+  "cover": {
+    "file": "assets/covers/the-nutcracker.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d6baaf",
+    "w": 659,
+    "h": 1000,
+    "palette": [
+      "#faf6d2",
+      "#d12821",
+      "#d1dddc"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "Germany",
+  "tags": [
+    "Christmas",
+    "toys",
+    "fairy tale",
+    "childhood"
+  ],
+  "moods": [
+    "dreamlike",
+    "playful",
+    "comforting"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "by a fire",
+      "in bed at night",
+      "in winter"
+    ],
+    "sensory": [
+      "a Christmas Eve",
+      "toys at war",
+      "a kingdom of sweets"
+    ],
+    "oneLine": "A nutcracker wakes on Christmas Eve and carries a girl into wonder."
+  },
+  "summary": "On Christmas Eve, a girl's new nutcracker comes to life to lead her toys into battle against the Mouse King, then carries her off to a kingdom of sweets. E.T.A. Hoffmann's strange, enchanting original is darker and odder than the famous ballet it inspired, a proper Romantic fairy tale full of the uncanny alongside the wonder. This clothbound edition restores Hoffmann's own tale, a perfect small piece of Christmas magic for readers of any age.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The strange, enchanting original behind the ballet, darker and odder than you expect. A perfect Christmas Eve read.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Hoffmann's 1816 tale is the source Tchaikovsky's beloved ballet is based on.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

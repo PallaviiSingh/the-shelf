@@ -1,0 +1,75 @@
+{
+  "slug": "posthumanism",
+  "title": "Posthumanism",
+  "subtitle": null,
+  "authors": [
+    "pramod-k-nayar"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2013,
+  "edition": {
+    "publisher": "Polity Press",
+    "series": null,
+    "isbn": "0745662412",
+    "pageCount": 208
+  },
+  "cover": {
+    "file": "assets/covers/posthumanism.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#333c3a",
+    "w": 663,
+    "h": 1000,
+    "palette": [
+      "#16292d",
+      "#7d7158",
+      "#b59f72"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Criticism",
+    "Theory"
+  ],
+  "region": "India",
+  "tags": [
+    "posthumanism",
+    "theory",
+    "technology",
+    "the human"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "the decentred human",
+      "animals and machines",
+      "contemporary theory"
+    ],
+    "oneLine": "A critical introduction to posthumanism and the idea of the human."
+  },
+  "summary": "Pramod K. Nayar's clear critical introduction surveys posthumanism, the body of thought that questions the idea of the human as a separate, superior being and rethinks our entanglement with animals, machines and the wider living world. Covering the field's key thinkers, debates and implications, it serves as an accessible map of a challenging area of contemporary theory. A helpful student's guide to ideas that increasingly shape how we think about identity, technology, ecology and what it means to be human at all.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A clear guide to posthumanism, the theory that unsettles the human's place among animals, machines and the world.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Posthumanism draws together thinking from philosophy, science studies, ecology and technology.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "01",
+  "enriched": true
+}

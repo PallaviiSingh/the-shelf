@@ -1,0 +1,13 @@
+{
+  "slug": "f-scott-fitzgerald",
+  "name": "F. Scott Fitzgerald",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Francis Scott Key Fitzgerald, widely known as F. Scott Fitzgerald or simply Scott Fitzgerald, was an American novelist, essayist, and short story writer. He is most notable for his novels depicting the flamboyance and excess of the Jazz Age, a term that he popularized in his short story collection Tales of the Jazz Age. He",
+  "photo": null,
+  "books": [
+    "great-gatsby"
+  ],
+  "enriched": false
+}

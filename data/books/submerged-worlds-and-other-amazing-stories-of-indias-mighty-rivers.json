@@ -1,0 +1,77 @@
+{
+  "slug": "submerged-worlds-and-other-amazing-stories-of-indias-mighty-rivers",
+  "title": "Submerged Worlds and Other Amazing Stories of India’s Mighty Rivers",
+  "subtitle": null,
+  "authors": [
+    "vaishali-shroff"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2025,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0143462415",
+    "pageCount": 248
+  },
+  "cover": {
+    "file": "assets/covers/submerged-worlds-and-other-amazing-stories-of-indias-mighty-rivers.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7f975f",
+    "w": 640,
+    "h": 984,
+    "palette": [
+      "#135371",
+      "#b2b851",
+      "#0d2a42"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Children's",
+    "Nature Writing"
+  ],
+  "region": "India",
+  "tags": [
+    "India",
+    "rivers",
+    "children",
+    "ecology"
+  ],
+  "moods": [
+    "curious",
+    "playful",
+    "warm"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "comfort reading",
+      "to relax and unwind",
+      "in the sun"
+    ],
+    "sensory": [
+      "mighty rivers",
+      "riverbank wildlife",
+      "stories and wonder"
+    ],
+    "oneLine": "Amazing stories of India's great rivers, for young readers."
+  },
+  "summary": "Vaishali Shroff introduces young readers to India's great rivers, from the Ganga and Brahmaputra to lesser-known waterways, through lively stories about the history, wildlife, cultures and mysteries that flow along their banks. Written to spark curiosity and care for the natural world, it mixes fact, wonder and adventure in an accessible way. A vivid, engaging book of river tales for children, it opens up the ecology and human life of India's waterways and quietly makes the case for protecting them.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Lively river stories for young readers, opening up the wildlife and cultures of India's waterways. Curious and warm.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Vaishali Shroff is known for children's books that blend nature, history and storytelling.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "mulk-raj-anand",
+  "name": "Mulk Raj Anand",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Mulk Raj Anand was an Indian writer in the English language, recognised for his depiction of the lives of the poorer class in the traditional Indian society. One of the pioneers of Indo-Anglian fiction, he, together with R. K. Narayan and Raja Rao, was one of the first India-based writers in the English language to",
+  "photo": {
+    "file": "assets/authors/mulk-raj-anand.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mulk_Raj_Anand"
+  },
+  "books": [
+    "untouchable"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "viktor-e-frankl",
+  "name": "Viktor E. Frankl",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Viktor Emil Frankl was an Austrian neurologist, psychiatrist, philosopher, and Holocaust survivor, who founded logotherapy, a school of psychotherapy that describes a search for a life's meaning as the central human motivational force. Logotherapy is part of existential and humanistic psychology theories.",
+  "photo": {
+    "file": "assets/authors/viktor-e-frankl.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Viktor_Frankl"
+  },
+  "books": [
+    "mans-search-for-meaning"
+  ],
+  "enriched": false
+}

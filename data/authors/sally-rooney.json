@@ -1,0 +1,13 @@
+{
+  "slug": "sally-rooney",
+  "name": "Sally Rooney",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Sally Rooney is an Irish author. She is the author of the novels Conversations with Friends (2017), Normal People (2018), Beautiful World, Where Are You (2021), and Intermezzo (2024). The first two works were adapted into the television miniseries Normal People (2020) and Conversations with Friends (2022). Her bestselling novels have sold more than 6",
+  "photo": null,
+  "books": [
+    "intermezzo"
+  ],
+  "enriched": false
+}

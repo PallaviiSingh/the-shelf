@@ -1,0 +1,76 @@
+{
+  "slug": "the-binding-vine",
+  "title": "The Binding Vine",
+  "subtitle": null,
+  "authors": [
+    "shashi-deshpande"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1993,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0140233369",
+    "pageCount": 207
+  },
+  "cover": {
+    "file": "assets/covers/the-binding-vine.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#905d4a",
+    "w": 488,
+    "h": 650,
+    "palette": [
+      "#833a3b",
+      "#b35234",
+      "#cbb783"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "women",
+    "grief",
+    "violence",
+    "India"
+  ],
+  "moods": [
+    "tender",
+    "melancholic",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a mother's grief",
+      "women's buried sorrows",
+      "the ties between them"
+    ],
+    "oneLine": "A grieving woman is drawn into other women's silenced sorrows."
+  },
+  "summary": "Grieving the death of her baby daughter, Urmi finds herself drawn into other women's buried sorrows: the poems of her dead mother-in-law, trapped in a loveless marriage, and the plight of a young woman brutalised and silenced. Shashi Deshpande's quietly powerful novel connects women across class and generation through shared experiences of loss and violence. Restrained and deeply felt, it is a subtle exploration of grief, marriage and the ties that bind women's lives, from one of India's finest chroniclers of the inner female world.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Deshpande's quietly powerful novel connecting women across grief, marriage and violence. Restrained and deeply felt.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Deshpande is among the foremost Indian women novelists writing in English about women's inner lives.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

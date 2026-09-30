@@ -1,0 +1,13 @@
+{
+  "slug": "sankar",
+  "name": "Sankar",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "chowringhee"
+  ],
+  "enriched": false
+}

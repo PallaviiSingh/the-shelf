@@ -1,0 +1,13 @@
+{
+  "slug": "karl-marx",
+  "name": "Karl Marx",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Karl Marx was a German philosopher, social and political theorist, and revolutionary socialist. He developed the theory of historical materialism, analysing societal structure and change, particularly class struggle under capitalism, and predicting the system's ultimate replacement by communism. Marx co-authored The Communist Manifesto (1848) with Friedrich Engels, and undertook a critique of classical political economy",
+  "photo": null,
+  "books": [
+    "the-communist-manifesto"
+  ],
+  "enriched": false
+}

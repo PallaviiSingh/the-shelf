@@ -1,0 +1,13 @@
+{
+  "slug": "john-mcleod",
+  "name": "John McLeod",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "beginning-postcolonialism"
+  ],
+  "enriched": false
+}

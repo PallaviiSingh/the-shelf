@@ -1,0 +1,19 @@
+{
+  "slug": "james-joyce",
+  "name": "James Joyce",
+  "birthYear": 1882,
+  "deathYear": 1941,
+  "nationality": "Irish",
+  "bio": "Irish novelist and poet, and one of the most influential modern writers. He was born in Dublin and spent his adult life abroad, in Trieste, Paris and Zurich, but Dublin stayed the subject of everything he wrote, from the stories in Dubliners to Ulysses and the near-unreadable Finnegans Wake.",
+  "photo": {
+    "file": "assets/authors/james-joyce.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_Joyce",
+    "license": "Public domain",
+    "attribution": ""
+  },
+  "books": [
+    "a-portrait-of-the-artist-as-a-young-man",
+    "ulysses"
+  ]
+}

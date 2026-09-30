@@ -1,0 +1,76 @@
+{
+  "slug": "gone-with-the-wind",
+  "title": "Gone with the Wind",
+  "subtitle": null,
+  "authors": [
+    "margaret-mitchel"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1936,
+  "edition": {
+    "publisher": "Lexicon Book Distiributors",
+    "series": null,
+    "isbn": "9380703333",
+    "pageCount": 934
+  },
+  "cover": {
+    "file": "assets/covers/gone-with-the-wind.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#85445f",
+    "w": 220,
+    "h": 339,
+    "palette": [
+      "#032c6d",
+      "#e21e33",
+      "#9d2340"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Historical Fiction",
+    "Classic"
+  ],
+  "region": "United States",
+  "tags": [
+    "Civil War",
+    "the South",
+    "survival",
+    "controversy"
+  ],
+  "moods": [
+    "epic",
+    "romantic",
+    "bleak"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a Georgia plantation",
+      "a burning Atlanta",
+      "a ruthless survivor"
+    ],
+    "oneLine": "A willful Southern belle claws through the Civil War and its ruin."
+  },
+  "summary": "Across the American Civil War and its ruinous aftermath, the willful Scarlett O'Hara claws to save her family's Georgia plantation and pursues the wrong men, above all the roguish Rhett Butler. Margaret Mitchell's blockbuster is a sweeping, hugely popular epic of survival and obsession, and also a book modern readers approach warily, for its romanticised, deeply distorted picture of slavery and the Old South. Compelling and troubling at once, it is a landmark best read with clear eyes.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A sweeping, addictive epic that is also a problem: read it for Scarlett and Rhett, but with clear eyes about its myth of the Old South.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won the Pulitzer Prize, sold in the tens of millions, and is now widely criticised for romanticising slavery.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

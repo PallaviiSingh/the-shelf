@@ -1,0 +1,78 @@
+{
+  "slug": "walden-and-other-writings",
+  "title": "Walden and Other Writings",
+  "subtitle": null,
+  "authors": [
+    "henry-david-thoreau"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1854,
+  "edition": {
+    "publisher": "Full Circle Publishing",
+    "series": null,
+    "isbn": "8176211796",
+    "pageCount": 270
+  },
+  "cover": {
+    "file": "assets/covers/walden-and-other-writings.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#aa9a91",
+    "w": 648,
+    "h": 990,
+    "trimmed": true,
+    "palette": [
+      "#dfdcd1",
+      "#ab2027",
+      "#c39059"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays",
+    "Classic"
+  ],
+  "region": "United States",
+  "tags": [
+    "nature",
+    "solitude",
+    "simplicity",
+    "transcendentalism"
+  ],
+  "moods": [
+    "meditative",
+    "luminous",
+    "solitary"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "in a garden",
+      "to think hard",
+      "in the sun"
+    ],
+    "sensory": [
+      "a pond and a cabin",
+      "a deliberate life",
+      "the natural world"
+    ],
+    "oneLine": "Thoreau's classic of simple living by Walden Pond, plus Civil Disobedience."
+  },
+  "summary": "Henry David Thoreau's account of the two years he spent living simply in a cabin by Walden Pond is the founding text of American nature writing and a timeless argument for a deliberate, unhurried life close to the natural world. Gathered here with other essays including 'Civil Disobedience', his influential defence of conscience against the state, it distils a whole philosophy of self-reliance and attention. Reflective, quotable and quietly radical, it still speaks to anyone seeking a simpler, more mindful way to live.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The founding book of nature writing and simple living, with 'Civil Disobedience' alongside. Quietly radical and endlessly quoted.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "His essay 'Civil Disobedience' later influenced Gandhi and Martin Luther King.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

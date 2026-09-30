@@ -1,0 +1,77 @@
+{
+  "slug": "ecological-criticism-for-our-times-literature-nature-and-critical-inqu",
+  "title": "Ecological Criticism for our Times Literature, Nature and Critical Inquiry",
+  "subtitle": null,
+  "authors": [
+    "m-shivaramakrishnan",
+    "ujjawal-jana"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Authors Press",
+    "series": null,
+    "isbn": "817273588X",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/ecological-criticism-for-our-times-literature-nature-and-critical-inqu.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4e5054",
+    "w": 666,
+    "h": 1000,
+    "palette": [
+      "#150e1c",
+      "#d0c57e",
+      "#554d3d"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Criticism",
+    "Environmental Humanities"
+  ],
+  "region": "India",
+  "tags": [
+    "ecocriticism",
+    "literature",
+    "theory",
+    "nature"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly",
+    "political"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "literature and nature",
+      "critical theory",
+      "the environmental humanities"
+    ],
+    "oneLine": "Essays on ecocriticism and how literature imagines the natural world."
+  },
+  "summary": "An edited scholarly collection exploring ecocriticism, the study of how literature imagines and shapes our relationship with the natural world. Bringing together essays on nature, environment and critical theory, with attention to Indian and global contexts, it maps how literary study can respond to ecological crisis. A useful academic introduction to a field that asks what stories do to, and for, the earth, aimed at students and scholars of literature and the environmental humanities.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A scholarly map of ecocriticism, how literature shapes our bond with nature. A solid academic starting point.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Ecocriticism emerged as a distinct field of literary study in the 1990s.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

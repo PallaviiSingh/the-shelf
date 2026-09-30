@@ -1,0 +1,18 @@
+{
+  "slug": "virginia-woolf",
+  "name": "Virginia Woolf",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Adeline Virginia Woolf was an English writer and one of the most influential 20th-century modernist authors. She helped to pioneer the use of stream of consciousness narration as a literary device.",
+  "photo": null,
+  "books": [
+    "a-room-of-ones-own",
+    "jacobs-room",
+    "mrs-dalloway",
+    "orlando",
+    "the-wave-vintage-classics-woolf-series",
+    "to-the-lighthouse"
+  ],
+  "enriched": false
+}

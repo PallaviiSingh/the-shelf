@@ -1,0 +1,18 @@
+{
+  "slug": "frantz-fanon",
+  "name": "Frantz Fanon",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Frantz Omar Fanon was a French psychiatrist and political philosopher, who made critical contribution to the fields of post-colonial studies and critical theory. As well as an intellectual, Fanon was a political radical and Pan-Africanist, concerned with the psychopathology of colonization and the human, social, and cultural consequences of decolonization.",
+  "photo": {
+    "file": "assets/authors/frantz-fanon.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frantz_Fanon"
+  },
+  "books": [
+    "black-skin-white-masks",
+    "the-wretched-of-the-earth"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "ian-jack",
+  "name": "Ian Jack",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Ian Grant Jack FRSL was a British reporter, writer and editor. He edited the Independent on Sunday, the literary magazine Granta and wrote regularly for The Guardian.",
+  "photo": {
+    "file": "assets/authors/ian-jack.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ian_Jack"
+  },
+  "books": [
+    "oxford-history-of-english-literature-english-literature-1815-1832"
+  ],
+  "enriched": false
+}

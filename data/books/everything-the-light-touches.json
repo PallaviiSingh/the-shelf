@@ -1,0 +1,79 @@
+{
+  "slug": "everything-the-light-touches",
+  "title": "Everything the Light Touches",
+  "subtitle": null,
+  "authors": [
+    "janice-pariat"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2022,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "pageCount": 320
+  },
+  "cover": {
+    "file": "assets/covers/everything-the-light-touches.jpg",
+    "source": "apple",
+    "match": "title-search",
+    "sourceUrl": "https://books.apple.com (artwork)",
+    "dominantColor": "#7bc598",
+    "w": 400,
+    "h": 600,
+    "palette": [
+      "#59bc89",
+      "#81c69d",
+      "#cdeade"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "botany",
+    "nature",
+    "travel",
+    "ways of seeing"
+  ],
+  "moods": [
+    "luminous",
+    "meditative",
+    "curious"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "in a garden",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "the living world",
+      "ways of seeing",
+      "travellers across centuries"
+    ],
+    "oneLine": "Four seekers across centuries ask how we really see the natural world."
+  },
+  "summary": "Spanning centuries and continents, Janice Pariat's ambitious novel braids together four travellers, including Goethe and the botanist Linnaeus, all seeking to understand the living world and how we know it. Moving between a modern young woman's journey and these historical seekers, it asks how we look at nature, whether we classify it or truly see it. Lyrical, structurally daring and steeped in botany and wonder, it is a meditative, richly rewarding novel about attention, movement and our place among growing things.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A lyrical, ambitious novel braiding Goethe, Linnaeus and a modern journey around one question: how do we truly see nature?",
+  "awards": [
+    "New Yorker Best Book of 2022",
+    "Sushila Devi Award (Best Fiction)",
+    "AutHer Award (Best Fiction)"
+  ],
+  "funFacts": [
+    {
+      "text": "The novel weaves in real historical figures including Goethe and the botanist Carl Linnaeus.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

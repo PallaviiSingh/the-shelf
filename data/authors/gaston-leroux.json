@@ -1,0 +1,17 @@
+{
+  "slug": "gaston-leroux",
+  "name": "Gaston Leroux",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Gaston Louis Alfred Leroux was a French journalist and author of detective fiction.",
+  "photo": {
+    "file": "assets/authors/gaston-leroux.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gaston_Leroux"
+  },
+  "books": [
+    "the-phantom-of-the-opera"
+  ],
+  "enriched": false
+}

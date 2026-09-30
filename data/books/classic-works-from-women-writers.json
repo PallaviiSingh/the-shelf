@@ -1,0 +1,66 @@
+{
+  "slug": "classic-works-from-women-writers",
+  "title": "Classic Works from Women Writers",
+  "subtitle": null,
+  "authors": [],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Canterbury Classics",
+    "series": null,
+    "isbn": "1684125545",
+    "pageCount": 896
+  },
+  "cover": {
+    "file": "assets/covers/classic-works-from-women-writers.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6c686b",
+    "w": 720,
+    "h": 1159,
+    "palette": [
+      "#232223",
+      "#51503d",
+      "#6c5481"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Anthology"
+  ],
+  "region": "World",
+  "tags": [
+    "anthology",
+    "women writers",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to study",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "women's voices",
+      "a recovered canon",
+      "across the centuries"
+    ],
+    "oneLine": "An anthology of classic works by women writers."
+  },
+  "summary": "An anthology gathering classic works by women writers, bringing together voices long marginalised in the standard literary canon. Ranging across fiction, poetry and prose, it recovers and celebrates the achievement of women authors across periods and traditions. A valuable collection for readers seeking the female half of literary history, and a reminder of how much the canon left out and is still recovering.",
+  "summarySource": "knowledge",
+  "whyReadIt": "An anthology recovering the classic women writers the canon long left out. A valuable half of literary history.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "2",
+  "enriched": true
+}

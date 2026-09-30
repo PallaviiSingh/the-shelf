@@ -1,0 +1,77 @@
+{
+  "slug": "the-time-machine",
+  "title": "The Time Machine",
+  "subtitle": null,
+  "authors": [
+    "h-g-wells"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1895,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "0141199342",
+    "pageCount": 120
+  },
+  "cover": {
+    "file": "assets/covers/the-time-machine.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#688767",
+    "w": 638,
+    "h": 1000,
+    "palette": [
+      "#587c70",
+      "#fff100",
+      "#c2c62b"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Science Fiction",
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "time travel",
+    "evolution",
+    "dystopia",
+    "the future"
+  ],
+  "moods": [
+    "cerebral",
+    "epic",
+    "bleak"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "a distant future",
+      "a dying sun",
+      "two human species"
+    ],
+    "oneLine": "A Victorian rides into the far future and finds humanity split in two."
+  },
+  "summary": "A Victorian inventor builds a machine that carries him hundreds of thousands of years into the future, where he finds humanity split into two species: the gentle, childlike Eloi and the monstrous, subterranean Morlocks who prey on them. Wells turns his time-travel adventure into a dark parable about class, evolution and the possible end of everything. Short, thrilling and startlingly bleak for its age, it more or less invented the time-travel story and still casts a long shadow over science fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The original time-travel story, and a bleak little parable about where class might lead us. Short and startlingly modern.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Wells's book gave the world both the time machine as a device and the very phrase.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

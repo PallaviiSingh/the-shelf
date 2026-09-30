@@ -1,0 +1,77 @@
+{
+  "slug": "lyrical-ballads",
+  "title": "Lyrical Ballads",
+  "subtitle": null,
+  "authors": [
+    "william-wordsworth"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1798,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241303109",
+    "pageCount": 368
+  },
+  "cover": {
+    "file": "assets/covers/lyrical-ballads.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#168083",
+    "w": 289,
+    "h": 500,
+    "palette": [
+      "#006042",
+      "#0e726c",
+      "#2598b3"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "England",
+  "tags": [
+    "Romanticism",
+    "nature",
+    "common speech",
+    "revolution"
+  ],
+  "moods": [
+    "luminous",
+    "meditative",
+    "pastoral"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "in a garden",
+      "in bed at night"
+    ],
+    "sensory": [
+      "the natural world",
+      "common speech",
+      "a revolution in verse"
+    ],
+    "oneLine": "The 1798 collection that launched English Romantic poetry."
+  },
+  "summary": "The 1798 collaboration between Wordsworth and Coleridge that launched English Romanticism, gathering poems written in the plain language of ordinary people about nature, memory and the inner life, from 'The Rime of the Ancient Mariner' to 'Tintern Abbey'. Its famous preface argued for a whole new poetics of feeling and common speech. Revolutionary in its day and foundational ever since, it marks the moment English poetry turned decisively toward the natural world and the individual heart.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The book that launched English Romanticism, poetry in ordinary language about nature and feeling. Foundational.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its publication in 1798 is often taken to mark the start of the Romantic movement in English.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

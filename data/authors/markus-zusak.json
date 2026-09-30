@@ -1,0 +1,13 @@
+{
+  "slug": "markus-zusak",
+  "name": "Markus Zusak",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Markus Zusak is an Australian-German writer. He is best known for The Book Thief and The Messenger, two novels that became international bestsellers. He won the Margaret Edwards Award in 2014.",
+  "photo": null,
+  "books": [
+    "the-book-thief"
+  ],
+  "enriched": false
+}

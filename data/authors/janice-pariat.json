@@ -1,0 +1,18 @@
+{
+  "slug": "janice-pariat",
+  "name": "Janice Pariat",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "Indian",
+  "bio": "Indian writer from Shillong, in the north-eastern state of Meghalaya. She won the Sahitya Akademi Young Writer Award for her story collection Boats on Land. Her big 2022 novel, Everything the Light Touches, which mixes botany, travel and myth, was named a New Yorker Best Book of the year and won the Sushila Devi Award.",
+  "photo": {
+    "file": "assets/authors/janice-pariat.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Janice_Pariat",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Harvinder Chandigarh"
+  },
+  "books": [
+    "everything-the-light-touches"
+  ]
+}

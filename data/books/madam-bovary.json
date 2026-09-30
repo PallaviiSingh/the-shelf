@@ -1,0 +1,77 @@
+{
+  "slug": "madam-bovary",
+  "title": "Madam Bovary",
+  "subtitle": null,
+  "authors": [
+    "gustave-flaubert"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1856,
+  "edition": {
+    "publisher": "Vintage Classics",
+    "series": null,
+    "isbn": "0099573075",
+    "pageCount": 351
+  },
+  "cover": {
+    "file": "assets/covers/madam-bovary.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#3b3958",
+    "w": 640,
+    "h": 970,
+    "palette": [
+      "#0b3ba0",
+      "#0c1e52",
+      "#f86906"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "France",
+  "tags": [
+    "adultery",
+    "provincial life",
+    "disillusion",
+    "desire"
+  ],
+  "moods": [
+    "melancholic",
+    "cerebral",
+    "bleak"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "on a rainy day",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "a dull provincial town",
+      "romantic daydreams",
+      "mounting debt"
+    ],
+    "oneLine": "A country doctor's wife chases the passion her novels promised, and pays for it."
+  },
+  "summary": "Emma Bovary, married to a dull country doctor, is poisoned by the romantic novels she loves and the ordinary life she cannot bear. She chases passion through affairs and debt, each escape leaving her emptier, until the gap between her dreams and her world closes fatally. Flaubert wrote and rewrote every sentence in pursuit of the perfect word, and the result is a cold, exact, strangely compassionate portrait of longing and self-destruction that put realism on a new footing and got its author tried for offending public morals.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The novel that made prose an art of precision. A pitiless, beautiful study of a woman undone by her own longing.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Flaubert was put on trial for obscenity when it appeared in 1857; his acquittal only made the book famous.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

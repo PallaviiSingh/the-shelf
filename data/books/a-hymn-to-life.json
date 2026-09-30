@@ -1,0 +1,75 @@
+{
+  "slug": "a-hymn-to-life",
+  "title": "A Hymn to Life",
+  "subtitle": null,
+  "authors": [
+    "gis-le-pelicot"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2026,
+  "edition": {
+    "publisher": "Bodley Head",
+    "series": null,
+    "isbn": "1847928978",
+    "pageCount": 256
+  },
+  "cover": {
+    "file": "assets/covers/a-hymn-to-life.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a39fab",
+    "w": 665,
+    "h": 1000,
+    "palette": [
+      "#d0e0fb",
+      "#b4c6ea",
+      "#e6b19d"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "France",
+  "tags": [
+    "testimony",
+    "justice",
+    "courage",
+    "dignity"
+  ],
+  "moods": [
+    "bleak",
+    "political",
+    "hopeful"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "a courtroom",
+      "a reclaimed name",
+      "shame changing sides"
+    ],
+    "oneLine": "A survivor's own account of the trial that made her a symbol of dignity."
+  },
+  "summary": "Gisele Pelicot became known around the world when she waived her anonymity during the 2024 trial in which her husband was convicted of drugging her and enabling dozens of men to assault her over nearly a decade. She insisted that the shame belonged not to her but to the perpetrators. Her memoir is her own account, in her own words, of survival, of choosing a public trial, and of reclaiming her life and dignity. A sober, courageous work of testimony rather than sensation.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A survivor telling her own story on her own terms, and insisting the shame lie where it belongs. Sober, dignified and quietly heroic.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Pelicot's decision to hold a public trial and waive anonymity made her an international symbol; 'the shame must change sides' became her defining phrase.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

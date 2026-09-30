@@ -1,0 +1,77 @@
+{
+  "slug": "a-tale-of-two-cities",
+  "title": "A Tale of Two Cities",
+  "subtitle": null,
+  "authors": [
+    "charles-dickens"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1859,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9780141196909",
+    "pageCount": 388
+  },
+  "cover": {
+    "file": "assets/covers/a-tale-of-two-cities.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#33123f",
+    "w": 613,
+    "h": 1000,
+    "palette": [
+      "#07104a",
+      "#6f1432",
+      "#ab1526"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Historical Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "French Revolution",
+    "sacrifice",
+    "London",
+    "Paris"
+  ],
+  "moods": [
+    "epic",
+    "suspenseful",
+    "tragic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to feel something deeply",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "revolutionary Paris",
+      "the guillotine",
+      "a final sacrifice"
+    ],
+    "oneLine": "Love and sacrifice across London and Paris in the French Revolution."
+  },
+  "summary": "Against the gathering storm of the French Revolution, a French doctor freed from long imprisonment, his devoted daughter, and two men who love her are swept from London to the blood-soaked streets of Paris. Dickens's historical epic moves toward one of the most famous acts of sacrifice in all of literature, and one of the most quoted opening and closing lines. Tense, sweeping and deeply moving, it is his most tightly plotted novel and a gripping human drama of revolution.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Dickens's tightest, most gripping novel, with one of literature's greatest sacrifices. Revolution, love and that unforgettable ending.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its opening line, 'It was the best of times, it was the worst of times', is among the most famous in English.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B3",
+  "enriched": true
+}

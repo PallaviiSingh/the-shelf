@@ -1,0 +1,76 @@
+{
+  "slug": "midnights-children",
+  "title": "Midnight's Children",
+  "subtitle": null,
+  "authors": [
+    "salman-rushdie"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1981,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 580
+  },
+  "cover": {
+    "file": "assets/covers/midnights-children.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#423560",
+    "w": 309,
+    "h": 475,
+    "palette": [
+      "#11096f",
+      "#ae890a",
+      "#3c3983"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Magical Realism"
+  ],
+  "region": "India",
+  "tags": [
+    "independence",
+    "India",
+    "magical realism",
+    "history"
+  ],
+  "moods": [
+    "playful",
+    "epic",
+    "fantastical"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "the stroke of midnight",
+      "a nation being born",
+      "children with strange powers"
+    ],
+    "oneLine": "A boy born at India's independence embodies the fate of the new nation."
+  },
+  "summary": "Born at the exact moment of India's independence, Saleem Sinai is telepathically linked to a thousand other 'midnight's children' gifted with strange powers, and his chaotic life becomes an allegory for the young nation itself. Salman Rushdie's exuberant, sprawling masterpiece fuses history, myth and magical realism in a torrent of language and invention. Winner of the Booker and later the 'Booker of Bookers', it reshaped Indian English fiction and remains one of the defining novels of the postcolonial world.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Rushdie's exuberant masterpiece, a child of independence whose life mirrors India's own. The novel that reshaped Indian fiction.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was twice voted the best of all Booker Prize winners, as the 'Booker of Bookers'.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

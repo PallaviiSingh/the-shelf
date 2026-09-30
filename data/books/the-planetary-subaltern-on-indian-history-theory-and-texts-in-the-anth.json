@@ -1,0 +1,77 @@
+{
+  "slug": "the-planetary-subaltern-on-indian-history-theory-and-texts-in-the-anth",
+  "title": "The Planetary Subaltern: On Indian History, Theory, and Texts in the Anthropocene",
+  "subtitle": null,
+  "authors": [
+    "somasree-sarkar",
+    "agnibha-maity"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2025,
+  "edition": {
+    "publisher": "Routledge India",
+    "series": null,
+    "isbn": "1041244967",
+    "pageCount": 222
+  },
+  "cover": {
+    "file": "assets/covers/the-planetary-subaltern-on-indian-history-theory-and-texts-in-the-anth.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6676a3",
+    "w": 667,
+    "h": 1000,
+    "palette": [
+      "#55679b",
+      "#213e8c",
+      "#7b89b3"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Environmental Humanities",
+    "Criticism"
+  ],
+  "region": "India",
+  "tags": [
+    "Anthropocene",
+    "subaltern studies",
+    "India",
+    "climate"
+  ],
+  "moods": [
+    "cerebral",
+    "political",
+    "urgent"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "climate precarity",
+      "subaltern voices",
+      "an Indian vantage"
+    ],
+    "oneLine": "Essays placing India's subaltern communities at the heart of the climate crisis."
+  },
+  "summary": "This scholarly collection, edited by Somasree Sarkar and Agnibha Maity, opens a dialogue between Anthropocene studies and the Subaltern Studies tradition, arguing that mainstream climate discourse overlooks the very communities, especially in India, that bear the worst of ecological precarity. Its essays work to recover and amplify subaltern voices in the planetary crisis, ranging across literary criticism and questions like the enduring violence of the Green Revolution. A timely academic contribution to the environmental humanities from a South Asian vantage.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Essays that put India's most vulnerable communities at the centre of the climate crisis. Timely, rigorous scholarship.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It belongs to Routledge's South Asian Literature in Focus series.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "01",
+  "enriched": true
+}

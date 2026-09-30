@@ -1,0 +1,77 @@
+{
+  "slug": "the-heart-goes-last",
+  "title": "The Heart Goes Last",
+  "subtitle": null,
+  "authors": [
+    "margaret-atwood"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2015,
+  "edition": {
+    "publisher": "Little, Brown Book Group",
+    "series": null,
+    "isbn": "0349007292",
+    "pageCount": 400
+  },
+  "cover": {
+    "file": "assets/covers/the-heart-goes-last.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#c33651",
+    "w": 636,
+    "h": 1000,
+    "palette": [
+      "#e41a2d",
+      "#363885",
+      "#dd99a0"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Science Fiction",
+    "Dystopian"
+  ],
+  "region": "Canada",
+  "tags": [
+    "dystopia",
+    "surveillance",
+    "satire",
+    "consumerism"
+  ],
+  "moods": [
+    "satirical",
+    "unsettling",
+    "playful"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to laugh",
+      "to think hard"
+    ],
+    "sensory": [
+      "a gated town",
+      "a shared prison",
+      "corporate menace"
+    ],
+    "oneLine": "A desperate couple trade freedom for a town that jails them half the year."
+  },
+  "summary": "A broke, desperate couple sign up for a gated community that promises security and jobs, on one condition: every other month they must live in its prison. What sounds like salvation curdles into a satirical nightmare of control, sex robots and corporate menace. Atwood's later dystopia is darker comedy than warning, skewering the trade of freedom for comfort with gleeful, unsettling invention. Broad and playful where The Handmaid's Tale is grave, it is Atwood having wicked fun with the near future.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Late Atwood in wicked, satirical mode: a couple trade freedom for comfort and regret it. Darkly funny near-future fun.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It began as a serialised digital-first story before Atwood expanded it into a novel.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A3",
+  "enriched": true
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "irelands-forgotten-past",
+  "title": "Ireland's Forgotten Past",
+  "subtitle": null,
+  "authors": [
+    "turtle-bunbury"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2020,
+  "edition": {
+    "publisher": "Thames and Hudson",
+    "series": null,
+    "isbn": "0500022534",
+    "pageCount": 224
+  },
+  "cover": {
+    "file": "assets/covers/irelands-forgotten-past.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4c594c",
+    "w": 662,
+    "h": 1000,
+    "palette": [
+      "#383e39",
+      "#8ec79c",
+      "#73997b"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History"
+  ],
+  "region": "Ireland",
+  "tags": [
+    "Ireland",
+    "hidden history",
+    "stories",
+    "illustrated"
+  ],
+  "moods": [
+    "curious",
+    "warm",
+    "atmospheric"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "comfort reading",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "hidden Irish stories",
+      "forgotten heroes",
+      "the byways of the past"
+    ],
+    "oneLine": "The overlooked adventurers and eccentrics of Irish history."
+  },
+  "summary": "Turtle Bunbury gathers the overlooked figures and half-buried stories of Irish history, the adventurers, rebels, eccentrics and forgotten heroes who slipped out of the standard textbooks. Ranging widely across the centuries and beautifully illustrated, it is a treasury of curious, vivid episodes rather than a single sweeping narrative. Warm, engaging and full of surprises, it is the kind of history book you dip into and keep discovering, ideal for anyone who loves the strange byways of the past.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A treasury of Ireland's overlooked characters and half-forgotten stories. Perfect for dipping into.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Turtle Bunbury is an Irish historian known for unearthing little-known stories from the past.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

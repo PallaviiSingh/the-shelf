@@ -1,0 +1,77 @@
+{
+  "slug": "celestial-bodies",
+  "title": "Celestial Bodies",
+  "subtitle": null,
+  "authors": [
+    "jokha-alharthi"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2010,
+  "edition": {
+    "publisher": "Simon & Schuster India",
+    "series": null,
+    "isbn": "9386797569",
+    "pageCount": 256
+  },
+  "cover": {
+    "file": "assets/covers/celestial-bodies.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7b727b",
+    "w": 650,
+    "h": 1000,
+    "palette": [
+      "#878299",
+      "#54587e",
+      "#384066"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Oman",
+  "tags": [
+    "Oman",
+    "family",
+    "slavery",
+    "women",
+    "translated"
+  ],
+  "moods": [
+    "quiet",
+    "melancholic",
+    "luminous"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "an Omani village",
+      "desert modernity",
+      "generations of women"
+    ],
+    "oneLine": "Three sisters live through Oman's leap from tradition into the oil age."
+  },
+  "summary": "In the Omani village of al-Awafi, three sisters and the households around them live through a country's rapid passage from a world of slavery and tradition into oil-era modernity. Told in shifting voices and jumps through time, Alharthi's novel builds a rich, non-linear family saga about marriage, loss and social change in a corner of the world rarely mapped in fiction. Quiet and demanding in the best way, it became the first novel originally written in Arabic to win the International Booker Prize.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A quietly ambitious family saga from Oman, unlike anything else on the shelf. A window onto a world English fiction rarely reaches.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was the first Arabic novel to win the International Booker Prize, in 2019.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

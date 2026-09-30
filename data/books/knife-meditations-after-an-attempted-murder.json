@@ -1,0 +1,76 @@
+{
+  "slug": "knife-meditations-after-an-attempted-murder",
+  "title": "Knife: Meditations after an Attempted Murder",
+  "subtitle": null,
+  "authors": [
+    "salman-rushdie"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2024,
+  "edition": {
+    "publisher": "Penguin Hamish Hamilton",
+    "series": null,
+    "isbn": "0670099589",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/knife-meditations-after-an-attempted-murder.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#f6e8cf",
+    "w": 667,
+    "h": 1000,
+    "palette": [
+      "#fef0d6",
+      "#d0c8b5",
+      "#ad9f87"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "India",
+  "tags": [
+    "survival",
+    "violence",
+    "love",
+    "free speech"
+  ],
+  "moods": [
+    "intense",
+    "tender",
+    "defiant"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a lecture stage",
+      "a long recovery",
+      "a defiant survival"
+    ],
+    "oneLine": "Rushdie confronts the near-fatal attack that took his eye, and survives it."
+  },
+  "summary": "In 2022, Salman Rushdie was stabbed on a lecture stage and nearly killed, losing the sight in one eye. This unflinching memoir confronts the attack, the long agony of recovery, and the love, especially of his wife, that carried him through. Meditating on violence, art and the freedom to write, it answers a knife with words. Raw, brave and finally life-affirming, it is a profound reckoning with mortality and a defiant defence of the imagination against those who would silence it.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Rushdie's unflinching account of surviving a near-fatal stabbing, answering a knife with words. Raw, brave and life-affirming.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Rushdie wrote it after being stabbed on stage in New York in 2022, an attack he barely survived.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

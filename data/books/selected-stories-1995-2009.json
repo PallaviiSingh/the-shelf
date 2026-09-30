@@ -1,0 +1,77 @@
+{
+  "slug": "selected-stories-1995-2009",
+  "title": "Selected Stories (1995-2009)",
+  "subtitle": null,
+  "authors": [
+    "alice-munro"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2011,
+  "edition": {
+    "publisher": "Vintage Classics",
+    "series": null,
+    "isbn": "1784876852",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/selected-stories-1995-2009.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#c3d0ab",
+    "w": 400,
+    "h": 615,
+    "palette": [
+      "#f8f2cf",
+      "#cde3e3",
+      "#f6c952"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Literary Fiction"
+  ],
+  "region": "Canada",
+  "tags": [
+    "short stories",
+    "memory",
+    "women",
+    "Canada"
+  ],
+  "moods": [
+    "quiet",
+    "melancholic",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "on a rainy day",
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "folded time",
+      "small-town lives",
+      "a late revelation"
+    ],
+    "oneLine": "Later Alice Munro, folding time and memory into perfect stories."
+  },
+  "summary": "The second volume of selected Alice Munro gathers her later stories, which grow, if anything, deeper and more daring in how they fold time, memory and revelation into a single narrative. Still rooted in small-town Canadian life, these are the works of a writer at the height of her powers, quietly rewriting what a short story can hold. Together with the first volume it makes the case, in the most understated way, for Munro as a giant of modern fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Later Munro, deeper and more daring with time and memory. The second half of a quiet giant's life work.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Munro announced her retirement from writing shortly before winning the Nobel Prize.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "the-unwomanly-face-of-war",
+  "title": "The Unwomanly Face of War",
+  "subtitle": null,
+  "authors": [
+    "svetlana-alexievich"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1985,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "0141983531",
+    "pageCount": 365
+  },
+  "cover": {
+    "file": "assets/covers/the-unwomanly-face-of-war.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a2a3a0",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#b4b5b1",
+      "#d3e5e4"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Oral History & Reportage"
+  ],
+  "region": "Belarus",
+  "tags": [
+    "World War II",
+    "women",
+    "testimony",
+    "Soviet"
+  ],
+  "moods": [
+    "bleak",
+    "haunting",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard"
+    ],
+    "sensory": [
+      "the Eastern Front",
+      "women at war",
+      "voices long silenced"
+    ],
+    "oneLine": "The Soviet women who fought World War II, in their own erased voices."
+  },
+  "summary": "Svetlana Alexievich gathered the testimonies of the Soviet women who fought in the Second World War, as snipers, pilots, nurses and soldiers, and were then written out of the official, masculine story of victory. In their own voices she builds a devastating chorus about war as women actually lived it: the fear, the blood, the small human details the histories leave out. An early masterwork from the Nobel laureate who turned oral history into literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "War as women actually lived it, in their own unforgettable voices. Alexievich's method at its most powerful.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Alexievich won the 2015 Nobel Prize for the body of documentary work this book helped begin.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "lord-of-the-flies-penguin-classics-deluxe-editions",
+  "title": "Lord of the Flies (Penguin Classics Deluxe editions)",
+  "subtitle": null,
+  "authors": [
+    "william-golding"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1954,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0143129406",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/lord-of-the-flies-penguin-classics-deluxe-editions.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#646b70",
+    "w": 667,
+    "h": 1000,
+    "palette": [
+      "#698b92",
+      "#b53854",
+      "#9d566a"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "survival",
+    "childhood",
+    "savagery",
+    "allegory"
+  ],
+  "moods": [
+    "bleak",
+    "unsettling",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to be thrilled",
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a tropical island",
+      "a signal fire",
+      "a painted tribe"
+    ],
+    "oneLine": "Schoolboys stranded without adults discover how quickly order turns to savagery."
+  },
+  "summary": "A plane crash strands a group of English schoolboys on a tropical island with no adults, and their attempt to govern themselves slides, with awful logic, from order into fear, ritual and violence. Golding's first novel is a lean, gripping and deeply pessimistic fable about the thin skin of civilisation and the savagery it barely contains. Told through the eyes of decent, doomed Ralph and the fragile Piggy, it has haunted readers since 1954 as an argument about what human beings are really like when the rules fall away.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The great fable of civilisation cracking apart, and a tense read in its own right. You never quite forget the conch, or Piggy.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Golding, a schoolteacher, later won the Nobel Prize in Literature in 1983.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

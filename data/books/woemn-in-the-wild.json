@@ -1,0 +1,77 @@
+{
+  "slug": "woemn-in-the-wild",
+  "title": "Women in the Wild",
+  "subtitle": null,
+  "authors": [
+    "anita-mani"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2023,
+  "edition": {
+    "publisher": "Juggernaut",
+    "series": null,
+    "isbn": "9353451817",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/woemn-in-the-wild.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4f3e3e",
+    "w": 360,
+    "h": 555,
+    "palette": [
+      "#2c1c22",
+      "#dfd16a",
+      "#4e3e27"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Nature Writing",
+    "Anthology"
+  ],
+  "region": "India",
+  "tags": [
+    "women",
+    "wildlife",
+    "conservation",
+    "India"
+  ],
+  "moods": [
+    "warm",
+    "curious",
+    "hopeful"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "in the sun"
+    ],
+    "sensory": [
+      "women in the field",
+      "forests and rivers",
+      "a broken glass ceiling"
+    ],
+    "oneLine": "The lives of India's most brilliant women wildlife biologists."
+  },
+  "summary": "Women in the Wild, edited by Anita Mani, gathers profiles of India's most brilliant women wildlife biologists, scientists who have worked across forests, rivers, oceans and mountains, and against real professional and gender barriers. Written by a range of contributors, its chapters bring to life figures like the herpetologist J. Vijaya, the pioneering ornithologist Jamal Ara, and researchers in rewilding and tiger genetics. An inspiring anthology that celebrates the women who have shaped Indian conservation.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Profiles of India's pioneering women wildlife biologists, working across forests, rivers and mountains. Inspiring and overdue.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The herpetologist J. Vijaya's work on turtle killings helped bring about a ban on the turtle trade in India.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

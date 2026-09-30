@@ -1,0 +1,13 @@
+{
+  "slug": "walter-scott",
+  "name": "Walter Scott",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Sir Walter Scott, 1st Baronet, was a Scottish novelist, poet and historian. Many of his works remain classics of European and Scottish literature. He is known for his Waverley novels (1814–1831), which were, for nearly a century, among the most popular and widely read novels in Europe. He is also known for his narrative poems",
+  "photo": null,
+  "books": [
+    "ivanhoe"
+  ],
+  "enriched": false
+}

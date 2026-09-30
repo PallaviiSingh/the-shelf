@@ -1,0 +1,77 @@
+{
+  "slug": "harry-potter-hardcover-boxed-set-book-1-7",
+  "title": "Harry Potter Hardcover Boxed Set - Book 1-7",
+  "subtitle": null,
+  "authors": [
+    "j-k-rowling"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1997,
+  "edition": {
+    "publisher": "Scholastic",
+    "series": null,
+    "isbn": "0439280613",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/harry-potter-hardcover-boxed-set-book-1-7.png",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#786b5f",
+    "w": 493,
+    "h": 369,
+    "alpha": true,
+    "palette": [
+      "#865025",
+      "#e0b281",
+      "#342b25"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "fantasy",
+    "magic",
+    "school",
+    "coming of age"
+  ],
+  "moods": [
+    "playful",
+    "epic",
+    "hopeful"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to escape",
+      "to relax and unwind",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a magic school",
+      "a hidden platform",
+      "a coming war"
+    ],
+    "oneLine": "An orphan discovers he is a wizard, and grows up at a school of magic."
+  },
+  "summary": "An orphaned boy learns on his eleventh birthday that he is a wizard, and is swept off to Hogwarts School of Witchcraft and Wizardry, where over seven years he finds friendship, faces the dark wizard who killed his parents, and grows up in the shadow of a coming war. Rowling's phenomenon needs little introduction: a warm, inventive, ever-darkening saga of loyalty, courage and belonging that turned a whole generation into readers and remains one of the most beloved series ever written.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The series that made a generation read. Cosy and thrilling by turns, and it grows up alongside you.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The seven books have sold more than 500 million copies, among the best-selling of all time.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

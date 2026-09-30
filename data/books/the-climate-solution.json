@@ -1,0 +1,76 @@
+{
+  "slug": "the-climate-solution",
+  "title": "The Climate Solution",
+  "subtitle": null,
+  "authors": [
+    "mridula-ramesh"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2018,
+  "edition": {
+    "publisher": "Hachette India",
+    "series": null,
+    "isbn": "9388322207",
+    "pageCount": 344
+  },
+  "cover": {
+    "file": "assets/covers/the-climate-solution.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#646059",
+    "w": 624,
+    "h": 1000,
+    "palette": [
+      "#121c2b",
+      "#eac499",
+      "#545125"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Popular Science"
+  ],
+  "region": "India",
+  "tags": [
+    "India",
+    "climate change",
+    "solutions",
+    "policy"
+  ],
+  "moods": [
+    "urgent",
+    "hopeful",
+    "practical"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study",
+      "a short sitting"
+    ],
+    "sensory": [
+      "India's water and farms",
+      "practical fixes",
+      "a country at risk"
+    ],
+    "oneLine": "What climate change means for India, and how the country can respond."
+  },
+  "summary": "Mridula Ramesh examines climate change through an Indian lens, laying out how warming already threatens the country's water, farming and cities, and what practical solutions, from policy to technology to individual action, might address it. Blending research with local stories and her own experience, she makes the crisis concrete for Indian readers and argues that the country can be central to the answer. Accessible and solution-focused, it is a valuable guide to what climate change means, and might yet mean, for India.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Climate change explained for India, with practical solutions. Accessible, grounded and hopeful.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It focuses on India's specific climate vulnerabilities, especially around water.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

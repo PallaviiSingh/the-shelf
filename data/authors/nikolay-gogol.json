@@ -1,0 +1,17 @@
+{
+  "slug": "nikolay-gogol",
+  "name": "Nikolay Gogol",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Nikolai Vasilyevich Gogol was a Russian novelist, short-story writer, and playwright of Ukrainian origin.",
+  "photo": {
+    "file": "assets/authors/nikolay-gogol.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nikolai_Gogol"
+  },
+  "books": [
+    "the-night-before-christmas"
+  ],
+  "enriched": false
+}

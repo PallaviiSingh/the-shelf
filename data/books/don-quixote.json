@@ -1,0 +1,77 @@
+{
+  "slug": "don-quixote",
+  "title": "Don Quixote",
+  "subtitle": null,
+  "authors": [
+    "cervantes"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1605,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241347769",
+    "pageCount": 519
+  },
+  "cover": {
+    "file": "assets/covers/don-quixote.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#f5795a",
+    "w": 720,
+    "h": 1185,
+    "palette": [
+      "#f7583d",
+      "#f2b088",
+      "#f38765"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "Spain",
+  "tags": [
+    "chivalry",
+    "madness",
+    "comedy",
+    "Spain"
+  ],
+  "moods": [
+    "playful",
+    "melancholic",
+    "epic"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to laugh",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "the plains of La Mancha",
+      "a tilting knight",
+      "windmills as giants"
+    ],
+    "oneLine": "A man reads too many romances, and rides out to be a knight."
+  },
+  "summary": "An elderly Spanish gentleman reads so many chivalric romances that he loses his wits, renames himself Don Quixote, and rides out with his earthy squire Sancho Panza to right wrongs and tilt at windmills he takes for giants. Often called the first modern novel, Cervantes's masterpiece is at once a hilarious comedy and a deeply moving meditation on idealism, delusion and the stories we live by. Vast, funny and unexpectedly tender, it invented much of what fiction can do.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Often called the first modern novel, and still one of the funniest and most moving. Windmills, madness, and a heartbreak of idealism.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is often called the first modern novel, and among the most translated books in the world.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B4",
+  "enriched": true
+}

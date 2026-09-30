@@ -1,0 +1,18 @@
+{
+  "slug": "aldous-huxley",
+  "name": "Aldous Huxley",
+  "birthYear": 1894,
+  "deathYear": 1963,
+  "nationality": "British",
+  "bio": "English writer and thinker from a well-known scientific family. He is best remembered for the 1932 dystopia Brave New World, but he wrote across fiction, essays and criticism, and later explored mysticism and psychedelics in books like The Doors of Perception. He moved to California and died in 1963, on the same day as C. S. Lewis and John F. Kennedy.",
+  "photo": {
+    "file": "assets/authors/aldous-huxley.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Aldous_Huxley",
+    "license": "Public domain",
+    "attribution": "Aldous Huxley"
+  },
+  "books": [
+    "brave-new-world"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "the-wife-of-baths-prologue-and-tale",
+  "title": "The Wife of Bath's Prologue and Tale",
+  "subtitle": null,
+  "authors": [
+    "geoffery-chaucer",
+    "harriet-raghunathan"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1400,
+  "edition": {
+    "publisher": "Worldview Critical Edition",
+    "series": null,
+    "isbn": "8186423400",
+    "pageCount": 427
+  },
+  "cover": {
+    "file": "assets/covers/the-wife-of-baths-prologue-and-tale.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a35035",
+    "w": 720,
+    "h": 1176,
+    "palette": [
+      "#82503c",
+      "#993924",
+      "#c9230f"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Drama & Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "Chaucer",
+    "women",
+    "marriage",
+    "medieval"
+  ],
+  "moods": [
+    "playful",
+    "satirical",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a much-married woman",
+      "a knight's quest",
+      "a defiant voice"
+    ],
+    "oneLine": "Chaucer's five-times-married Wife of Bath makes her case for women's power."
+  },
+  "summary": "This critical edition presents one of the most famous parts of The Canterbury Tales: the Wife of Bath, five times married and gloriously unrepentant, whose long prologue is a witty, defiant argument for women's authority in marriage, followed by her tale of a knight who must learn what women truly want. With scholarly apparatus for students, it isolates the medieval literature's most vivid and debated woman, a figure feminist critics still argue over.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Chaucer's most famous, most argued-over woman, in a student edition. The Wife of Bath is medieval literature's great scene-stealer.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The Wife of Bath is one of the most studied characters in all of English literature.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "don-delillo",
+  "name": "Don DeLillo",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Donald Richard DeLillo is an American novelist, short-story writer, playwright, screenwriter, and essayist. His works have covered subjects as diverse as consumerism, nuclear war, the complexities of language, art, television, the advent of the Digital Age, mathematics, politics, economics, and sports.",
+  "photo": null,
+  "books": [
+    "white-noise-penguin-orange-collection"
+  ],
+  "enriched": false
+}

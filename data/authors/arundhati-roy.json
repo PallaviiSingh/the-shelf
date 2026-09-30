@@ -1,0 +1,17 @@
+{
+  "slug": "arundhati-roy",
+  "name": "Arundhati Roy",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Suzanna Arundhati Roy is an Indian author best known for her novel The God of Small Things (1997), which won the Booker Prize for Fiction in 1997 and became the biggest-selling book by a non-expatriate Indian author. She is also a political activist involved in human rights and environmental causes. She was the winner of",
+  "photo": {
+    "file": "assets/authors/arundhati-roy.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arundhati_Roy"
+  },
+  "books": [
+    "the-god-of-small-things"
+  ],
+  "enriched": false
+}

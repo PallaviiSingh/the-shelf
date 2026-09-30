@@ -1,0 +1,14 @@
+{
+  "slug": "leo-tolstoy",
+  "name": "Leo Tolstoy",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Count Lev Nikolayevich Tolstoy, usually referred to in English as Leo Tolstoy, was a Russian writer. He is regarded as one of the greatest and most influential authors of all time.",
+  "photo": null,
+  "books": [
+    "anna-karenina",
+    "war-and-peace"
+  ],
+  "enriched": false
+}

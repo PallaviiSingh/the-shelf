@@ -1,0 +1,78 @@
+{
+  "slug": "the-turn-of-the-screw-and-other-stories",
+  "title": "The Turn of the Screw and Other Stories",
+  "subtitle": null,
+  "authors": [
+    "henry-james"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1898,
+  "edition": {
+    "publisher": "Vintage Classics",
+    "series": null,
+    "isbn": "0099511231",
+    "pageCount": 160
+  },
+  "cover": {
+    "file": "assets/covers/the-turn-of-the-screw-and-other-stories.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#3e3737",
+    "w": 651,
+    "h": 1000,
+    "palette": [
+      "#1f1313",
+      "#4f251d",
+      "#9ab5b6"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Gothic & Horror",
+    "Short Stories",
+    "Classic"
+  ],
+  "region": "United States",
+  "tags": [
+    "ghosts",
+    "ambiguity",
+    "governess",
+    "the uncanny"
+  ],
+  "moods": [
+    "haunting",
+    "unsettling",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a country house",
+      "two children",
+      "ghosts, or a cracking mind"
+    ],
+    "oneLine": "A governess sees ghosts, or perhaps only her own unravelling mind."
+  },
+  "summary": "A governess at a remote country house becomes convinced that two ghosts are threatening the children in her care, but James never lets us be sure whether the haunting is real or the workings of her own unravelling mind. That famous ambiguity makes The Turn of the Screw one of the most argued-over ghost stories ever written, and it anchors this collection of James's uncanny tales. Subtle, dread-filled and endlessly interpretable, it is horror for readers who like their terror uncertain.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The great ambiguous ghost story, where you can never be sure what is real. Perfect for readers who like their horror uncertain.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Scholars still argue whether the ghosts are real or hallucinated, exactly as James intended.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

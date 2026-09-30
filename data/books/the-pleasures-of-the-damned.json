@@ -1,0 +1,74 @@
+{
+  "slug": "the-pleasures-of-the-damned",
+  "title": "The Pleasures of the Damned",
+  "subtitle": null,
+  "authors": [
+    "charles-bukowski"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2007,
+  "edition": {
+    "publisher": "Canongate Books",
+    "series": null,
+    "isbn": "1786895226",
+    "pageCount": 576
+  },
+  "cover": {
+    "file": "assets/covers/the-pleasures-of-the-damned.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#828282",
+    "w": 650,
+    "h": 1000,
+    "palette": [
+      "#e1e1e1"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Poetry Collection"
+  ],
+  "region": "United States",
+  "tags": [
+    "selected poems",
+    "love",
+    "death",
+    "poetry"
+  ],
+  "moods": [
+    "bleak",
+    "tender",
+    "satirical"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "in bed at night",
+      "to relax and unwind"
+    ],
+    "sensory": [
+      "a lifetime of poems",
+      "bars and back rooms",
+      "facing death"
+    ],
+    "oneLine": "A career-spanning best-of Bukowski's plainspoken poetry."
+  },
+  "summary": "A generous posthumous selection of Bukowski's poems spanning his whole career, from the early barroom pieces to the wry, softened reflections on death of his final years. Chosen as a career-spanning introduction, it shows the surprising range beneath the tough-guy reputation: humour, grief, tenderness and a hard-won clarity about living and dying. For anyone wanting one Bukowski poetry book, this is the place to start.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The one-volume best of Bukowski's poetry, career-spanning and surprisingly tender. The place to start.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Published after his death, it collects poems from across his four decades of writing.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

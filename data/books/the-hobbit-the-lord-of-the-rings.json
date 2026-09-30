@@ -1,0 +1,78 @@
+{
+  "slug": "the-hobbit-the-lord-of-the-rings",
+  "title": "The Hobbit The Lord of the Rings",
+  "subtitle": null,
+  "authors": [
+    "j-r-r-tolkein"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1937,
+  "edition": {
+    "publisher": "Mariner Books",
+    "series": null,
+    "isbn": "0547928181",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-hobbit-the-lord-of-the-rings.png",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#594e30",
+    "w": 297,
+    "h": 438,
+    "alpha": true,
+    "palette": [
+      "#202020",
+      "#69b040",
+      "#ecc606"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Fantasy",
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "Middle-earth",
+    "quest",
+    "fantasy",
+    "myth"
+  ],
+  "moods": [
+    "epic",
+    "adventurous",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to escape",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "the Shire",
+      "a perilous quest",
+      "a ring of power"
+    ],
+    "oneLine": "Bilbo's adventure and the epic quest to destroy the One Ring."
+  },
+  "summary": "This volume gathers J. R. R. Tolkien's beloved Middle-earth saga: The Hobbit, in which the home-loving Bilbo Baggins is swept into an adventure to reclaim a dragon's hoard, and The Lord of the Rings, the epic quest to destroy the One Ring and unmake the dark lord Sauron. Drawing on a lifetime's invented languages, myth and history, Tolkien created the modern fantasy tradition almost single-handedly. Sweeping, warm and endlessly imagined, it is one of the most loved and influential works of the twentieth century.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The book that created modern fantasy, a whole world with its own languages and history. Sweeping, warm and endlessly re-readable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Tolkien, a professor of language, invented whole tongues like Elvish before writing the stories to give them a home.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

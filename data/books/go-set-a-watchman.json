@@ -1,0 +1,75 @@
+{
+  "slug": "go-set-a-watchman",
+  "title": "Go Set a Watchman",
+  "subtitle": null,
+  "authors": [
+    "harper-lee"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2015,
+  "edition": {
+    "publisher": "William Heinemann",
+    "series": null,
+    "isbn": "1785150286",
+    "pageCount": 304
+  },
+  "cover": {
+    "file": "assets/covers/go-set-a-watchman.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#bf5b1f",
+    "w": 650,
+    "h": 1000,
+    "palette": [
+      "#b53f05",
+      "#f4e8c8",
+      "#da6c07"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "race",
+    "the South",
+    "disillusion",
+    "fathers"
+  ],
+  "moods": [
+    "melancholic",
+    "political",
+    "bleak"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a return home",
+      "a fallen hero",
+      "the segregated South"
+    ],
+    "oneLine": "An adult Scout comes home and sees her father, and her country, anew."
+  },
+  "summary": "An adult Scout returns from New York to her Alabama hometown and is forced to see her revered father Atticus, and her whole idea of home, in a harsher, more troubling light. Written before To Kill a Mockingbird but published only in 2015, it reads as a rougher, more disillusioned companion to the classic, wrestling openly with the racism the earlier book softened. Uneven but fascinating, it complicates one of literature's most beloved fathers.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The controversial early draft that recasts Atticus, and America's idea of him. Rough, but a fascinating shadow of Mockingbird.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Written first but published 55 years after Mockingbird, its release stirred debate about how it came to light.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

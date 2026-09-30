@@ -1,0 +1,76 @@
+{
+  "slug": "tess-of-the-durbervilles",
+  "title": "Tess of the d'Urbervilles",
+  "subtitle": null,
+  "authors": [
+    "thomas-hardy"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1891,
+  "edition": {
+    "publisher": null,
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141040335",
+    "pageCount": 457
+  },
+  "cover": {
+    "file": "assets/covers/tess-of-the-durbervilles.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d5c3a2",
+    "w": 647,
+    "h": 1000,
+    "palette": [
+      "#d9dfb5",
+      "#d3b095",
+      "#ca6f67"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "Wessex",
+    "injustice",
+    "class",
+    "fate"
+  ],
+  "moods": [
+    "tragic",
+    "bleak",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "the Wessex countryside",
+      "a wronged innocent",
+      "the weight of fate"
+    ],
+    "oneLine": "A poor, innocent country girl crushed by fate and Victorian hypocrisy."
+  },
+  "summary": "A poor country girl, Tess Durbeyfield, is sent to claim kinship with a wealthy family and set on a path of seduction, shame and injustice that Victorian society will not forgive her, however innocent she truly is. Hardy's fierce, beautiful tragedy is a searing indictment of the sexual double standard and the cruelty of fate and class. Subtitled 'A Pure Woman', it scandalised its first readers and remains one of the most moving and angry novels of its age.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Hardy's angriest, most beautiful tragedy, and a fierce defence of a wronged woman. Devastating and unforgettable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Hardy's pointed subtitle, 'A Pure Woman', deliberately provoked his scandalised critics.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C3",
+  "enriched": true
+}

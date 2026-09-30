@@ -1,0 +1,69 @@
+{
+  "slug": "a-history-of-indian-literature-1911-1956-struggle-for-freedom-triumph-",
+  "title": "A History of Indian Literature (1911-1956) Struggle for freedom, triumph and tragedy",
+  "subtitle": null,
+  "authors": [
+    "sisir-kumar-das"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "South Asia Books",
+    "series": null,
+    "isbn": "8172017987",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/a-history-of-indian-literature-1911-1956-struggle-for-freedom-triumph-.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b96c10",
+    "w": 345,
+    "h": 550,
+    "palette": [
+      "#dc7201",
+      "#83540e",
+      "#3b230b"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "India",
+  "tags": [
+    "Indian literature",
+    "independence",
+    "literary history",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "the freedom struggle",
+      "independence and Partition",
+      "many languages at once"
+    ],
+    "oneLine": "A history of Indian literature, 1911 to 1956, freedom, triumph and tragedy."
+  },
+  "summary": "Part of Sisir Kumar Das's monumental history of Indian literature for the Sahitya Akademi, this volume covers 1911 to 1956, subtitled Struggle for Freedom, Triumph and Tragedy. It surveys the many literatures of India through the nationalist movement, independence and Partition, tracing how writers across dozens of languages responded to a transformative half-century. A pioneering, authoritative account of modern Indian literature during the making of the nation.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Das's monumental history of Indian literature through the freedom struggle and Partition, 1911 to 1956. Authoritative.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "A1",
+  "enriched": true
+}

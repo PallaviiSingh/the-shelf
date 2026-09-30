@@ -1,0 +1,74 @@
+{
+  "slug": "white-nights",
+  "title": "White Nights",
+  "subtitle": null,
+  "authors": [
+    "fyodor-dostoyevsky"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1848,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0241252083",
+    "pageCount": 126
+  },
+  "cover": {
+    "file": "assets/covers/white-nights.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#767676",
+    "w": 690,
+    "h": 1000,
+    "palette": [
+      "#878787"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "Russia",
+  "tags": [
+    "loneliness",
+    "St Petersburg",
+    "longing",
+    "youth"
+  ],
+  "moods": [
+    "tender",
+    "melancholic",
+    "romantic"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to feel something deeply",
+      "a short sitting"
+    ],
+    "sensory": [
+      "summer nights",
+      "empty canals",
+      "a bench by the water"
+    ],
+    "oneLine": "Four luminous nights, a lonely dreamer, and a love that was never his to keep."
+  },
+  "summary": "A lonely young dreamer wanders the empty summer streets of St Petersburg during its luminous white nights, and over four evenings falls into conversation, then something like love, with a young woman named Nastenka who is waiting for someone else. Almost nothing happens, and yet it aches. Dostoevsky's early novella is a small, luminous study of the kind of person who lives more fully in his imagination than his life, and of the tenderness and heartbreak of a connection that was never quite his to keep.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The most tender thing Dostoevsky ever wrote, and the gentlest way into him. A short, glowing ache of a book about loneliness and one brief, impossible closeness.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its title refers to the real phenomenon of St Petersburg's 'white nights', when the sun barely sets in midsummer.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

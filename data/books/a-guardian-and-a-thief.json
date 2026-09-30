@@ -1,0 +1,76 @@
+{
+  "slug": "a-guardian-and-a-thief",
+  "title": "A Guardian and a Thief",
+  "subtitle": null,
+  "authors": [
+    "megha-majumdar"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2025,
+  "edition": {
+    "publisher": "Penguin Hamish Hamilton",
+    "series": null,
+    "isbn": "0143477730",
+    "pageCount": 216
+  },
+  "cover": {
+    "file": "assets/covers/a-guardian-and-a-thief.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d1b581",
+    "w": 631,
+    "h": 1000,
+    "palette": [
+      "#f1dbaa",
+      "#f47a32",
+      "#828437"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "climate fiction",
+    "Kolkata",
+    "migration",
+    "near future"
+  ],
+  "moods": [
+    "bleak",
+    "suspenseful",
+    "urgent"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a drowning Kolkata",
+      "stolen documents",
+      "desperate choices"
+    ],
+    "oneLine": "In a flooded future Kolkata, a stolen purse threatens a family's escape."
+  },
+  "summary": "In a near-future Kolkata ravaged by flood and famine, a woman known as Ma is days from getting her small daughter and elderly father out of the country to join her husband in America, when a young, starving homeless thief steals the purse holding their hard-won immigration papers and climate visas. Over a single desperate week, Ma is pushed into ever darker moral compromises to salvage the family's escape. Megha Majumdar's second novel is a taut, unsettling story of climate displacement, love and the choices desperation forces.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Majumdar's taut climate-crisis novel of a family's desperate escape from a drowning Kolkata. Unsettling and morally fierce.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was a finalist for the 2025 National Book Award for Fiction.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

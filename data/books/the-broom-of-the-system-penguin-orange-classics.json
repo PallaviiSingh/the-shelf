@@ -1,0 +1,75 @@
+{
+  "slug": "the-broom-of-the-system-penguin-orange-classics",
+  "title": "The Broom of the System (Penguin Orange Classics)",
+  "subtitle": null,
+  "authors": [
+    "david-foster-wallace"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1987,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "0143129449",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-broom-of-the-system-penguin-orange-classics.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": null,
+    "dominantColor": "#de8161",
+    "w": 331,
+    "h": 500,
+    "palette": [
+      "#f34f10",
+      "#ebe7de",
+      "#b43c1c"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "language",
+    "identity",
+    "the postmodern",
+    "comedy"
+  ],
+  "moods": [
+    "playful",
+    "cerebral",
+    "satirical"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a switchboard",
+      "a missing grandmother",
+      "words about words"
+    ],
+    "oneLine": "A woman wonders if she is real, or just a character, in Wallace's debut."
+  },
+  "summary": "David Foster Wallace's precocious first novel follows Lenore Beadsman, a switchboard operator whose great-grandmother, a former student of Wittgenstein, has vanished, as she wonders whether she is a real person or merely a character in someone's story. Playful, verbose and philosophically restless, it announced Wallace's obsessions, language, self-consciousness, whether meaning is possible, in a comic, chaotic package. Uneven but dazzling, it is a fascinating first look at one of the most influential writers of his generation.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Wallace's dazzling, chaotic debut, already obsessed with language and selfhood. A fascinating first look at a singular mind.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Wallace wrote it as his undergraduate thesis at Amherst College.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

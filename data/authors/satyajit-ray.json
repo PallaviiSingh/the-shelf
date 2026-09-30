@@ -1,0 +1,19 @@
+{
+  "slug": "satyajit-ray",
+  "name": "Satyajit Ray",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Satyajit Ray was an Indian film director, screenwriter, author, lyricist, magazine editor, illustrator, calligrapher, and composer. He is widely considered to be one of the greatest and most influential film directors in the history of cinema. He is celebrated for works including The Apu Trilogy (1955–1959), The Music Room (1958), The Big City (1963), Charulata",
+  "photo": {
+    "file": "assets/authors/satyajit-ray.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Satyajit_Ray"
+  },
+  "books": [
+    "complete-adventures-of-feluda-vol-2",
+    "the-collected-short-stories",
+    "the-complete-adventures-of-feluda-vol-1"
+  ],
+  "enriched": false
+}

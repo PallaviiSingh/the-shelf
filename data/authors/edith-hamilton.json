@@ -1,0 +1,17 @@
+{
+  "slug": "edith-hamilton",
+  "name": "Edith Hamilton",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Edith Hamilton was an American educator and internationally known author who was one of the most renowned classicists of her era in the United States. A graduate of Bryn Mawr College, she also studied in Germany at Leipzig University and the Ludwig-Maximilians-Universität München. Hamilton began her career as an educator and head of the Bryn",
+  "photo": {
+    "file": "assets/authors/edith-hamilton.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Edith_Hamilton"
+  },
+  "books": [
+    "mythology-gods-and-heros"
+  ],
+  "enriched": false
+}

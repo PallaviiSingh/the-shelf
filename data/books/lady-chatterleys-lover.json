@@ -1,0 +1,75 @@
+{
+  "slug": "lady-chatterleys-lover",
+  "title": "Lady Chatterley's Lover",
+  "subtitle": null,
+  "authors": [
+    "d-h-lawrence"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1928,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 364
+  },
+  "cover": {
+    "file": "assets/covers/lady-chatterleys-lover.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8d9896",
+    "w": 720,
+    "h": 1166,
+    "palette": [
+      "#cae9e2",
+      "#c4c8b5"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "desire",
+    "class",
+    "censorship",
+    "the body"
+  ],
+  "moods": [
+    "sensual",
+    "romantic",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "in bed at night",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "an English estate",
+      "a forbidden affair",
+      "a plea for the body"
+    ],
+    "oneLine": "A frank, tender affair across class lines that scandalised the world."
+  },
+  "summary": "Married to a wealthy, paralysed aristocrat, Constance Chatterley finds herself drawn into a passionate affair with her husband's gamekeeper, crossing lines of both class and convention. Lawrence's frank, tender novel about sex, tenderness and the deadening effect of industrial modern life was banned for decades and became the subject of a landmark obscenity trial. Beyond the scandal it is a serious, lyrical argument for physical love and vitality against a cold, mechanised world.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The famous banned novel, and far more than its scandal, a lyrical plea for tenderness against a mechanised world.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its 1960 obscenity trial in Britain became a landmark moment for freedom of publication.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A3",
+  "enriched": true
+}

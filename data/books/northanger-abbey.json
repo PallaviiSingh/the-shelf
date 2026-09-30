@@ -1,0 +1,77 @@
+{
+  "slug": "northanger-abbey",
+  "title": "Northanger Abbey",
+  "subtitle": null,
+  "authors": [
+    "jane-austen"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1817,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141197714",
+    "pageCount": 251
+  },
+  "cover": {
+    "file": "assets/covers/northanger-abbey.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b38887",
+    "w": 618,
+    "h": 1000,
+    "palette": [
+      "#bd9890",
+      "#691342",
+      "#813a59"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Satire"
+  ],
+  "region": "England",
+  "tags": [
+    "Gothic parody",
+    "coming of age",
+    "Bath",
+    "Regency"
+  ],
+  "moods": [
+    "playful",
+    "romantic",
+    "satirical"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "to laugh",
+      "in bed at night"
+    ],
+    "sensory": [
+      "the city of Bath",
+      "a spooky abbey",
+      "an overheated imagination"
+    ],
+    "oneLine": "A girl raised on Gothic novels imagines dark secrets in a country abbey."
+  },
+  "summary": "Catherine Morland, a young woman raised on lurid Gothic novels, arrives in Bath and then at the mysterious Northanger Abbey convinced that real life must hold the same dark secrets as her favourite books. Austen's earliest completed novel is a sparkling parody of Gothic fiction and a wry coming-of-age story about learning to tell romance from reality. Light, funny and affectionate, it is the most playful thing she wrote and a love letter to, and gentle mockery of, reading itself.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Austen spoofing Gothic novels while writing a charming coming-of-age. Her lightest, most playful book.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was one of the first novels to affectionately parody the Gothic craze of its day.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C4",
+  "enriched": true
+}

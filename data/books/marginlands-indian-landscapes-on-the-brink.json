@@ -1,0 +1,75 @@
+{
+  "slug": "marginlands-indian-landscapes-on-the-brink",
+  "title": "Marginlands: Indian Landscapes on the Brink",
+  "subtitle": null,
+  "authors": [
+    "arati-kumar-rao"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2023,
+  "edition": {
+    "publisher": "Picador",
+    "series": null,
+    "isbn": "8119300335",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/marginlands-indian-landscapes-on-the-brink.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#454341",
+    "w": 645,
+    "h": 1000,
+    "palette": [
+      "#22201f"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Travel Writing",
+    "Environmental Humanities"
+  ],
+  "region": "India",
+  "tags": [
+    "India",
+    "landscapes",
+    "reportage",
+    "ecology"
+  ],
+  "moods": [
+    "atmospheric",
+    "tender",
+    "urgent"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "deserts and rivers",
+      "fragile margins",
+      "a decade of journeys"
+    ],
+    "oneLine": "A journey through India's fragile, vanishing landscapes and their people."
+  },
+  "summary": "Arati Kumar-Rao travels India's fragile edges, its deserts, rivers, coasts and forests, and the communities whose lives are bound to them, chronicling landscapes being lost to development, climate and neglect. An environmental photographer and writer, she blends reportage, natural history and lyrical observation to show change unfolding slowly across a decade of journeys. Beautifully written and quietly devastating, it makes visible the vanishing worlds at the country's margins and the people who know them best.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A photographer-writer's beautiful, decade-long reckoning with India's vanishing landscapes and the people bound to them.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Kumar-Rao is an environmental photographer who documented these places over many years.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

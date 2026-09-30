@@ -1,0 +1,14 @@
+{
+  "slug": "harper-lee",
+  "name": "Harper Lee",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Nelle Harper Lee was an American novelist whose 1960 novel To Kill a Mockingbird won the 1961 Pulitzer Prize and became a classic of modern American literature. She assisted her close friend Truman Capote in his research for the book In Cold Blood (1966). An earlier draft of Mockingbird, set at a later date, Go",
+  "photo": null,
+  "books": [
+    "go-set-a-watchman",
+    "to-kill-a-mockingbird"
+  ],
+  "enriched": false
+}

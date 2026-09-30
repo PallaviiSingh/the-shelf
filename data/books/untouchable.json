@@ -1,0 +1,77 @@
+{
+  "slug": "untouchable",
+  "title": "Untouchable",
+  "subtitle": null,
+  "authors": [
+    "mulk-raj-anand"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1935,
+  "edition": {
+    "publisher": "Penguin India",
+    "series": null,
+    "isbn": "0143027808",
+    "pageCount": 160
+  },
+  "cover": {
+    "file": "assets/covers/untouchable.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4a5e73",
+    "w": 689,
+    "h": 1000,
+    "palette": [
+      "#214a72",
+      "#1b293e",
+      "#546c85"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "caste",
+    "India",
+    "social realism",
+    "one day"
+  ],
+  "moods": [
+    "bleak",
+    "political",
+    "tender"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "a colonial town",
+      "daily humiliations",
+      "a day in one life"
+    ],
+    "oneLine": "A day in the life of a young untouchable in colonial India."
+  },
+  "summary": "A single day in the life of Bakha, a young latrine cleaner in colonial India, follows him through the humiliations heaped on him because of his caste, and the small hopes that might offer a way out. Mulk Raj Anand's pioneering novel was one of the first in English to put an untouchable at its centre and to attack the cruelty of caste head-on. Spare, angry and humane, it remains a landmark of Indian social fiction and a searing portrait of dignity under daily contempt.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A landmark Indian novel that put an untouchable at its centre and attacked caste head-on. Spare, angry and humane.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was among the first Indian novels in English to confront caste oppression directly.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

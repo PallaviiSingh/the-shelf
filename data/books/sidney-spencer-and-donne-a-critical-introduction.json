@@ -1,0 +1,75 @@
+{
+  "slug": "sidney-spencer-and-donne-a-critical-introduction",
+  "title": "Sidney, Spencer and Donne - A Critical Introduction",
+  "subtitle": null,
+  "authors": [
+    "rina-ramdev"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Worldview Critical Edition",
+    "series": null,
+    "isbn": "8186423427",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/sidney-spencer-and-donne-a-critical-introduction.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#625971",
+    "w": 638,
+    "h": 1000,
+    "palette": [
+      "#423269",
+      "#251c3e",
+      "#dee0d1"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Poetry",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "Renaissance",
+    "metaphysical",
+    "criticism",
+    "study guide"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "Renaissance verse",
+      "close reading",
+      "a student's companion"
+    ],
+    "oneLine": "A critical guide to the Renaissance poetry of Sidney, Spenser and Donne."
+  },
+  "summary": "A critical introduction to three great poets of the English Renaissance: Philip Sidney, Edmund Spenser and John Donne, whose sonnets, epics and metaphysical lyrics helped shape English poetry. Prepared as a student's companion, it sets the poems in their historical and intellectual context and offers close readings to guide new readers through their difficulty and richness. A useful scholarly doorway into the sixteenth- and seventeenth-century verse that underlies the whole English tradition.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A clear scholarly doorway into Sidney, Spenser and Donne, three pillars of English Renaissance poetry.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Donne's 'metaphysical' style, full of daring conceits, was rediscovered and prized in the twentieth century.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

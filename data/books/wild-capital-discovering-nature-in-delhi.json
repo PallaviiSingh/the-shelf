@@ -1,0 +1,76 @@
+{
+  "slug": "wild-capital-discovering-nature-in-delhi",
+  "title": "Wild Capital: Discovering Nature In Delhi",
+  "subtitle": null,
+  "authors": [
+    "neha-sinha"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2026,
+  "edition": {
+    "publisher": "Harper Fiction",
+    "series": null,
+    "isbn": "9369891773",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/wild-capital-discovering-nature-in-delhi.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#ccc2a1",
+    "w": 720,
+    "h": 1093,
+    "palette": [
+      "#e6e2cb",
+      "#cfcbb2",
+      "#b3b087"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Nature Writing"
+  ],
+  "region": "India",
+  "tags": [
+    "Delhi",
+    "wildlife",
+    "urban nature",
+    "India"
+  ],
+  "moods": [
+    "curious",
+    "warm",
+    "atmospheric"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "to think hard",
+      "in the sun"
+    ],
+    "sensory": [
+      "a teeming city",
+      "nature in plain sight",
+      "urban wilderness"
+    ],
+    "oneLine": "Discovering the wildlife and wild places hidden across Delhi."
+  },
+  "summary": "In Wild Capital, the conservationist Neha Sinha turns her attention to the overlooked wildernesses of Delhi, the creatures, ecological histories and quiet wonders hiding in plain sight across one of the world's busiest, fastest-growing cities. Drawing on fieldwork done largely during the pandemic lockdowns, she makes a warm, closely observed case for the biodiversity of urban India and for the value of paying attention to it. Engaging nature writing that finds the wild in the heart of the capital.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Neha Sinha finds the hidden wild in the heart of Delhi. Warm, closely observed urban nature writing.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Sinha did much of the book's fieldwork during the pandemic lockdowns in Delhi.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

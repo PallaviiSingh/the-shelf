@@ -1,0 +1,77 @@
+{
+  "slug": "the-brothers-karamazov",
+  "title": "The Brothers Karamazov",
+  "subtitle": null,
+  "authors": [
+    "fyodor-dostoevsky"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1880,
+  "edition": {
+    "publisher": "Vintage Classic",
+    "series": "Vintage",
+    "isbn": "0099922800",
+    "pageCount": 821
+  },
+  "cover": {
+    "file": "assets/covers/the-brothers-karamazov.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4b3723",
+    "w": 720,
+    "h": 1148,
+    "palette": [
+      "#211e0e",
+      "#565638",
+      "#ee0e33"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "Russia",
+  "tags": [
+    "faith",
+    "doubt",
+    "patricide",
+    "family",
+    "morality"
+  ],
+  "moods": [
+    "cerebral",
+    "epic",
+    "political"
+  ],
+  "difficulty": "summit",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "a Russian monastery",
+      "a courtroom",
+      "a father's house"
+    ],
+    "oneLine": "Three brothers, a murdered father, and the largest questions a novel can hold."
+  },
+  "summary": "Three very different brothers, the sensualist Dmitri, the icy intellectual Ivan and the gentle novice Alyosha, orbit their monstrous father, whose murder sets the novel's machinery going. But the plot is almost an excuse. Dostoevsky's final and largest novel is really a vast argument about God, freedom, suffering and whether goodness is possible in a world that permits the suffering of children. Its set pieces, above all the Grand Inquisitor, are among the most discussed passages in all of literature. Enormous, demanding and, for many readers, the greatest novel ever written.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The summit. A family murder that opens onto the biggest questions there are. Give it the time it asks for and few books will ever match it.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The 'Grand Inquisitor' chapter is so famous it is often read and taught entirely on its own.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

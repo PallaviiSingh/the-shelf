@@ -1,0 +1,77 @@
+{
+  "slug": "swami-and-friends-the-bachelor-of-arts-the-dark-room-the-english-teach",
+  "title": "Swami and Friends, The Bachelor of Arts, The Dark Room, The English teacher",
+  "subtitle": null,
+  "authors": [
+    "r-k-narayan"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/swami-and-friends-the-bachelor-of-arts-the-dark-room-the-english-teach.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6c484d",
+    "w": 631,
+    "h": 1000,
+    "palette": [
+      "#71404d",
+      "#3b2b26",
+      "#875966"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Malgudi",
+    "small town",
+    "childhood",
+    "India"
+  ],
+  "moods": [
+    "warm",
+    "gently comic",
+    "tender"
+  ],
+  "difficulty": "gentle",
+  "pace": "gentle",
+  "vibeProfile": {
+    "occasions": [
+      "comfort reading",
+      "to relax and unwind",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "the town of Malgudi",
+      "small-town lives",
+      "a gentle humour"
+    ],
+    "oneLine": "Four early Malgudi novels by India's most beloved storyteller."
+  },
+  "summary": "Four early novels by R. K. Narayan, gathered in one volume and set in his beloved fictional town of Malgudi: the schoolboy adventures of Swami and Friends, the young man's coming of age in The Bachelor of Arts, the quiet domestic drama of The Dark Room, and the tender, autobiographical grief of The English Teacher. Written in Narayan's gentle, deceptively simple prose, they conjure a whole world of ordinary South Indian life with humour and deep humanity. The perfect introduction to one of India's best-loved storytellers.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Four Malgudi novels in one, the perfect way to meet R. K. Narayan, India's gentlest and most beloved storyteller.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Narayan's fictional town of Malgudi has become as real to readers as any actual Indian city.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A4",
+  "enriched": true
+}

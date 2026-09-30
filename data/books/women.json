@@ -1,0 +1,75 @@
+{
+  "slug": "women",
+  "title": "Women",
+  "subtitle": null,
+  "authors": [
+    "charles-bukowski"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1978,
+  "edition": {
+    "publisher": "Ecco",
+    "series": null,
+    "isbn": "0061177598",
+    "pageCount": 304
+  },
+  "cover": {
+    "file": "assets/covers/women.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5c4850",
+    "w": 664,
+    "h": 1000,
+    "palette": [
+      "#3a1e39",
+      "#0f1014",
+      "#812241"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "relationships",
+    "drinking",
+    "fame",
+    "Los Angeles"
+  ],
+  "moods": [
+    "satirical",
+    "bleak",
+    "playful"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "poetry readings",
+      "cheap wine",
+      "a string of affairs"
+    ],
+    "oneLine": "A semi-famous poet lurches through affairs, readings and hangovers."
+  },
+  "summary": "Now a semi-famous poet, Henry Chinaski lurches through a string of affairs, readings and hangovers in a bruising, self-lacerating comedy about desire and its wreckage. Bukowski's novel is blunt, often crude and unsparing about its narrator's failings, chronicling middle-aged appetite with the same flat, funny directness as his other Chinaski books. Not for every reader, but for admirers it is Bukowski doing exactly what he did best: turning a messy life into deadpan literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Late-Chinaski Bukowski on desire and its wreckage, crude and unsparing. Blunt, funny, and definitely not for everyone.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Like most of Bukowski's fiction, it is closely, unflatteringly autobiographical.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

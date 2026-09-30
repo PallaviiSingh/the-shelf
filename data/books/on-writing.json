@@ -1,0 +1,74 @@
+{
+  "slug": "on-writing",
+  "title": "On Writing",
+  "subtitle": null,
+  "authors": [
+    "stephen-king"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1999,
+  "edition": {
+    "publisher": "Hodder Paperbacks",
+    "series": null,
+    "isbn": "1444723251",
+    "pageCount": 288
+  },
+  "cover": {
+    "file": "assets/covers/on-writing.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#505151",
+    "w": 657,
+    "h": 1000,
+    "palette": [
+      "#3a3b3a"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "United States",
+  "tags": [
+    "craft",
+    "memoir",
+    "advice",
+    "writing"
+  ],
+  "moods": [
+    "comforting",
+    "playful",
+    "cerebral"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "a short sitting",
+      "to think hard"
+    ],
+    "sensory": [
+      "a boyhood in Maine",
+      "a writer's desk",
+      "plain good advice"
+    ],
+    "oneLine": "King on how he actually writes, warm, funny and genuinely useful."
+  },
+  "summary": "Part memoir, part masterclass, Stephen King's book on the craft moves from his hardscrabble childhood and early struggles to the near-fatal accident that almost ended his career, and along the way lays out, plainly and generously, how he actually writes. His advice is famously practical: read a lot, write a lot, kill your adverbs, tell the truth. Warm, funny and free of pretension, it has become one of the most loved and useful books ever written about writing, for beginners and professionals alike.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The most useful, least pompous book on writing there is. Even if you never write a word, it is a great, warm read.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "He finished much of it while recovering from the 1999 accident that nearly killed him.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

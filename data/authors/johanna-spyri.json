@@ -1,0 +1,17 @@
+{
+  "slug": "johanna-spyri",
+  "name": "Johanna Spyri",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Johanna Spyri was a Swiss author of novels, notably children's stories. She wrote the popular book Heidi. Born in Hirzel, a rural area in the canton of Zürich, as a child she spent several summers near Chur in Graubünden, the setting she later would use in her novels.",
+  "photo": {
+    "file": "assets/authors/johanna-spyri.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Johanna_Spyri"
+  },
+  "books": [
+    "heidi"
+  ],
+  "enriched": false
+}

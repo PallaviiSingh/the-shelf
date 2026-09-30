@@ -1,0 +1,77 @@
+{
+  "slug": "yasi-rasa-ta",
+  "title": "Yasi Rasa Ta",
+  "subtitle": null,
+  "authors": [
+    "vinod-kumar-shukla"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Harper Hindi",
+    "series": null,
+    "isbn": "9789352643790",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/yasi-rasa-ta.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a8a685",
+    "w": 648,
+    "h": 1000,
+    "palette": [
+      "#f4edc3",
+      "#0b2833",
+      "#e1872b"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Children's"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Vinod Kumar Shukla",
+    "childhood",
+    "village"
+  ],
+  "moods": [
+    "tender",
+    "warm",
+    "luminous"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "comfort reading",
+      "to relax and unwind",
+      "in bed at night"
+    ],
+    "sensory": [
+      "spare Chhattisgarh villages",
+      "three young cousins",
+      "a wonder-struck eye"
+    ],
+    "oneLine": "Three village cousins' wonder at the world, in a poet's novel."
+  },
+  "summary": "A novel by Vinod Kumar Shukla for children and adults alike, whose curious title is simply made from the names of its three young protagonists, Yasi, Rasa and Ta. Following three cousins in the materially spare villages of Chhattisgarh, it unfolds through their wonder at their parents' lives and at the wider world around them. Tender and luminous, written in Shukla's poetic, wonder-struck prose, it has been likened to The Little Prince, a children's book that is also, unmistakably, a poet's book.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A tender Vinod Kumar Shukla novel of three village cousins' wonder, likened to The Little Prince. A poet's children's book.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its title is formed simply from the names of its three child protagonists, Yasi, Rasa and Ta.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

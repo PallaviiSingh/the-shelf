@@ -1,0 +1,77 @@
+{
+  "slug": "the-book-of-vanci",
+  "title": "The Book of Vanci",
+  "subtitle": null,
+  "authors": [
+    "ilanko-atikal"
+  ],
+  "translator": null,
+  "originalLanguage": "Tamil",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Worldview Publications",
+    "series": null,
+    "isbn": "9382267190",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-book-of-vanci.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#ac918e",
+    "w": 627,
+    "h": 1000,
+    "palette": [
+      "#9c566c",
+      "#e1ca9d",
+      "#84cdb1"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Verse Epic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Tamil",
+    "epic",
+    "Cilappatikaram",
+    "classic"
+  ],
+  "moods": [
+    "epic",
+    "tragic",
+    "luminous"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "ancient Tamil country",
+      "a wronged wife",
+      "a goddess born"
+    ],
+    "oneLine": "The final book of the ancient Tamil epic Cilappatikaram."
+  },
+  "summary": "The Book of Vanci is the third and final book of the Cilappatikaram, the great ancient Tamil epic attributed to Ilango Adigal, which tells the tragic story of Kannagi and her husband Kovalan and her terrible revenge on an unjust city. This book follows the aftermath, as Kannagi is deified and worship of her spreads. A cornerstone of classical Tamil literature, it blends poetry, drama and devotion in a work central to Tamil cultural identity.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The final book of the great Tamil epic of Kannagi, wronged wife turned avenging goddess. A cornerstone of Tamil literature.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The Cilappatikaram is one of the Five Great Epics of Tamil literature.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

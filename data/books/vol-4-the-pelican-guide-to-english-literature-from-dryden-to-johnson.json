@@ -1,0 +1,69 @@
+{
+  "slug": "vol-4-the-pelican-guide-to-english-literature-from-dryden-to-johnson",
+  "title": "Vol 4. The Pelican Guide to English Literature: From Dryden to Johnson",
+  "subtitle": null,
+  "authors": [
+    "boris-ford"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0140138102",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-4-the-pelican-guide-to-english-literature-from-dryden-to-johnson.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d4d9d2",
+    "w": 386,
+    "h": 640,
+    "palette": [
+      "#f3f1e2",
+      "#cce0cb",
+      "#57679c"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "eighteenth century",
+    "Augustan",
+    "Pelican Guide",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "Augustan wit",
+      "Pope and Swift",
+      "criticism for all"
+    ],
+    "oneLine": "The Pelican Guide from Dryden to Johnson."
+  },
+  "summary": "The fourth volume of Boris Ford's Pelican Guide to English Literature covers the later seventeenth and eighteenth centuries, From Dryden to Johnson. It surveys the Augustan poets, the rise of the novel, satire, and the great figures of Dryden, Pope, Swift, Fielding and Johnson, with critical essays alongside a general account of the age. Accessible and stimulating, it brings the wit and elegance of the period to a wide readership.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Pelican Guide's companion to the Augustan age, from Dryden to Johnson. Accessible and stimulating.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

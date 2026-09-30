@@ -1,0 +1,77 @@
+{
+  "slug": "the-edible-woman",
+  "title": "The Edible Woman",
+  "subtitle": null,
+  "authors": [
+    "margaret-atwood"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1969,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 295
+  },
+  "cover": {
+    "file": "assets/covers/the-edible-woman.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d9d2b9",
+    "w": 259,
+    "h": 429,
+    "trimmed": true,
+    "palette": [
+      "#e3e1cd",
+      "#b4af83",
+      "#c9c49f"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Canada",
+  "tags": [
+    "gender",
+    "consumerism",
+    "marriage",
+    "the body"
+  ],
+  "moods": [
+    "satirical",
+    "unsettling",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "to laugh"
+    ],
+    "sensory": [
+      "a 1960s office",
+      "a looming wedding",
+      "a body's revolt"
+    ],
+    "oneLine": "A bride-to-be finds she can no longer eat, and her body speaks for her."
+  },
+  "summary": "As her wedding approaches, a young woman named Marian finds she can no longer eat, her body rebelling against a life of being consumed, packaged and defined by others. Atwood's sharp, funny first novel turns that strange symptom into a comic, unsettling fable about gender, appetite and the pressures of conventional femininity in 1960s consumer society. An early, prescient work from a writer who would spend a career dissecting the same anxieties, it is playful on the surface and pointed underneath.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Atwood's sly, funny debut about a woman who literally can't stomach her own wedding. Prescient and pointed beneath the comedy.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was Atwood's first novel, written in the mid-1960s before second-wave feminism peaked.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A3",
+  "enriched": true
+}

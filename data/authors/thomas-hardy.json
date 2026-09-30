@@ -1,0 +1,17 @@
+{
+  "slug": "thomas-hardy",
+  "name": "Thomas Hardy",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Thomas Hardy was an English novelist, poet and architect. A Victorian realist in the tradition of George Eliot, he was influenced both in his novels and in his poetry by Romanticism, including the poetry of William Wordsworth. He was highly critical of much in Victorian society, especially on the declining status of rural people in",
+  "photo": null,
+  "books": [
+    "far-from-the-madding-crowd",
+    "jude-the-obscure",
+    "tess-of-the-durbervilles",
+    "the-mayor-of-casterbridge",
+    "wessex-poems"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "khaled-hosseini",
+  "name": "Khaled Hosseini",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Khaled Hosseini or Khalid Husseini is an Afghan and American novelist, UNHCR goodwill ambassador, and former physician. His debut novel The Kite Runner (2003) was a critical and commercial success; the book and his subsequent novels have all been at least partially set in Afghanistan and have featured an Afghan as the protagonist. Hosseini's novels",
+  "photo": null,
+  "books": [
+    "a-thousand-splendid-suns",
+    "and-the-mountains-echoed",
+    "the-kite-runner"
+  ],
+  "enriched": false
+}

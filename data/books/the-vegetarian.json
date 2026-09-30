@@ -1,0 +1,78 @@
+{
+  "slug": "the-vegetarian",
+  "title": "The Vegetarian",
+  "subtitle": null,
+  "authors": [
+    "han-kang"
+  ],
+  "translator": "Deborah Smith",
+  "originalLanguage": "Korean",
+  "translated": true,
+  "originalPublicationYear": 2007,
+  "edition": {
+    "publisher": "imusti, Granta Books",
+    "series": null,
+    "pageCount": 192
+  },
+  "cover": {
+    "file": "assets/covers/the-vegetarian.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b3a9ac",
+    "w": 639,
+    "h": 1019,
+    "trimmed": true,
+    "palette": [
+      "#e4e4e4",
+      "#c387b0",
+      "#c23838"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "South Korea",
+  "tags": [
+    "Korea",
+    "the body",
+    "rebellion",
+    "family"
+  ],
+  "moods": [
+    "unsettling",
+    "haunting",
+    "surreal"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a quiet refusal",
+      "an unravelling family",
+      "the body's rebellion"
+    ],
+    "oneLine": "A woman stops eating meat, and quietly unravels the world around her."
+  },
+  "summary": "When an ordinary Korean woman suddenly decides to stop eating meat after a violent dream, her small act of refusal spirals into something far stranger, unravelling her marriage, her family and her grip on the human world. Told in three parts from those around her, Han Kang's spare, unnerving novel is a haunting fable about bodily autonomy, desire and the violence beneath ordinary life. The book that brought the Nobel laureate to the world's attention, it is short, strange and impossible to forget.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Han Kang's haunting, unnerving fable of a woman who simply refuses. Spare, strange and unforgettable.",
+  "awards": [
+    "International Booker Prize 2016 (Han Kang & Deborah Smith)"
+  ],
+  "funFacts": [
+    {
+      "text": "Han Kang won the Nobel Prize in Literature in 2024; this book first brought her global fame.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

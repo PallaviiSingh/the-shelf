@@ -1,0 +1,76 @@
+{
+  "slug": "the-blind-assassin",
+  "title": "The Blind Assassin",
+  "subtitle": null,
+  "authors": [
+    "margaret-atwood"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2000,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 628
+  },
+  "cover": {
+    "file": "assets/covers/the-blind-assassin.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#73989b",
+    "w": 635,
+    "h": 1000,
+    "palette": [
+      "#69949b",
+      "#9bb6af",
+      "#f8f2d1"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Canada",
+  "tags": [
+    "family",
+    "secrets",
+    "story within a story",
+    "Canada"
+  ],
+  "moods": [
+    "melancholic",
+    "cerebral",
+    "dreamlike"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "an Ontario town",
+      "two sisters",
+      "a story within a story"
+    ],
+    "oneLine": "An old woman unspools her family's secrets, and the novel hidden inside them."
+  },
+  "summary": "An elderly Iris Chase looks back on her Ontario family's decline and her sister Laura's mysterious death, while a novel-within-the-novel, a pulpy science-fiction romance secretly written by one of them, threads through her account. Atwood nests stories inside stories to build a rich, slow-burning saga of sisters, secrets and a century of Canadian life, withholding its central revelation almost to the end. Intricate and rewarding, it won the Booker Prize and is among her most admired novels.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Atwood's Booker-winning puzzle box, a family saga with a novel hidden inside it. Slow, intricate and deeply rewarding.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won the Booker Prize in 2000.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A3",
+  "enriched": true
+}

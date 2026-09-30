@@ -1,0 +1,76 @@
+{
+  "slug": "khilega-to-dekhenge",
+  "title": "Khilega To Dekhenge",
+  "subtitle": null,
+  "authors": [
+    "vinod-kumar-shukla"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 1996,
+  "edition": {
+    "publisher": "Rajkamal Prakashan Pvt. Ltd",
+    "series": null,
+    "isbn": "8119028562",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/khilega-to-dekhenge.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b1b582",
+    "w": 415,
+    "h": 640,
+    "palette": [
+      "#f9f4cf",
+      "#56673f",
+      "#f8e356"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Vinod Kumar Shukla",
+    "village",
+    "Adivasi"
+  ],
+  "moods": [
+    "quiet",
+    "warm",
+    "dreamlike"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to relax and unwind",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "an Adivasi village",
+      "collective life",
+      "the ordinary made luminous"
+    ],
+    "oneLine": "Village life in tribal central India, rendered in image and quiet wonder."
+  },
+  "summary": "A novel by Vinod Kumar Shukla set in the tribal heartland of central India, written during the same mid-1990s residency that produced his most famous book. Rather than following a single plot, it renders the collective life of a resource-poor Adivasi village, drawing out the small joys and sorrows of often silent people through image and symbol in Shukla's unmistakable style, where the ordinary is always on the edge of wonder. Quiet, patient and luminous, it is the work of a writer who sees the whole world in a village.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Vinod Kumar Shukla's luminous novel of collective life in an Adivasi village, all image and quiet wonder.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Shukla wrote it during the same mid-1990s residency that produced his celebrated novel A Window Lived in a Wall.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

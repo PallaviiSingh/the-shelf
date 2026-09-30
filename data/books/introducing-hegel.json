@@ -1,0 +1,72 @@
+{
+  "slug": "introducing-hegel",
+  "title": "Introducing Hegel",
+  "subtitle": null,
+  "authors": [
+    "lloyd-spencer",
+    "andrzej-krauze"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Icon",
+    "series": null,
+    "isbn": "1848312083",
+    "pageCount": 176
+  },
+  "cover": {
+    "file": "assets/covers/introducing-hegel.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#68786f",
+    "w": 700,
+    "h": 1000,
+    "palette": [
+      "#023441",
+      "#02556a",
+      "#d0dee1"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy",
+    "Introduction",
+    "Graphic & Comics"
+  ],
+  "region": "Germany",
+  "tags": [
+    "philosophy",
+    "Hegel",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "dialectics",
+      "spirit and history",
+      "cartoons and clarity"
+    ],
+    "oneLine": "An illustrated introduction to the philosophy of Hegel."
+  },
+  "summary": "Part of the popular Introducing series of illustrated guides, this book makes the notoriously difficult philosophy of G. W. F. Hegel accessible, explaining his ideas on dialectics, history, spirit and the state through clear text and cartoons. It traces how Hegel's system shaped later thinkers from Marx to the existentialists. A genuinely helpful, entertaining first step into one of the hardest bodies of thought in Western philosophy.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The famously difficult Hegel, made accessible with clear text and cartoons. A genuinely helpful first step.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

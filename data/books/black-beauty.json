@@ -1,0 +1,77 @@
+{
+  "slug": "black-beauty",
+  "title": "Black Beauty",
+  "subtitle": null,
+  "authors": [
+    "anna-sewell"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1877,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 217
+  },
+  "cover": {
+    "file": "assets/covers/black-beauty.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#605a8b",
+    "w": 279,
+    "h": 431,
+    "trimmed": true,
+    "palette": [
+      "#696a9c",
+      "#4e4e6f",
+      "#28283a"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "animals",
+    "kindness",
+    "Victorian",
+    "compassion"
+  ],
+  "moods": [
+    "tender",
+    "melancholic",
+    "hopeful"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to feel something deeply",
+      "to relax and unwind"
+    ],
+    "sensory": [
+      "Victorian stables",
+      "London cab ranks",
+      "a horse's whole life"
+    ],
+    "oneLine": "A horse tells its own life, and asks us to be kind."
+  },
+  "summary": "Narrated by a horse, from a happy foalhood through hard years pulling cabs in Victorian London to a peaceful old age, Anna Sewell's classic asks its readers to see the world through an animal's eyes and to treat all creatures with kindness. Written to improve the lot of working horses, it became one of the best-loved children's books ever, gentle but unflinching about cruelty, and quietly radical in its plea for compassion toward the voiceless.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The gentle, moving classic told by a horse, and a real plea for kindness. It has made generations of children more compassionate.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Sewell wrote it to encourage the humane treatment of horses; it helped change how working animals were treated.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

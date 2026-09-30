@@ -1,0 +1,67 @@
+{
+  "slug": "a-glossary-of-literary-terms",
+  "title": "A Glossary of Literary Terms",
+  "subtitle": null,
+  "authors": [
+    "m-h-abrams"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "ASIN B0DWT9X6GK",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/a-glossary-of-literary-terms.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#abb17e",
+    "w": 333,
+    "h": 500,
+    "palette": [
+      "#e2f99e",
+      "#cbf66e",
+      "#fb986b"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Reference"
+  ],
+  "region": "United States",
+  "tags": [
+    "reference",
+    "literary terms",
+    "criticism"
+  ],
+  "moods": [
+    "cerebral",
+    "clear-eyed"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "literary vocabulary",
+      "clear definitions",
+      "a desk companion"
+    ],
+    "oneLine": "The classic reference glossary of literary terms and movements."
+  },
+  "summary": "M. H. Abrams's classic glossary is the standard reference for the vocabulary of literary study, defining and illustrating hundreds of terms from allegory and metaphor to deconstruction and postcolonialism. Concise, clear and reliably authoritative, it has guided students of English literature for decades, explaining not just individual terms but whole critical movements. An indispensable desk companion for anyone reading or writing about literature seriously.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The standard glossary of literary terms, clear and authoritative. Every literature student's desk companion.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

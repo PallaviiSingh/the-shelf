@@ -1,0 +1,75 @@
+{
+  "slug": "the-mirror-and-the-lamp",
+  "title": "The Mirror and the Lamp",
+  "subtitle": null,
+  "authors": [
+    "meyer-howard-abrams"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1953,
+  "edition": {
+    "publisher": "OUP USA",
+    "series": null,
+    "isbn": "0195014715",
+    "pageCount": 406
+  },
+  "cover": {
+    "file": "assets/covers/the-mirror-and-the-lamp.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d8aa69",
+    "w": 623,
+    "h": 1000,
+    "palette": [
+      "#fda938",
+      "#fdc272",
+      "#f6e0b5"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Criticism"
+  ],
+  "region": "United States",
+  "tags": [
+    "Romanticism",
+    "criticism",
+    "aesthetics",
+    "theory"
+  ],
+  "moods": [
+    "cerebral",
+    "luminous"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "mirror and lamp",
+      "the Romantic turn",
+      "a theory of art"
+    ],
+    "oneLine": "How Western thought turned from art as mirror to art as lamp."
+  },
+  "summary": "M. H. Abrams's landmark study traces the great shift in how the West understood art: from the classical idea of literature as a mirror held up to the world, to the Romantic idea of the poem as a lamp, radiating the inner light of the artist. Learned and beautifully argued, it is one of the most influential works of literary criticism of the twentieth century and the standard account of Romantic aesthetic theory.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Abrams's landmark study of how art went from mirror to lamp. One of the century's most influential works of criticism.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its title contrasts two metaphors for art: the mirror of imitation and the lamp of the artist's mind.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "01",
+  "enriched": true
+}

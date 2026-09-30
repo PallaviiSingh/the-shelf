@@ -1,0 +1,19 @@
+{
+  "slug": "stephen-king",
+  "name": "Stephen King",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Stephen Edwin King is an American author. Dubbed the \"King of Horror\", he is widely known for his horror fiction and has also explored other genres, among them suspense, crime, science-fiction, fantasy, and mystery. He has written approximately 200 short stories, most of which have been published in collections.",
+  "photo": {
+    "file": "assets/authors/stephen-king.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stephen_King"
+  },
+  "books": [
+    "duma-key",
+    "on-writing",
+    "the-shining"
+  ],
+  "enriched": false
+}

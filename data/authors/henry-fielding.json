@@ -1,0 +1,17 @@
+{
+  "slug": "henry-fielding",
+  "name": "Henry Fielding",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Henry Fielding was an English writer and judge known for the use of humour and satire in his works. His famous novels include Shamela (1741), Joseph Andrews (1742), The History of Tom Jones, a Foundling (1749) and Amelia (1751). Along with Samuel Richardson, Fielding is seen as the founder of the traditional English novel. As",
+  "photo": {
+    "file": "assets/authors/henry-fielding.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_Fielding"
+  },
+  "books": [
+    "tom-jones"
+  ],
+  "enriched": false
+}

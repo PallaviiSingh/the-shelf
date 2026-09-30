@@ -1,0 +1,122 @@
+{
+  "charlotte-bronte": {
+    "photo": "assets/authors/charlotte-bronte.jpg",
+    "license": "Public domain",
+    "attribution": "Branwell Brontë",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB",
+    "width": 1264,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "mikhail-bulgakov": {
+    "photo": "assets/authors/mikhail-bulgakov.jpg",
+    "license": "Public domain",
+    "attribution": "Moisej Nappelbaum",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mikhail_Bulgakov",
+    "width": 930,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "boris-pasternak": {
+    "photo": "assets/authors/boris-pasternak.jpg",
+    "license": "Public domain",
+    "attribution": "Владимир Савостьянов / ТАСС",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Boris_Pasternak",
+    "width": 1516,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Boris_Pasternak_1958_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "janice-pariat": {
+    "photo": "assets/authors/janice-pariat.jpg",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Harvinder Chandigarh",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Janice_Pariat",
+    "width": 452,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Janice_Pariat_an_Indian_poet_and_writer_from_Shillong%2C_Meghalaya_origin_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "yiyun-li": {
+    "photo": "assets/authors/yiyun-li.jpg",
+    "license": "CC BY 3.0",
+    "attribution": "Librairie Mollat",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Yiyun_Li",
+    "width": 846,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Yiyun_Li.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "aldous-huxley": {
+    "photo": "assets/authors/aldous-huxley.jpg",
+    "license": "Public domain",
+    "attribution": "Aldous Huxley",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Aldous_Huxley",
+    "width": 454,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Aldous_Huxley_psychical_researcher.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "satoshi-yagisawa": {
+    "photo": "assets/authors/satoshi-yagisawa.jpg",
+    "width": 257,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Days_at_the_Morisaki_Bookshop",
+    "license": "Fair use",
+    "attribution": "Satoshi Yagisawa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/10/Days_at_the_Morisaki_Bookshop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "james-joyce": {
+    "photo": "assets/authors/james-joyce.jpg",
+    "license": "Public domain",
+    "attribution": "",
+    "sourceUrl": "https://en.wikipedia.org/wiki/James_Joyce",
+    "width": 570,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Revolutionary_Joyce_Better_Contrast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "anthony-burgess": {
+    "photo": "assets/authors/anthony-burgess.jpg",
+    "license": "CC BY-SA 3.0",
+    "attribution": "Open Media Ltd.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anthony_Burgess",
+    "width": 1929,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Anthony_Burgess_appearing_on_%22After_Dark%22%2C_21_May_1988.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "han-kang": {
+    "photo": "assets/authors/han-kang.jpg",
+    "width": 1730,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Han_Kang",
+    "license": "CC BY-SA 4.0",
+    "attribution": "John Sears",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Han_Kang%2C_2024_Nobel_Prize_Laureate_in_Literature_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "v-s-naipaul": {
+    "photo": "assets/authors/v-s-naipaul.jpg",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Faizul Latif Chowdhury",
+    "sourceUrl": "https://en.wikipedia.org/wiki/V._S._Naipaul",
+    "width": 1920,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/VS_Naipaul_2016_Dhaka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "samantha-harvey": {
+    "photo": "assets/authors/samantha-harvey.jpg",
+    "width": 2988,
+    "sourceUrl": "https://en.wikipedia.org/wiki/Samantha_Harvey",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Luminish",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Samantha_Harvey_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "vladimir-nabokov": {
+    "photo": "assets/authors/vladimir-nabokov.jpg",
+    "license": "Public domain",
+    "attribution": "Walter Mori (Mondadori Publishers)",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vladimir_Nabokov",
+    "width": 671,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Vladimir_Nabokov_1973.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "shirley-jackson": {
+    "photo": "assets/authors/shirley-jackson.jpg",
+    "license": "Public domain",
+    "attribution": "Eric Hartmann",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Shirley_Jackson",
+    "width": 1068,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Shirley_Jackson_1940s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "svetlana-alexievich": {
+    "photo": "assets/authors/svetlana-alexievich.jpg",
+    "license": "FAL",
+    "attribution": "A.Savin",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Svetlana_Alexievich",
+    "width": 3761,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Svetlana_Alexievich_asv2024-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  }
+}

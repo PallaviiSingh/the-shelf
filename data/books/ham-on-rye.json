@@ -1,0 +1,76 @@
+{
+  "slug": "ham-on-rye",
+  "title": "Ham on Rye",
+  "subtitle": null,
+  "authors": [
+    "charles-bukowski"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1982,
+  "edition": {
+    "publisher": "Ecco",
+    "series": null,
+    "isbn": "006117758X",
+    "pageCount": 288
+  },
+  "cover": {
+    "file": "assets/covers/ham-on-rye.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5e484f",
+    "w": 720,
+    "h": 1084,
+    "palette": [
+      "#3b1e39",
+      "#0f1014",
+      "#822142"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "childhood",
+    "Depression",
+    "abuse",
+    "Los Angeles"
+  ],
+  "moods": [
+    "bleak",
+    "satirical",
+    "tender"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "on a rainy day",
+      "to feel something deeply",
+      "a short sitting"
+    ],
+    "sensory": [
+      "Depression-era LA",
+      "a violent home",
+      "a boy's armour"
+    ],
+    "oneLine": "Bukowski's alter ego grows up poor and brutalised in 1930s Los Angeles."
+  },
+  "summary": "Widely considered Bukowski's best novel, this is the origin story of Henry Chinaski: a grim, funny account of growing up poor in Depression-era Los Angeles, with a violent father, brutal acne and a growing armour of alienation. Beneath the toughness runs real feeling about loneliness and survival, and it explains, better than any of his other books, where the Chinaski of the later novels came from. Raw, hard and unexpectedly moving.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Bukowski's best, and his most human: a hard, funny account of a brutal childhood. The book that explains all the others.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Many readers and critics consider Ham on Rye the finest of Bukowski's novels.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

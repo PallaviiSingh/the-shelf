@@ -1,0 +1,76 @@
+{
+  "slug": "post-office",
+  "title": "Post Office",
+  "subtitle": null,
+  "authors": [
+    "charles-bukowski"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1971,
+  "edition": {
+    "publisher": "Ecco",
+    "series": null,
+    "isbn": "0061177571",
+    "pageCount": 160
+  },
+  "cover": {
+    "file": "assets/covers/post-office.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6e5655",
+    "w": 664,
+    "h": 1000,
+    "palette": [
+      "#3b1e38",
+      "#0f0f14",
+      "#81203f"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "work",
+    "drinking",
+    "Los Angeles",
+    "the low life"
+  ],
+  "moods": [
+    "satirical",
+    "bleak",
+    "playful"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to laugh",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a sorting room",
+      "cheap bars",
+      "dead-end shifts"
+    ],
+    "oneLine": "Bukowski's boozing alter ego survives years of soul-killing postal work."
+  },
+  "summary": "Henry Chinaski, Bukowski's boozing, gambling, women-chasing alter ego, drags himself through years of soul-killing work at the US Postal Service in this, Bukowski's first novel. Told in short, flat, funny bursts, it is a bruised comedy about dead-end jobs, hangovers and survival at the bottom of American life. Crude, direct and weirdly life-affirming, it launched the Chinaski saga and Bukowski's reputation as the poet laureate of the down and out.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Bukowski's raw, funny debut about hating your job and drinking through it. Crude, direct and oddly life-affirming.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Bukowski really did work at the post office for years before quitting to write full-time at fifty.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

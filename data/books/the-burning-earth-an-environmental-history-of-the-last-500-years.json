@@ -1,0 +1,76 @@
+{
+  "slug": "the-burning-earth-an-environmental-history-of-the-last-500-years",
+  "title": "The Burning Earth: An Environmental History of the Last 500 Years",
+  "subtitle": null,
+  "authors": [
+    "sunil-amrith"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2024,
+  "edition": {
+    "publisher": "Allen Lane",
+    "series": null,
+    "isbn": "0241461987",
+    "pageCount": 456
+  },
+  "cover": {
+    "file": "assets/covers/the-burning-earth-an-environmental-history-of-the-last-500-years.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d2c7b1",
+    "w": 650,
+    "h": 1000,
+    "palette": [
+      "#e2d9c7",
+      "#c9bb99",
+      "#ada082"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History",
+    "Environmental Humanities"
+  ],
+  "region": "World",
+  "tags": [
+    "environmental history",
+    "empire",
+    "climate",
+    "global"
+  ],
+  "moods": [
+    "epic",
+    "cerebral",
+    "urgent"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "five centuries",
+      "conquest and industry",
+      "a burning planet"
+    ],
+    "oneLine": "A global environmental history of the last five hundred years."
+  },
+  "summary": "Sunil Amrith tells the environmental history of the past five centuries as a single connected story, showing how conquest, migration, empire and industry remade the planet and set us on the path to today's crisis. Ranging across continents and drawing human and natural history together, he links the exploitation of land and people in a sweeping global narrative. Ambitious and beautifully written, it reframes the modern age as an environmental drama and helps explain how we arrived at a burning earth.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A sweeping five-century environmental history linking empire, migration and today's crisis. Ambitious and beautifully told.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Amrith connects the histories of empire, migration and the exploitation of nature into one story.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

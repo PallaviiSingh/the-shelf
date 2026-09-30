@@ -1,0 +1,78 @@
+{
+  "slug": "mac-flecknoe",
+  "title": "Mac Flecknoe",
+  "subtitle": null,
+  "authors": [
+    "john-dryden",
+    "madhu-grover"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1682,
+  "edition": {
+    "publisher": "Worldview Critical Edition",
+    "series": null,
+    "isbn": "8186423508",
+    "pageCount": 524
+  },
+  "cover": {
+    "file": "assets/covers/mac-flecknoe.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#56482e",
+    "w": 720,
+    "h": 1126,
+    "palette": [
+      "#121211",
+      "#523d23",
+      "#84673b"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Satire"
+  ],
+  "region": "England",
+  "tags": [
+    "satire",
+    "mock-epic",
+    "rivalry",
+    "18th century"
+  ],
+  "moods": [
+    "satirical",
+    "witty",
+    "playful"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "a short sitting",
+      "to think hard"
+    ],
+    "sensory": [
+      "a kingdom of dullness",
+      "a mock coronation",
+      "a rival skewered"
+    ],
+    "oneLine": "Dryden crowns a rival poet king of dullness, in a gleeful mock-epic."
+  },
+  "summary": "Dryden's brilliant mock-epic crowns a rival poet, Thomas Shadwell, as heir to a kingdom of dullness, mocking him in the grand, solemn language of true epic to devastating comic effect. The founding poem of English literary satire, it turned a personal quarrel into an art form and set the template for later mock-heroic verse. This scholarly edition supplies the context and notes. Short, sharp and gleefully cruel, it is one of the funniest attacks in English poetry.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The founding poem of English satire, a gleefully cruel mock-epic. Short, sharp and very funny.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It set the template for the mock-heroic satire that Pope would later perfect.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "anna-sewell",
+  "name": "Anna Sewell",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Anna Sewell was an English novelist who is known for her only book, Black Beauty, a novel about a horse. She was born into a Quaker family in Norfolk and moved to London as a baby. Her mother, Mary Wright Sewell, was the author of popular children's books. Sewell never married and always lived with",
+  "photo": null,
+  "books": [
+    "black-beauty"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "indias-stuggle-for-independence",
+  "title": "India's Stuggle for Independence",
+  "subtitle": null,
+  "authors": [
+    "bipan-chandra"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1988,
+  "edition": {
+    "publisher": "India Penguin",
+    "series": null,
+    "isbn": "9780140107814",
+    "pageCount": 600
+  },
+  "cover": {
+    "file": "assets/covers/indias-stuggle-for-independence.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#868d7c",
+    "w": 488,
+    "h": 650,
+    "palette": [
+      "#e8bc2a",
+      "#5680c5",
+      "#4c6a9c"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History"
+  ],
+  "region": "India",
+  "tags": [
+    "freedom struggle",
+    "India",
+    "nationalism",
+    "colonialism"
+  ],
+  "moods": [
+    "political",
+    "epic",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "the fight for freedom",
+      "mass movements",
+      "the road to 1947"
+    ],
+    "oneLine": "The definitive history of India's struggle for independence."
+  },
+  "summary": "A comprehensive history of India's long fight for freedom from British rule, from the revolt of 1857 through the rise of the Congress, the Gandhian mass movements and Partition to independence in 1947. Written by Bipan Chandra and a team of leading historians, it draws on decades of research to tell the story from the perspective of the movement itself. Clear, authoritative and widely read, it has become one of the standard accounts of modern Indian history.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The standard, authoritative account of India's freedom struggle, from 1857 to 1947. Clear and comprehensive.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Bipan Chandra wrote it with a team of historians; it remains a standard university text.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A1",
+  "enriched": true
+}

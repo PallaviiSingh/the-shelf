@@ -1,0 +1,69 @@
+{
+  "slug": "oxford-history-of-english-literature-the-age-of-johnson-1740-1789",
+  "title": "Oxford History of English Literature: The Age of Johnson (1740- 1789)",
+  "subtitle": null,
+  "authors": [
+    "john-butt",
+    "geoffrey-carnall"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Clarendon Press",
+    "series": null,
+    "isbn": "0198122365",
+    "pageCount": 671
+  },
+  "cover": {
+    "file": "assets/covers/oxford-history-of-english-literature-the-age-of-johnson-1740-1789.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#79878c",
+    "w": 246,
+    "h": 396,
+    "palette": [
+      "#143166",
+      "#fafac8",
+      "#b6b79c"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "eighteenth century",
+    "Johnson",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "Dr Johnson's circle",
+      "the rising novel",
+      "a transitional age"
+    ],
+    "oneLine": "The Oxford history of the Age of Johnson, 1740 to 1789."
+  },
+  "summary": "This volume of the Oxford History of English Literature covers the Age of Johnson, from 1740 to 1789, dominated by Samuel Johnson and his circle. It surveys the poetry, prose, criticism and the rise of the novel in the later eighteenth century, from Fielding and Sterne to Gray and Goldsmith. An authoritative scholarly account of a rich transitional era between the Augustans and the Romantics, centred on one of the great figures of English letters.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Oxford account of the Age of Johnson, the later eighteenth century and the rising novel. Authoritative.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

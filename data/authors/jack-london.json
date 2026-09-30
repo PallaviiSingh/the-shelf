@@ -1,0 +1,17 @@
+{
+  "slug": "jack-london",
+  "name": "Jack London",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "John Griffith London, better known as Jack London, was an American novelist, journalist and activist. A pioneer of commercial fiction and American magazines, he was one of the first American authors to become an international celebrity and earn a large fortune from writing.",
+  "photo": {
+    "file": "assets/authors/jack-london.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jack_London"
+  },
+  "books": [
+    "the-call-of-the-wild"
+  ],
+  "enriched": false
+}

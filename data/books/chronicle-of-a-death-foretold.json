@@ -1,0 +1,77 @@
+{
+  "slug": "chronicle-of-a-death-foretold",
+  "title": "Chronicle of a Death Foretold",
+  "subtitle": null,
+  "authors": [
+    "gabriel-garcia-marquez"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1981,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": null,
+    "pageCount": 134
+  },
+  "cover": {
+    "file": "assets/covers/chronicle-of-a-death-foretold.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4d9976",
+    "w": 654,
+    "h": 1000,
+    "palette": [
+      "#3ab686",
+      "#69c299",
+      "#139a69"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Magical Realism"
+  ],
+  "region": "Colombia",
+  "tags": [
+    "honour killing",
+    "fate",
+    "small town",
+    "translated"
+  ],
+  "moods": [
+    "suspenseful",
+    "dreamlike",
+    "bleak"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to be thrilled",
+      "to think hard"
+    ],
+    "sensory": [
+      "a sleepy river town",
+      "a wedding's aftermath",
+      "a foretold death"
+    ],
+    "oneLine": "A whole town knows a man will be killed, and lets it happen anyway."
+  },
+  "summary": "Everyone in the town knows the Vicario brothers intend to kill Santiago Nasar to avenge their sister's honour. Everyone, it seems, except Santiago. Marquez reconstructs the hours around the murder like a journalist sifting a decades-old case, circling the same doomed morning from every angle, so that the horror lies not in whodunit but in how an entire community let it happen. Short, hypnotic and blackly ironic, it is the most tightly controlled thing he wrote, a study of fate, machismo and collective guilt.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A murder everyone sees coming and no one stops. Short, spellbinding, and the best hour-long way into Marquez.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It draws on a real 1951 killing in Colombia involving people Marquez knew.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

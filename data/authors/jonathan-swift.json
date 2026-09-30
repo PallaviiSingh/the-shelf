@@ -1,0 +1,13 @@
+{
+  "slug": "jonathan-swift",
+  "name": "Jonathan Swift",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Jonathan Swift was an Anglo-Irish writer, essayist, satirist, and Anglican cleric. He was the author of the satirical prose novel Gulliver's Travels (1726) and the creator of the fictional island of Lilliput. He is regarded by many as the greatest satirist of the Georgian era and one of the foremost prose authors in the history",
+  "photo": null,
+  "books": [
+    "gullivers-travels"
+  ],
+  "enriched": false
+}

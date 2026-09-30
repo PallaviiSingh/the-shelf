@@ -1,0 +1,76 @@
+{
+  "slug": "em-and-the-big-hoom",
+  "title": "Em and the Big Hoom",
+  "subtitle": null,
+  "authors": [
+    "jerry-pinto"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2012,
+  "edition": {
+    "publisher": "Aleph Book Company",
+    "series": null,
+    "isbn": "9789382277316",
+    "pageCount": 212
+  },
+  "cover": {
+    "file": "assets/covers/em-and-the-big-hoom.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#474342",
+    "w": 250,
+    "h": 380,
+    "palette": [
+      "#1a1a1c",
+      "#c5b9af",
+      "#e6dcd2"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "mental illness",
+    "family",
+    "Bombay",
+    "love"
+  ],
+  "moods": [
+    "tender",
+    "warm",
+    "bittersweet"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "a short sitting",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a small Bombay flat",
+      "a volatile, brilliant mother",
+      "an enduring love"
+    ],
+    "oneLine": "A son tries to understand his brilliant, bipolar mother in a Bombay flat."
+  },
+  "summary": "In a small Bombay flat, a son tries to understand his brilliant, volatile mother, Em, whose bipolar illness fills the family's life with both terror and startling humour, held together by the steady love of his father, the Big Hoom. Jerry Pinto's tender, funny, unsparing novel confronts mental illness without sentimentality, finding warmth and comedy alongside the pain. Widely loved and much awarded, it is a moving portrait of a family bound by a mother's chaos and an enduring, ordinary love.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A tender, funny, unsparing novel about loving a mother with mental illness. Full of warmth alongside the pain.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won several major Indian literary prizes and drew on Pinto's own family life.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

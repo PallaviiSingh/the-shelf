@@ -1,0 +1,384 @@
+{
+  "generated": "pilot Shelf D1",
+  "count": 18,
+  "books": [
+    {
+      "slug": "a-clockwork-orange",
+      "title": "A Clockwork Orange",
+      "authors": [
+        "Anthony Burgess"
+      ],
+      "authorSlugs": [
+        "anthony-burgess"
+      ],
+      "year": 1962,
+      "genre": "Fiction",
+      "moods": [
+        "unsettling",
+        "satirical",
+        "cerebral"
+      ],
+      "difficulty": "challenging",
+      "cover": "assets/covers/a-clockwork-orange.jpg",
+      "dominantColor": "#cccfd2",
+      "shelf": "D1"
+    },
+    {
+      "slug": "a-portrait-of-the-artist-as-a-young-man",
+      "title": "A Portrait of the Artist as a Young Man",
+      "authors": [
+        "James Joyce"
+      ],
+      "authorSlugs": [
+        "james-joyce"
+      ],
+      "year": 1916,
+      "genre": "Fiction",
+      "moods": [
+        "cerebral",
+        "luminous",
+        "melancholic"
+      ],
+      "difficulty": "challenging",
+      "cover": "assets/covers/a-portrait-of-the-artist-as-a-young-man.jpg",
+      "dominantColor": "#183d55",
+      "shelf": "D1"
+    },
+    {
+      "slug": "brave-new-world",
+      "title": "Brave New World",
+      "authors": [
+        "Aldous Huxley"
+      ],
+      "authorSlugs": [
+        "aldous-huxley"
+      ],
+      "year": 1932,
+      "genre": "Fiction",
+      "moods": [
+        "unsettling",
+        "satirical",
+        "cerebral"
+      ],
+      "difficulty": "moderate",
+      "cover": "assets/covers/brave-new-world.jpg",
+      "dominantColor": "#b63c3d",
+      "shelf": "D1"
+    },
+    {
+      "slug": "chernobyl-prayer",
+      "title": "Chernobyl Prayer",
+      "authors": [
+        "Svetlana Alexievich"
+      ],
+      "authorSlugs": [
+        "svetlana-alexievich"
+      ],
+      "year": 1997,
+      "genre": "Non-fiction",
+      "moods": [
+        "bleak",
+        "haunting",
+        "political"
+      ],
+      "difficulty": "moderate",
+      "cover": "assets/covers/chernobyl-prayer.jpg",
+      "dominantColor": "#83837c",
+      "shelf": "D1"
+    },
+    {
+      "slug": "days-at-the-morisaki-bookshop",
+      "title": "Days at the Morisaki Bookshop",
+      "authors": [
+        "Satoshi Yagisawa"
+      ],
+      "authorSlugs": [
+        "satoshi-yagisawa"
+      ],
+      "year": 2010,
+      "genre": "Fiction",
+      "moods": [
+        "comforting",
+        "tender",
+        "quiet"
+      ],
+      "difficulty": "gentle",
+      "cover": "assets/covers/days-at-the-morisaki-bookshop.jpg",
+      "dominantColor": "#858771",
+      "shelf": "D1"
+    },
+    {
+      "slug": "doctor-zhivago",
+      "title": "Doctor Zhivago",
+      "authors": [
+        "Boris Pasternak"
+      ],
+      "authorSlugs": [
+        "boris-pasternak"
+      ],
+      "year": 1957,
+      "genre": "Fiction",
+      "moods": [
+        "epic",
+        "melancholic",
+        "romantic"
+      ],
+      "difficulty": "challenging",
+      "cover": "assets/covers/doctor-zhivago.jpg",
+      "dominantColor": "#574f30",
+      "shelf": "D1"
+    },
+    {
+      "slug": "everything-the-light-touches",
+      "title": "Everything the Light Touches",
+      "authors": [
+        "Janice Pariat"
+      ],
+      "authorSlugs": [
+        "janice-pariat"
+      ],
+      "year": 2022,
+      "genre": "Fiction",
+      "moods": [
+        "luminous",
+        "dreamlike",
+        "quiet"
+      ],
+      "difficulty": "moderate",
+      "cover": "assets/covers/everything-the-light-touches.jpg",
+      "dominantColor": "#dcdcdc",
+      "shelf": "D1"
+    },
+    {
+      "slug": "human-acts",
+      "title": "Human Acts",
+      "authors": [
+        "Han Kang"
+      ],
+      "authorSlugs": [
+        "han-kang"
+      ],
+      "year": 2014,
+      "genre": "Fiction",
+      "moods": [
+        "bleak",
+        "haunting",
+        "political"
+      ],
+      "difficulty": "moderate",
+      "cover": "assets/covers/human-acts.jpg",
+      "dominantColor": "#f4e4ae",
+      "shelf": "D1"
+    },
+    {
+      "slug": "jane-eyre",
+      "title": "Jane Eyre",
+      "authors": [
+        "Charlotte Brontë"
+      ],
+      "authorSlugs": [
+        "charlotte-bronte"
+      ],
+      "year": 1847,
+      "genre": "Fiction",
+      "moods": [
+        "romantic",
+        "haunting",
+        "hopeful"
+      ],
+      "difficulty": "moderate",
+      "cover": "assets/covers/jane-eyre.jpg",
+      "dominantColor": "#9b673c",
+      "shelf": "D1"
+    },
+    {
+      "slug": "lolita",
+      "title": "Lolita",
+      "authors": [
+        "Vladimir Nabokov"
+      ],
+      "authorSlugs": [
+        "vladimir-nabokov"
+      ],
+      "year": 1955,
+      "genre": "Fiction",
+      "moods": [
+        "unsettling",
+        "satirical",
+        "cerebral"
+      ],
+      "difficulty": "challenging",
+      "cover": "assets/covers/lolita.jpg",
+      "dominantColor": "#7d5625",
+      "shelf": "D1"
+    },
+    {
+      "slug": "more-days-at-the-morisaki-bookshop",
+      "title": "More Days at the Morisaki Bookshop",
+      "authors": [
+        "Satoshi Yagisawa"
+      ],
+      "authorSlugs": [
+        "satoshi-yagisawa"
+      ],
+      "year": 2011,
+      "genre": "Fiction",
+      "moods": [
+        "comforting",
+        "tender",
+        "quiet"
+      ],
+      "difficulty": "gentle",
+      "cover": "assets/covers/more-days-at-the-morisaki-bookshop.jpg",
+      "dominantColor": "#8d7e6d",
+      "shelf": "D1"
+    },
+    {
+      "slug": "orbital",
+      "title": "Orbital",
+      "authors": [
+        "Samantha Harvey"
+      ],
+      "authorSlugs": [
+        "samantha-harvey"
+      ],
+      "year": 2023,
+      "genre": "Fiction",
+      "moods": [
+        "luminous",
+        "quiet",
+        "melancholic"
+      ],
+      "difficulty": "moderate",
+      "cover": "assets/covers/orbital.jpg",
+      "dominantColor": "#3d434d",
+      "shelf": "D1"
+    },
+    {
+      "slug": "the-haunting-of-hill-house",
+      "title": "The Haunting of Hill House",
+      "authors": [
+        "Shirley Jackson"
+      ],
+      "authorSlugs": [
+        "shirley-jackson"
+      ],
+      "year": 1959,
+      "genre": "Fiction",
+      "moods": [
+        "haunting",
+        "unsettling",
+        "suspenseful"
+      ],
+      "difficulty": "gentle",
+      "cover": "assets/covers/the-haunting-of-hill-house.jpg",
+      "dominantColor": "#5d5e5d",
+      "shelf": "D1"
+    },
+    {
+      "slug": "the-masque-of-africa",
+      "title": "The Masque of Africa",
+      "authors": [
+        "V. S. Naipaul"
+      ],
+      "authorSlugs": [
+        "v-s-naipaul"
+      ],
+      "year": 2010,
+      "genre": "Non-fiction",
+      "moods": [
+        "cerebral",
+        "unsettling",
+        "quiet"
+      ],
+      "difficulty": "moderate",
+      "cover": "assets/covers/the-masque-of-africa.jpg",
+      "dominantColor": "#98472d",
+      "shelf": "D1"
+    },
+    {
+      "slug": "the-master-and-margarita",
+      "title": "The Master and Margarita",
+      "authors": [
+        "Mikhail Bulgakov"
+      ],
+      "authorSlugs": [
+        "mikhail-bulgakov"
+      ],
+      "year": 1967,
+      "genre": "Fiction",
+      "moods": [
+        "dreamlike",
+        "satirical",
+        "romantic"
+      ],
+      "difficulty": "challenging",
+      "cover": "assets/covers/the-master-and-margarita.jpg",
+      "dominantColor": "#493433",
+      "shelf": "D1"
+    },
+    {
+      "slug": "the-vegetarian",
+      "title": "The Vegetarian",
+      "authors": [
+        "Han Kang"
+      ],
+      "authorSlugs": [
+        "han-kang"
+      ],
+      "year": 2007,
+      "genre": "Fiction",
+      "moods": [
+        "unsettling",
+        "dreamlike",
+        "bleak"
+      ],
+      "difficulty": "moderate",
+      "cover": "assets/covers/the-vegetarian.jpg",
+      "dominantColor": "#907184",
+      "shelf": "D1"
+    },
+    {
+      "slug": "things-in-nature-merely-grow",
+      "title": "Things in Nature Merely Grow",
+      "authors": [
+        "Yiyun Li"
+      ],
+      "authorSlugs": [
+        "yiyun-li"
+      ],
+      "year": 2025,
+      "genre": "Non-fiction",
+      "moods": [
+        "bleak",
+        "quiet",
+        "luminous"
+      ],
+      "difficulty": "moderate",
+      "cover": "assets/covers/things-in-nature-merely-grow.jpg",
+      "dominantColor": "#849b6e",
+      "shelf": "D1"
+    },
+    {
+      "slug": "ulysses",
+      "title": "Ulysses",
+      "authors": [
+        "James Joyce"
+      ],
+      "authorSlugs": [
+        "james-joyce"
+      ],
+      "year": 1922,
+      "genre": "Fiction",
+      "moods": [
+        "cerebral",
+        "playful",
+        "epic"
+      ],
+      "difficulty": "summit",
+      "cover": "assets/covers/ulysses.jpg",
+      "dominantColor": "#5a736c",
+      "shelf": "D1"
+    }
+  ]
+}

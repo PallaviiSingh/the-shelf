@@ -1,0 +1,76 @@
+{
+  "slug": "the-god-of-small-things",
+  "title": "The God of Small Things",
+  "subtitle": null,
+  "authors": [
+    "arundhati-roy"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1997,
+  "edition": {
+    "publisher": "India Penguin",
+    "series": null,
+    "isbn": "014302857X",
+    "pageCount": 357
+  },
+  "cover": {
+    "file": "assets/covers/the-god-of-small-things.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": null,
+    "dominantColor": "#455c53",
+    "w": 313,
+    "h": 500,
+    "palette": [
+      "#3a5452",
+      "#143636",
+      "#53806f"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "Kerala",
+    "caste",
+    "family",
+    "forbidden love"
+  ],
+  "moods": [
+    "haunting",
+    "sensuous",
+    "tragic"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to be absorbed for hours",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "lush Kerala",
+      "twins and secrets",
+      "a forbidden love"
+    ],
+    "oneLine": "A forbidden love across caste sets off a family tragedy in Kerala."
+  },
+  "summary": "In a lush corner of Kerala, twins Rahel and Estha grow up amid a family's secrets, and a single forbidden act of love across caste lines sets off a tragedy whose consequences ripple across decades. Arundhati Roy's Booker-winning debut tells its story in shimmering, inventive, non-linear prose, circling the wound at its heart. Sensuous, heartbreaking and politically fierce about caste and desire, it is one of the most acclaimed Indian novels ever written and a landmark of contemporary fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Roy's Booker-winning debut, a Kerala family tragedy told in shimmering, inventive prose. Sensuous and heartbreaking.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won the Booker Prize in 1997 and was Roy's first novel.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

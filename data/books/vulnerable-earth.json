@@ -1,0 +1,76 @@
+{
+  "slug": "vulnerable-earth",
+  "title": "Vulnerable Earth",
+  "subtitle": null,
+  "authors": [
+    "pramod-k-nayar"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2024,
+  "edition": {
+    "publisher": "Cambridge University Press",
+    "series": null,
+    "isbn": "1009496913",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vulnerable-earth.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#e1d183",
+    "w": 650,
+    "h": 1000,
+    "palette": [
+      "#feed85",
+      "#fdcb01",
+      "#fcf7ca"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Criticism",
+    "Environmental Humanities"
+  ],
+  "region": "World",
+  "tags": [
+    "climate crisis",
+    "literature",
+    "criticism",
+    "ecology"
+  ],
+  "moods": [
+    "cerebral",
+    "urgent",
+    "curious"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "climate fiction",
+      "toxic memoir",
+      "a damaged planet"
+    ],
+    "oneLine": "How today's literature imagines the climate crisis, surveyed and mapped."
+  },
+  "summary": "In Vulnerable Earth: The Literature of Climate Crisis, Pramod K. Nayar surveys the global literature that has grown up around ecological catastrophe: literary fiction, graphic novels and memoirs of toxic waste and bondage. He groups the works by theme, from the fiction of water crisis to species extinction, rewilding, cross-species encounters, and stories that bind social justice to environmental justice. A wide-ranging, accessible work of criticism mapping how writers are imagining a damaged planet.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Nayar maps how writers worldwide are imagining ecological catastrophe. A wide-ranging guide to the literature of climate crisis.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Nayar holds a UNESCO Chair in Vulnerability Studies at the University of Hyderabad.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "01",
+  "enriched": true
+}

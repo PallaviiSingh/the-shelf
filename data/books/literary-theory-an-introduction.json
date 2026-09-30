@@ -1,0 +1,76 @@
+{
+  "slug": "literary-theory-an-introduction",
+  "title": "Literary Theory: An Introduction",
+  "subtitle": null,
+  "authors": [
+    "terry-eagleton"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1983,
+  "edition": {
+    "publisher": "University of Minnesota Press",
+    "series": null,
+    "isbn": "081661251X",
+    "pageCount": 244
+  },
+  "cover": {
+    "file": "assets/covers/literary-theory-an-introduction.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#403f3e",
+    "w": 301,
+    "h": 475,
+    "palette": [
+      "#343436",
+      "#aea184",
+      "#e3cb9e"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Introduction"
+  ],
+  "region": "England",
+  "tags": [
+    "literary theory",
+    "criticism",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "political",
+    "witty"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "structuralism to feminism",
+      "criticism as politics",
+      "a witty guide"
+    ],
+    "oneLine": "Eagleton's classic, opinionated introduction to literary theory."
+  },
+  "summary": "Terry Eagleton's classic introduction is the most widely read guide to modern literary theory, sweeping from phenomenology and structuralism to psychoanalysis, feminism and post-structuralism. Written with wit, clarity and a strong Marxist point of view, it argues that all criticism is political and that 'literature' itself is a category worth questioning. Provocative and hugely influential, it has introduced generations of students to theory, and remains a bracing, opinionated place to start.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The most widely read guide to literary theory, witty, clear and provocative. Where generations of students begin.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is one of the best-selling works of literary theory ever published.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "01",
+  "enriched": true
+}

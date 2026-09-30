@@ -1,0 +1,78 @@
+{
+  "slug": "the-duchess-of-malfi",
+  "title": "The Duchess of Malfi",
+  "subtitle": null,
+  "authors": [
+    "john-webster"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1613,
+  "edition": {
+    "publisher": "Worldview Critical Edition",
+    "series": null,
+    "isbn": "9788186423486",
+    "pageCount": 232
+  },
+  "cover": {
+    "file": "assets/covers/the-duchess-of-malfi.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9b2339",
+    "w": 720,
+    "h": 1087,
+    "palette": [
+      "#e90029",
+      "#572a33",
+      "#b31e36"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Tragedy"
+  ],
+  "region": "England",
+  "tags": [
+    "revenge",
+    "corruption",
+    "women",
+    "Jacobean"
+  ],
+  "moods": [
+    "dark",
+    "tragic",
+    "macabre"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a secret marriage",
+      "monstrous brothers",
+      "a slow revenge"
+    ],
+    "oneLine": "A widowed duchess marries in secret, and her brothers take a terrible revenge."
+  },
+  "summary": "A young widowed duchess secretly marries a man beneath her rank, and her monstrous brothers, obsessed with blood and honour, pursue a slow, terrible revenge. Webster's blood-soaked Jacobean tragedy is a masterpiece of darkness, cruelty and poetry, with a heroine who faces her fate with astonishing courage. Grim, gorgeous and shot through with madness and murder, it is the most powerful tragedy of its age after Shakespeare, and gives one of the era's greatest roles to a woman.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A blood-soaked Jacobean masterpiece with an unforgettable, courageous heroine. Dark, poetic and genuinely terrifying.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is based on the real story of an Italian duchess murdered a century before Webster wrote it.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

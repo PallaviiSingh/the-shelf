@@ -1,0 +1,78 @@
+{
+  "slug": "nineteen-eighty-four",
+  "title": "Nineteen-Eighty Four",
+  "subtitle": null,
+  "authors": [
+    "george-orwell"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1949,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "0241341655",
+    "pageCount": 318
+  },
+  "cover": {
+    "file": "assets/covers/nineteen-eighty-four.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#702425",
+    "w": 647,
+    "h": 1000,
+    "palette": [
+      "#3a0d0e",
+      "#b2141a",
+      "#6a1c1e"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Dystopian",
+    "Science Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "totalitarianism",
+    "surveillance",
+    "propaganda",
+    "dystopia"
+  ],
+  "moods": [
+    "bleak",
+    "political",
+    "haunting"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a surveillance state",
+      "Big Brother's gaze",
+      "a forbidden love"
+    ],
+    "oneLine": "A man dares to think for himself under the eye of Big Brother."
+  },
+  "summary": "In a future ruled by the Party and the ever-watching Big Brother, the minor functionary Winston Smith commits the ultimate crime of independent thought, and dares to love, in a world where the state controls even memory and language. Orwell's terrifying dystopia gave us Newspeak, doublethink, the Thought Police and Room 101, and remains the defining novel of totalitarianism and surveillance. Grim, unforgettable and more quoted each year, it is one of the most influential books of the twentieth century.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The defining dystopia, and more quoted every year. Big Brother, Newspeak, Room 101, all born here. Grim and unforgettable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Terms it coined, from 'Big Brother' to 'doublethink', are now part of everyday language.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

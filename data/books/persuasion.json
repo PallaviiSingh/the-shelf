@@ -1,0 +1,77 @@
+{
+  "slug": "persuasion",
+  "title": "Persuasion",
+  "subtitle": null,
+  "authors": [
+    "jane-austen"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1817,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "0141198834",
+    "pageCount": 268
+  },
+  "cover": {
+    "file": "assets/covers/persuasion.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#819980",
+    "w": 720,
+    "h": 1125,
+    "palette": [
+      "#748d6f",
+      "#cce7fb",
+      "#aac5c5"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Romance"
+  ],
+  "region": "England",
+  "tags": [
+    "second chances",
+    "regret",
+    "the navy",
+    "Regency"
+  ],
+  "moods": [
+    "romantic",
+    "melancholic",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "on a rainy day",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a seaside town",
+      "a lost love returned",
+      "a letter that changes everything"
+    ],
+    "oneLine": "A woman gets a second chance with the love she was persuaded to refuse."
+  },
+  "summary": "Eight years after she was persuaded to reject the man she loved, Anne Elliot, now older and quietly overlooked, meets him again as a successful naval captain, and both must decide whether a lost love can be recovered. Austen's last completed novel is her most autumnal and heartfelt, a mature meditation on regret, constancy and second chances. Warmer and more wistful than her earlier comedies, it contains one of the most swooned-over love letters in all of English fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Austen's most grown-up and heartfelt novel, a story of second chances. That love letter alone is worth the read.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was published after Austen's death, together with Northanger Abbey.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

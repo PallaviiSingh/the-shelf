@@ -1,0 +1,76 @@
+{
+  "slug": "smrityan-bahuteri",
+  "title": "Smrityan Bahuteri",
+  "subtitle": null,
+  "authors": [
+    "prayag-shukla"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Vagdevi Prakashan Bikaner",
+    "series": null,
+    "isbn": "9380441401",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/smrityan-bahuteri.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#3b7752",
+    "w": 640,
+    "h": 1000,
+    "palette": [
+      "#09653e",
+      "#248355",
+      "#519b6d"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Prayag Shukla",
+    "memoir",
+    "reminiscence"
+  ],
+  "moods": [
+    "warm",
+    "tender",
+    "meditative"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "on a rainy day",
+      "in a cafe",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a life in letters",
+      "people and places",
+      "the sansmaran tradition"
+    ],
+    "oneLine": "A Hindi poet-critic's warm reminiscences of a life in letters."
+  },
+  "summary": "Smritiyan Bahuteri, roughly 'Memories Aplenty', is a book of personal reminiscences by Prayag Shukla, the noted Hindi poet, story writer, essayist, translator and art and film critic. In the memoir tradition of the sansmaran, he looks back over a long life in Hindi letters and the arts, gathering recollections of people, places and moments. Reflective and warmly told, it offers a window onto a rich literary and cultural world through the eyes of one of its long-serving observers.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Hindi poet-critic Prayag Shukla's warm reminiscences of a long life in letters and the arts.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Prayag Shukla, born in 1940, is a poet, translator and noted art and film critic.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

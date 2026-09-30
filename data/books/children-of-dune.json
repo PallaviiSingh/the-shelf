@@ -1,0 +1,75 @@
+{
+  "slug": "children-of-dune",
+  "title": "Children of Dune",
+  "subtitle": null,
+  "authors": [
+    "frank-herbert"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1976,
+  "edition": {
+    "publisher": "Ace",
+    "series": null,
+    "isbn": "0593548450",
+    "pageCount": 504
+  },
+  "cover": {
+    "file": "assets/covers/children-of-dune.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#862449",
+    "w": 298,
+    "h": 450,
+    "palette": [
+      "#9b073b",
+      "#690527",
+      "#3a030b"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Science Fiction"
+  ],
+  "region": "World",
+  "tags": [
+    "empire",
+    "succession",
+    "ecology",
+    "prophecy"
+  ],
+  "moods": [
+    "epic",
+    "political",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "a greening desert",
+      "royal intrigue",
+      "gifted, dangerous children"
+    ],
+    "oneLine": "Paul's twins inherit a changing desert world, and its deadly politics."
+  },
+  "summary": "A generation on, Paul's twin children inherit an Arrakis being transformed by the very ecological dream their father set in motion, and must navigate prophecy, politics and their own frightening gifts as forces gather to seize the throne. The third Dune novel widens the saga's scope, wrestling with ecology, religion and dynasty, and setting up the strange far-future turns to come. Rich and demanding, it rewards readers already gripped by Herbert's universe.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The third act that widens the saga toward its stranger reaches. Essential once Dune has you.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The first three Dune novels are often read as a single continuous trilogy.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

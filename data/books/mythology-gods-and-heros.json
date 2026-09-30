@@ -1,0 +1,75 @@
+{
+  "slug": "mythology-gods-and-heros",
+  "title": "Mythology - Gods and Heros",
+  "subtitle": null,
+  "authors": [
+    "edith-hamilton"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1942,
+  "edition": {
+    "publisher": "Black Dog & Leventhal",
+    "series": null,
+    "isbn": "9780316438520",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/mythology-gods-and-heros.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#41352e",
+    "w": 720,
+    "h": 955,
+    "palette": [
+      "#382922",
+      "#14100d",
+      "#996a50"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "World",
+  "tags": [
+    "mythology",
+    "Greek",
+    "Roman",
+    "gods"
+  ],
+  "moods": [
+    "epic",
+    "luminous",
+    "playful"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "in bed at night"
+    ],
+    "sensory": [
+      "Mount Olympus",
+      "heroes and monsters",
+      "the fall of Troy"
+    ],
+    "oneLine": "The great Greek, Roman and Norse myths, retold clearly for everyone."
+  },
+  "summary": "Edith Hamilton's classic retelling gathers the great Greek, Roman and Norse myths into one clear, elegant volume: the gods of Olympus, the labours of heroes, the fall of Troy and the fates of doomed lovers. Written for the general reader, it has introduced generations to the stories that underlie Western art and literature, told with warmth and just enough scholarship. The standard first book of mythology, and still one of the most enjoyable.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The friendliest doorway into Greek and Roman myth. Clear, warm and the reference that makes everything else make sense.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Hamilton's book has been the standard introduction to classical mythology since 1942.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

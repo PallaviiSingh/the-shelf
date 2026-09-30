@@ -1,0 +1,13 @@
+{
+  "slug": "aranya",
+  "name": "Aranya",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "the-map-is-not-the-territory"
+  ],
+  "enriched": false
+}

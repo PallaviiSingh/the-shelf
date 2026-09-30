@@ -1,0 +1,77 @@
+{
+  "slug": "the-queen-of-spades",
+  "title": "The Queen of Spades",
+  "subtitle": null,
+  "authors": [
+    "alexander-pushkin"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1834,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241573769",
+    "pageCount": 225
+  },
+  "cover": {
+    "file": "assets/covers/the-queen-of-spades.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#731b41",
+    "w": 634,
+    "h": 1000,
+    "palette": [
+      "#511c2c",
+      "#991b59",
+      "#cf197c"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Short Stories"
+  ],
+  "region": "Russia",
+  "tags": [
+    "gambling",
+    "obsession",
+    "ghost",
+    "St Petersburg"
+  ],
+  "moods": [
+    "unsettling",
+    "suspenseful",
+    "dreamlike"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "in bed at night",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "candlelit card games",
+      "a spectral countess",
+      "St Petersburg"
+    ],
+    "oneLine": "An officer, a card secret, and a haunting that costs him everything."
+  },
+  "summary": "An ambitious young officer, Hermann, becomes fixated on a rumour: an old countess knows the secret of three winning cards. His pursuit of it, cold and calculating, leads him to her door and then well past the edge of reason. Pushkin's most famous story is a taut little masterpiece of obsession and the supernatural, told in prose so controlled it feels modern two centuries on. This clothbound edition pairs the tale with a selection of his verse, so you get both the storyteller and the poet in one small volume.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A perfect, chilling hour of a book. Obsession, a ghostly countess, and an ending that snaps shut like a trap.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The phrase and image of the queen of spades as an omen of ruin entered Russian culture through this one story.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

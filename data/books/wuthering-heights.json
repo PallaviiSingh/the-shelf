@@ -1,0 +1,77 @@
+{
+  "slug": "wuthering-heights",
+  "title": "Wuthering Heights",
+  "subtitle": null,
+  "authors": [
+    "emily-bront"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1847,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141040351",
+    "pageCount": 318
+  },
+  "cover": {
+    "file": "assets/covers/wuthering-heights.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#027183",
+    "w": 720,
+    "h": 1113,
+    "palette": [
+      "#00666c",
+      "#047d9b",
+      "#0494cc"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Gothic"
+  ],
+  "region": "England",
+  "tags": [
+    "obsession",
+    "revenge",
+    "the moors",
+    "doomed love"
+  ],
+  "moods": [
+    "haunting",
+    "tempestuous",
+    "bleak"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a rainy day",
+      "in bed at night"
+    ],
+    "sensory": [
+      "the windswept moors",
+      "a doomed passion",
+      "a haunting revenge"
+    ],
+    "oneLine": "A fierce, doomed love on the Yorkshire moors curdles into revenge."
+  },
+  "summary": "On the wild Yorkshire moors, the foundling Heathcliff and the wilful Catherine Earnshaw forge a love so fierce it curdles into obsession, cruelty and a revenge that poisons two families across a generation. Emily Bronte's only novel shocked its first readers with its violence and amorality, and remains unlike anything else: a storm-lashed, structurally daring tragedy of passion beyond the grave. Fierce, strange and unforgettable, it is one of the boldest debuts in English literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A storm of a novel about love that turns to obsession and revenge. Fierce, strange, and unlike anything else.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was Emily Bronte's only novel; she died the year after it was published.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B3",
+  "enriched": true
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "simone-de-beauvoir",
+  "name": "Simone de Beauvoir",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Simone Lucie Ernestine Marie Bertrand de Beauvoir was a French existentialist philosopher, writer, social theorist, and feminist activist. Though she did not consider herself a philosopher, nor was she considered one at the time of her death, she had a significant influence on both feminist existentialism and feminist theory.",
+  "photo": {
+    "file": "assets/authors/simone-de-beauvoir.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir"
+  },
+  "books": [
+    "the-second-sex"
+  ],
+  "enriched": false
+}

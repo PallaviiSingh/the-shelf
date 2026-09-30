@@ -1,0 +1,74 @@
+{
+  "slug": "jude-the-obscure",
+  "title": "Jude the Obscure",
+  "subtitle": null,
+  "authors": [
+    "thomas-hardy"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1895,
+  "edition": {
+    "publisher": null,
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241382696",
+    "pageCount": 451
+  },
+  "cover": {
+    "file": "assets/covers/jude-the-obscure.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#535463",
+    "w": 607,
+    "h": 1000,
+    "palette": [
+      "#25263b"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "class",
+    "education",
+    "marriage",
+    "despair"
+  ],
+  "moods": [
+    "bleak",
+    "tragic",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a locked university",
+      "a forbidden love",
+      "a world of barriers"
+    ],
+    "oneLine": "A poor man barred from learning and love, in Hardy's bleakest novel."
+  },
+  "summary": "A poor stonemason, Jude Fawley, dreams of studying at a great university and is shut out by class, while his unconventional love for his free-thinking cousin Sue defies every convention of marriage and religion, with tragic results. Hardy's last and darkest novel is a furious attack on the barriers of class, the institution of marriage and social hypocrisy. The savage reviews it received helped drive him to abandon fiction for poetry. Bleak, brave and deeply moving.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Hardy's darkest, bravest novel, an assault on class and marriage so fierce it ended his career as a novelist.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The hostile reception was so fierce that Hardy never wrote another novel, turning to poetry instead.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C3",
+  "enriched": true
+}

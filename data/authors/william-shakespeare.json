@@ -1,0 +1,18 @@
+{
+  "slug": "william-shakespeare",
+  "name": "William Shakespeare",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "William Shakespeare was an English playwright, poet and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the \"Bard of Avon\" or simply \"the Bard\". His extant works, including collaborations, consist of some 39 plays, 154 sonnets, 3",
+  "photo": {
+    "file": "assets/authors/william-shakespeare.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_Shakespeare"
+  },
+  "books": [
+    "complete-works-of-shakespeare",
+    "the-sonnets-and-a-lovers-complaint"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "the-collected-stories",
+  "title": "The Collected Stories",
+  "subtitle": null,
+  "authors": [
+    "alexander-pushkin"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1834,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 1072
+  },
+  "cover": {
+    "file": "assets/covers/the-collected-stories.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#cdbdb5",
+    "w": 621,
+    "h": 1000,
+    "palette": [
+      "#cdcdcb",
+      "#e42c49",
+      "#c5b69b"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Short Stories"
+  ],
+  "region": "Russia",
+  "tags": [
+    "Russian",
+    "tales",
+    "fate",
+    "St Petersburg"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "melancholic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a card table",
+      "St Petersburg winters",
+      "a fatal secret"
+    ],
+    "oneLine": "The stories where modern Russian fiction quietly begins."
+  },
+  "summary": "Before he was mythologised as Russia's national poet, Alexander Pushkin more or less invented modern Russian prose, and these stories are where he did it. Alongside the coolly told Tales of Belkin sit sharper pieces like the famous gambling ghost story The Queen of Spades, where an officer's obsession with a card secret tips into madness. The writing is quick, ironic and deceptively plain, carrying a whole world of duels, superstition and social climbing in very few pages. Everything Russian fiction became, from Dostoevsky to Chekhov, starts somewhere in here.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The short, sharp source of the whole Russian tradition. If the big novels feel daunting, start with Pushkin and see where it all began.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Pushkin was killed in 1837 in a duel defending his wife's honour, at just 37.",
+      "source": null,
+      "type": "knowledge"
+    },
+    {
+      "text": "Tchaikovsky turned The Queen of Spades into one of his best-loved operas.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A4",
+  "enriched": true
+}

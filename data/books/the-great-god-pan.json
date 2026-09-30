@@ -1,0 +1,76 @@
+{
+  "slug": "the-great-god-pan",
+  "title": "The Great God Pan",
+  "subtitle": null,
+  "authors": [
+    "arthur-machen"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1894,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin English Library",
+    "isbn": "0241341124",
+    "pageCount": 73
+  },
+  "cover": {
+    "file": "assets/covers/the-great-god-pan.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#dfd33e",
+    "w": 644,
+    "h": 1000,
+    "palette": [
+      "#f0df2c",
+      "#c8c456",
+      "#a4a97b"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Gothic & Horror"
+  ],
+  "region": "Wales",
+  "tags": [
+    "cosmic horror",
+    "the occult",
+    "dread",
+    "Victorian"
+  ],
+  "moods": [
+    "unsettling",
+    "dreamlike",
+    "bleak"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "a short sitting",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "a Welsh hillside",
+      "a fatal experiment",
+      "something ancient loosed"
+    ],
+    "oneLine": "An experiment opens a door in a woman's mind, and something ancient walks through."
+  },
+  "summary": "A doctor's reckless experiment tears a hole in a young woman's mind and lets something ancient and monstrous through. Years later a trail of ruined men and inexplicable deaths leads back to that first violation. Machen's short, suggestive novella is a foundational work of cosmic horror, more about atmosphere and implication than explicit terror, and its influence runs straight through to Lovecraft and beyond. It works by what it refuses to show, leaving the worst of it to bloom in the reader's own imagination.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A quietly terrifying novella that helped invent cosmic horror. It scares by suggestion, which is the worst kind.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Stephen King has praised it as one of the best horror stories in the English language.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "richard",
+  "name": "Richard",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Richard is a masculine given name. It originates, via Old French, from Old Frankish and is a compound of the words descending from Proto-Germanic *rīk- 'ruler, leader, king' and *hardu- 'strong, brave, hardy', and it therefore means 'strong in rule'. Nicknames include \"Richie\", \"Dick\", \"Dickon\", \"Dickie\", \"Rich\", \"Rick\", \"Rico\", \"Ricky\", and more.",
+  "photo": {
+    "file": "assets/authors/richard.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Richard"
+  },
+  "books": [
+    "freud-for-beginners"
+  ],
+  "enriched": false
+}

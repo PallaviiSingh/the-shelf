@@ -1,0 +1,20 @@
+{
+  "slug": "george-eliot",
+  "name": "George Eliot",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Mary Ann Evans, known by her pen name George Eliot, was an English novelist, poet, journalist, translator, and one of the leading writers of the Victorian era. She wrote seven novels: Adam Bede (1859), The Mill on the Floss (1860), Silas Marner (1861), Romola (1862–1863), Felix Holt, the Radical (1866), Middlemarch (1871–1872) and Daniel Deronda",
+  "photo": {
+    "file": "assets/authors/george-eliot.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/George_Eliot"
+  },
+  "books": [
+    "felix-holt-the-radical",
+    "middlemarch",
+    "silas-marner",
+    "the-mill-of-the-floss"
+  ],
+  "enriched": false
+}

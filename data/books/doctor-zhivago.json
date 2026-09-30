@@ -1,0 +1,79 @@
+{
+  "slug": "doctor-zhivago",
+  "title": "Doctor Zhivago",
+  "subtitle": null,
+  "authors": [
+    "boris-pasternak"
+  ],
+  "translator": "Max Hayward & Manya Harari",
+  "originalLanguage": "Russian",
+  "translated": true,
+  "originalPublicationYear": 1957,
+  "edition": {
+    "publisher": "Penguin Random House",
+    "series": null,
+    "pageCount": 544
+  },
+  "cover": {
+    "file": "assets/covers/doctor-zhivago.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9a5147",
+    "w": 710,
+    "h": 1000,
+    "palette": [
+      "#b42725",
+      "#b6523e",
+      "#53211c"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Classic",
+    "Historical Fiction"
+  ],
+  "region": "Russia (Soviet Union)",
+  "tags": [
+    "Russian Revolution",
+    "love",
+    "poetry",
+    "war"
+  ],
+  "moods": [
+    "romantic",
+    "epic",
+    "melancholic"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to feel something deeply",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "revolutionary Russia",
+      "a doctor-poet",
+      "a great forbidden love"
+    ],
+    "oneLine": "A poet-doctor's love and survival through the Russian Revolution."
+  },
+  "summary": "A physician and poet, Yuri Zhivago, is swept up in the turmoil of the Russian Revolution and civil war, torn between his wife and his great love, Lara, as history tears his country and his life apart. Pasternak's sweeping epic sets private love and poetry against the vast machinery of revolution, and was banned in the Soviet Union but smuggled out to the world. A lyrical, humane and deeply moving novel of a man trying to keep his soul intact through catastrophe.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A sweeping epic of love and poetry set against the Russian Revolution. Banned at home, beloved everywhere.",
+  "awards": [
+    "Nobel Prize in Literature 1958 (Pasternak, forced to decline)"
+  ],
+  "funFacts": [
+    {
+      "text": "Banned in the USSR, it won Pasternak the Nobel Prize, which Soviet pressure forced him to decline.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

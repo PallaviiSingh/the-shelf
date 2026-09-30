@@ -1,0 +1,77 @@
+{
+  "slug": "complete-works-of-shakespeare",
+  "title": "Complete Works of Shakespeare",
+  "subtitle": null,
+  "authors": [
+    "william-shakespeare"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1603,
+  "edition": {
+    "publisher": "Barnes & Noble Inc",
+    "series": null,
+    "isbn": "1435154479",
+    "pageCount": 192
+  },
+  "cover": {
+    "file": "assets/covers/complete-works-of-shakespeare.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a07e69",
+    "w": 691,
+    "h": 937,
+    "trimmed": true,
+    "palette": [
+      "#9a6d53",
+      "#b38769",
+      "#decba0"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama"
+  ],
+  "region": "England",
+  "tags": [
+    "Shakespeare",
+    "plays",
+    "sonnets",
+    "canon"
+  ],
+  "moods": [
+    "epic",
+    "witty",
+    "tragic"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "the entire canon",
+      "kings and fools",
+      "the whole of Shakespeare"
+    ],
+    "oneLine": "Every play and poem Shakespeare wrote, in one volume."
+  },
+  "summary": "Every play and poem Shakespeare wrote, gathered in a single volume: the great tragedies, the comedies, the histories, the romances, and the sonnets. From Hamlet and Lear to Twelfth Night and The Tempest, this is the foundation of English literature and the richest body of work by any writer in the language. A complete works is less a book to read straight through than a lifelong companion, the whole of Shakespeare's world waiting on one shelf.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The whole of Shakespeare on one shelf. Not a book to finish but a lifetime's companion.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Shakespeare's works are the most quoted in the English language after the Bible.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

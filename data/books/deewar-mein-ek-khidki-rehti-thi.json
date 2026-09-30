@@ -1,0 +1,78 @@
+{
+  "slug": "deewar-mein-ek-khidki-rehti-thi",
+  "title": "Deewar mein ek khidki rehti thi",
+  "subtitle": null,
+  "authors": [
+    "vinod-kumar-shukla"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 1997,
+  "edition": {
+    "publisher": "Hind Yugm",
+    "series": null,
+    "isbn": "939282078X",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/deewar-mein-ek-khidki-rehti-thi.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#2a535e",
+    "w": 653,
+    "h": 1000,
+    "palette": [
+      "#1e393f",
+      "#135867",
+      "#7eb8cc"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Magical Realism",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Vinod Kumar Shukla",
+    "love",
+    "surreal"
+  ],
+  "moods": [
+    "dreamlike",
+    "tender",
+    "luminous"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "to feel something deeply",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a small-town teacher",
+      "a magical window",
+      "the everyday made strange"
+    ],
+    "oneLine": "A newlywed couple's room holds a magical window, in a Hindi classic."
+  },
+  "summary": "Deewar mein ek Khidki Rehti Thi, or A Window Lived in a Wall, is Vinod Kumar Shukla's best-known novel, a gently surreal love story about a newly married small-town college teacher and his wife, whose modest room holds a magical window opening onto an enchanted world. Blending the everyday with quiet fantasy, Shukla transforms ordinary domestic life into something luminous and strange. Tender and wondrous, it won the Sahitya Akademi Award and is a modern Hindi classic.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Vinod Kumar Shukla's gently surreal love story, an ordinary room with a magical window. Tender, wondrous, luminous.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won the Sahitya Akademi Award and is Shukla's most widely read novel.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

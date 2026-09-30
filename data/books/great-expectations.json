@@ -1,0 +1,77 @@
+{
+  "slug": "great-expectations",
+  "title": "Great Expectations",
+  "subtitle": null,
+  "authors": [
+    "charles-dickens"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1861,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "014104036X",
+    "pageCount": 482
+  },
+  "cover": {
+    "file": "assets/covers/great-expectations.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#2e3b76",
+    "w": 647,
+    "h": 1000,
+    "palette": [
+      "#011262",
+      "#4f5782",
+      "#293570"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Coming of Age"
+  ],
+  "region": "England",
+  "tags": [
+    "class",
+    "ambition",
+    "secrets",
+    "orphan"
+  ],
+  "moods": [
+    "melancholic",
+    "suspenseful",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to feel something deeply",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a misty marsh",
+      "a decaying wedding feast",
+      "a mysterious fortune"
+    ],
+    "oneLine": "A poor boy's mysterious fortune, and the true cost of becoming a gentleman."
+  },
+  "summary": "A poor village boy named Pip is lifted into wealth and gentility by a mysterious benefactor, and learns too late what his 'great expectations' have cost him and where the money truly came from. Dickens's late masterpiece is a searching study of class, snobbery and self-deception, anchored by unforgettable figures like the frozen Miss Havisham and the convict Magwitch. Tighter and more haunting than his early comedies, it is many readers' favourite of all his books.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Dickens at his most haunting and mature, a boy remade by mysterious wealth. Miss Havisham never leaves you.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Dickens rewrote the ending after a friend urged him to make it less bleak.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C4",
+  "enriched": true
+}

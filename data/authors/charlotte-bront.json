@@ -1,0 +1,18 @@
+{
+  "slug": "charlotte-bront",
+  "name": "Charlotte Brontë",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Charlotte Nicholls, commonly known by her maiden name Charlotte Brontë, was an English novelist and poet, and was the elder sister of Emily, Anne and Branwell Brontë. She is best known for her novel Jane Eyre, which was first published under the pseudonym Currer Bell. Jane Eyre was a great success on publication, and has",
+  "photo": {
+    "file": "assets/authors/charlotte-bront.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB"
+  },
+  "books": [
+    "jane-eyre-harper-muse-classics-painted-editions",
+    "villette"
+  ],
+  "enriched": false
+}

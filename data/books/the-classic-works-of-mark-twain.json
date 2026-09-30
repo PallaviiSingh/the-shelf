@@ -1,0 +1,76 @@
+{
+  "slug": "the-classic-works-of-mark-twain",
+  "title": "The Classic Works of Mark Twain",
+  "subtitle": null,
+  "authors": [
+    "mark-twain"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1876,
+  "edition": {
+    "publisher": "Octopus Publishing Group",
+    "series": null,
+    "isbn": "0753728222",
+    "pageCount": 346
+  },
+  "cover": {
+    "file": "assets/covers/the-classic-works-of-mark-twain.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#f4d18d",
+    "w": 200,
+    "h": 283,
+    "palette": [
+      "#fce09d",
+      "#e6b055",
+      "#e8c882"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "United States",
+  "tags": [
+    "American South",
+    "boyhood",
+    "satire",
+    "the Mississippi"
+  ],
+  "moods": [
+    "playful",
+    "satirical",
+    "hopeful"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "to laugh",
+      "by the water"
+    ],
+    "sensory": [
+      "the Mississippi",
+      "a river raft",
+      "small-town mischief"
+    ],
+    "oneLine": "Tom, Huck and the Mississippi, where American fiction finds its voice."
+  },
+  "summary": "A gathering of the work that made Mark Twain the great original voice of American fiction, above all the boyhood adventures of Tom Sawyer and Huckleberry Finn along the Mississippi. Twain wrote the way Americans actually spoke, and turned river-town mischief into sharp comedy and, in Huck's journey with the runaway Jim, into a moral reckoning with slavery. Funny, humane and quietly radical, these are the books Hemingway said all American literature comes from.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The roots of American fiction, and still a joy to read. Tom and Huck on the river, funny on the surface and serious underneath.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Hemingway claimed all modern American literature comes from Huckleberry Finn.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

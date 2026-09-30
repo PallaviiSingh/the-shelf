@@ -1,0 +1,77 @@
+{
+  "slug": "alias-grace",
+  "title": "Alias Grace",
+  "subtitle": null,
+  "authors": [
+    "margaret-atwood"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1996,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "0349013071",
+    "pageCount": 552
+  },
+  "cover": {
+    "file": "assets/covers/alias-grace.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#c8771f",
+    "w": 636,
+    "h": 1000,
+    "palette": [
+      "#e98616",
+      "#b86626",
+      "#282113"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Historical Fiction",
+    "Literary Fiction"
+  ],
+  "region": "Canada",
+  "tags": [
+    "true crime",
+    "memory",
+    "19th century",
+    "Canada"
+  ],
+  "moods": [
+    "haunting",
+    "cerebral",
+    "suspenseful"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a Victorian asylum",
+      "a notorious murder",
+      "a locked memory"
+    ],
+    "oneLine": "A servant convicted of murder: guilty, mad, or wronged? Atwood won't say."
+  },
+  "summary": "Based on a real 1843 case, Atwood's novel imagines the inner life of Grace Marks, a young Irish servant convicted of a notorious double murder in Canada, as a doctor tries to unlock her buried memories and decide whether she is guilty, mad, or wronged. Ambiguous to the end, it is a masterful historical mystery about memory, class, madness and the stories women are allowed to tell. Rich, unsettling and impossible to resolve, in the best way.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A gripping historical mystery that never lets you be sure of the truth. Atwood spinning a real murder into something haunting.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is based on the real, unresolved 1843 murder case of Grace Marks in Upper Canada.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A3",
+  "enriched": true
+}

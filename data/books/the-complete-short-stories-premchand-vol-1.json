@@ -1,0 +1,77 @@
+{
+  "slug": "the-complete-short-stories-premchand-vol-1",
+  "title": "The Complete Short Stories, Vol 1",
+  "subtitle": null,
+  "authors": [
+    "munshi-premchand"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0143441132",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-complete-short-stories-premchand-vol-1.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#3ca3a3",
+    "w": 720,
+    "h": 1106,
+    "palette": [
+      "#0daeb5",
+      "#3abac9",
+      "#119883"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Classic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Urdu",
+    "Premchand",
+    "short stories"
+  ],
+  "moods": [
+    "tender",
+    "bleak",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "rural India",
+      "poverty and caste",
+      "ordinary lives"
+    ],
+    "oneLine": "Volume one of the complete short stories of the great Premchand."
+  },
+  "summary": "The first volume of the complete short stories of Premchand, the towering figure of modern Hindi and Urdu fiction, often called the founder of the Indian short story. His tales bring rural and small-town India vividly to life, taking up poverty, caste, exploitation, women's lives and the moral dilemmas of ordinary people with compassion and unflinching honesty. This landmark collection gathers his stories in English translation, opening a whole world of early twentieth-century India to the reader.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The founding master of the Indian short story, on rural life, poverty and caste. Compassionate and unflinching.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Premchand is often called the founder of the modern Hindi-Urdu short story.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

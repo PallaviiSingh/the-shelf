@@ -1,0 +1,76 @@
+{
+  "slug": "black-skin-white-masks",
+  "title": "Black Skin, White Masks",
+  "subtitle": null,
+  "authors": [
+    "frantz-fanon"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1952,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "0241396662",
+    "pageCount": 208
+  },
+  "cover": {
+    "file": "assets/covers/black-skin-white-masks.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": null,
+    "dominantColor": "#83847e",
+    "w": 260,
+    "h": 400,
+    "palette": [
+      "#3a3a37",
+      "#f0f1e9"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Memoir & Biography"
+  ],
+  "region": "Martinique",
+  "tags": [
+    "postcolonialism",
+    "race",
+    "psychology",
+    "Fanon"
+  ],
+  "moods": [
+    "cerebral",
+    "political",
+    "intense"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to feel something deeply",
+      "to study"
+    ],
+    "sensory": [
+      "the colonial mind",
+      "a white mask",
+      "a searing witness"
+    ],
+    "oneLine": "Fanon on how colonialism and racism warp the inner self."
+  },
+  "summary": "Frantz Fanon's searing first book examines the psychology of colonialism and racism, drawing on his own experience as a Black man from Martinique and his training as a psychiatrist. He dissects how colonial domination warps the inner lives of both colonised and coloniser, and how Black people are forced to wear a 'white mask' in a racist world. Passionate, unclassifiable and profoundly influential, it is a foundational text of postcolonial and anti-racist thought.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Fanon's searing anatomy of the psychology of racism and colonialism. A foundational anti-racist text.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Fanon wrote it in his twenties, drawing on both psychiatry and his own experience of racism.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

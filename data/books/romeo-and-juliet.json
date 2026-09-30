@@ -1,0 +1,78 @@
+{
+  "slug": "romeo-and-juliet",
+  "title": "Romeo and Juliet",
+  "subtitle": null,
+  "authors": [
+    "shakespeare"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1595,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 168
+  },
+  "cover": {
+    "file": "assets/covers/romeo-and-juliet.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#ae9695",
+    "w": 324,
+    "h": 499,
+    "palette": [
+      "#b2fcb7",
+      "#c92971",
+      "#b80599"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Tragedy"
+  ],
+  "region": "England",
+  "tags": [
+    "young love",
+    "feud",
+    "fate",
+    "Verona"
+  ],
+  "moods": [
+    "romantic",
+    "tragic",
+    "passionate"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "a short sitting",
+      "in bed at night"
+    ],
+    "sensory": [
+      "feuding Verona",
+      "a moonlit balcony",
+      "star-crossed lovers"
+    ],
+    "oneLine": "Two teenagers from feuding families love, marry, and die in a few days."
+  },
+  "summary": "Two teenagers from feuding families in Verona fall instantly, recklessly in love, marry in secret, and are swept toward catastrophe in a matter of days. Shakespeare's most famous tragedy remade the love story forever, giving us the balcony scene, the star-crossed lovers, and some of the most quoted lines in the language. Fast, passionate and heartbreaking, it is where countless readers first meet Shakespeare, and it still captures the intensity and impatience of young love better than almost anything since.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The love story that shaped all the others, and still the truest picture of reckless young love. Where many readers first meet Shakespeare.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The phrase 'star-crossed lovers' comes from the play's opening prologue.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

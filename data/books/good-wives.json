@@ -1,0 +1,76 @@
+{
+  "slug": "good-wives",
+  "title": "Good Wives",
+  "subtitle": null,
+  "authors": [
+    "louisa-may-alcott"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1869,
+  "edition": {
+    "publisher": "Chiltern Publications",
+    "series": null,
+    "isbn": "1914602005",
+    "pageCount": 320
+  },
+  "cover": {
+    "file": "assets/covers/good-wives.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#775f59",
+    "w": 666,
+    "h": 1000,
+    "palette": [
+      "#e0b1b5",
+      "#3e3726",
+      "#867c3c"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "United States",
+  "tags": [
+    "sisters",
+    "marriage",
+    "adulthood",
+    "family"
+  ],
+  "moods": [
+    "tender",
+    "comforting",
+    "melancholic"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to feel something deeply",
+      "to relax and unwind"
+    ],
+    "sensory": [
+      "weddings",
+      "a family home",
+      "joy and grief"
+    ],
+    "oneLine": "The March sisters grow into womanhood, love and loss."
+  },
+  "summary": "Originally published as the second half of Little Women, Good Wives follows the March sisters out of girlhood and into adult life, with its marriages, work, heartbreak and, unforgettably, its losses. Jo wrestles with love and her writing ambitions, and the family faces sorrow as well as joy. Alcott's continuation is gentle but unafraid of grief, completing one of the best-loved coming-of-age stories in the language and letting its readers grow up alongside the sisters they love.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The grown-up half of the March sisters' story, tender and clear-eyed about love and loss. Read it straight after Little Women.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "In many editions Good Wives is simply the second part of Little Women, published a year later.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

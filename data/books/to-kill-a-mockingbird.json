@@ -1,0 +1,77 @@
+{
+  "slug": "to-kill-a-mockingbird",
+  "title": "To Kill a Mockingbird",
+  "subtitle": null,
+  "authors": [
+    "harper-lee"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1960,
+  "edition": {
+    "publisher": "Arrow",
+    "series": null,
+    "isbn": "9780099549482",
+    "pageCount": 320
+  },
+  "cover": {
+    "file": "assets/covers/to-kill-a-mockingbird.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9a9886",
+    "w": 720,
+    "h": 1166,
+    "palette": [
+      "#e1e1ce",
+      "#cbb74f",
+      "#97883d"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "race",
+    "justice",
+    "childhood",
+    "the South"
+  ],
+  "moods": [
+    "tender",
+    "political",
+    "hopeful"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "in the sun",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a Depression-era town",
+      "a courthouse",
+      "a hidden neighbour"
+    ],
+    "oneLine": "A girl watches her father defend a Black man in the segregated South."
+  },
+  "summary": "In a small Alabama town during the Depression, young Scout Finch watches her lawyer father, Atticus, defend a Black man falsely accused of rape, while she and her brother slowly learn about courage, prejudice and the mysterious neighbour Boo Radley. Harper Lee's beloved novel filters a hard story about racial injustice through a child's clear eyes, and became one of the most read and taught books in America. Warm, moving and morally serious, it has shaped how generations think about fairness.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A beloved, moving classic about justice seen through a child's eyes. Warm and hard-hitting at once.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won the Pulitzer Prize and was Lee's only published novel for over fifty years.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

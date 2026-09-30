@@ -1,0 +1,75 @@
+{
+  "slug": "the-age-of-revolution-1789-1848",
+  "title": "The Age of Revolution (1789-1848)",
+  "subtitle": null,
+  "authors": [
+    "eric-hobsbawm"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1962,
+  "edition": {
+    "publisher": "Abacus",
+    "series": null,
+    "isbn": null,
+    "pageCount": 413
+  },
+  "cover": {
+    "file": "assets/covers/the-age-of-revolution-1789-1848.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#746452",
+    "w": 720,
+    "h": 1136,
+    "palette": [
+      "#232221",
+      "#e3e0b4",
+      "#b32321"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History"
+  ],
+  "region": "World",
+  "tags": [
+    "revolution",
+    "industrial",
+    "19th century",
+    "Europe"
+  ],
+  "moods": [
+    "cerebral",
+    "epic",
+    "political"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "twin revolutions",
+      "a remaking Europe",
+      "a historian's wide lens"
+    ],
+    "oneLine": "Hobsbawm on the French and industrial revolutions that made the modern world."
+  },
+  "summary": "The first volume of Eric Hobsbawm's landmark history of the modern world examines the twin upheavals that made it: the French Revolution and the British Industrial Revolution. Ranging across politics, economics, art and everyday life, the great Marxist historian shows how these 'dual revolutions' remade Europe and set the terms for everything that followed. Magisterial and endlessly illuminating, it is the opening movement of one of the most admired historical surveys ever written.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The opening volume of Hobsbawm's magisterial history of the modern world. Sweeping, brilliant and endlessly illuminating.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is the first of Hobsbawm's four-volume history spanning 1789 to 1991.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B1",
+  "enriched": true
+}

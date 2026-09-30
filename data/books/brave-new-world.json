@@ -1,0 +1,77 @@
+{
+  "slug": "brave-new-world",
+  "title": "Brave New World",
+  "subtitle": null,
+  "authors": [
+    "aldous-huxley"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1932,
+  "edition": {
+    "publisher": "Vintage",
+    "series": "Vintage Classics",
+    "pageCount": 240
+  },
+  "cover": {
+    "file": "assets/covers/brave-new-world.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/1784874167-L.jpg?default=false",
+    "dominantColor": "#b63c3d",
+    "w": 312,
+    "h": 500,
+    "palette": [
+      "#e20611",
+      "#ab0f09",
+      "#f5e4e4"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Science Fiction",
+    "Dystopian",
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "dystopia",
+    "conditioning",
+    "technology",
+    "conformity"
+  ],
+  "moods": [
+    "satirical",
+    "unsettling",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "bottled babies",
+      "a pleasure drug",
+      "engineered happiness"
+    ],
+    "oneLine": "A future kept docile by comfort and pleasure, not by fear."
+  },
+  "summary": "In a future world of engineered contentment, humans are grown in bottles, sorted into castes and kept docile by the pleasure drug soma and endless consumption, until an outsider raised beyond this order exposes the emptiness at its heart. Huxley's dystopia imagines tyranny not through terror but through comfort, distraction and the abolition of pain. Prophetic and unsettling, it is often paired with Orwell as one of the two essential visions of where the modern world might be heading.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The dystopia of pleasure rather than terror, and eerily prophetic. The essential companion to Orwell.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Huxley later argued its vision of control by pleasure was more likely than Orwell's control by fear.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "river-of-smoke",
+  "title": "River of Smoke",
+  "subtitle": null,
+  "authors": [
+    "amitav-ghosh"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2011,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 522
+  },
+  "cover": {
+    "file": "assets/covers/river-of-smoke.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#36a09e",
+    "w": 495,
+    "h": 738,
+    "trimmed": true,
+    "palette": [
+      "#039da3",
+      "#b20436",
+      "#3580a1"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Historical Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "opium trade",
+    "Canton",
+    "19th century",
+    "empire"
+  ],
+  "moods": [
+    "epic",
+    "atmospheric",
+    "rich"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to escape",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "the port of Canton",
+      "the opium trade",
+      "a feast of detail"
+    ],
+    "oneLine": "Ghosh's sweeping epic of the opium trade on the eve of war in Canton."
+  },
+  "summary": "The second novel of Amitav Ghosh's Ibis trilogy carries a cast of merchants, painters and exiles to the teeming foreign enclave of Canton on the eve of the First Opium War. Ghosh recreates the world of the nineteenth-century opium trade in dazzling detail, from botany and painting to the pidgin tongues of the China coast. Sweeping, sensuous and superbly researched, it is a rich historical epic about commerce, addiction and empire, and a feast for readers who love a fully imagined world.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The second Ibis novel, a sumptuous historical epic of the opium trade and old Canton. Superbly researched and richly imagined.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is the middle volume of Ghosh's acclaimed Ibis trilogy about the opium trade.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

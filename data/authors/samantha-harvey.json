@@ -1,0 +1,18 @@
+{
+  "slug": "samantha-harvey",
+  "name": "Samantha Harvey",
+  "birthYear": 1975,
+  "deathYear": null,
+  "nationality": "British",
+  "bio": "English novelist known for lyrical, thoughtful fiction and a memoir about insomnia, The Shapeless Unease. Her fifth novel, Orbital, a short, glowing day aboard the International Space Station, won the 2024 Booker Prize, the first winner set in space.",
+  "photo": {
+    "file": "assets/authors/samantha-harvey.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Samantha_Harvey",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Luminish"
+  },
+  "books": [
+    "orbital"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "the-day-of-the-triffids",
+  "title": "The Day of the Triffids",
+  "subtitle": null,
+  "authors": [
+    "john-wyndham"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1951,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241284678",
+    "pageCount": 270
+  },
+  "cover": {
+    "file": "assets/covers/the-day-of-the-triffids.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#c7d758",
+    "w": 626,
+    "h": 1000,
+    "palette": [
+      "#bdd068",
+      "#dbe639",
+      "#f6f90e"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Science Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "apocalypse",
+    "survival",
+    "plants",
+    "blindness"
+  ],
+  "moods": [
+    "suspenseful",
+    "bleak",
+    "unsettling"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to be thrilled",
+      "to be absorbed for hours",
+      "on a train or plane"
+    ],
+    "sensory": [
+      "an empty London",
+      "a blinded world",
+      "carnivorous plants"
+    ],
+    "oneLine": "Most of the world goes blind, and the plants start to move."
+  },
+  "summary": "After a dazzling meteor shower blinds almost everyone on Earth, the few who can still see must survive in a collapsing world, menaced not only by the breakdown of society but by the triffids: tall, mobile, carnivorous plants that were being farmed until the lights went out. Wyndham's classic 'cosy catastrophe' is a gripping, thoughtful disaster novel about how quickly civilisation unravels and what kind of people rebuild it, and it has shaped apocalyptic fiction ever since.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The blueprint for the modern apocalypse novel, complete with walking killer plants. Thoughtful and genuinely gripping.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Wyndham's gentle-seeming British disaster stories inspired the label 'cosy catastrophe'.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B3",
+  "enriched": true
+}

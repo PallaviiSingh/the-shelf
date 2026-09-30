@@ -1,0 +1,77 @@
+{
+  "slug": "the-crooked-line",
+  "title": "The Crooked Line",
+  "subtitle": null,
+  "authors": [
+    "ismat-chughtai"
+  ],
+  "translator": null,
+  "originalLanguage": "Urdu",
+  "translated": true,
+  "originalPublicationYear": 1943,
+  "edition": {
+    "publisher": "Speaking Tiger Publishing Pvt Ltd & Women",
+    "series": null,
+    "isbn": "9388874374",
+    "pageCount": 374
+  },
+  "cover": {
+    "file": "assets/covers/the-crooked-line.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#de3733",
+    "w": 646,
+    "h": 1000,
+    "palette": [
+      "#ed2822",
+      "#e25451",
+      "#e28582"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Classic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Urdu",
+    "Ismat Chughtai",
+    "women",
+    "coming of age"
+  ],
+  "moods": [
+    "defiant",
+    "intense",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "a large Muslim family",
+      "a woman's awakening",
+      "a search for self"
+    ],
+    "oneLine": "A rebellious woman's coming of age, in Chughtai's landmark Urdu novel."
+  },
+  "summary": "The Crooked Line, or Terhi Lakeer, is Ismat Chughtai's ambitious semi-autobiographical novel, tracing a spirited, rebellious woman's journey from a large Muslim family through school and college to political awakening and adulthood. Frank about sexuality, friendship and the constraints on women, it is one of the most important feminist novels in Urdu, charting a woman's search for selfhood against every pressure to conform. A landmark work from a pioneering writer.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Chughtai's ambitious, frank feminist novel of a rebellious woman's coming of age. A landmark of Urdu literature.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is often considered Chughtai's most important and most autobiographical novel.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

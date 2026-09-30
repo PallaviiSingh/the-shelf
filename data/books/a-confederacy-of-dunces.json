@@ -1,0 +1,76 @@
+{
+  "slug": "a-confederacy-of-dunces",
+  "title": "A Confederacy of Dunces",
+  "subtitle": null,
+  "authors": [
+    "john-kennedy-toole"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1980,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "024128466X",
+    "pageCount": 391
+  },
+  "cover": {
+    "file": "assets/covers/a-confederacy-of-dunces.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#cc4029",
+    "w": 626,
+    "h": 1000,
+    "palette": [
+      "#c8272c",
+      "#cf6826",
+      "#dc9b1c"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "comedy",
+    "New Orleans",
+    "misfit",
+    "satire"
+  ],
+  "moods": [
+    "satirical",
+    "playful",
+    "bleak"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "a short sitting",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "chaotic New Orleans",
+      "a hot dog cart",
+      "a raging misfit"
+    ],
+    "oneLine": "A pompous, hopeless misfit rampages through a comic New Orleans."
+  },
+  "summary": "Ignatius J. Reilly, a fat, flatulent, medievalist blowhard living with his mother in New Orleans, lurches through a series of doomed jobs and schemes while raging against the modern world. Toole's riotous comic novel, published eleven years after his suicide thanks to his mother's persistence, won the Pulitzer Prize and became a cult classic. Its grotesque, unforgettable hero and its affectionate, chaotic New Orleans have made it one of the funniest American novels ever written.",
+  "summarySource": "knowledge",
+  "whyReadIt": "One of the funniest American novels ever, with a monstrous, unforgettable hero. A cult classic that will make you laugh out loud.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Toole died by suicide unpublished; his mother spent years getting the novel into print, and it won the Pulitzer.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B4",
+  "enriched": true
+}

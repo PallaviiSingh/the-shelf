@@ -1,0 +1,75 @@
+{
+  "slug": "more-days-at-the-morisaki-bookshop",
+  "title": "More Days at the Morisaki Bookshop",
+  "subtitle": null,
+  "authors": [
+    "satoshi-yagisawa"
+  ],
+  "translator": "Eric Ozawa",
+  "originalLanguage": "Japanese",
+  "translated": true,
+  "originalPublicationYear": 2011,
+  "edition": {
+    "publisher": "Manilla",
+    "series": null,
+    "pageCount": 176
+  },
+  "cover": {
+    "file": "assets/covers/more-days-at-the-morisaki-bookshop.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8e8773",
+    "w": 720,
+    "h": 1104,
+    "palette": [
+      "#856939",
+      "#9ed8f6",
+      "#6c4f26"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Japan",
+  "tags": [
+    "Japan",
+    "bookshop",
+    "family",
+    "Tokyo"
+  ],
+  "moods": [
+    "comforting",
+    "tender",
+    "warm"
+  ],
+  "difficulty": "gentle",
+  "pace": "gentle",
+  "vibeProfile": {
+    "occasions": [
+      "comfort reading",
+      "to relax and unwind",
+      "in a cafe"
+    ],
+    "sensory": [
+      "a beloved bookshop",
+      "a neighbourhood's regulars",
+      "a quiet repair"
+    ],
+    "oneLine": "A gentle return to the healing world of the Morisaki bookshop."
+  },
+  "summary": "The gentle sequel returns to the Morisaki bookshop and its small circle of characters, as its heroine settles deeper into the life of the store, the neighbourhood and her uncle and aunt's quietly complicated marriage. Like the first book, it is a soft, unhurried story about books, belonging and the slow repair of the heart. Warm and soothing, it gives readers who loved the first volume more time in the same comforting world of dusty shelves and kind, ordinary people.",
+  "summarySource": "knowledge",
+  "whyReadIt": "More time in the comforting world of the Morisaki bookshop. Soft, warm and soothing.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It continues the story of the bestselling first Morisaki Bookshop novel.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

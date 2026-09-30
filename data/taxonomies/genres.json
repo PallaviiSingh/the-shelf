@@ -1,0 +1,34 @@
+{
+  "_description": "Two-level genre system. A book has one primary genre (top-level) and one or more sub-genres. Region/language/translated are separate facets (see facets.json) so 'Indian Literature' and 'Translated' don't collide with genre.",
+  "genres": {
+    "Fiction": [
+      "Literary Fiction",
+      "Classic",
+      "Science Fiction",
+      "Dystopian",
+      "Gothic & Horror",
+      "Mystery & Crime",
+      "Historical Fiction",
+      "Magical Realism",
+      "Short Stories"
+    ],
+    "Non-fiction": [
+      "Memoir & Biography",
+      "History",
+      "Nature & Environment",
+      "Philosophy & Theory",
+      "Oral History & Reportage",
+      "Essays",
+      "Letters & Diaries",
+      "Travel"
+    ],
+    "Poetry": [
+      "Poetry Collection",
+      "Verse Epic"
+    ],
+    "Drama": [
+      "Play",
+      "Drama & Criticism"
+    ]
+  }
+}

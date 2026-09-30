@@ -1,0 +1,75 @@
+{
+  "slug": "subhadra-kumari-chauhan-granthavali-vol-2",
+  "title": "Subhadra Kumari Chauhan Granthavali - vol 2",
+  "subtitle": null,
+  "authors": [
+    "rupa-gupta"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Swaraj Prakashan",
+    "series": null,
+    "isbn": "9383513675",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/subhadra-kumari-chauhan-granthavali-vol-2.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9a6b60",
+    "w": 706,
+    "h": 1000,
+    "palette": [
+      "#6f2125",
+      "#813e3c",
+      "#996758"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Poetry Collection",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "poetry",
+    "Subhadra Kumari Chauhan"
+  ],
+  "moods": [
+    "luminous",
+    "warm",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "lyric and story",
+      "a nationalist poet",
+      "a pioneering woman's voice"
+    ],
+    "oneLine": "The collected works of Subhadra Kumari Chauhan, volume two."
+  },
+  "summary": "The second volume of the collected works of Subhadra Kumari Chauhan, gathering more of the poetry and prose of the beloved Hindi poet and freedom fighter. Alongside her famous patriotic verse, this volume preserves her lyrical and narrative writing, giving a fuller picture of a pioneering woman's voice in modern Hindi literature. A valued collection for readers of Hindi poetry and of India's literary and nationalist heritage.",
+  "summarySource": "knowledge",
+  "whyReadIt": "More collected works of the beloved Hindi poet and freedom fighter Subhadra Kumari Chauhan.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Subhadra Kumari Chauhan was jailed more than once for her role in India's freedom movement.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

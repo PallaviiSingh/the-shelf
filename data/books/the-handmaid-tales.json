@@ -1,0 +1,77 @@
+{
+  "slug": "the-handmaid-tales",
+  "title": "The Handmaid Tales",
+  "subtitle": null,
+  "authors": [
+    "margaret-atwood"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1985,
+  "edition": {
+    "publisher": "Vintage",
+    "series": null,
+    "isbn": "0099740915",
+    "pageCount": 352
+  },
+  "cover": {
+    "file": "assets/covers/the-handmaid-tales.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4c1d1e",
+    "w": 720,
+    "h": 1105,
+    "palette": [
+      "#23201e",
+      "#e30712",
+      "#9c0a10"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Science Fiction",
+    "Dystopian",
+    "Literary Fiction"
+  ],
+  "region": "Canada",
+  "tags": [
+    "dystopia",
+    "patriarchy",
+    "fertility",
+    "totalitarian"
+  ],
+  "moods": [
+    "bleak",
+    "unsettling",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "a theocratic state",
+      "red robes",
+      "a stolen future"
+    ],
+    "oneLine": "In a theocracy that enslaves fertile women, one Handmaid remembers freedom."
+  },
+  "summary": "In the near-future theocracy of Gilead, a coup has stripped women of their rights and forced the fertile few into service as Handmaids, kept only to bear children for the ruling class. Through the muted, watchful voice of Offred, Atwood builds one of the most influential dystopias ever written, chillingly assembled, she insists, only from things that have really happened somewhere. Urgent, frightening and newly resonant with each passing year, it is the modern classic of feminist speculative fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The defining feminist dystopia, and more urgent every year. Offred's quiet voice is impossible to shake.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Atwood's rule was to include nothing that had not already happened somewhere in the real world.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A3",
+  "enriched": true
+}

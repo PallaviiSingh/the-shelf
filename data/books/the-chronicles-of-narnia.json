@@ -1,0 +1,77 @@
+{
+  "slug": "the-chronicles-of-narnia",
+  "title": "The Chronicles of Narnia",
+  "subtitle": null,
+  "authors": [
+    "c-s-lewis"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1950,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 236
+  },
+  "cover": {
+    "file": "assets/covers/the-chronicles-of-narnia.png",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#78593c",
+    "w": 720,
+    "h": 858,
+    "alpha": true,
+    "palette": [
+      "#503628",
+      "#e4c750",
+      "#6b4f3c"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "fantasy",
+    "children",
+    "allegory",
+    "other worlds"
+  ],
+  "moods": [
+    "dreamlike",
+    "comforting",
+    "epic"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "in bed at night",
+      "to escape"
+    ],
+    "sensory": [
+      "a snowy wood",
+      "a talking lion",
+      "a wardrobe door"
+    ],
+    "oneLine": "Children step through a wardrobe into a world of talking beasts and a great lion."
+  },
+  "summary": "Through a wardrobe, and other doorways, ordinary children step into Narnia, a world of talking beasts, ancient magic and the great lion Aslan, and are caught up in its wars, coronations and quiet miracles. Lewis's seven-book series is one of the best-loved works of children's fantasy, spanning Narnia's whole history from creation to end. Adventurous, moving and shot through with Christian allegory, it has enchanted generations of readers and shaped almost every fantasy world that came after.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The wardrobe, the lion, and one of the best-loved fantasy worlds ever made. Comfort reading for any age.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Lewis wove Christian allegory through the books, with Aslan as its central figure.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

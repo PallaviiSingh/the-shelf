@@ -1,0 +1,78 @@
+{
+  "slug": "pygmalion",
+  "title": "Pygmalion",
+  "subtitle": null,
+  "authors": [
+    "g-b-shaw"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1913,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/pygmalion.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8f8740",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#fedd01",
+      "#00151d",
+      "#e2ce39"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Comedy"
+  ],
+  "region": "England",
+  "tags": [
+    "class",
+    "language",
+    "transformation",
+    "London"
+  ],
+  "moods": [
+    "witty",
+    "satirical",
+    "playful"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "a short sitting",
+      "to think hard"
+    ],
+    "sensory": [
+      "a phonetics lesson",
+      "a flower girl remade",
+      "the tyranny of accent"
+    ],
+    "oneLine": "A professor bets he can pass a flower girl off as a duchess."
+  },
+  "summary": "A phonetics professor bets that he can pass off a Cockney flower girl as a duchess simply by teaching her to speak properly, and succeeds, without reckoning on what he owes the woman he has remade. Shaw's brilliant, funny play is a sharp attack on the English class system and the arbitrariness of accent and manners. Witty and provocative, it later became the musical My Fair Lady, but Shaw's original is tarter, cleverer and refuses the tidy romance audiences expect.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Shaw's witty demolition of the English class system, and the original behind My Fair Lady, but sharper. Clever and provocative.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Shaw disliked the romantic endings later imposed on the story, including in My Fair Lady.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

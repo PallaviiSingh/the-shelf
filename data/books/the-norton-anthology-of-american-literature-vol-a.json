@@ -1,0 +1,64 @@
+{
+  "slug": "the-norton-anthology-of-american-literature-vol-a",
+  "title": "The Norton Anthology of American Literature, Vol A",
+  "subtitle": null,
+  "authors": [],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-norton-anthology-of-american-literature-vol-a.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8d743b",
+    "w": 323,
+    "h": 500,
+    "palette": [
+      "#e3ac38",
+      "#20240e",
+      "#fce29c"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Anthology"
+  ],
+  "region": "United States",
+  "tags": [
+    "anthology",
+    "American literature",
+    "reference"
+  ],
+  "moods": [
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "first voices",
+      "colonial America",
+      "a founding tradition"
+    ],
+    "oneLine": "The Norton anthology of American literature, the beginnings."
+  },
+  "summary": "Volume A of the Norton Anthology of American Literature covers the earliest period, from Native American oral traditions and the literature of first contact through the colonial and early national eras. It gathers the founding voices of American writing, from Puritan sermons and captivity narratives to the writers of the young republic, with introductions and notes. A cornerstone anthology for the study of American literature from its beginnings.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Norton anthology of early American literature, from first contact to the young republic. A cornerstone of the field.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "0",
+  "enriched": true
+}

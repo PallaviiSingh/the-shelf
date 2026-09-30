@@ -1,0 +1,76 @@
+{
+  "slug": "book-of-lives-a-memoir-of-sorts",
+  "title": "Book of Lives: A Memoir of Sorts",
+  "subtitle": null,
+  "authors": [
+    "margaret-atwood"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2025,
+  "edition": {
+    "publisher": "Chatto & Windus",
+    "series": null,
+    "isbn": "1784744492",
+    "pageCount": 1024
+  },
+  "cover": {
+    "file": "assets/covers/book-of-lives-a-memoir-of-sorts.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#996c6a",
+    "w": 720,
+    "h": 1094,
+    "palette": [
+      "#7e7975",
+      "#b3273a",
+      "#e2b49b"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "Canada",
+  "tags": [
+    "memoir",
+    "writing life",
+    "Canada",
+    "reflection"
+  ],
+  "moods": [
+    "cerebral",
+    "tender",
+    "playful"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a rainy day",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a bush childhood",
+      "a writing life",
+      "a clear, dry eye"
+    ],
+    "oneLine": "Atwood turns her wit on her own long, remarkable life."
+  },
+  "summary": "Late in a remarkable life, Margaret Atwood turns her wit and clear eye on her own story, from a bush childhood in the Canadian wilderness to a career at the centre of world literature, and the losses and loves along the way. Called a memoir 'of sorts' because Atwood distrusts tidy life stories, it is candid, funny and characteristically sceptical of its own genre. A generous, unsentimental self-portrait from one of the defining writers of the age.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Atwood's own life, told with the wit and scepticism she brings to everything. Candid, funny and unsentimental.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Atwood has often resisted straightforward autobiography, hence the wry subtitle 'a memoir of sorts'.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A3",
+  "enriched": true
+}

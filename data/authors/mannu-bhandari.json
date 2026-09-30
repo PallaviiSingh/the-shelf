@@ -1,0 +1,17 @@
+{
+  "slug": "mannu-bhandari",
+  "name": "Mannu Bhandari",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Mannu Bhandari was an Indian author, screenplay writer, teacher, and playwright. Primarily known for her two Hindi novels, Aap Ka Bunty and Mahabhoj (Feast), Bhandari also wrote over 150 short stories, several other novels, screenplays for television and film, and adaptations for theatre. She was a pioneer of the Nayi Kahani movement in Hindi literature,",
+  "photo": {
+    "file": "assets/authors/mannu-bhandari.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mannu_Bhandari"
+  },
+  "books": [
+    "aapka-bunti"
+  ],
+  "enriched": false
+}

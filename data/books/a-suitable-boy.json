@@ -1,0 +1,76 @@
+{
+  "slug": "a-suitable-boy",
+  "title": "A Suitable Boy",
+  "subtitle": null,
+  "authors": [
+    "vikram-seth"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1993,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 1408
+  },
+  "cover": {
+    "file": "assets/covers/a-suitable-boy.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#89683b",
+    "w": 644,
+    "h": 1000,
+    "palette": [
+      "#9c6929",
+      "#6c3c23",
+      "#3a2112"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "marriage",
+    "family",
+    "1950s India",
+    "politics"
+  ],
+  "moods": [
+    "warm",
+    "epic",
+    "witty"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to escape",
+      "comfort reading"
+    ],
+    "sensory": [
+      "1950s India",
+      "a mother's marriage plans",
+      "four intertwined families"
+    ],
+    "oneLine": "A mother's search for her daughter's husband opens up all of 1950s India."
+  },
+  "summary": "In newly independent India, a mother sets out to find a suitable husband for her daughter Lata, and around that simple quest Vikram Seth builds one of the longest novels in English, a vast, warm panorama of four families, politics, religion and a changing nation. Unhurried and hugely readable, it immerses you completely in 1950s India, from village to parliament. Comic, tender and richly peopled, it is a modern classic that readers disappear into for weeks and remember for years.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A vast, warm, immersive panorama of 1950s India built around one marriage search. A modern classic to disappear into.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "At around 1,350 pages, it is one of the longest single-volume novels in the English language.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

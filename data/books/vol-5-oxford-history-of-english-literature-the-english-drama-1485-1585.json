@@ -1,0 +1,70 @@
+{
+  "slug": "vol-5-oxford-history-of-english-literature-the-english-drama-1485-1585",
+  "title": "Vol 5 Oxford History of English Literature: The English Drama (1485-1585)",
+  "subtitle": null,
+  "authors": [
+    "f-p-wilson",
+    "g-k-hunter"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Clarendon Press",
+    "series": null,
+    "isbn": "0198122322",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-5-oxford-history-of-english-literature-the-english-drama-1485-1585.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#82766c",
+    "w": 398,
+    "h": 650,
+    "palette": [
+      "#253650",
+      "#deb685",
+      "#f4ce9d"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "drama",
+    "Tudor",
+    "literary history",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "morality plays",
+      "early Tudor theatre",
+      "the road to Shakespeare"
+    ],
+    "oneLine": "The Oxford history of English drama from 1485 to 1585."
+  },
+  "summary": "F. P. Wilson's volume in the Oxford History of English Literature traces the English drama from 1485 to 1585, the century in which medieval religious plays gave way to the beginnings of the great Elizabethan theatre. It surveys the moralities, interludes and early comedies and tragedies that prepared the ground for Marlowe and Shakespeare. A careful, authoritative account of a crucial transitional era in English theatrical history.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Oxford account of early English drama, from the medieval stage toward Shakespeare. Careful and authoritative.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

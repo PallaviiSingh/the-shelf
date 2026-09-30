@@ -1,0 +1,75 @@
+{
+  "slug": "subhadra-kumari-chauhan-granthavali-vol-1",
+  "title": "Subhadra Kumari Chauhan Granthavali - vol 1",
+  "subtitle": null,
+  "authors": [
+    "rupa-gupta"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Swaraj Prakashan",
+    "series": null,
+    "isbn": "9383513675",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/subhadra-kumari-chauhan-granthavali-vol-1.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#946460",
+    "w": 720,
+    "h": 994,
+    "palette": [
+      "#681d25",
+      "#7e3c3f",
+      "#a18480"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Poetry Collection",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "poetry",
+    "Subhadra Kumari Chauhan"
+  ],
+  "moods": [
+    "luminous",
+    "warm",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "patriotic verse",
+      "the Rani of Jhansi",
+      "a pioneering woman's voice"
+    ],
+    "oneLine": "The collected works of the Hindi poet Subhadra Kumari Chauhan, volume one."
+  },
+  "summary": "The first volume of the collected works of Subhadra Kumari Chauhan, one of the best-loved Hindi poets of the twentieth century and a freedom fighter. She is famous above all for her stirring patriotic poem on the Rani of Jhansi, learned by generations of Indian schoolchildren, but she also wrote tender lyrics and short stories. This granthavali gathers her writing, preserving the legacy of a pioneering woman's voice in modern Hindi literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The collected works of a beloved Hindi poet and freedom fighter, famous for her rousing poem on the Rani of Jhansi.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Her poem 'Jhansi ki Rani' is among the most recited patriotic poems in Hindi.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "ivanhoe",
+  "title": "Ivanhoe",
+  "subtitle": null,
+  "authors": [
+    "walter-scott"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1819,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 488
+  },
+  "cover": {
+    "file": "assets/covers/ivanhoe.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#755661",
+    "w": 227,
+    "h": 350,
+    "palette": [
+      "#281e26",
+      "#513b39",
+      "#821e28"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Historical Fiction"
+  ],
+  "region": "Scotland",
+  "tags": [
+    "knights",
+    "medieval",
+    "chivalry",
+    "Robin Hood"
+  ],
+  "moods": [
+    "adventurous",
+    "epic",
+    "romantic"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to escape",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a medieval tournament",
+      "a Saxon knight",
+      "the greenwood"
+    ],
+    "oneLine": "A disinherited knight, jousts and Robin Hood in Norman England."
+  },
+  "summary": "In twelfth-century England, torn between Norman rulers and their Saxon subjects, the disinherited knight Ivanhoe returns from the Crusades to jousts, sieges, and the intrigues around the absent King Richard, with Robin Hood himself lurking in the greenwood. Walter Scott's rousing romance did more than almost any book to shape the popular image of the Middle Ages: tournaments, damsels, and noble outlaws. Full-blooded and hugely influential, it helped invent the historical novel as we know it.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The book that invented our whole picture of the Middle Ages, jousts, Robin Hood and all. A rousing founding historical romance.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Scott's novel did much to revive interest in medieval chivalry and the Robin Hood legend.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

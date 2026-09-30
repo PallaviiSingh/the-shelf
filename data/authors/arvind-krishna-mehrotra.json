@@ -1,0 +1,17 @@
+{
+  "slug": "arvind-krishna-mehrotra",
+  "name": "Arvind Krishna Mehrotra",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Arvind Krishna Mehrotra is an Indian poet, anthologist, literary critic and translator.",
+  "photo": {
+    "file": "assets/authors/arvind-krishna-mehrotra.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arvind_Krishna_Mehrotra"
+  },
+  "books": [
+    "a-concise-history-of-indian-literature-in-english"
+  ],
+  "enriched": false
+}

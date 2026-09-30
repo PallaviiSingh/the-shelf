@@ -1,0 +1,75 @@
+{
+  "slug": "the-masque-of-africa",
+  "title": "The Masque of Africa",
+  "subtitle": null,
+  "authors": [
+    "v-s-naipaul"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2010,
+  "edition": {
+    "publisher": "Picador USA",
+    "series": null,
+    "pageCount": 336
+  },
+  "cover": {
+    "file": "assets/covers/the-masque-of-africa.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/0330472046-L.jpg?default=false",
+    "dominantColor": "#98472d",
+    "w": 331,
+    "h": 500,
+    "palette": [
+      "#dd3727",
+      "#ec8242",
+      "#220f0c"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Travel Writing"
+  ],
+  "region": "Africa",
+  "tags": [
+    "Africa",
+    "religion",
+    "belief",
+    "travel"
+  ],
+  "moods": [
+    "curious",
+    "cerebral",
+    "atmospheric"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "six African countries",
+      "old gods beneath new faiths",
+      "a probing traveller"
+    ],
+    "oneLine": "Naipaul travels Africa in search of the old beliefs beneath Islam and Christianity."
+  },
+  "summary": "In his final major work, the Nobel laureate V. S. Naipaul travels through six African countries, from Uganda to South Africa, to explore the survival of traditional belief beneath the surface of Islam and Christianity. Characteristically observant and unsparing, he probes how older African religions persist and shape the continent's life. Controversial and much debated, like much of his late work, it is nonetheless a searching, richly written inquiry into faith, memory and the resilience of the past.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Naipaul's searching final travel book on the survival of old belief across Africa. Observant, unsparing and much debated.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was the last major book by the Nobel laureate, published when he was in his late seventies.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

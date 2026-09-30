@@ -1,0 +1,77 @@
+{
+  "slug": "complete-adventures-of-feluda-vol-2",
+  "title": "Complete Adventures of Feluda Vol.2",
+  "subtitle": null,
+  "authors": [
+    "satyajit-ray"
+  ],
+  "translator": null,
+  "originalLanguage": "Bengali",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0143425048",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/complete-adventures-of-feluda-vol-2.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a0b5b0",
+    "w": 646,
+    "h": 1000,
+    "palette": [
+      "#88ceda",
+      "#f18d64",
+      "#f7e7cd"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Mystery",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Bengali",
+    "Satyajit Ray",
+    "Feluda",
+    "detective"
+  ],
+  "moods": [
+    "playful",
+    "suspenseful",
+    "warm"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to be thrilled",
+      "to relax and unwind",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a sharp-eyed sleuth",
+      "cases across India",
+      "wit and warmth"
+    ],
+    "oneLine": "Volume two of the complete adventures of Feluda."
+  },
+  "summary": "The second volume of the complete adventures of Feluda continues Satyajit Ray's beloved detective series, with more ingenious cases solved by the sharp-eyed sleuth alongside his cousin Topshe and the comic thriller writer Jatayu. Ranging across India's cities, hills and historic sites, the mysteries combine clever plotting with warmth, wit and a strong sense of place. A treasured classic of Indian crime writing for readers young and old.",
+  "summarySource": "knowledge",
+  "whyReadIt": "More adventures of Ray's beloved detective Feluda, clever cases with warmth, wit and a strong sense of place.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The Feluda stories are set in vividly described real locations across India.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

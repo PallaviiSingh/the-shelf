@@ -1,0 +1,76 @@
+{
+  "slug": "the-inheritence-of-loss",
+  "title": "The Inheritence of Loss",
+  "subtitle": null,
+  "authors": [
+    "kiran-desai"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2006,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 342
+  },
+  "cover": {
+    "file": "assets/covers/the-inheritence-of-loss.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#413a38",
+    "w": 720,
+    "h": 1161,
+    "palette": [
+      "#13120e",
+      "#332c26",
+      "#6f5067"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "Himalayas",
+    "migration",
+    "globalization",
+    "postcolonial"
+  ],
+  "moods": [
+    "melancholic",
+    "political",
+    "atmospheric"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a Himalayan house",
+      "a distant New York",
+      "dislocated lives"
+    ],
+    "oneLine": "A Himalayan household and a migrant in New York feel globalization's costs."
+  },
+  "summary": "In a crumbling house at the foot of the Himalayas, an embittered retired judge, his orphaned granddaughter and their cook live out the tremors of a Nepali insurgency, while the cook's son struggles as an undocumented worker in New York. Kiran Desai's Booker-winning novel weaves these lives into a searching meditation on colonial legacy, migration and the uneven promises of globalization. Beautifully written and quietly devastating, it captures both the grandeur of the mountains and the small humiliations of dislocated lives.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Desai's Booker-winning novel of the Himalayas, migration and globalization's broken promises. Beautiful and quietly devastating.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Kiran Desai won the Booker Prize in 2006; her mother Anita Desai was thrice shortlisted but never won.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

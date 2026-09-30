@@ -1,0 +1,68 @@
+{
+  "slug": "the-oxford-english-literary-history-reform-and-cultural-revolution-135",
+  "title": "The Oxford English Literary History - Reform and Cultural Revolution (1350-1547) - Vol 2",
+  "subtitle": null,
+  "authors": [
+    "james-simpson"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Oxford University Press",
+    "series": null,
+    "isbn": "0198182619",
+    "pageCount": 13
+  },
+  "cover": {
+    "file": "assets/covers/the-oxford-english-literary-history-reform-and-cultural-revolution-135.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#cdada5",
+    "w": 720,
+    "h": 1185,
+    "palette": [
+      "#d4b3ad",
+      "#b79c96",
+      "#523f39"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "medieval",
+    "Reformation",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "late medieval England",
+      "a bold rereading",
+      "the eve of Reformation"
+    ],
+    "oneLine": "Simpson's argument-driven Oxford history of English literature, 1350 to 1547."
+  },
+  "summary": "James Simpson's acclaimed volume in the newer Oxford English Literary History covers 1350 to 1547, provocatively titled Reform and Cultural Revolution. Rather than a simple survey, it argues that the late medieval period was more varied and tolerant than the Reformation that followed, challenging conventional accounts of the move from medieval to modern. Bold, argument-driven and richly detailed, it is a major scholarly reinterpretation of the literature of the later Middle Ages and early Tudor England.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Simpson's bold Oxford reinterpretation of late medieval literature, arguing the Reformation narrowed a richer world. Major scholarship.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "B1",
+  "enriched": true
+}

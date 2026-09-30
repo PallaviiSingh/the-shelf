@@ -1,0 +1,15 @@
+.DS_Store
+**/.DS_Store
+.claude/
+dist/
+*.zip
+__*.html
+nohup.out
+
+# personal source material — not part of the website
+Screenshot*.png
+*.pdf
+*.xlsx
+Books Images for claude/
+Possible images for the website/
+.cover_backups/

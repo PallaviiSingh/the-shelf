@@ -1,0 +1,75 @@
+{
+  "slug": "lolita",
+  "title": "Lolita",
+  "subtitle": null,
+  "authors": [
+    "vladimir-nabokov"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1955,
+  "edition": {
+    "publisher": "Penguin Books, Limited",
+    "series": "Penguin",
+    "pageCount": 362
+  },
+  "cover": {
+    "file": "assets/covers/lolita.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a9907a",
+    "w": 720,
+    "h": 1105,
+    "palette": [
+      "#cbb699",
+      "#b59c7f",
+      "#9f8169"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Classic"
+  ],
+  "region": "United States",
+  "tags": [
+    "unreliable narrator",
+    "obsession",
+    "America",
+    "prose style"
+  ],
+  "moods": [
+    "disturbing",
+    "dazzling",
+    "dark"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a predator's charm",
+      "dazzling prose",
+      "an American road trip"
+    ],
+    "oneLine": "A monster's seductive voice, in Nabokov's dazzling, disturbing masterpiece."
+  },
+  "summary": "Humbert Humbert, a cultured European and self-justifying monster, narrates his obsession with and abuse of a twelve-year-old girl he calls Lolita, in some of the most dazzling and seductive prose ever written in English. Nabokov's notorious masterpiece dares the reader to be charmed by a predator's voice, and in doing so becomes a profound study of desire, delusion and the treachery of beautiful language. Brilliant and deeply disturbing, it is a novel that demands to be read with open eyes.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Nabokov's dazzling, disturbing masterpiece, a monster's seductive voice you must read with open eyes. Brilliant and unsettling.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Several publishers rejected it before it appeared in Paris in 1955, sparking immediate scandal.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

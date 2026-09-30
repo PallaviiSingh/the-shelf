@@ -1,0 +1,77 @@
+{
+  "slug": "train-to-pakistan",
+  "title": "Train to Pakistan",
+  "subtitle": null,
+  "authors": [
+    "khushwant-singh"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1956,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 207
+  },
+  "cover": {
+    "file": "assets/covers/train-to-pakistan.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6a5b4b",
+    "w": 654,
+    "h": 1000,
+    "palette": [
+      "#213a3b",
+      "#9d1e1b",
+      "#533c26"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Partition",
+    "violence",
+    "1947",
+    "village"
+  ],
+  "moods": [
+    "bleak",
+    "tragic",
+    "intense"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a border village",
+      "the trains of 1947",
+      "communal fire"
+    ],
+    "oneLine": "A peaceful border village is engulfed by the horror of Partition."
+  },
+  "summary": "In the summer of 1947, as Partition tears the subcontinent apart, the peaceful border village of Mano Majra, where Sikhs and Muslims have always lived together, is engulfed by the arriving horror. Khushwant Singh's unflinching novel traces how ordinary people are swept into communal slaughter, and how one flawed man may yet make a redemptive choice. Direct, brutal and deeply humane, it remains the classic novel of Partition and one of the most powerful accounts of that catastrophe in any language.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The classic novel of Partition, unflinching and deeply humane. One village swept into the horror of 1947.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It remains one of the most widely read fictional accounts of the 1947 Partition of India.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

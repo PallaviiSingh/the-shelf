@@ -1,0 +1,74 @@
+{
+  "slug": "wild-and-wilful",
+  "title": "Wild and Wilful",
+  "subtitle": null,
+  "authors": [
+    "neha-sinha"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2021,
+  "edition": {
+    "publisher": "Harper Collins",
+    "series": null,
+    "isbn": "9353578299",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/wild-and-wilful.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5b5b5b",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#535353"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Nature Writing"
+  ],
+  "region": "India",
+  "tags": [
+    "India",
+    "wildlife",
+    "conservation",
+    "species"
+  ],
+  "moods": [
+    "curious",
+    "warm",
+    "urgent"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "to think hard",
+      "in the sun"
+    ],
+    "sensory": [
+      "tigers and elephants",
+      "field encounters",
+      "a crowded country"
+    ],
+    "oneLine": "Fifteen iconic Indian species, their lives and the fight to save them."
+  },
+  "summary": "Neha Sinha profiles fifteen iconic Indian species, from tigers and elephants to leopards, rhinos and migratory birds, blending natural history, field encounters and the urgent politics of conservation. A wildlife scientist and writer, she shows how these animals live, why they matter, and how they collide with a fast-changing, crowded country. Engaging and heartfelt, it makes the case for coexistence and brings India's threatened wildlife vividly to life for the general reader.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Fifteen of India's iconic species brought to life by a wildlife scientist, with the politics of saving them. Warm and urgent.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Neha Sinha is a conservation scientist as well as a nature writer.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

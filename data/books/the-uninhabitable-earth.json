@@ -1,0 +1,76 @@
+{
+  "slug": "the-uninhabitable-earth",
+  "title": "The Uninhabitable Earth",
+  "subtitle": null,
+  "authors": [
+    "david-wallace-wells"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2019,
+  "edition": {
+    "publisher": "Tim Duggan Books",
+    "series": null,
+    "isbn": "0525576703",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-uninhabitable-earth.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#e5e0da",
+    "w": 720,
+    "h": 1215,
+    "palette": [
+      "#ebe6e0",
+      "#1d120a",
+      "#512b11"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays"
+  ],
+  "region": "World",
+  "tags": [
+    "climate change",
+    "future",
+    "science",
+    "warning"
+  ],
+  "moods": [
+    "bleak",
+    "urgent",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting",
+      "to study"
+    ],
+    "sensory": [
+      "a heating planet",
+      "cascading crises",
+      "a stark warning"
+    ],
+    "oneLine": "An unsparing look at what unchecked global warming could actually bring."
+  },
+  "summary": "David Wallace-Wells lays out, in unsparing detail, what unchecked global warming could actually do: heat, hunger, drowned cities, economic collapse, mass migration and more, cascading together far faster than most people assume. Expanding his viral essay, he confronts the reader with the full sweep of climate science without flinching. Alarming by design and impossible to dismiss, it is one of the starkest and most widely read accounts of the stakes, meant to shock a complacent world into finally paying attention.",
+  "summarySource": "knowledge",
+  "whyReadIt": "An unflinching, alarming account of what unchecked warming could really do. Designed to shock the complacent awake.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It grew from a 2017 magazine essay that became one of the most-read climate articles ever.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

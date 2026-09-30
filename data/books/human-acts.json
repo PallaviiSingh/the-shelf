@@ -1,0 +1,76 @@
+{
+  "slug": "human-acts",
+  "title": "Human Acts",
+  "subtitle": null,
+  "authors": [
+    "han-kang"
+  ],
+  "translator": "Deborah Smith",
+  "originalLanguage": "Korean",
+  "translated": true,
+  "originalPublicationYear": 2014,
+  "edition": {
+    "publisher": "Portobello Books",
+    "series": null,
+    "pageCount": 224
+  },
+  "cover": {
+    "file": "assets/covers/human-acts.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#afb4b2",
+    "w": 720,
+    "h": 1094,
+    "palette": [
+      "#cad2d1",
+      "#9ab2b8",
+      "#251207"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "South Korea",
+  "tags": [
+    "Korea",
+    "massacre",
+    "memory",
+    "trauma"
+  ],
+  "moods": [
+    "bleak",
+    "haunting",
+    "tender"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard"
+    ],
+    "sensory": [
+      "a crushed uprising",
+      "a search for the dead",
+      "a haunted city"
+    ],
+    "oneLine": "Han Kang's shattering chorus around the 1980 Gwangju massacre."
+  },
+  "summary": "Around the 1980 Gwangju uprising, when the South Korean military massacred protesting citizens, Han Kang builds a shattering chorus of voices: a boy searching for his friend's body, the souls of the dead, survivors haunted for decades. Moving through connected chapters, she confronts state violence and its long aftermath with unflinching tenderness. Based on real events, it is a profound, harrowing meditation on brutality, dignity and memory from one of the most important writers at work today.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Han Kang's harrowing, tender reckoning with a real massacre and its long aftermath. Profound and unforgettable.",
+  "awards": [
+    "Contributed to the Nobel Prize in Literature 2024 (Han Kang)"
+  ],
+  "funFacts": [
+    {
+      "text": "It is based on the 1980 Gwangju uprising, which the author witnessed the aftermath of as a child.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "freud-for-beginners",
+  "title": "Freud for Beginners",
+  "subtitle": null,
+  "authors": [
+    "richard",
+    "maurice-mechan"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orient Blackswan",
+    "series": null,
+    "isbn": "8125019146",
+    "pageCount": 174
+  },
+  "cover": {
+    "file": "assets/covers/freud-for-beginners.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#354779",
+    "w": 662,
+    "h": 1000,
+    "palette": [
+      "#95000a",
+      "#0c52a0",
+      "#0294cd"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy",
+    "Introduction",
+    "Graphic & Comics"
+  ],
+  "region": "Austria",
+  "tags": [
+    "psychoanalysis",
+    "Freud",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "the unconscious",
+      "dreams and the id",
+      "cartoons and clarity"
+    ],
+    "oneLine": "An illustrated introduction to the ideas of Sigmund Freud."
+  },
+  "summary": "Part of the illustrated For Beginners series, this book introduces the ideas of Sigmund Freud, the founder of psychoanalysis, from the unconscious and dreams to the ego, id and superego, through clear text and cartoons. It traces his life, his theories and their vast influence on how the modern world understands the mind. An accessible, entertaining first step into the thought of one of the most influential and controversial thinkers of the twentieth century.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Freud and psychoanalysis made accessible with text and cartoons. An entertaining first step.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "albert-camus",
+  "name": "Albert Camus",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Albert Camus was a French philosopher, writer, and political activist. He was the recipient of the 1957 Nobel Prize in Literature at the age of 44, the second-youngest recipient in history, and the first laureate in literature born in Africa. His works include The Stranger, The Plague, The Myth of Sisyphus, The Fall and The",
+  "photo": {
+    "file": "assets/authors/albert-camus.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Camus"
+  },
+  "books": [
+    "the-plague-the-fall"
+  ],
+  "enriched": false
+}

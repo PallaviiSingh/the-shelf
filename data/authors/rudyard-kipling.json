@@ -1,0 +1,13 @@
+{
+  "slug": "rudyard-kipling",
+  "name": "Rudyard Kipling",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Joseph Rudyard Kipling was an English journalist, novelist, poet and short-story writer. He was born in British India, which inspired much of his work.",
+  "photo": null,
+  "books": [
+    "the-jungle-book"
+  ],
+  "enriched": false
+}

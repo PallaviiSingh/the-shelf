@@ -1,0 +1,78 @@
+{
+  "slug": "carri-on-ruddy",
+  "title": "Carri-On Ruddy!",
+  "subtitle": null,
+  "authors": [
+    "rohan-chakravarty-green-humour"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "India Puffin",
+    "series": null,
+    "isbn": "0143461109",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/carri-on-ruddy.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b2a4ae",
+    "w": 636,
+    "h": 804,
+    "trimmed": true,
+    "palette": [
+      "#ebe8e5",
+      "#022384",
+      "#cdb1b2"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Graphic & Comics",
+    "Children's"
+  ],
+  "region": "India",
+  "tags": [
+    "cartoons",
+    "wildlife",
+    "mongoose",
+    "nature"
+  ],
+  "moods": [
+    "playful",
+    "witty",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "comfort reading",
+      "in the sun"
+    ],
+    "sensory": [
+      "a returning mongoose",
+      "more wild adventures",
+      "a comic with heart"
+    ],
+    "oneLine": "More adventures of Ruddy the mongoose exploring the natural world."
+  },
+  "summary": "Ruddy the mongoose returns in another of Rohan Chakravarty's comic adventures, carrying on his curious exploration of the natural world and the creatures who share it. With the same mix of humour, storytelling and real natural history, it introduces wildlife and ecological ideas in a way that entertains as much as it teaches. Charming and cleverly drawn, it continues the Green Humour tradition of smuggling serious appreciation for nature inside a genuinely funny, character-led comic.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Ruddy the mongoose carries on exploring the wild, Green Humour style. Charming, funny and quietly educational.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The Ruddy comics use a mongoose hero to make natural history fun and accessible.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

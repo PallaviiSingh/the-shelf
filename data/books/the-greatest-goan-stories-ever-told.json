@@ -1,0 +1,76 @@
+{
+  "slug": "the-greatest-goan-stories-ever-told",
+  "title": "The Greatest Goan Stories Ever Told",
+  "subtitle": null,
+  "authors": [
+    "manohar-shetty"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Rupa Publications India Pvt Ltd.",
+    "series": null,
+    "isbn": "939385212X",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-greatest-goan-stories-ever-told.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#294397",
+    "w": 396,
+    "h": 603,
+    "palette": [
+      "#223b97",
+      "#526a88",
+      "#0f82b0"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Anthology"
+  ],
+  "region": "India",
+  "tags": [
+    "Goa",
+    "short stories",
+    "anthology"
+  ],
+  "moods": [
+    "warm",
+    "atmospheric",
+    "curious"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to be absorbed for hours",
+      "in the sun"
+    ],
+    "sensory": [
+      "Goa's inner life",
+      "Catholic and Hindu worlds",
+      "a singular sensibility"
+    ],
+    "oneLine": "An anthology of the greatest short stories from Goa."
+  },
+  "summary": "An anthology gathering the finest short stories from Goa, the small former Portuguese colony on India's west coast with a literary culture all its own. Bringing together writers across languages and generations, the collection captures Goa beyond the beaches: its Catholic and Hindu worlds, its migrations, its music and food, its layered colonial past and its distinctive sensibility. A rich, varied introduction to the storytelling of a place unlike anywhere else in India.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The finest Goan short stories in one anthology, Goa beyond the beaches. Rich, varied and full of a singular place.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Goa has a distinctive literary tradition shaped by Konkani, Marathi, Portuguese and English.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

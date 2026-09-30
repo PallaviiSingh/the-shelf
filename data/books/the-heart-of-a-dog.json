@@ -1,0 +1,77 @@
+{
+  "slug": "the-heart-of-a-dog",
+  "title": "The Heart of a Dog",
+  "subtitle": null,
+  "authors": [
+    "mikhail-bulgakov"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1925,
+  "edition": {
+    "publisher": "Vintage Classic",
+    "series": null,
+    "isbn": "9780099529941",
+    "pageCount": 130
+  },
+  "cover": {
+    "file": "assets/covers/the-heart-of-a-dog.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a599b0",
+    "w": 646,
+    "h": 1000,
+    "palette": [
+      "#adafd2",
+      "#d54137",
+      "#53543a"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Magical Realism"
+  ],
+  "region": "Russia",
+  "tags": [
+    "Soviet satire",
+    "science",
+    "transformation",
+    "Moscow"
+  ],
+  "moods": [
+    "satirical",
+    "playful",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to laugh",
+      "to think hard"
+    ],
+    "sensory": [
+      "a Moscow apartment",
+      "a surgery",
+      "revolutionary slogans"
+    ],
+    "oneLine": "A stray dog is made human, and turns into the perfect Soviet monster."
+  },
+  "summary": "A Moscow professor transplants human glands into a stray dog, and the animal duly turns into an appalling, bureaucratic human being who embodies everything Bulgakov found grotesque about the new Soviet man. Written in the 1920s but banned for decades, it is a wicked, fast satire of revolutionary hubris and the fantasy of engineering a better species. Beneath the comedy runs a sharp warning about power and its experiments on ordinary life, delivered with the same mischievous brilliance Bulgakov brought to The Master and Margarita.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A short, savage comedy about a dog turned Soviet citizen. Bulgakov's wit at its sharpest, and easy to read in a sitting or two.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was banned in the USSR until 1987, more than sixty years after it was written.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

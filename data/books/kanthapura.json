@@ -1,0 +1,76 @@
+{
+  "slug": "kanthapura",
+  "title": "Kanthapura",
+  "subtitle": null,
+  "authors": [
+    "raja-rao"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1938,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 244
+  },
+  "cover": {
+    "file": "assets/covers/kanthapura.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a47417",
+    "w": 720,
+    "h": 960,
+    "palette": [
+      "#f9b507",
+      "#9a6a22",
+      "#3b2012"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Gandhi",
+    "freedom struggle",
+    "village",
+    "oral storytelling"
+  ],
+  "moods": [
+    "political",
+    "epic",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a South Indian village",
+      "Gandhian resistance",
+      "an old woman's telling"
+    ],
+    "oneLine": "Gandhi's movement transforms a South Indian village, told village-style."
+  },
+  "summary": "Told in the breathless voice of an old village woman, Kanthapura recounts how the Gandhian independence movement reaches a small South Indian village and transforms it, stirring its people to non-violent resistance against colonial and caste injustice. Raja Rao's novel is famous for bending English to the rhythms of Indian oral storytelling, folding myth, gossip and politics into a single flowing narrative. A foundational work of Indian English fiction and a vivid portrait of the freedom struggle from the ground up.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The freedom struggle reaching one village, told in the rhythms of Indian oral storytelling. A foundational Indian novel.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Raja Rao's preface, on writing English in an Indian idiom, is a landmark statement of Indian English literature.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "media-control",
+  "title": "Media Control",
+  "subtitle": null,
+  "authors": [
+    "noam-chomsky"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Seven Stories Press",
+    "series": null,
+    "isbn": "1583225366",
+    "pageCount": 81
+  },
+  "cover": {
+    "file": "assets/covers/media-control.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a09595",
+    "w": 641,
+    "h": 911,
+    "trimmed": true,
+    "palette": [
+      "#535353",
+      "#c50612",
+      "#e8cacb"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays"
+  ],
+  "region": "United States",
+  "tags": [
+    "media",
+    "propaganda",
+    "Chomsky",
+    "politics"
+  ],
+  "moods": [
+    "political",
+    "cerebral",
+    "urgent"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting",
+      "to study"
+    ],
+    "sensory": [
+      "manufacturing consent",
+      "media and power",
+      "a bracing critique"
+    ],
+    "oneLine": "Chomsky on how propaganda shapes public opinion."
+  },
+  "summary": "Noam Chomsky's short, sharp classic analyses how democratic societies manufacture public consent, arguing that propaganda in the modern state works by shaping what people think and want rather than by force. Drawing on wartime and Gulf War examples, he shows how media and elites steer opinion. Compact and bracing, it is one of the most accessible statements of Chomsky's political thought and a pointed introduction to how power manages the public mind.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Chomsky's short, sharp classic on how the modern state manufactures consent. Bracing and accessible.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

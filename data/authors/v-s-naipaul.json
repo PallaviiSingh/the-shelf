@@ -1,0 +1,18 @@
+{
+  "slug": "v-s-naipaul",
+  "name": "V. S. Naipaul",
+  "birthYear": 1932,
+  "deathYear": 2018,
+  "nationality": "Trinidadian-British",
+  "bio": "Trinidad-born British writer of Indian descent who won the 2001 Nobel Prize in Literature. Across novels and travel books, from A House for Mr Biswas to his writing on India, Islam and Africa, he was admired for his exact, biting prose and just as often attacked for his bleak opinions. The Masque of Africa (2010) was his last book.",
+  "photo": {
+    "file": "assets/authors/v-s-naipaul.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/V._S._Naipaul",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Faizul Latif Chowdhury"
+  },
+  "books": [
+    "the-masque-of-africa"
+  ]
+}

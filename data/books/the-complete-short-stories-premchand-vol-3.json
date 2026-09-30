@@ -1,0 +1,77 @@
+{
+  "slug": "the-complete-short-stories-premchand-vol-3",
+  "title": "The Complete Short Stories, Vol 3",
+  "subtitle": null,
+  "authors": [
+    "munshi-premchand"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0143441132",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-complete-short-stories-premchand-vol-3.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d0a45c",
+    "w": 720,
+    "h": 1097,
+    "palette": [
+      "#e5a25a",
+      "#839b40",
+      "#e9c999"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Classic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Urdu",
+    "Premchand",
+    "short stories"
+  ],
+  "moods": [
+    "tender",
+    "bleak",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "peasants and women",
+      "social injustice",
+      "warmth and humour"
+    ],
+    "oneLine": "Volume three of the complete short stories of Premchand."
+  },
+  "summary": "The third volume of the complete short stories of Premchand gathers more of the fiction that made him the conscience of modern Indian literature. His stories give dignity and depth to peasants, women, the poor and the marginalised, exposing social injustice while never losing their warmth or humour. Rendered in English translation, this volume continues one of the great achievements of Indian short fiction and a vivid portrait of a society in transition.",
+  "summarySource": "knowledge",
+  "whyReadIt": "More of Premchand's humane, socially conscious short stories, giving dignity to the poor and marginalised.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "His stories were among the first in Hindi-Urdu to centre the lives of the rural poor.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

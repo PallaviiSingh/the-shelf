@@ -1,0 +1,18 @@
+{
+  "slug": "w-b-yeats",
+  "name": "W.B. Yeats",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "William Butler Yeats was an Irish poet, dramatist, writer and literary critic who was one of the foremost figures of 20th-century literature. He was a driving force behind the Irish Literary Revival and, along with John Millington Synge and Lady Gregory, founded the Abbey Theatre, serving as its chief during its early years. He was",
+  "photo": {
+    "file": "assets/authors/w-b-yeats.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/W._B._Yeats"
+  },
+  "books": [
+    "the-tower",
+    "w-b-yeats-selected-poetry"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "shirley-jackson",
+  "name": "Shirley Jackson",
+  "birthYear": 1916,
+  "deathYear": 1965,
+  "nationality": "American",
+  "bio": "American writer of horror and unease, best known for the story 'The Lottery' (1948) and the novels The Haunting of Hill House and We Have Always Lived in the Castle. She was brilliant at finding the dread underneath ordinary home life. She died in 1965, at just 48.",
+  "photo": {
+    "file": "assets/authors/shirley-jackson.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Shirley_Jackson",
+    "license": "Public domain",
+    "attribution": "Eric Hartmann"
+  },
+  "books": [
+    "the-haunting-of-hill-house"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "arthur-miller",
+  "name": "Arthur Miller",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Arthur Asher Miller was an American playwright and essayist in the 20th-century American theater. Among his most popular plays are All My Sons (1947), Death of a Salesman (1949), The Crucible (1953), and A View from the Bridge (1955). He wrote several screenplays, including The Misfits (1961). The drama Death of a Salesman is considered",
+  "photo": {
+    "file": "assets/authors/arthur-miller.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arthur_Miller"
+  },
+  "books": [
+    "death-of-a-salesman"
+  ],
+  "enriched": false
+}

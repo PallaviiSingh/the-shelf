@@ -1,0 +1,24 @@
+{
+  "slug": "shakespeare",
+  "name": "Shakespeare",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "William Shakespeare was an English playwright, poet and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the \"Bard of Avon\" or simply \"the Bard\". His extant works, including collaborations, consist of some 39 plays, 154 sonnets, 3",
+  "photo": {
+    "file": "assets/authors/shakespeare.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/William_Shakespeare"
+  },
+  "books": [
+    "a-midsummer-nights-dream",
+    "antony-and-cleopatra",
+    "as-you-like-it",
+    "hamlet",
+    "macbeth",
+    "much-ado-about-nothing",
+    "othello",
+    "romeo-and-juliet"
+  ],
+  "enriched": false
+}

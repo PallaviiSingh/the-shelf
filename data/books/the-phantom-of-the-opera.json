@@ -1,0 +1,77 @@
+{
+  "slug": "the-phantom-of-the-opera",
+  "title": "The Phantom of the Opera",
+  "subtitle": null,
+  "authors": [
+    "gaston-leroux"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1910,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 276
+  },
+  "cover": {
+    "file": "assets/covers/the-phantom-of-the-opera.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#40437f",
+    "w": 274,
+    "h": 450,
+    "palette": [
+      "#221f53",
+      "#130f27",
+      "#383f97"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Gothic & Horror",
+    "Classic"
+  ],
+  "region": "France",
+  "tags": [
+    "obsession",
+    "Paris opera",
+    "disfigurement",
+    "love"
+  ],
+  "moods": [
+    "romantic",
+    "haunting",
+    "suspenseful"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to feel something deeply",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "the Paris Opera",
+      "an underground lake",
+      "a masked musician"
+    ],
+    "oneLine": "A disfigured genius haunts the Paris Opera, and loves its young star."
+  },
+  "summary": "Beneath the Paris Opera lives a disfigured musical genius who haunts its corridors, terrorises its managers and falls obsessively in love with a young soprano he secretly trains. Leroux's gothic romance blends detective story, horror and doomed love into the tale that became one of the most adapted stories of all time. Behind the melodrama is a genuinely moving study of loneliness and the longing to be loved despite everything, played out in trapdoors, chandeliers and the labyrinth under the stage.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The lush gothic romance behind the famous musical, and darker than you might expect. Doomed love, a masked genius, and the opera's hidden depths.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Leroux insisted the Opera's underground lake and secret passages were based on real features of the building.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

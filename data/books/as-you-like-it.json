@@ -1,0 +1,78 @@
+{
+  "slug": "as-you-like-it",
+  "title": "As You Like It",
+  "subtitle": null,
+  "authors": [
+    "shakespeare"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1599,
+  "edition": {
+    "publisher": "Worldview Critical Edition",
+    "series": null,
+    "isbn": "8186423524",
+    "pageCount": 148
+  },
+  "cover": {
+    "file": "assets/covers/as-you-like-it.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#939095",
+    "w": 648,
+    "h": 1000,
+    "palette": [
+      "#99999f",
+      "#9d2a38",
+      "#6e6d3f"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Comedy"
+  ],
+  "region": "England",
+  "tags": [
+    "disguise",
+    "forest",
+    "love",
+    "pastoral"
+  ],
+  "moods": [
+    "playful",
+    "romantic",
+    "pastoral"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "to laugh",
+      "in the sun"
+    ],
+    "sensory": [
+      "the Forest of Arden",
+      "a girl in disguise",
+      "a playful courtship"
+    ],
+    "oneLine": "A banished, disguised Rosalind schools her beloved in a forest."
+  },
+  "summary": "Banished to the Forest of Arden, the quick-witted Rosalind disguises herself as a boy and, from behind that disguise, playfully schools the man she loves in the art of love. Shakespeare's sunniest pastoral comedy is a witty, generous romp about disguise, desire and the freedom of the greenwood, and contains the famous 'All the world's a stage' speech. Charming and clever, it gives Rosalind one of the largest and most delightful roles Shakespeare ever wrote for a woman.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Shakespeare's sunniest comedy, with Rosalind, one of his greatest heroines, running rings around everyone. 'All the world's a stage' lives here.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The famous 'All the world's a stage' monologue comes from this play.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

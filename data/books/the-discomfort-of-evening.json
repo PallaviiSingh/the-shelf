@@ -1,0 +1,76 @@
+{
+  "slug": "the-discomfort-of-evening",
+  "title": "The Discomfort of Evening",
+  "subtitle": null,
+  "authors": [
+    "lucas-rijneveld"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2018,
+  "edition": {
+    "publisher": "Faber and Faber",
+    "series": null,
+    "isbn": "0571349374",
+    "pageCount": 287
+  },
+  "cover": {
+    "file": "assets/covers/the-discomfort-of-evening.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8f4d46",
+    "w": 625,
+    "h": 1000,
+    "palette": [
+      "#b2322b",
+      "#b59c85",
+      "#c4bcb0"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Netherlands",
+  "tags": [
+    "grief",
+    "childhood",
+    "farm",
+    "faith",
+    "translated"
+  ],
+  "moods": [
+    "bleak",
+    "unsettling",
+    "haunting"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard"
+    ],
+    "sensory": [
+      "a cold dairy farm",
+      "a frozen lake",
+      "a family's silence"
+    ],
+    "oneLine": "After a brother's death, a farm family's grief curdles into something strange."
+  },
+  "summary": "On a strict Dutch dairy farm, ten-year-old Jas loses her brother in a skating accident, and the family's grief hardens into silence, ritual and slow derangement. Told in Jas's own unsettling, sensory voice, the novel follows children left to make sense of death with the tools of animals, religion and their own bodies, and it does not look away from anything. Rijneveld's debut is raw, strange and hard to read in the best sense, a portrait of a household quietly coming apart. It won the International Booker Prize.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A fierce, unflinching debut about grief on a farm, seen through a child. Not comfortable, but it lodges in you for good.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "At 29, Rijneveld became the youngest winner of the International Booker Prize in 2020.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "beginning-postmoderninsm",
+  "title": "Beginning Postmoderninsm",
+  "subtitle": null,
+  "authors": [
+    "tim-woods"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "0719052114",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/beginning-postmoderninsm.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#997c65",
+    "w": 720,
+    "h": 979,
+    "palette": [
+      "#d01d21",
+      "#48a5ad",
+      "#502722"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Introduction"
+  ],
+  "region": "World",
+  "tags": [
+    "postmodernism",
+    "introduction",
+    "criticism"
+  ],
+  "moods": [
+    "cerebral",
+    "curious",
+    "playful"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "a slippery idea",
+      "across the arts",
+      "a first map"
+    ],
+    "oneLine": "An accessible introduction to postmodernism across the arts."
+  },
+  "summary": "Tim Woods's Beginning Postmodernism is an accessible guide to one of the slipperiest concepts in modern thought, ranging across postmodern literature, architecture, art, film and theory. It explains the key ideas and thinkers and shows postmodernism at work across the arts, in clear, student-friendly language. A helpful first map of a notoriously elusive movement, ideal for readers trying to grasp what postmodernism actually means.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A clear guide to the slippery idea of postmodernism, across literature, art and film. A helpful first map.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

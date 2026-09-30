@@ -1,0 +1,75 @@
+{
+  "slug": "dracula",
+  "title": "Dracula",
+  "subtitle": null,
+  "authors": [
+    "bram-stoker"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1897,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin English Library",
+    "isbn": "0141199334",
+    "pageCount": 384
+  },
+  "cover": {
+    "file": "assets/covers/dracula.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#374446",
+    "w": 645,
+    "h": 1000,
+    "palette": [
+      "#253334"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Gothic & Horror",
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "vampire",
+    "the undead",
+    "desire",
+    "Victorian"
+  ],
+  "moods": [
+    "haunting",
+    "suspenseful",
+    "romantic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to be thrilled",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a Carpathian castle",
+      "fog and coffins",
+      "a hunt for the undead"
+    ],
+    "oneLine": "A Transylvanian count brings his curse to England, and is hunted for it."
+  },
+  "summary": "Told through letters, diaries and news clippings, Stoker's novel follows the Transylvanian Count Dracula as he moves to England to spread his undead curse, and the band of hunters, led by the vampire expert Van Helsing, who set out to destroy him. More than a monster story, it is a fever of Victorian anxieties about sex, disease, foreignness and modern science, and it fixed the vampire in the popular imagination forever. Still genuinely eerie, and cleverer in its patchwork form than its many imitators.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The vampire novel that started it all, and a surprisingly gripping read in its scrapbook of letters and diaries. Van Helsing is worth the trip alone.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The novel is told entirely through documents: letters, diary entries, telegrams and newspaper cuttings.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "halfway-house",
+  "title": "Halfway House",
+  "subtitle": null,
+  "authors": [
+    "mohan-rakesh"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 1969,
+  "edition": {
+    "publisher": "Worldview Publications",
+    "series": null,
+    "isbn": "8186423281",
+    "pageCount": 230
+  },
+  "cover": {
+    "file": "assets/covers/halfway-house.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#858685",
+    "w": 720,
+    "h": 1144,
+    "palette": [
+      "#e3e5e3",
+      "#243637",
+      "#0c1519"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Drama",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "drama",
+    "Mohan Rakesh",
+    "marriage"
+  ],
+  "moods": [
+    "bleak",
+    "intense",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "a cramped household",
+      "a failing marriage",
+      "unmet longings"
+    ],
+    "oneLine": "A middle-class marriage laid bare, in a landmark Hindi play."
+  },
+  "summary": "Halfway House is the English title of Aadhe Adhure, Mohan Rakesh's landmark Hindi play and one of the most important works of modern Indian theatre. Set in a cramped urban household, it lays bare the frustrations and failures of a middle-class family, above all a marriage and a woman's unmet longings, with unsparing realism. Pioneering in its frank treatment of domestic discontent, it broke new ground for Hindi drama and remains widely staged and studied.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Mohan Rakesh's landmark Hindi play, an unsparing look at a middle-class marriage and a woman's unmet longings.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Aadhe Adhure is considered a foundational text of modern Hindi theatre.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

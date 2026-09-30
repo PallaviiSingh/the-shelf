@@ -1,0 +1,69 @@
+{
+  "slug": "vol-2-oxford-history-of-english-literature-chaucer-and-fifteenth-centu",
+  "title": "Vol 2 Oxford History of English Literature: Chaucer and Fifteenth- Century Verse and Prose",
+  "subtitle": null,
+  "authors": [
+    "h-s-bennett"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Clarendon Press",
+    "series": null,
+    "isbn": "0198122292",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-2-oxford-history-of-english-literature-chaucer-and-fifteenth-centu.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#797d7b",
+    "w": 720,
+    "h": 1190,
+    "palette": [
+      "#fde29f",
+      "#143160",
+      "#aca38b"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "medieval",
+    "Chaucer",
+    "literary history",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "Chaucer's age",
+      "late medieval verse",
+      "a scholarly survey"
+    ],
+    "oneLine": "The Oxford history of Chaucer and fifteenth-century English writing."
+  },
+  "summary": "H. S. Bennett's volume in the celebrated Oxford History of English Literature covers Chaucer and the verse and prose of the fifteenth century, the age when English literature came fully into its own. It surveys Chaucer's achievement and the writers who followed him, setting the poetry and prose of the late medieval period in its historical and cultural context. A thorough, authoritative scholarly account of a formative era, from one of the great multi-volume histories of English writing.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The authoritative Oxford account of Chaucer and the fifteenth century. Thorough scholarly literary history.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

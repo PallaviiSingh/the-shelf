@@ -1,0 +1,77 @@
+{
+  "slug": "the-catcher-in-the-rye",
+  "title": "The Catcher in the Rye",
+  "subtitle": null,
+  "authors": [
+    "j-d-salinger"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1951,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "9780241950425",
+    "pageCount": 240
+  },
+  "cover": {
+    "file": "assets/covers/the-catcher-in-the-rye.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#0f2142",
+    "w": 294,
+    "h": 480,
+    "palette": [
+      "#011439",
+      "#28354e",
+      "#4e5969"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "adolescence",
+    "alienation",
+    "New York",
+    "phoniness"
+  ],
+  "moods": [
+    "melancholic",
+    "satirical",
+    "tender"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "in bed at night",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a wintry New York",
+      "a red hunting cap",
+      "teenage disillusion"
+    ],
+    "oneLine": "A few disillusioned days in New York with fiction's most famous teenager."
+  },
+  "summary": "Expelled from another prep school, sixteen-year-old Holden Caulfield drifts through a few disillusioned days in New York City, railing against the phoniness of the adult world while aching, beneath the bravado, for innocence and connection. Salinger's novel captured teenage alienation so exactly that it became a permanent rite of passage, its restless, funny, wounded voice speaking straight to generation after generation. Beloved and argued over, it remains the definitive novel of adolescence.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The definitive novel of teenage alienation, in a voice you never forget. Read it young, then read it again older.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Salinger became a famous recluse, refusing interviews and adaptations for the rest of his life.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

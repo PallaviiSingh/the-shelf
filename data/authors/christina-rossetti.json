@@ -1,0 +1,17 @@
+{
+  "slug": "christina-rossetti",
+  "name": "Christina Rossetti",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Christina Georgina Rossetti was an English writer of romantic and devotional poems, including \"Goblin Market\" and \"Remember\".",
+  "photo": {
+    "file": "assets/authors/christina-rossetti.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Christina_Rossetti"
+  },
+  "books": [
+    "goblin-market-and-other-poems"
+  ],
+  "enriched": false
+}

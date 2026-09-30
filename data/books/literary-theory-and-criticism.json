@@ -1,0 +1,68 @@
+{
+  "slug": "literary-theory-and-criticism",
+  "title": "Literary Theory and Criticism",
+  "subtitle": null,
+  "authors": [
+    "patricia-waugh"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Oxford University Press",
+    "series": null,
+    "isbn": "9780198723851",
+    "pageCount": 621
+  },
+  "cover": {
+    "file": "assets/covers/literary-theory-and-criticism.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9e8879",
+    "w": 720,
+    "h": 845,
+    "palette": [
+      "#876955",
+      "#cbcdb2",
+      "#3b221d"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Reference"
+  ],
+  "region": "World",
+  "tags": [
+    "literary theory",
+    "criticism",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "the whole field",
+      "essays by scholars",
+      "a fuller map"
+    ],
+    "oneLine": "An Oxford guide to literary theory and criticism."
+  },
+  "summary": "Edited by Patricia Waugh, this Oxford guide surveys the whole field of literary theory and criticism, gathering essays by leading scholars on movements from formalism and Marxism to feminism, postcolonialism and ecocriticism. Comprehensive and authoritative, it combines historical overview with sharp accounts of each approach. A substantial reference and reader for students who want a fuller, more scholarly map of theory than a single-author introduction can give.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A comprehensive, authoritative Oxford guide to the whole field of theory and criticism. A fuller map than most introductions.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "the-divine-comedy",
+  "title": "The Divine Comedy",
+  "subtitle": null,
+  "authors": [
+    "dante-alighieri"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1320,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 503
+  },
+  "cover": {
+    "file": "assets/covers/the-divine-comedy.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#914640",
+    "w": 607,
+    "h": 1000,
+    "palette": [
+      "#9b2c31",
+      "#210d0f",
+      "#51292c"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Verse Epic",
+    "Classic"
+  ],
+  "region": "Italy",
+  "tags": [
+    "afterlife",
+    "faith",
+    "allegory",
+    "Italy"
+  ],
+  "moods": [
+    "epic",
+    "haunting",
+    "luminous"
+  ],
+  "difficulty": "summit",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "the circles of Hell",
+      "a mountain of penance",
+      "the light of Paradise"
+    ],
+    "oneLine": "A journey down through Hell and up to Paradise, guided by love."
+  },
+  "summary": "Lost in a dark wood, the poet Dante is led down through the circles of Hell, up the mountain of Purgatory and into the spheres of Paradise, guided first by Virgil and then by his beloved Beatrice. Dante's medieval epic is a complete cosmos in verse, at once a punishing tour of sin and redemption, a settling of Florentine scores, and one of the supreme poems in any language. Demanding but overwhelming, especially the famous journey through the Inferno.",
+  "summarySource": "knowledge",
+  "whyReadIt": "One of the supreme poems ever written, and the Inferno alone is unforgettable. A whole cosmos of sin and grace in verse.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Dante wrote it in Italian rather than Latin, helping make the Tuscan dialect the basis of modern Italian.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A4",
+  "enriched": true
+}

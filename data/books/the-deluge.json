@@ -1,0 +1,76 @@
+{
+  "slug": "the-deluge",
+  "title": "The Deluge",
+  "subtitle": null,
+  "authors": [
+    "stephen-markley"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2023,
+  "edition": {
+    "publisher": "Simon & Schuster",
+    "series": null,
+    "isbn": "1982123095",
+    "pageCount": 449
+  },
+  "cover": {
+    "file": "assets/covers/the-deluge.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5eafd7",
+    "w": 677,
+    "h": 1000,
+    "palette": [
+      "#39a4da",
+      "#0286c7",
+      "#6bb5df"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "climate change",
+    "near future",
+    "politics",
+    "ensemble"
+  ],
+  "moods": [
+    "bleak",
+    "epic",
+    "urgent"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "in winter"
+    ],
+    "sensory": [
+      "a heating America",
+      "escalating disasters",
+      "a fight over the future"
+    ],
+    "oneLine": "A sweeping near-future epic of climate change reshaping America."
+  },
+  "summary": "Stephen Markley's sprawling near-future epic imagines the United States over the coming decades as climate change tightens its grip, following scientists, activists, politicians and ordinary people through escalating disasters and the fierce struggle over how to respond. Ambitious and unflinching, it dramatizes the politics, science and human cost of the crisis on a vast canvas. Gripping and often frightening, it is one of the most substantial climate novels yet written, a doorstopper that tries to hold the whole unfolding emergency in a single story.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A vast, gripping near-future epic of climate change unfolding across America. Ambitious, frightening and hard to put down.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "At over 800 pages, it is one of the most ambitious climate-change novels yet written.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

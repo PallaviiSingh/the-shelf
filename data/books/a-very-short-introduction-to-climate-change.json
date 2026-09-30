@@ -1,0 +1,76 @@
+{
+  "slug": "a-very-short-introduction-to-climate-change",
+  "title": "A very short Introduction to Climate Change",
+  "subtitle": null,
+  "authors": [
+    "mark-maslin"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Oxford",
+    "series": null,
+    "isbn": "0198867867",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/a-very-short-introduction-to-climate-change.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7c2a4b",
+    "w": 638,
+    "h": 1000,
+    "palette": [
+      "#6b1e36",
+      "#c94c87",
+      "#9c3f72"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Popular Science"
+  ],
+  "region": "World",
+  "tags": [
+    "climate change",
+    "science",
+    "introduction",
+    "primer"
+  ],
+  "moods": [
+    "cerebral",
+    "clear-eyed",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to study",
+      "in a cafe"
+    ],
+    "sensory": [
+      "the science explained",
+      "a balanced view",
+      "a compact primer"
+    ],
+    "oneLine": "A clear, compact primer on the science and politics of climate change."
+  },
+  "summary": "Mark Maslin's compact guide, part of the celebrated Very Short Introductions series, explains the science, politics and possible solutions of climate change with clarity and balance. In a small space it covers how we know the climate is changing, what the consequences are, and what can be done, cutting through confusion and hype. Authoritative and admirably clear, it is an ideal primer for anyone who wants to understand the defining issue of our time without wading through a much longer book.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A clear, balanced primer on the science and politics of climate change. The ideal short starting point.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is part of Oxford's Very Short Introductions series of expert-written primers.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "01",
+  "enriched": true
+}

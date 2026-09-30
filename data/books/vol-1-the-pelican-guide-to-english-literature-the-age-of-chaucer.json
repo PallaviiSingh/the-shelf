@@ -1,0 +1,69 @@
+{
+  "slug": "vol-1-the-pelican-guide-to-english-literature-the-age-of-chaucer",
+  "title": "Vol 1. The Pelican Guide to English Literature: The Age Of Chaucer",
+  "subtitle": null,
+  "authors": [
+    "boris-ford"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0140202900",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-1-the-pelican-guide-to-english-literature-the-age-of-chaucer.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#e4d6cb",
+    "w": 614,
+    "h": 1000,
+    "palette": [
+      "#fbebdc",
+      "#e6cfb5",
+      "#c2833e"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "medieval",
+    "Chaucer",
+    "Pelican Guide",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "medieval England",
+      "Chaucer's world",
+      "criticism for all"
+    ],
+    "oneLine": "The Pelican Guide to the age of Chaucer."
+  },
+  "summary": "The first volume of Boris Ford's celebrated Pelican Guide to English Literature covers the Age of Chaucer. Combining a general survey of the period with critical essays on individual writers and works, it introduces medieval English literature to students and general readers alike. Accessible, opinionated and influential, the Pelican Guide made serious literary criticism widely available, and this opening volume remains a fine companion to Chaucer and his age.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Pelican Guide's accessible, critical introduction to the age of Chaucer. A classic companion for readers.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

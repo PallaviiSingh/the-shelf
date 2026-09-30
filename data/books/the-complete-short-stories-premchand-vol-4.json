@@ -1,0 +1,77 @@
+{
+  "slug": "the-complete-short-stories-premchand-vol-4",
+  "title": "The Complete Short Stories, Vol 4",
+  "subtitle": null,
+  "authors": [
+    "munshi-premchand"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0143441132",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-complete-short-stories-premchand-vol-4.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#84a591",
+    "w": 653,
+    "h": 1000,
+    "palette": [
+      "#8acbab",
+      "#69ae89",
+      "#9f5286"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Classic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Urdu",
+    "Premchand",
+    "short stories"
+  ],
+  "moods": [
+    "tender",
+    "bleak",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "late masterworks",
+      "caste and frailty",
+      "a whole society"
+    ],
+    "oneLine": "Volume four of the complete short stories of Premchand."
+  },
+  "summary": "The fourth and final volume of the complete short stories of Premchand completes the collection of a writer who shaped the very form of the Indian short story. Including some of his late and most powerful work, these stories confront caste, poverty and human frailty with unsparing honesty and profound sympathy. Together with the earlier volumes, this gathering stands as a monument of modern Indian literature and an enduring portrait of a whole society.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The final volume of Premchand's short stories, including some of his most powerful late work. A monument of Indian fiction.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "His late story 'Kafan' (The Shroud) is often considered his masterpiece.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

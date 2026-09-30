@@ -1,0 +1,21 @@
+{
+  "slug": "agatha-christie",
+  "name": "Agatha Christie",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Dame Agatha Mary Clarissa Mallowan, Lady Mallowan, usually known by her first married name, Agatha Christie, was an English author known for her 66 detective novels and 14 short-story collections, particularly those revolving around fictional detectives Hercule Poirot, Tommy and Tuppence, and Miss Marple. She is widely regarded as one of the greatest writers, particularly",
+  "photo": {
+    "file": "assets/authors/agatha-christie.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Agatha_Christie"
+  },
+  "books": [
+    "after-the-funeral",
+    "dead-mans-folly",
+    "the-murder-of-roger-ackroyd",
+    "the-murder-on-the-links",
+    "the-mystery-of-the-blue-train"
+  ],
+  "enriched": false
+}

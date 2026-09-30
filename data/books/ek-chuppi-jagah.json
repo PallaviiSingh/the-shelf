@@ -1,0 +1,77 @@
+{
+  "slug": "ek-chuppi-jagah",
+  "title": "Ek Chuppi Jagah",
+  "subtitle": null,
+  "authors": [
+    "vinod-kumar-shukla"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 2018,
+  "edition": {
+    "publisher": "Jugnoo Prakashan, an imprint of Takshila Publication, New Delhi",
+    "series": null,
+    "isbn": "9384375225",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/ek-chuppi-jagah.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#252529",
+    "w": 350,
+    "h": 350,
+    "palette": [
+      "#1f1f24",
+      "#6e6652",
+      "#4c3f37"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Magical Realism"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Vinod Kumar Shukla",
+    "meditation",
+    "surreal"
+  ],
+  "moods": [
+    "quiet",
+    "dreamlike",
+    "meditative"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "in bed at night",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a shifting landscape",
+      "a pencil-sharpener sage",
+      "a longing for quiet"
+    ],
+    "oneLine": "A dreamlike meditation on stillness and modern disconnection."
+  },
+  "summary": "A quietly surreal novel by Vinod Kumar Shukla, following children named Bolu and Koona and dreamlike figures like Babulal Maharaj, a man who sharpens pencils, through a landscape that keeps gently shifting. Beneath its fable-like surface it meditates on how the noise and materialism of modern life cut people off from themselves and their surroundings. Spare, poetic and deeply original, critics read it less as a children's book than as a narrative meditation on stillness and disconnection. It appears in English as A Silent Place.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A quietly surreal Vinod Kumar Shukla novel about noise, stillness and modern disconnection. Spare, poetic and original.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was translated into English by Satti Khanna as A Silent Place.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

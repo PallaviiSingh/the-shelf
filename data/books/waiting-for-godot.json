@@ -1,0 +1,76 @@
+{
+  "slug": "waiting-for-godot",
+  "title": "Waiting for Godot",
+  "subtitle": null,
+  "authors": [
+    "samuel-beckett"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1953,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 112
+  },
+  "cover": {
+    "file": "assets/covers/waiting-for-godot.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#bcaea6",
+    "w": 600,
+    "h": 923,
+    "palette": [
+      "#e9e6df",
+      "#df6540",
+      "#e7b09d"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama"
+  ],
+  "region": "Ireland",
+  "tags": [
+    "absurdism",
+    "existentialism",
+    "waiting",
+    "modernism"
+  ],
+  "moods": [
+    "bleak",
+    "absurdist",
+    "tragicomic"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a bare country road",
+      "two waiting tramps",
+      "a Godot who never comes"
+    ],
+    "oneLine": "Two tramps wait endlessly for a man named Godot who never arrives."
+  },
+  "summary": "Two tramps, Vladimir and Estragon, wait by a bare tree on a country road for a man named Godot, who never comes, filling the emptiness with banter, routines and despair. Beckett's revolutionary play, in which famously 'nothing happens, twice', founded the Theatre of the Absurd and changed drama forever. Funny, bleak and endlessly interpretable, it strips theatre down to its essentials and confronts the audience with waiting, meaning and the sheer strangeness of being alive.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The play that changed theatre forever, where nothing happens, twice. Funny, bleak and endlessly interpretable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "A critic famously described it as a play in which 'nothing happens, twice'.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

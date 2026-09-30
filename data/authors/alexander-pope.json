@@ -1,0 +1,17 @@
+{
+  "slug": "alexander-pope",
+  "name": "Alexander Pope",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Alexander Pope was an English poet, translator, and satirist of the Enlightenment era who is considered one of the most prominent English poets of the early 18th century. An exponent of Augustan literature, Pope is best known for his satirical and discursive poetry including An Essay on Criticism (1711), The Rape of the Lock (1712–1717),",
+  "photo": {
+    "file": "assets/authors/alexander-pope.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Pope"
+  },
+  "books": [
+    "the-rape-of-the-lock"
+  ],
+  "enriched": false
+}

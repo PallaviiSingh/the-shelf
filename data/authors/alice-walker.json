@@ -1,0 +1,13 @@
+{
+  "slug": "alice-walker",
+  "name": "Alice Walker",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "the-color-purple"
+  ],
+  "enriched": false
+}

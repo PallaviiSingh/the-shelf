@@ -1,0 +1,76 @@
+{
+  "slug": "becoming-goan-a-contemporary-coming-home-story",
+  "title": "Becoming Goan: A Contemporary Coming-Home Story",
+  "subtitle": null,
+  "authors": [
+    "michelle-mendon-a-bambawale"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin eBury Press",
+    "series": null,
+    "isbn": "0143462369",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/becoming-goan-a-contemporary-coming-home-story.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a6adb1",
+    "w": 275,
+    "h": 425,
+    "palette": [
+      "#3e6b9b",
+      "#e4e8dd",
+      "#b6c6cc"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "India",
+  "tags": [
+    "Goa",
+    "home",
+    "identity",
+    "India"
+  ],
+  "moods": [
+    "comforting",
+    "tender",
+    "quiet"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "in the sun",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "Goan kitchens",
+      "family roots",
+      "a changing homeland"
+    ],
+    "oneLine": "A woman returns to Goa in search of what it means to belong there."
+  },
+  "summary": "Michelle Mendonca Bambawale's memoir traces her return to Goa and her search for what it means to belong to the place her family comes from, weaving personal story with the food, faith, language and changing life of contemporary Goa. Warm and reflective, it is a coming-home story about identity, roots and the gap between the Goa of memory and the Goa of now. A gentle, personal portrait of a much-loved and much-changed corner of India.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A warm, personal coming-home story about Goa and belonging. Gentle and reflective, with a real sense of place.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is a contemporary memoir of Goan identity, blending personal story with the region's culture and change.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

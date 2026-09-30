@@ -1,0 +1,75 @@
+{
+  "slug": "the-age-of-empire-1875-1914",
+  "title": "The Age of Empire (1875-1914)",
+  "subtitle": null,
+  "authors": [
+    "eric-hobsbawm"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1987,
+  "edition": {
+    "publisher": "Abacus",
+    "series": null,
+    "isbn": null,
+    "pageCount": 404
+  },
+  "cover": {
+    "file": "assets/covers/the-age-of-empire-1875-1914.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#544b38",
+    "w": 720,
+    "h": 1133,
+    "palette": [
+      "#24221f",
+      "#533b0d",
+      "#b2b39a"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History"
+  ],
+  "region": "World",
+  "tags": [
+    "empire",
+    "19th century",
+    "World War I",
+    "globalization"
+  ],
+  "moods": [
+    "cerebral",
+    "epic",
+    "political"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "carved-up continents",
+      "a civilization at its peak",
+      "the edge of catastrophe"
+    ],
+    "oneLine": "Hobsbawm on high imperialism drifting toward the First World War."
+  },
+  "summary": "The third volume of Hobsbawm's quartet covers the decades of high imperialism, when a handful of European powers carved up much of the world and an age of dazzling progress drifted, almost unknowing, toward the catastrophe of the First World War. Hobsbawm connects economics, politics and culture to show a civilization at its peak and on the edge of the abyss. Sweeping and prescient, it explains how the confident nineteenth century gave way to the violent twentieth.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Hobsbawm on the imperial world sleepwalking toward 1914. Sweeping and quietly ominous.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It closes on the eve of 1914, where his final volume picks up.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B1",
+  "enriched": true
+}

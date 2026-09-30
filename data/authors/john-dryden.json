@@ -1,0 +1,17 @@
+{
+  "slug": "john-dryden",
+  "name": "John Dryden",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "John Dryden was an English poet, literary critic, translator, and playwright who in 1668 was appointed England's first Poet Laureate. He is seen as dominating the literary life of Restoration England to such a point that the period came to be known in literary circles as the Age of Dryden. Romantic writer Sir Walter Scott",
+  "photo": {
+    "file": "assets/authors/john-dryden.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_Dryden"
+  },
+  "books": [
+    "mac-flecknoe"
+  ],
+  "enriched": false
+}

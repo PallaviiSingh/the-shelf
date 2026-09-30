@@ -1,0 +1,77 @@
+{
+  "slug": "the-complete-adventures-of-feluda-vol-1",
+  "title": "The Complete Adventures of Feluda Vol. 1",
+  "subtitle": null,
+  "authors": [
+    "satyajit-ray"
+  ],
+  "translator": null,
+  "originalLanguage": "Bengali",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "014342503X",
+    "pageCount": 785
+  },
+  "cover": {
+    "file": "assets/covers/the-complete-adventures-of-feluda-vol-1.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a86049",
+    "w": 720,
+    "h": 1103,
+    "palette": [
+      "#ed6b5b",
+      "#fcf082",
+      "#f6b768"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Mystery",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Bengali",
+    "Satyajit Ray",
+    "Feluda",
+    "detective"
+  ],
+  "moods": [
+    "playful",
+    "suspenseful",
+    "warm"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to be thrilled",
+      "to relax and unwind",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a brilliant detective",
+      "mysteries across India",
+      "travel and humour"
+    ],
+    "oneLine": "Volume one of the complete adventures of Satyajit Ray's detective Feluda."
+  },
+  "summary": "The first volume of the complete adventures of Feluda, the brilliant Bengali detective created by Satyajit Ray and beloved by generations of Indian readers. Accompanied by his cousin Topshe and the bumbling thriller writer Jatayu, the cool, observant Feluda solves ingenious mysteries across India, blending sharp deduction with travel, humour and warmth. Written for young readers but enjoyed by all, these stories are a treasured classic of Indian detective fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The beloved Bengali detective Feluda, Ray's answer to Sherlock Holmes. Ingenious mysteries, travel, humour and warmth.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Ray both wrote the Feluda stories and directed acclaimed films based on them.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

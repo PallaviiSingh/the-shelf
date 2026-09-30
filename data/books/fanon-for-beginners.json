@@ -1,0 +1,71 @@
+{
+  "slug": "fanon-for-beginners",
+  "title": "Fanon for Beginners",
+  "subtitle": null,
+  "authors": [
+    "deborah-wyrick"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orient Blackswan",
+    "series": null,
+    "isbn": "1934389870",
+    "pageCount": 192
+  },
+  "cover": {
+    "file": "assets/covers/fanon-for-beginners.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#98432e",
+    "w": 500,
+    "h": 754,
+    "palette": [
+      "#4f271d",
+      "#983d22",
+      "#f64c25"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy",
+    "Introduction",
+    "Graphic & Comics"
+  ],
+  "region": "Martinique",
+  "tags": [
+    "postcolonialism",
+    "Fanon",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "political"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "colonialism and race",
+      "liberation",
+      "cartoons and clarity"
+    ],
+    "oneLine": "An illustrated introduction to the life and thought of Fanon."
+  },
+  "summary": "Part of the illustrated For Beginners series, this book introduces the life and thought of Frantz Fanon, the psychiatrist and revolutionary whose writing on colonialism, race and liberation shaped postcolonial thought, through clear text and cartoons. It explains his key ideas and his role in the Algerian struggle. An accessible, engaging first step into a thinker whose work remains urgently relevant to questions of race and empire.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Fanon's revolutionary thought on race and colonialism, made accessible with text and cartoons. An engaging first step.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

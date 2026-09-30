@@ -1,0 +1,19 @@
+{
+  "slug": "david-foster-wallace",
+  "name": "David Foster Wallace",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "David Foster Wallace was an American writer and professor who published novels, short stories, and essays. He is best known for his second novel, Infinite Jest (1996). In 2008, David Ulin wrote in the Los Angeles Times that Wallace was \"one of the most influential and innovative writers of the last twenty years\".",
+  "photo": {
+    "file": "assets/authors/david-foster-wallace.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/David_Foster_Wallace"
+  },
+  "books": [
+    "a-supposedly-fun-thing-ill-never-do-again",
+    "brief-interviews-with-hideous-men",
+    "the-broom-of-the-system-penguin-orange-classics"
+  ],
+  "enriched": false
+}

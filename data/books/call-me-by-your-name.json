@@ -1,0 +1,76 @@
+{
+  "slug": "call-me-by-your-name",
+  "title": "Call Me By Your Name",
+  "subtitle": null,
+  "authors": [
+    "andre-aciman"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2007,
+  "edition": {
+    "publisher": "Atlantic Books",
+    "series": null,
+    "isbn": "9781786495259",
+    "pageCount": 256
+  },
+  "cover": {
+    "file": "assets/covers/call-me-by-your-name.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#696858",
+    "w": 647,
+    "h": 1000,
+    "palette": [
+      "#222321",
+      "#f9e429",
+      "#c8b936"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Italy",
+  "tags": [
+    "first love",
+    "summer",
+    "desire",
+    "Italy"
+  ],
+  "moods": [
+    "romantic",
+    "luminous",
+    "melancholic"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "in the sun",
+      "by the water",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "an Italian summer",
+      "ripe fruit",
+      "a first, consuming love"
+    ],
+    "oneLine": "One golden Italian summer, and a first love that marks a life."
+  },
+  "summary": "Over one golden summer on the Italian Riviera, seventeen-year-old Elio falls, consumingly, for Oliver, the older American scholar staying with his family, and the two circle each other through longing, hesitation and a brief, intense union that will mark them for life. Aciman's novel is a swooning, sensuous study of first love and desire, written in long, aching sentences and lit by sun, fruit and the sea. A modern classic of romance, tender and unbearably wistful.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A swooning, sun-drenched novel of first love that aches for years afterward. The most romantic book on the shelf.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its film adaptation won an Academy Award for Best Adapted Screenplay.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

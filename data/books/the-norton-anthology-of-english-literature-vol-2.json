@@ -1,0 +1,67 @@
+{
+  "slug": "the-norton-anthology-of-english-literature-vol-2",
+  "title": "The Norton Anthology of English Literature Vol 2",
+  "subtitle": null,
+  "authors": [
+    "meyer-howard-abrams"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "W W Norton & Co Inc",
+    "series": null,
+    "isbn": "0393962903",
+    "pageCount": 2686
+  },
+  "cover": {
+    "file": "assets/covers/the-norton-anthology-of-english-literature-vol-2.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5b786a",
+    "w": 349,
+    "h": 573,
+    "palette": [
+      "#58725b",
+      "#63afb1",
+      "#4e8684"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Anthology"
+  ],
+  "region": "England",
+  "tags": [
+    "anthology",
+    "English literature",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "luminous"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "two centuries",
+      "Romantics to moderns",
+      "a whole tradition"
+    ],
+    "oneLine": "The Norton anthology of English literature, the later centuries."
+  },
+  "summary": "The second volume of the Norton Anthology of English Literature carries the tradition from the Romantics through the Victorians to the twentieth century and beyond. Wordsworth, Keats, the Brontes, Tennyson, Eliot, Yeats, Woolf and later writers appear with introductions, notes and context. The most widely used anthology of its kind, it gathers two centuries of English writing into a single authoritative volume, a mainstay of literature courses around the world.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The cornerstone anthology of English literature, volume two, the Romantics to the moderns. A mainstay of the field.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "0",
+  "enriched": true
+}

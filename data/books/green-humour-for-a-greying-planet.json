@@ -1,0 +1,77 @@
+{
+  "slug": "green-humour-for-a-greying-planet",
+  "title": "Green Humour for a Greying Planet",
+  "subtitle": null,
+  "authors": [
+    "rohan-chakravarty-green-humour"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0143452959",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/green-humour-for-a-greying-planet.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8fafbd",
+    "w": 705,
+    "h": 1000,
+    "palette": [
+      "#b0dcf5",
+      "#94b9d1",
+      "#7fa0b7"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Graphic & Comics",
+    "Nature Writing"
+  ],
+  "region": "India",
+  "tags": [
+    "cartoons",
+    "wildlife",
+    "conservation",
+    "humour"
+  ],
+  "moods": [
+    "playful",
+    "witty",
+    "warm"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "a short sitting",
+      "comfort reading"
+    ],
+    "sensory": [
+      "witty cartoons",
+      "animals and ecology",
+      "a joke with teeth"
+    ],
+    "oneLine": "Rohan Chakravarty's witty Green Humour cartoons on wildlife and climate."
+  },
+  "summary": "A collection of Rohan Chakravarty's Green Humour cartoons, which use wit and sharp drawing to tackle wildlife, ecology and the environmental crisis. Ranging from the lives of animals to climate change and conservation politics, the cartoons make you laugh and think at once, smuggling serious science and advocacy inside a joke. Clever, informed and genuinely funny, it is the work of India's best-known wildlife cartoonist and a delightful, painless way into caring about the natural world.",
+  "summarySource": "knowledge",
+  "whyReadIt": "India's best wildlife cartoonist on ecology and the climate crisis. Genuinely funny, and quietly serious underneath.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Rohan Chakravarty's Green Humour is one of the most widely followed wildlife comic strips in the world.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

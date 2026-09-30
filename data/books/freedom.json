@@ -1,0 +1,77 @@
+{
+  "slug": "freedom",
+  "title": "Freedom",
+  "subtitle": null,
+  "authors": [
+    "margaret-atwood"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2018,
+  "edition": {
+    "publisher": "Vintage",
+    "series": null,
+    "isbn": "9781784874117",
+    "pageCount": 582
+  },
+  "cover": {
+    "file": "assets/covers/freedom.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b61c28",
+    "w": 569,
+    "h": 896,
+    "trimmed": true,
+    "palette": [
+      "#c20d1e",
+      "#83201f",
+      "#c44f58"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays"
+  ],
+  "region": "Canada",
+  "tags": [
+    "freedom",
+    "essays",
+    "short",
+    "reflection"
+  ],
+  "moods": [
+    "cerebral",
+    "political",
+    "hopeful"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "liberty and its limits",
+      "a sharp short read",
+      "a central idea"
+    ],
+    "oneLine": "Atwood, in miniature, on freedom and everything that threatens it."
+  },
+  "summary": "A slender selection of Margaret Atwood's writing gathered around a single, enormous idea: freedom, and its limits, threats and paradoxes. Ranging across her fiction and non-fiction, these short pieces think about liberty in politics, in relationships and in the imagination, in her characteristically sharp and quietly witty style. A pocket-sized entry point to one of Atwood's central preoccupations, ideal for a single sitting.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A pocket-sized shot of Atwood on liberty and its limits. Perfect for a single, thoughtful sitting.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is part of a series of small books drawing together a writer's work around one theme.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "01",
+  "enriched": true
+}

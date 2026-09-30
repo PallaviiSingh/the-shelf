@@ -1,0 +1,76 @@
+{
+  "slug": "and-the-mountains-echoed",
+  "title": "And the Mountains Echoed",
+  "subtitle": null,
+  "authors": [
+    "khaled-hosseini"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2013,
+  "edition": {
+    "publisher": "Bloomsbury Publishing PLC",
+    "series": null,
+    "isbn": "1408842424",
+    "pageCount": 430
+  },
+  "cover": {
+    "file": "assets/covers/and-the-mountains-echoed.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#958ca9",
+    "w": 720,
+    "h": 1120,
+    "palette": [
+      "#f3e5cc",
+      "#28256a",
+      "#5152a1"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Afghanistan",
+  "tags": [
+    "family",
+    "separation",
+    "Afghanistan",
+    "memory"
+  ],
+  "moods": [
+    "melancholic",
+    "tender",
+    "quiet"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "on a rainy day",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a village at dawn",
+      "a long separation",
+      "echoes across decades"
+    ],
+    "oneLine": "A brother and sister are parted young, and the echo travels sixty years."
+  },
+  "summary": "It begins with a heartbreak: a poor Afghan father sells his small daughter to a wealthy family, splitting her from the brother who adores her. From that single wound Hosseini's third novel spirals outward across sixty years and several continents, following the relatives, servants and strangers whose lives are quietly altered by that separation. More ambitious in structure than his earlier books, it is a mosaic about family, sacrifice and the long echo of the choices we make for the people we love.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Hosseini at his most ambitious, a family scattered across decades and continents. Quietly devastating, and beautifully knitted together.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The novel moves between Afghanistan, Paris, California and the Greek islands as it follows its scattered family.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

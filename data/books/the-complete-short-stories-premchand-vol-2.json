@@ -1,0 +1,77 @@
+{
+  "slug": "the-complete-short-stories-premchand-vol-2",
+  "title": "The Complete Short Stories, Vol 2",
+  "subtitle": null,
+  "authors": [
+    "munshi-premchand"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0143441132",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-complete-short-stories-premchand-vol-2.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9e6f76",
+    "w": 720,
+    "h": 1104,
+    "palette": [
+      "#8b427b",
+      "#fae852",
+      "#fcf59a"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Classic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Urdu",
+    "Premchand",
+    "short stories"
+  ],
+  "moods": [
+    "tender",
+    "bleak",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "village and city",
+      "caste and colonial rule",
+      "everyday heroism"
+    ],
+    "oneLine": "Volume two of the complete short stories of Premchand."
+  },
+  "summary": "The second volume of the complete short stories of Premchand, the great chronicler of ordinary Indian life. Continuing his vast body of short fiction, these stories range across village and city, taking up caste, poverty, marriage, colonial rule and the quiet heroism and hypocrisy of everyday people. Written with warmth, irony and deep social conscience, they confirm Premchand's place as one of the defining voices of modern Indian literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "More of Premchand's masterful short stories of ordinary Indian life. Warm, ironic and socially fierce.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Premchand wrote around three hundred short stories over his career.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "tomb-of-sand",
+  "title": "Tomb of Sand",
+  "subtitle": null,
+  "authors": [
+    "geetanjali-shree"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 2018,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0143448471",
+    "pageCount": 604
+  },
+  "cover": {
+    "file": "assets/covers/tomb-of-sand.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#af9c75",
+    "w": 623,
+    "h": 1000,
+    "palette": [
+      "#9b8655",
+      "#826a3a",
+      "#fcf7c8"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Geetanjali Shree",
+    "Partition",
+    "women"
+  ],
+  "moods": [
+    "playful",
+    "tender",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "an old woman reborn",
+      "a border recrossed",
+      "a playful voice"
+    ],
+    "oneLine": "An eighty-year-old woman revives and journeys to face her Partition past."
+  },
+  "summary": "Tomb of Sand, translated by Daisy Rockwell from Geetanjali Shree's Hindi novel Ret Samadhi, follows an eighty-year-old woman who, sunk in depression after her husband's death, unexpectedly revives, and insists on travelling to Pakistan to confront the unresolved traumas of her youth at Partition. Playful, digressive and formally exuberant, it is a joyful, boundary-crossing novel about age, borders and womanhood. It became the first book translated from any Indian language to win the International Booker Prize.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A joyful, boundary-crossing novel of an old woman revived, and Partition confronted at last. The Booker-winning Hindi masterpiece.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was the first Hindi novel, and the first from any Indian language, to win the International Booker Prize.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

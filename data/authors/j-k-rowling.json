@@ -1,0 +1,13 @@
+{
+  "slug": "j-k-rowling",
+  "name": "J.K. Rowling",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "harry-potter-hardcover-boxed-set-book-1-7"
+  ],
+  "enriched": false
+}

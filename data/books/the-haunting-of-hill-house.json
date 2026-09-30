@@ -1,0 +1,78 @@
+{
+  "slug": "the-haunting-of-hill-house",
+  "title": "The Haunting of Hill House",
+  "subtitle": null,
+  "authors": [
+    "shirley-jackson"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1959,
+  "edition": {
+    "publisher": "Penguin Books",
+    "series": "Penguin Classics",
+    "pageCount": 256
+  },
+  "cover": {
+    "file": "assets/covers/the-haunting-of-hill-house.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/0141191449-L.jpg?default=false",
+    "dominantColor": "#5d5e5d",
+    "w": 326,
+    "h": 500,
+    "palette": [
+      "#232220",
+      "#493e2d",
+      "#876852"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Horror",
+    "Classic"
+  ],
+  "region": "United States",
+  "tags": [
+    "ghosts",
+    "haunted house",
+    "psychological",
+    "dread"
+  ],
+  "moods": [
+    "eerie",
+    "suspenseful",
+    "haunting"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be thrilled",
+      "in bed at night",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a sinister house",
+      "a fragile mind",
+      "a mounting dread"
+    ],
+    "oneLine": "Four strangers, a haunted house, and a mind coming apart."
+  },
+  "summary": "Four strangers gather at the sinister Hill House to investigate its reputation for the supernatural, and the lonely, fragile Eleanor finds herself increasingly, terrifyingly bound to the house itself. Shirley Jackson's masterpiece is the greatest of all haunted-house novels, working through psychological dread and ambiguity rather than cheap shocks. Is the horror in the house or in Eleanor's mind? Elegant, chilling and endlessly influential, it set the standard for literary horror and remains genuinely frightening.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The greatest haunted-house novel ever written, all dread and ambiguity. Elegant, chilling and still genuinely scary.",
+  "awards": [
+    "National Book Award finalist 1960"
+  ],
+  "funFacts": [
+    {
+      "text": "Its famous opening paragraph is often cited among the finest in horror fiction.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

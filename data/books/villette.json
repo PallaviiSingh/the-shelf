@@ -1,0 +1,75 @@
+{
+  "slug": "villette",
+  "title": "Villette",
+  "subtitle": null,
+  "authors": [
+    "charlotte-bront"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1853,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9780241198964",
+    "pageCount": 538
+  },
+  "cover": {
+    "file": "assets/covers/villette.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#94a9a6",
+    "w": 720,
+    "h": 1161,
+    "palette": [
+      "#6c8b95",
+      "#e2e3c9"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "loneliness",
+    "teaching",
+    "unreliable narrator",
+    "abroad"
+  ],
+  "moods": [
+    "melancholic",
+    "haunting",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "on a rainy day",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a foreign girls' school",
+      "a guarded heart",
+      "a haunting solitude"
+    ],
+    "oneLine": "A lonely woman teaches abroad and guards secrets even from the reader."
+  },
+  "summary": "Alone in the world, the guarded Lucy Snowe travels to the fictional foreign town of Villette to teach at a girls' school, where she battles isolation, longing and her own withheld heart. Drawing on Charlotte Bronte's time in Brussels, this late novel is stranger and more inward than Jane Eyre, with an unreliable narrator who hides as much as she reveals. Bleak, brilliant and psychologically daring, it is a favourite of readers who like their Victorian fiction unsettling.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Bronte's strangest, most inward novel, with a narrator who hides from you. Bleaker and bolder than Jane Eyre.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Bronte based the setting on her own unhappy time as a teacher in Brussels.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B3",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "jane-eyre",
+  "title": "Jane Eyre",
+  "subtitle": null,
+  "authors": [
+    "charlotte-bronte"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1847,
+  "edition": {
+    "publisher": null,
+    "series": "Harper Muse Painted Editions",
+    "pageCount": 480
+  },
+  "cover": {
+    "file": "assets/covers/jane-eyre.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#aead9a",
+    "w": 300,
+    "h": 446,
+    "palette": [
+      "#cae5f3",
+      "#e2cab1",
+      "#b4b19a"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Gothic",
+    "Romance"
+  ],
+  "region": "England",
+  "tags": [
+    "orphan",
+    "independence",
+    "secrets",
+    "governess"
+  ],
+  "moods": [
+    "romantic",
+    "haunting",
+    "fierce"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a rainy day",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a brooding manor house",
+      "a locked attic",
+      "a fierce plain heroine"
+    ],
+    "oneLine": "An orphaned governess loves a brooding master with a secret in the attic."
+  },
+  "summary": "Orphaned, plain and fiercely independent, Jane Eyre survives a cruel childhood to become a governess at Thornfield Hall, where she falls for her brooding employer Mr Rochester and uncovers the terrible secret locked in his attic. Charlotte Bronte's novel was revolutionary for giving a poor, unglamorous woman a passionate inner voice and a demand to be treated as an equal. Gothic, romantic and morally uncompromising, it remains one of the most loved and most fiercely feminist of Victorian novels.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A poor, plain heroine who insists on her own worth, and a Gothic romance that still burns. Revolutionary then, gripping now.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Charlotte Bronte first published it under the male pen name Currer Bell.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

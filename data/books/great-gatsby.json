@@ -1,0 +1,77 @@
+{
+  "slug": "great-gatsby",
+  "title": "Great Gatsby",
+  "subtitle": null,
+  "authors": [
+    "f-scott-fitzgerald"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1925,
+  "edition": {
+    "publisher": "Canterbury Classics",
+    "series": null,
+    "isbn": "1645173518",
+    "pageCount": 185
+  },
+  "cover": {
+    "file": "assets/covers/great-gatsby.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#38302c",
+    "w": 638,
+    "h": 1000,
+    "palette": [
+      "#241e20",
+      "#6b583c",
+      "#91744d"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "Jazz Age",
+    "American Dream",
+    "longing",
+    "wealth"
+  ],
+  "moods": [
+    "melancholic",
+    "luminous",
+    "satirical"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "in the sun",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "Jazz Age parties",
+      "a green light",
+      "old money and new"
+    ],
+    "oneLine": "A self-made millionaire throws parties to win back the woman he loves."
+  },
+  "summary": "On Long Island in the summer of 1922, the mysterious millionaire Jay Gatsby throws lavish parties in the hope of winning back the woman he loves, while narrator Nick Carraway watches the whole glittering, doomed pursuit unfold. Fitzgerald's slender masterpiece is the great American novel of longing, money and self-invention, its beautiful prose lit by that green light across the bay. Short, perfect and endlessly re-read, it is a heartbreak dressed as a party.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The great American novel of longing and self-invention, and barely 200 pages of perfect prose. A heartbreak dressed as a party.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It sold modestly in Fitzgerald's lifetime and only became a classic after his death.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

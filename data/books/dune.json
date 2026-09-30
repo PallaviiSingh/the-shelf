@@ -1,0 +1,75 @@
+{
+  "slug": "dune",
+  "title": "Dune",
+  "subtitle": null,
+  "authors": [
+    "frank-herbert"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1965,
+  "edition": {
+    "publisher": "Ace",
+    "series": null,
+    "isbn": "059309932X",
+    "pageCount": 608
+  },
+  "cover": {
+    "file": "assets/covers/dune.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#886936",
+    "w": 599,
+    "h": 900,
+    "palette": [
+      "#512604",
+      "#dd9d33",
+      "#833e22"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Science Fiction"
+  ],
+  "region": "World",
+  "tags": [
+    "desert planet",
+    "empire",
+    "ecology",
+    "prophecy"
+  ],
+  "moods": [
+    "epic",
+    "cerebral",
+    "political"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "endless desert",
+      "giant sandworms",
+      "a rising messiah"
+    ],
+    "oneLine": "On a desert planet of spice and prophecy, a betrayed heir becomes a messiah."
+  },
+  "summary": "On the desert planet Arrakis, only source of the spice that makes interstellar travel possible, the noble Atreides family is betrayed and destroyed, and its young heir Paul flees into the deep desert to live among the Fremen and become something between a messiah and a monster. Herbert's landmark novel fuses politics, ecology, religion and psychology into the most influential science-fiction epic ever written, a dense, visionary saga about power, prophecy and the danger of the leaders we long for.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The towering sci-fi epic, and far deeper than a space adventure. Dense, but few books build a world this complete.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Herbert built the ecology of Arrakis so thoroughly that it drew on real research into desert dunes.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

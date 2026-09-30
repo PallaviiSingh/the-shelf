@@ -1,0 +1,17 @@
+{
+  "slug": "j-r-r-tolkein",
+  "name": "J.R.R. Tolkein",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "John Ronald Reuel Tolkien was an English writer and academic philologist. He was the author of the high fantasy works The Hobbit (1937) and The Lord of the Rings (1954–1955).",
+  "photo": {
+    "file": "assets/authors/j-r-r-tolkein.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+  },
+  "books": [
+    "the-hobbit-the-lord-of-the-rings"
+  ],
+  "enriched": false
+}

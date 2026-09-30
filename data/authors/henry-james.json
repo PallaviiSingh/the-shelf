@@ -1,0 +1,14 @@
+{
+  "slug": "henry-james",
+  "name": "Henry James",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Henry James was an American-British author. He is regarded as a key transitional figure between literary realism and literary modernism, and is considered by many to be among the greatest novelists in the English language. He was the son of theologian Henry James Sr. and the brother of philosopher and psychologist William James and diarist",
+  "photo": null,
+  "books": [
+    "the-portrait-of-a-lady",
+    "the-turn-of-the-screw-and-other-stories"
+  ],
+  "enriched": false
+}

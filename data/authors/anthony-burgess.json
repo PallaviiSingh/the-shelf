@@ -1,0 +1,18 @@
+{
+  "slug": "anthony-burgess",
+  "name": "Anthony Burgess",
+  "birthYear": 1917,
+  "deathYear": 1993,
+  "nationality": "British",
+  "bio": "English novelist, composer and critic from Manchester, and enormously prolific, with more than thirty books plus symphonies and screenplays to his name. His best-known novel is A Clockwork Orange (1962), with its invented teenage slang. Stanley Kubrick's 1971 film made it notorious, and Burgess had mixed feelings about that for the rest of his life.",
+  "photo": {
+    "file": "assets/authors/anthony-burgess.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anthony_Burgess",
+    "license": "CC BY-SA 3.0",
+    "attribution": "Open Media Ltd."
+  },
+  "books": [
+    "a-clockwork-orange"
+  ]
+}

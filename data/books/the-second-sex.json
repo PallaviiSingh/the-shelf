@@ -1,0 +1,72 @@
+{
+  "slug": "the-second-sex",
+  "title": "The Second Sex",
+  "subtitle": null,
+  "authors": [
+    "simone-de-beauvoir"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1949,
+  "edition": {
+    "publisher": "Vintage",
+    "series": null,
+    "isbn": "9780099499381",
+    "pageCount": 728
+  },
+  "cover": {
+    "file": "assets/covers/the-second-sex.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9b9896",
+    "w": 360,
+    "h": 555,
+    "palette": [
+      "#e6e4e0"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy & Theory"
+  ],
+  "region": "France",
+  "tags": [
+    "existentialism",
+    "gender",
+    "the Other",
+    "women"
+  ],
+  "moods": [
+    "cerebral",
+    "political"
+  ],
+  "difficulty": "summit",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a life examined",
+      "myth and history",
+      "becoming a woman"
+    ],
+    "oneLine": "The vast inquiry behind the idea that one becomes, rather than is born, a woman."
+  },
+  "summary": "In a work of enormous range and ambition, Simone de Beauvoir asks a deceptively simple question, what is a woman, and answers it across biology, history, myth and lived experience. Her central insight, that one is not born but rather becomes a woman, reframed gender as something made by society rather than fixed by nature, and gave modern feminism much of its intellectual foundation. Long and demanding, it is one of the most influential books of the twentieth century.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The intellectual bedrock of modern feminism. Demanding, but its central idea changed how the world thinks about gender.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its line 'One is not born, but rather becomes, a woman' is among the most quoted in all of feminist thought.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "maya-angelou",
+  "name": "Maya Angelou",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "i-know-why-the-caged-bird-sings"
+  ],
+  "enriched": false
+}

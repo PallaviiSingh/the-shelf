@@ -1,0 +1,76 @@
+{
+  "slug": "slow-violence-and-the-environmentalism-of-the-poor",
+  "title": "Slow Violence and the Environmentalism of the Poor",
+  "subtitle": null,
+  "authors": [
+    "rob-nixon"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2011,
+  "edition": {
+    "publisher": "Harvard University Press",
+    "series": null,
+    "isbn": "9780674072343",
+    "pageCount": 353
+  },
+  "cover": {
+    "file": "assets/covers/slow-violence-and-the-environmentalism-of-the-poor.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#116a8b",
+    "w": 662,
+    "h": 1000,
+    "palette": [
+      "#0286b5",
+      "#046588",
+      "#0e3e52"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Environmental Humanities",
+    "Criticism"
+  ],
+  "region": "World",
+  "tags": [
+    "environmental justice",
+    "poverty",
+    "postcolonial",
+    "climate"
+  ],
+  "moods": [
+    "cerebral",
+    "political",
+    "urgent"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "invisible harm",
+      "the global South",
+      "art against catastrophe"
+    ],
+    "oneLine": "How to see the slow, creeping environmental violence that falls on the poor."
+  },
+  "summary": "Rob Nixon's influential study names 'slow violence', the gradual, out-of-sight damage of pollution, climate change and toxic legacies that falls hardest on the world's poor and unfolds too slowly to make the news. Drawing on writer-activists from across the global South, he asks how art and storytelling can make such creeping catastrophes visible. Rigorous and eloquent, it has become a foundational text in environmental humanities and a powerful argument for the environmentalism of those who suffer harm first and longest.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The book that named 'slow violence', the creeping environmental harm that hits the poor hardest. Foundational and eloquent.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The phrase 'slow violence' has become widely used across environmental scholarship and journalism.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

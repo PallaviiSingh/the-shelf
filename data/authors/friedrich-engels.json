@@ -1,0 +1,17 @@
+{
+  "slug": "friedrich-engels",
+  "name": "Friedrich Engels",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Friedrich Engels was a German philosopher, social and political theorist, and revolutionary socialist. He is best known for his lifelong collaboration with Karl Marx, with whom he co-authored The Communist Manifesto (1848) and developed the political and philosophical system that came to be known as Marxism. After Marx's death, Engels served as the editor of",
+  "photo": {
+    "file": "assets/authors/friedrich-engels.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Friedrich_Engels"
+  },
+  "books": [
+    "the-communist-manifesto"
+  ],
+  "enriched": false
+}

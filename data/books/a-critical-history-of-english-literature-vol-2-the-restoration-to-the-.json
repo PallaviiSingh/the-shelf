@@ -1,0 +1,68 @@
+{
+  "slug": "a-critical-history-of-english-literature-vol-2-the-restoration-to-the-",
+  "title": "A Critical History of English Literature Vol 2 The Restoration to the Present Day",
+  "subtitle": null,
+  "authors": [
+    "david-daiches"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Supernova Publishers",
+    "series": null,
+    "isbn": "8189930443",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/a-critical-history-of-english-literature-vol-2-the-restoration-to-the-.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#f53722",
+    "w": 399,
+    "h": 640,
+    "palette": [
+      "#fb2002",
+      "#f6dad3",
+      "#cc0f0a"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "literary history",
+    "Daiches",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "three centuries",
+      "Augustans to moderns",
+      "one critic's sweep"
+    ],
+    "oneLine": "Daiches's critical history of English literature, Restoration to the present."
+  },
+  "summary": "The second volume of David Daiches's Critical History of English Literature runs from the Restoration to the twentieth century, carrying his single continuous narrative through the Augustans, the Romantics, the Victorians and the moderns. Combining historical breadth with pointed critical judgement, it completes one of the most readable and widely used one-author histories of English literature. Authoritative yet personal, this volume is a fine companion to three centuries of English writing.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Daiches's classic history continued, from the Restoration to the moderns. Readable and pointed.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "0",
+  "enriched": true
+}

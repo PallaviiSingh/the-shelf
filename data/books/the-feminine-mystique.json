@@ -1,0 +1,74 @@
+{
+  "slug": "the-feminine-mystique",
+  "title": "The Feminine Mystique",
+  "subtitle": null,
+  "authors": [
+    "betty-friedan"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1963,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "9780141192055",
+    "pageCount": 410
+  },
+  "cover": {
+    "file": "assets/covers/the-feminine-mystique.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#917f79",
+    "w": 720,
+    "h": 1108,
+    "palette": [
+      "#1f121d",
+      "#e3cdb3",
+      "#7d554a"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy & Theory"
+  ],
+  "region": "United States",
+  "tags": [
+    "housewives",
+    "suburbia",
+    "discontent",
+    "women"
+  ],
+  "moods": [
+    "political",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "1950s suburbia",
+      "a stifled life",
+      "a problem with no name"
+    ],
+    "oneLine": "Naming the quiet despair of the mid-century American housewife."
+  },
+  "summary": "Betty Friedan gave a name to 'the problem that has no name': the stifled unhappiness of educated American women confined to suburban homemaking in the 1950s. Drawing on interviews and her own experience, she argued that a whole society had told women their only fulfilment lay in husband, children and house, and that the resulting emptiness was real and widespread. The book helped ignite second-wave feminism and remains a landmark of postwar social criticism.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The book that lit the fuse of second-wave feminism, by naming a quiet, widespread despair. A landmark of social criticism.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Friedan went on to co-found the National Organization for Women in 1966.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "johnson-gray-goldsmith-poets-of-the-mid-eighteenth-century",
+  "title": "Johnson, Gray, Goldsmith - poets of the mid-eighteenth century",
+  "subtitle": null,
+  "authors": [
+    "harriet-raghunathan"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Worldview Critical Edition",
+    "series": null,
+    "isbn": "8186423680",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/johnson-gray-goldsmith-poets-of-the-mid-eighteenth-century.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#64505c",
+    "w": 661,
+    "h": 1000,
+    "palette": [
+      "#574a66",
+      "#3f1e43",
+      "#241c0f"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Poetry",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "18th century",
+    "Augustan",
+    "criticism",
+    "study guide"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly",
+    "melancholic"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "a country churchyard",
+      "moral verse",
+      "a student's companion"
+    ],
+    "oneLine": "A critical guide to the mid-eighteenth-century poetry of Johnson, Gray and Goldsmith."
+  },
+  "summary": "A critical study of three major poets of the mid-eighteenth century: Samuel Johnson, Thomas Gray and Oliver Goldsmith, whose meditative and moral verse bridges the Augustan age and the coming Romantic era. Prepared as a student's companion, it offers context and close readings of poems like Gray's famous 'Elegy Written in a Country Churchyard'. A helpful scholarly guide to a quieter, reflective period of English poetry often overshadowed by what came before and after.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A scholarly guide to Johnson, Gray and Goldsmith, the reflective poets bridging the Augustan and Romantic ages.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Gray's 'Elegy Written in a Country Churchyard' is among the most quoted poems in English.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "tughlaq",
+  "title": "Tughlaq",
+  "subtitle": null,
+  "authors": [
+    "girish-karnad"
+  ],
+  "translator": null,
+  "originalLanguage": "Kannada",
+  "translated": true,
+  "originalPublicationYear": 1964,
+  "edition": {
+    "publisher": "Oxford",
+    "series": null,
+    "isbn": null,
+    "pageCount": 120
+  },
+  "cover": {
+    "file": "assets/covers/tughlaq.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a289a0",
+    "w": 180,
+    "h": 265,
+    "palette": [
+      "#f5dfe9",
+      "#370e3e",
+      "#b49aaf"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Drama",
+    "Classic",
+    "Historical Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "Kannada",
+    "drama",
+    "Girish Karnad",
+    "history"
+  ],
+  "moods": [
+    "dark",
+    "political",
+    "tragic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "the Delhi sultanate",
+      "a brilliant, doomed ruler",
+      "idealism turned cruel"
+    ],
+    "oneLine": "A visionary medieval sultan's descent into tyranny, in a landmark Indian play."
+  },
+  "summary": "Tughlaq is Girish Karnad's acclaimed play, originally in Kannada, about the fourteenth-century Delhi sultan Muhammad bin Tughlaq, a brilliant, idealistic and ultimately tyrannical ruler whose visionary schemes collapse into chaos and bloodshed. Widely read as an allegory of the disillusionment of post-independence India, it is a masterful historical drama about idealism turning to cruelty. One of the landmark plays of modern Indian theatre, it established Karnad as a major dramatist.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Karnad's masterful play on a brilliant, doomed medieval sultan, and an allegory of post-independence disillusion.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The play is often read as an allegory for the disillusionment of India in the years after independence.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

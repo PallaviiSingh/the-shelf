@@ -1,0 +1,17 @@
+{
+  "slug": "rabindranath-tagore",
+  "name": "Rabindranath Tagore",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Rabindranath Tagore was a Bengali poet, author, playwright, musician, composer, philosopher, social reformer, painter, and one of the foremost figures of the Bengal Renaissance. In 1913, Tagore became the first Indian and non-European to win a Nobel Prize in any category, and also the first lyricist to win the Nobel Prize in Literature. A significant",
+  "photo": {
+    "file": "assets/authors/rabindranath-tagore.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
+  },
+  "books": [
+    "classic-rabindranath-tagore"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "days-at-the-morisaki-bookshop",
+  "title": "Days at the Morisaki Bookshop",
+  "subtitle": null,
+  "authors": [
+    "satoshi-yagisawa"
+  ],
+  "translator": "Eric Ozawa",
+  "originalLanguage": "Japanese",
+  "translated": true,
+  "originalPublicationYear": 2010,
+  "edition": {
+    "publisher": "Manilla",
+    "series": null,
+    "pageCount": 160
+  },
+  "cover": {
+    "file": "assets/covers/days-at-the-morisaki-bookshop.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/1786583232-L.jpg?default=false",
+    "dominantColor": "#858771",
+    "w": 326,
+    "h": 500,
+    "palette": [
+      "#998838",
+      "#fce166",
+      "#cfdadb"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Japan",
+  "tags": [
+    "Japan",
+    "bookshop",
+    "healing",
+    "Tokyo"
+  ],
+  "moods": [
+    "comforting",
+    "tender",
+    "warm"
+  ],
+  "difficulty": "gentle",
+  "pace": "gentle",
+  "vibeProfile": {
+    "occasions": [
+      "comfort reading",
+      "to relax and unwind",
+      "in a cafe"
+    ],
+    "sensory": [
+      "a Tokyo bookshop",
+      "dusty shelves",
+      "a slow healing"
+    ],
+    "oneLine": "A heartbroken woman heals amid the shelves of her uncle's Tokyo bookshop."
+  },
+  "summary": "Heartbroken and adrift, a young woman moves into the cramped second-hand bookshop run by her eccentric uncle in Tokyo's book district, and slowly, among the dusty shelves and the neighbourhood's gentle regulars, begins to heal and rediscover herself. Satoshi Yagisawa's bestselling novella is a warm, quiet story about books, family and starting over. Cosy and soothing, it has become a beloved example of Japanese healing fiction, perfect for anyone who finds comfort among bookshelves.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A cosy, healing Japanese novella set in a second-hand bookshop. Pure comfort for book lovers.",
+  "awards": [
+    "Chiyoda Literature Prize 2009"
+  ],
+  "funFacts": [
+    {
+      "text": "It is set in Jimbocho, Tokyo's famous district of second-hand bookshops.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

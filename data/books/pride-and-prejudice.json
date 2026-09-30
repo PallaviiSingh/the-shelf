@@ -1,0 +1,76 @@
+{
+  "slug": "pride-and-prejudice",
+  "title": "Pride and Prejudice",
+  "subtitle": null,
+  "authors": [
+    "jane-austen"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1813,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9780141040349",
+    "pageCount": 351
+  },
+  "cover": {
+    "file": "assets/covers/pride-and-prejudice.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#cea102",
+    "w": 720,
+    "h": 1113,
+    "palette": [
+      "#c49b01",
+      "#f7ba03"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Romance"
+  ],
+  "region": "England",
+  "tags": [
+    "marriage",
+    "class",
+    "wit",
+    "Regency"
+  ],
+  "moods": [
+    "romantic",
+    "witty",
+    "warm"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "on a rainy day",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a country ball",
+      "a proud gentleman",
+      "a sharp-tongued heroine"
+    ],
+    "oneLine": "Elizabeth Bennet and proud Mr Darcy misjudge each other, gloriously."
+  },
+  "summary": "Quick-witted Elizabeth Bennet and the proud, wealthy Mr Darcy misjudge each other completely, and spend the novel discovering how wrong first impressions can be. Around their sparring Austen builds a perfect comedy of manners about marriage, money and pride in a world of five unmarried sisters and too little fortune. The most beloved novel in English, it is as sparkling and clever now as it was two centuries ago, and its central couple set the template for every enemies-to-lovers romance since.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The most beloved novel in English, and it earns it. Elizabeth and Darcy invented the enemies-to-lovers romance, and no one has bettered it.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Austen affectionately called the book her 'own darling child'.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C4",
+  "enriched": true
+}

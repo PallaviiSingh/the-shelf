@@ -1,0 +1,76 @@
+{
+  "slug": "the-mystery-of-the-blue-train",
+  "title": "The Mystery of the Blue Train",
+  "subtitle": null,
+  "authors": [
+    "agatha-christie"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1928,
+  "edition": {
+    "publisher": "Harper Collins",
+    "series": null,
+    "isbn": "9780008129484",
+    "pageCount": 257
+  },
+  "cover": {
+    "file": "assets/covers/the-mystery-of-the-blue-train.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#176d90",
+    "w": 720,
+    "h": 1104,
+    "palette": [
+      "#00b5fe",
+      "#0a81b3",
+      "#051a24"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Mystery & Crime"
+  ],
+  "region": "England",
+  "tags": [
+    "Poirot",
+    "train",
+    "jewels",
+    "Riviera"
+  ],
+  "moods": [
+    "suspenseful",
+    "playful",
+    "cerebral"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "on a train or plane",
+      "a short sitting",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "a luxury train",
+      "the Riviera",
+      "a missing ruby"
+    ],
+    "oneLine": "A murder and a vanished ruby aboard the glamorous Blue Train."
+  },
+  "summary": "Aboard the luxurious Blue Train to the Riviera, a wealthy heiress is found murdered and a priceless ruby has vanished. Hercule Poirot, travelling on the same train, is soon sifting the suspects among the glamorous passengers. A classic closed-world Christie of wealth, jewels and buried motives, it moves briskly from London to the sun-struck south of France and rewards the reader who watches the small details as closely as Poirot does.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Jewels, a luxury train and a Riviera murder. Glamorous, brisk, cosy Christie for a single sitting.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Christie wrote it during a painful period after her own famous disappearance, and never liked it much.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

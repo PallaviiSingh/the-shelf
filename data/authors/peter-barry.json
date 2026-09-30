@@ -1,0 +1,13 @@
+{
+  "slug": "peter-barry",
+  "name": "Peter Barry",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "beginning-theory"
+  ],
+  "enriched": false
+}

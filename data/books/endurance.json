@@ -1,0 +1,74 @@
+{
+  "slug": "endurance",
+  "title": "Endurance",
+  "subtitle": null,
+  "authors": [
+    "alfred-lansing"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1959,
+  "edition": {
+    "publisher": "Basic Books",
+    "series": null,
+    "isbn": "0465062881",
+    "pageCount": 282
+  },
+  "cover": {
+    "file": "assets/covers/endurance.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#474344",
+    "w": 667,
+    "h": 1000,
+    "palette": [
+      "#131013"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "Antarctica",
+  "tags": [
+    "exploration",
+    "survival",
+    "Antarctica",
+    "leadership"
+  ],
+  "moods": [
+    "epic",
+    "suspenseful",
+    "hopeful"
+  ],
+  "difficulty": "gentle",
+  "pace": "propulsive",
+  "vibeProfile": {
+    "occasions": [
+      "to be thrilled",
+      "to be absorbed for hours",
+      "in winter"
+    ],
+    "sensory": [
+      "crushing ice",
+      "an open-boat voyage",
+      "a fight to survive"
+    ],
+    "oneLine": "Shackleton's crew, stranded on Antarctic ice, and their impossible survival."
+  },
+  "summary": "In 1915, Ernest Shackleton's ship Endurance was crushed by Antarctic ice, stranding his crew of twenty-eight on the floes with no hope of rescue. Alfred Lansing's gripping account, drawn from survivors' diaries, tells how Shackleton led every one of them to safety across ice, ocean and mountain in one of the greatest survival stories ever recorded. Fast, vivid and almost unbelievable, it is a masterclass in leadership and human endurance that reads like a thriller.",
+  "summarySource": "knowledge",
+  "whyReadIt": "One of the greatest survival stories ever told, and it reads like a thriller. Shackleton's leadership will astonish you.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Every member of Shackleton's stranded party survived, an almost miraculous outcome.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

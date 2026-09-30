@@ -1,0 +1,18 @@
+{
+  "slug": "alice-munro",
+  "name": "Alice Munro",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Alice Ann Munro was a Canadian short story writer who was awarded the Nobel Prize in Literature in 2013. Her work tends to move forward and backward in time, with integrated short story cycles.",
+  "photo": {
+    "file": "assets/authors/alice-munro.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alice_Munro"
+  },
+  "books": [
+    "selected-stories-1968-1994",
+    "selected-stories-1995-2009"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "the-making-of-a-poem-a-norton-anthology-of-poetic-forms",
+  "title": "The Making of a Poem A Norton Anthology of Poetic forms",
+  "subtitle": null,
+  "authors": [
+    "eavan-boland",
+    "mark-strand"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "W. W. Norton & Company",
+    "series": null,
+    "isbn": "0393321789",
+    "pageCount": 366
+  },
+  "cover": {
+    "file": "assets/covers/the-making-of-a-poem-a-norton-anthology-of-poetic-forms.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#919b64",
+    "w": 219,
+    "h": 350,
+    "palette": [
+      "#899b66",
+      "#dfb06b",
+      "#b58851"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Anthology",
+    "Poetry"
+  ],
+  "region": "World",
+  "tags": [
+    "poetry",
+    "forms",
+    "anthology",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "curious",
+    "luminous"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "in a cafe",
+      "in bed at night"
+    ],
+    "sensory": [
+      "poetic forms",
+      "the sonnet and villanelle",
+      "how poems are built"
+    ],
+    "oneLine": "A Norton anthology of poetic forms, with history and examples."
+  },
+  "summary": "Edited by the poets Mark Strand and Eavan Boland, this Norton anthology is organised not by author or era but by poetic form, explaining and illustrating the sonnet, villanelle, sestina, ode, ballad and more. Each section pairs a lucid account of the form's history and rules with generous examples across the centuries. A wonderful book for anyone who wants to understand how poems are built, and a delight for readers and writers of poetry alike.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A Norton anthology organised by form, showing how sonnets, villanelles and odes are actually built. A delight for poetry lovers.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "D3",
+  "enriched": true
+}

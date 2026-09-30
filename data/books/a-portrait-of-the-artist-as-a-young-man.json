@@ -1,0 +1,77 @@
+{
+  "slug": "a-portrait-of-the-artist-as-a-young-man",
+  "title": "A Portrait of the Artist as a Young Man",
+  "subtitle": null,
+  "authors": [
+    "james-joyce"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1916,
+  "edition": {
+    "publisher": "Penguin Books, Limited",
+    "series": "Penguin Classics",
+    "pageCount": 384
+  },
+  "cover": {
+    "file": "assets/covers/a-portrait-of-the-artist-as-a-young-man.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4b4f4f",
+    "w": 720,
+    "h": 1154,
+    "trimmed": true,
+    "palette": [
+      "#232b2a",
+      "#39414d",
+      "#9d8071"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Coming of Age"
+  ],
+  "region": "Ireland",
+  "tags": [
+    "Dublin",
+    "art",
+    "religion",
+    "autobiographical"
+  ],
+  "moods": [
+    "cerebral",
+    "intense",
+    "luminous"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a Jesuit schooling",
+      "a young artist",
+      "a break for freedom"
+    ],
+    "oneLine": "A young man breaks from church and country to become an artist."
+  },
+  "summary": "Stephen Dedalus grows from a small boy into a young man determined to become an artist, breaking free of family, nation and the Catholic Church that both shaped and stifled him. Joyce's semi-autobiographical novel is a landmark of modernism, its prose evolving from a child's fragments to soaring adolescent rhetoric as Stephen's mind matures. Intense, inward and beautifully written, it is the essential bridge between Dubliners and Ulysses, and a defining portrait of the artist finding his vocation.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Joyce's beautiful portrait of an artist breaking free of church and country. The essential bridge to Ulysses.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its prose deliberately grows more complex as its hero grows up.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

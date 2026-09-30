@@ -1,0 +1,79 @@
+{
+  "slug": "a-selection-of-poems",
+  "title": "A Selection of Poems",
+  "subtitle": null,
+  "authors": [
+    "t-s-eliot",
+    "s-s-sharma"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Doaba Publication",
+    "series": null,
+    "isbn": null,
+    "pageCount": 137
+  },
+  "cover": {
+    "file": "assets/covers/a-selection-of-poems.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5d5c5e",
+    "w": 407,
+    "h": 624,
+    "trimmed": true,
+    "palette": [
+      "#1f1f21",
+      "#e0c9cd",
+      "#ce9a9f"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "England",
+  "tags": [
+    "modernism",
+    "T S Eliot",
+    "study guide",
+    "20th century"
+  ],
+  "moods": [
+    "cerebral",
+    "melancholic",
+    "modernist"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a fractured modern world",
+      "allusive verse",
+      "spiritual searching"
+    ],
+    "oneLine": "A guided selection of T. S. Eliot, defining poet of modernism."
+  },
+  "summary": "A selection of the poetry of T. S. Eliot, the defining poet of literary modernism, prepared as a student's edition with introduction and notes. It gathers the essential work, from the fractured despair of 'The Waste Land' to the spiritual searching of the later poems, verse that remade English poetry after the First World War. Difficult, allusive and profoundly influential, Eliot's poems reward the guidance this edition provides, and repay a lifetime of rereading.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The essential T. S. Eliot in a guided edition, the poet who remade modern verse. Difficult and endlessly rewarding.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Eliot's 'The Waste Land' (1922) is often called the most influential poem of the twentieth century.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

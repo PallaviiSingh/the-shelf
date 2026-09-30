@@ -1,0 +1,69 @@
+{
+  "slug": "vol-8-the-pelican-guide-to-english-literature-from-orwell-to-naipaul",
+  "title": "Vol 8. The Pelican Guide to English Literature: From Orwell to Naipaul",
+  "subtitle": null,
+  "authors": [
+    "boris-ford"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0140238166",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-8-the-pelican-guide-to-english-literature-from-orwell-to-naipaul.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#674931",
+    "w": 229,
+    "h": 350,
+    "palette": [
+      "#c9291b",
+      "#0e1213",
+      "#526a3f"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "twentieth century",
+    "postwar",
+    "Pelican Guide",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "postwar writing",
+      "a global English",
+      "criticism for all"
+    ],
+    "oneLine": "The Pelican Guide from Orwell to Naipaul."
+  },
+  "summary": "The eighth volume of Boris Ford's Pelican Guide to English Literature covers the later twentieth century, From Orwell to Naipaul. It surveys the fiction, poetry and drama of the postwar decades, taking in the widening of English literature to include writers from across the former empire, with critical essays and a general account of the age. Accessible and wide-ranging, it brings recent literature and its global reach to a general readership.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Pelican Guide's companion to postwar literature, from Orwell to Naipaul, and English writing gone global. Wide-ranging.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

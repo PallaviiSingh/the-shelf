@@ -1,0 +1,17 @@
+{
+  "slug": "john-wyndham",
+  "name": "John Wyndham",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "John Wyndham Parkes Lucas Beynon Harris was an English science fiction writer best known for his works published under the pen name John Wyndham, although he also used other combinations of his names, such as John Beynon and Lucas Parkes. Some of his works were set in post-apocalyptic landscapes. His best known works include The",
+  "photo": {
+    "file": "assets/authors/john-wyndham.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_Wyndham"
+  },
+  "books": [
+    "the-day-of-the-triffids"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "a-vindication-of-the-rights-of-woman",
+  "title": "A Vindication of the Rights of Woman",
+  "subtitle": null,
+  "authors": [
+    "mary-wollstonecraft"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1792,
+  "edition": {
+    "publisher": "Vintage Classics",
+    "series": null,
+    "isbn": "0099595826",
+    "pageCount": 258
+  },
+  "cover": {
+    "file": "assets/covers/a-vindication-of-the-rights-of-woman.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#dcd1c8",
+    "w": 545,
+    "h": 825,
+    "trimmed": true,
+    "palette": [
+      "#e6dcd3",
+      "#d1c4ba",
+      "#baaca0"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy & Theory"
+  ],
+  "region": "England",
+  "tags": [
+    "rights",
+    "education",
+    "Enlightenment",
+    "women"
+  ],
+  "moods": [
+    "political",
+    "cerebral",
+    "hopeful"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "revolutionary Europe",
+      "a case for reason",
+      "a demand for schooling"
+    ],
+    "oneLine": "The founding argument that women are denied not ability, but education."
+  },
+  "summary": "Writing in the heat of the French Revolution, Mary Wollstonecraft argues that women appear inferior only because they are denied education, and demands that they be treated as rational beings and equal citizens. Bold, urgent and often furious, it is the founding text of Western feminism, insisting that virtue and reason have no sex. More than two centuries on, its core claim, that a just society must educate and free its women, still reads as both obvious and unfinished.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The book Western feminism starts from, and still bracing to read. Wollstonecraft's core demand remains unfinished business.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Wollstonecraft was the mother of Mary Shelley, who wrote Frankenstein.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

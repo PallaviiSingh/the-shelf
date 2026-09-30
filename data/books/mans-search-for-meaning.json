@@ -1,0 +1,76 @@
+{
+  "slug": "mans-search-for-meaning",
+  "title": "Man's Search for Meaning",
+  "subtitle": null,
+  "authors": [
+    "viktor-e-frankl"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1946,
+  "edition": {
+    "publisher": "Rider",
+    "series": null,
+    "isbn": "9781846041242",
+    "pageCount": 165
+  },
+  "cover": {
+    "file": "assets/covers/mans-search-for-meaning.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8e8083",
+    "w": 650,
+    "h": 1033,
+    "palette": [
+      "#b8aeb0",
+      "#281e24",
+      "#f0eaec"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "Austria",
+  "tags": [
+    "Holocaust",
+    "psychology",
+    "meaning",
+    "survival"
+  ],
+  "moods": [
+    "bleak",
+    "hopeful",
+    "cerebral"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "a concentration camp",
+      "a choice of attitude",
+      "a reason to live"
+    ],
+    "oneLine": "A Holocaust survivor argues that meaning can be found even in suffering."
+  },
+  "summary": "A psychiatrist and Holocaust survivor, Viktor Frankl distils his experience of the Nazi death camps into a spare, profound argument: that even in the worst suffering, human beings can choose their attitude, and that the search for meaning is the deepest human drive. The first half is a harrowing camp memoir; the second lays out his therapy of meaning, logotherapy. Short, sober and quietly transformative, it has consoled and guided millions and remains one of the most influential books of the century.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A short, profound book about finding meaning even in the worst suffering. It has quietly changed millions of lives.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Frankl wrote the first draft in nine days, and it has sold many millions of copies worldwide.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

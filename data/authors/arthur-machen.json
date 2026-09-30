@@ -1,0 +1,17 @@
+{
+  "slug": "arthur-machen",
+  "name": "Arthur Machen",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Arthur Llewellyn Jones, known by his pen name Arthur Machen, was a Welsh author and mystic of the late 19th and early 20th centuries. He is best known for his influential supernatural, fantasy and horror fiction. His novella The Great God Pan has garnered a reputation as a classic of horror; Stephen King described it",
+  "photo": {
+    "file": "assets/authors/arthur-machen.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arthur_Machen"
+  },
+  "books": [
+    "the-great-god-pan"
+  ],
+  "enriched": false
+}

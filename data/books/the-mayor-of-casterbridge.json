@@ -1,0 +1,76 @@
+{
+  "slug": "the-mayor-of-casterbridge",
+  "title": "The Mayor of Casterbridge",
+  "subtitle": null,
+  "authors": [
+    "thomas-hardy"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1886,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241347777",
+    "pageCount": 363
+  },
+  "cover": {
+    "file": "assets/covers/the-mayor-of-casterbridge.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5c105d",
+    "w": 720,
+    "h": 1193,
+    "palette": [
+      "#370367",
+      "#b93142",
+      "#65145a"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "Wessex",
+    "fate",
+    "guilt",
+    "reversal of fortune"
+  ],
+  "moods": [
+    "tragic",
+    "bleak",
+    "melancholic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a country fair",
+      "a buried sin",
+      "a proud man's fall"
+    ],
+    "oneLine": "A man who sold his wife rises to mayor, then meets his past."
+  },
+  "summary": "In a drunken moment at a country fair, a young man sells his wife and baby to a passing sailor, then swears off drink and rises to become the respected mayor of Casterbridge, until the past he buried comes walking back into his life. Hardy's tragedy of character and fate charts the slow, inexorable fall of a proud, flawed man. Powerful and unsparing, it is one of his finest studies of how the choices of a single reckless hour can shape an entire life.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Hardy's great tragedy of a man undone by one reckless act. Unsparing, powerful and impossible to shake.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The shocking wife-selling scene draws on a real, if rare, practice in old rural England.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B4",
+  "enriched": true
+}

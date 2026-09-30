@@ -1,0 +1,77 @@
+{
+  "slug": "orlando",
+  "title": "Orlando",
+  "subtitle": null,
+  "authors": [
+    "virginia-woolf"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1928,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241284643",
+    "pageCount": 226
+  },
+  "cover": {
+    "file": "assets/covers/orlando.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d9412f",
+    "w": 626,
+    "h": 1000,
+    "palette": [
+      "#fd441b",
+      "#cc4038",
+      "#9b3c54"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "gender",
+    "time",
+    "biography",
+    "fantasy"
+  ],
+  "moods": [
+    "playful",
+    "romantic",
+    "dreamlike"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "four centuries of England",
+      "a shift of gender",
+      "a dazzling wit"
+    ],
+    "oneLine": "A nobleman lives for centuries and wakes one day as a woman."
+  },
+  "summary": "A young Elizabethan nobleman named Orlando lives for over three centuries and, midway through, wakes up as a woman, moving through English history without aging in Woolf's most exuberant and playful book. Written as a mock biography and a love letter to Vita Sackville-West, it dances across time, gender and literary fashion with dazzling wit. Lighter than her great modernist novels but wonderfully inventive, it has become a landmark text for readers thinking about gender and identity.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Woolf's most playful book, a mock biography of a hero who lives centuries and changes sex. Witty, exuberant, and ahead of its time.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Woolf wrote it as a fantastical tribute to her lover, Vita Sackville-West.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B4",
+  "enriched": true
+}

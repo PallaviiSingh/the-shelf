@@ -1,0 +1,77 @@
+{
+  "slug": "a-passage-to-india",
+  "title": "A Passage to India",
+  "subtitle": null,
+  "authors": [
+    "e-m-forster"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1924,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0241540429",
+    "pageCount": 322
+  },
+  "cover": {
+    "file": "assets/covers/a-passage-to-india.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5c5755",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#0e1c23",
+      "#3b322b",
+      "#dfdad4"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "British Raj",
+    "India",
+    "colonialism",
+    "misunderstanding"
+  ],
+  "moods": [
+    "cerebral",
+    "atmospheric",
+    "melancholic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "the British Raj",
+      "the Marabar Caves",
+      "a courtroom of empire"
+    ],
+    "oneLine": "An accusation in a cave shatters the fragile peace of colonial India."
+  },
+  "summary": "When a young Englishwoman accuses an Indian doctor of assaulting her in the Marabar Caves, the fragile courtesies between colonisers and colonised in British India collapse into a charged trial. Forster's masterpiece is a subtle, humane study of friendship, race and the impossibility of true understanding across the divide of empire. Set against the vast, indifferent Indian landscape, it is both a gripping human drama and one of the great novels about the moral failure of colonialism.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Forster's masterpiece on the impossibility of friendship across the colonial divide. Humane, subtle and quietly damning.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Forster drew on his own visits to India and never published another novel in his lifetime.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

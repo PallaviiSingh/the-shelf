@@ -1,0 +1,75 @@
+{
+  "slug": "wessex-poems",
+  "title": "Wessex Poems",
+  "subtitle": null,
+  "authors": [
+    "thomas-hardy"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1898,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241303133",
+    "pageCount": 256
+  },
+  "cover": {
+    "file": "assets/covers/wessex-poems.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4d4d4d",
+    "w": 568,
+    "h": 1000,
+    "palette": [
+      "#3d3d3d"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "England",
+  "tags": [
+    "Wessex",
+    "rural",
+    "fate",
+    "nature"
+  ],
+  "moods": [
+    "melancholic",
+    "pastoral",
+    "meditative"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to feel something deeply",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "the Wessex land",
+      "time and loss",
+      "a weathered plainness"
+    ],
+    "oneLine": "Hardy's first poetry, brooding on fate and memory in rural Wessex."
+  },
+  "summary": "Thomas Hardy's first collection of poetry, published after he abandoned the novel, gathers verse rooted in his beloved Wessex countryside, brooding on time, loss, memory and the indifference of fate. Illustrated with his own drawings, these poems show the great novelist reinventing himself as a poet, in plain, weathered language that would influence generations. Understated and deeply felt, they reveal the same tragic vision as his fiction, distilled into short, haunting lyrics.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Hardy the novelist reborn as a poet, brooding on time and fate in the Wessex countryside. Plain, weathered and deeply felt.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Hardy turned to poetry only after the hostile reception of Jude the Obscure ended his novel-writing.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

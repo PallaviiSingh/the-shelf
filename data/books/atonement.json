@@ -1,0 +1,76 @@
+{
+  "slug": "atonement",
+  "title": "Atonement",
+  "subtitle": null,
+  "authors": [
+    "ian-mcewan"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2001,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 384
+  },
+  "cover": {
+    "file": "assets/covers/atonement.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#856f59",
+    "w": 619,
+    "h": 1000,
+    "palette": [
+      "#3c322d",
+      "#b2966e",
+      "#987250"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Historical Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "a lie",
+    "guilt",
+    "World War II",
+    "class"
+  ],
+  "moods": [
+    "melancholic",
+    "romantic",
+    "bleak"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "an English country house",
+      "the retreat to Dunkirk",
+      "a child's mistake"
+    ],
+    "oneLine": "A girl's lie destroys three lives, and she spends a lifetime atoning."
+  },
+  "summary": "On a hot day in 1935, thirteen-year-old Briony misreads a moment between her sister and the housekeeper's son, and tells a lie that shatters three lives. As the story moves into the horror of Dunkirk and wartime London, her single childish act of imagination becomes a lifelong attempt at atonement, one the novel's own final turn quietly complicates. McEwan's most admired book is a beautifully written meditation on guilt, class and the terrible power, and unreliability, of storytelling itself.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A perfectly built novel about one lie and a lifetime of trying to undo it. The final pages recast everything, gorgeously.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its closing twist about the act of writing itself is one of the most debated endings in recent fiction.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A4",
+  "enriched": true
+}

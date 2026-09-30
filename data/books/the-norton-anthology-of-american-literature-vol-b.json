@@ -1,0 +1,65 @@
+{
+  "slug": "the-norton-anthology-of-american-literature-vol-b",
+  "title": "The Norton Anthology of American Literature, Vol B",
+  "subtitle": null,
+  "authors": [],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-norton-anthology-of-american-literature-vol-b.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4a3a2f",
+    "w": 641,
+    "h": 1000,
+    "palette": [
+      "#261b1f",
+      "#9c8320",
+      "#896707"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Anthology"
+  ],
+  "region": "United States",
+  "tags": [
+    "anthology",
+    "American literature",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "luminous"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "the American Renaissance",
+      "Whitman and Dickinson",
+      "a first flowering"
+    ],
+    "oneLine": "The Norton anthology of American literature, the nineteenth century."
+  },
+  "summary": "Volume B of the Norton Anthology of American Literature covers the nineteenth century up to the Civil War, the American Renaissance of Emerson, Thoreau, Hawthorne, Melville, Poe, Whitman and Dickinson. It gathers the writers who gave the young nation its first great literature, with introductions, notes and context. A cornerstone anthology for the study of American writing at its first flowering.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Norton anthology of the American Renaissance, Emerson to Dickinson. The nation's first great literature.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "0",
+  "enriched": true
+}

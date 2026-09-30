@@ -1,0 +1,19 @@
+{
+  "slug": "gabriel-garcia-marquez",
+  "name": "Gabriel Garcia Marquez",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Gabriel José García Márquez was a Colombian writer and journalist, known affectionately as Gabo or Gabito throughout Latin America. Considered one of the most significant authors of the 20th century, particularly in the Spanish language, he was awarded the 1972 Neustadt International Prize for Literature and the 1982 Nobel Prize in Literature. He pursued a",
+  "photo": {
+    "file": "assets/authors/gabriel-garcia-marquez.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez"
+  },
+  "books": [
+    "chronicle-of-a-death-foretold",
+    "love-in-the-time-of-cholera",
+    "memories-of-my-melancholy-whores"
+  ],
+  "enriched": false
+}

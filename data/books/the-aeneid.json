@@ -1,0 +1,76 @@
+{
+  "slug": "the-aeneid",
+  "title": "The Aeneid",
+  "subtitle": null,
+  "authors": [
+    "virgil"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": -19,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141996331",
+    "pageCount": 360
+  },
+  "cover": {
+    "file": "assets/covers/the-aeneid.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d19e2e",
+    "w": 720,
+    "h": 1141,
+    "palette": [
+      "#fdba27",
+      "#c89831",
+      "#9f7d36"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Verse Epic",
+    "Classic"
+  ],
+  "region": "Ancient Rome",
+  "tags": [
+    "Rome",
+    "destiny",
+    "war",
+    "exile"
+  ],
+  "moods": [
+    "epic",
+    "melancholic",
+    "political"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "a burning Troy",
+      "a doomed queen",
+      "the underworld"
+    ],
+    "oneLine": "A Trojan survivor is driven by fate to found the Roman people."
+  },
+  "summary": "Fleeing the ruins of Troy, the hero Aeneas is driven by fate across the Mediterranean, through a doomed love affair with Queen Dido and a descent into the underworld, toward his destiny as founder of the Roman people. Virgil's national epic fuses Homer's grandeur with a distinctly Roman sense of duty and loss, and its shadow falls across all of European literature, above all on Dante. Solemn, beautiful and shot through with sorrow at the cost of empire.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Rome's great epic of duty and destiny, and the bridge from Homer to Dante. Grand, sorrowful and endlessly influential.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Virgil reportedly asked for the unfinished poem to be burned; the emperor Augustus overruled him.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B4",
+  "enriched": true
+}

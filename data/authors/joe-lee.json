@@ -1,0 +1,13 @@
+{
+  "slug": "joe-lee",
+  "name": "Joe Lee",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "jung-for-beginners"
+  ],
+  "enriched": false
+}

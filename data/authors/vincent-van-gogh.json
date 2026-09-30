@@ -1,0 +1,17 @@
+{
+  "slug": "vincent-van-gogh",
+  "name": "Vincent Van Gogh",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Vincent Willem van Gogh was a Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art. In just over a decade he created about 2,100 artworks, including around 860 oil paintings, most of them in the last two years of his life. They include landscapes, still lifes,",
+  "photo": {
+    "file": "assets/authors/vincent-van-gogh.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+  },
+  "books": [
+    "the-letters-of-vincent-van-gogh"
+  ],
+  "enriched": false
+}

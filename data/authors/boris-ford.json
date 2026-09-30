@@ -1,0 +1,19 @@
+{
+  "slug": "boris-ford",
+  "name": "Boris Ford",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Richard Boris Ford was a British literary critic, writer, editor and educationist.",
+  "photo": null,
+  "books": [
+    "vol-1-the-pelican-guide-to-english-literature-the-age-of-chaucer",
+    "vol-2-the-pelican-guide-to-english-literature-the-age-of-shakespeare",
+    "vol-3-the-pelican-guide-to-english-literature-from-donne-to-marvell",
+    "vol-4-the-pelican-guide-to-english-literature-from-dryden-to-johnson",
+    "vol-5-the-pelican-guide-to-english-literature-from-blake-to-byron",
+    "vol-7-the-pelican-guide-to-english-literature-the-modern-age",
+    "vol-8-the-pelican-guide-to-english-literature-from-orwell-to-naipaul"
+  ],
+  "enriched": false
+}

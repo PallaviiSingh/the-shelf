@@ -1,0 +1,68 @@
+{
+  "slug": "oxford-history-of-english-literature-english-literature-1815-1832",
+  "title": "Oxford History of English Literature: English Literature (1815- 1832)",
+  "subtitle": null,
+  "authors": [
+    "ian-jack"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Clarendon Press",
+    "series": null,
+    "isbn": "0198122381",
+    "pageCount": 643
+  },
+  "cover": {
+    "file": "assets/covers/oxford-history-of-english-literature-english-literature-1815-1832.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#be5832",
+    "w": 374,
+    "h": 534,
+    "palette": [
+      "#c83c14",
+      "#fbc782",
+      "#822a1c"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "Romanticism",
+    "reference",
+    "poetry"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "Byron and Keats",
+      "the Romantic height",
+      "Scott's novels"
+    ],
+    "oneLine": "The Oxford history of English literature from 1815 to 1832."
+  },
+  "summary": "Ian Jack's volume in the Oxford History of English Literature covers the years 1815 to 1832, the age of the later Romantics, Byron, Shelley, Keats and Scott. It surveys the poetry, fiction and prose of a brilliant, restless period between Waterloo and the Reform Act, when Romanticism reached its height and the historical novel flourished. An authoritative scholarly account of a short but extraordinarily rich era in English writing.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Oxford account of the later Romantics, Byron, Shelley, Keats and Scott. Authoritative scholarship.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

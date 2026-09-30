@@ -1,0 +1,76 @@
+{
+  "slug": "the-history-of-england-tudors-vol-2",
+  "title": "The History of England - Tudors (Vol 2)",
+  "subtitle": null,
+  "authors": [
+    "peter-ackroyd"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2012,
+  "edition": {
+    "publisher": "Pan Publishing house",
+    "series": null,
+    "isbn": "9781447236818",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-history-of-england-tudors-vol-2.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#c9997c",
+    "w": 720,
+    "h": 1092,
+    "palette": [
+      "#fae198",
+      "#ca091e",
+      "#e3b36b"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History"
+  ],
+  "region": "England",
+  "tags": [
+    "Tudors",
+    "England",
+    "Reformation",
+    "monarchy"
+  ],
+  "moods": [
+    "dramatic",
+    "cerebral",
+    "epic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a rainy day",
+      "to think hard"
+    ],
+    "sensory": [
+      "Henry's break with Rome",
+      "the Reformation",
+      "Elizabeth's long reign"
+    ],
+    "oneLine": "Ackroyd's vivid history of Tudor England, from Henry VIII to Elizabeth I."
+  },
+  "summary": "The second volume of Peter Ackroyd's vivid history of England covers the Tudor century, from Henry VIII's break with Rome through the turmoil of the Reformation to the long reign of Elizabeth I. Ackroyd, a novelist as much as a historian, tells the story with narrative flair and an eye for the human texture of the age, its faith, violence and pageantry. Accessible and richly readable, it makes one of England's most dramatic centuries come alive.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Ackroyd's novelist's eye brings the Tudor century to vivid life. Dramatic, readable narrative history.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Ackroyd is a celebrated novelist and biographer as well as a historian of England and London.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B1",
+  "enriched": true
+}

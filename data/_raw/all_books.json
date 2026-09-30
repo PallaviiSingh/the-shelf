@@ -1,0 +1,4423 @@
+[
+  {
+    "shelf": "A1",
+    "shelfLabel": "Shelf A1 - Indian Literary History + Indian literature (academia) (9 books)",
+    "title": "A Socio-political history of Marathi Theatre - 3 volumes",
+    "authors": [
+      "Makarand Sathe"
+    ],
+    "isbn": "9780199450381",
+    "publisher": null
+  },
+  {
+    "shelf": "A1",
+    "shelfLabel": "Shelf A1 - Indian Literary History + Indian literature (academia) (9 books)",
+    "title": "Indian English Literature - A Critical Survey (1980-2000)",
+    "authors": [
+      "Shyamala A. Narayan"
+    ],
+    "isbn": "978-8185753447",
+    "publisher": "Penecraft International"
+  },
+  {
+    "shelf": "A1",
+    "shelfLabel": "Shelf A1 - Indian Literary History + Indian literature (academia) (9 books)",
+    "title": "Indian English Literature - A Critical Survey (2001-2015)",
+    "authors": [
+      "Shyamala A. Narayan",
+      "M.K Naik"
+    ],
+    "isbn": "9382178295",
+    "publisher": "Pencraft International"
+  },
+  {
+    "shelf": "A1",
+    "shelfLabel": "Shelf A1 - Indian Literary History + Indian literature (academia) (9 books)",
+    "title": "A Concise History of Indian Literature in English",
+    "authors": [
+      "Arvind Krishna Mehrotra (Ed.)"
+    ],
+    "isbn": "9788178243023",
+    "publisher": "Orient Black Swan"
+  },
+  {
+    "shelf": "A1",
+    "shelfLabel": "Shelf A1 - Indian Literary History + Indian literature (academia) (9 books)",
+    "title": "India's Stuggle for Independence",
+    "authors": [
+      "Bipan Chandra"
+    ],
+    "isbn": "9780140107814",
+    "publisher": "India Penguin"
+  },
+  {
+    "shelf": "A1",
+    "shelfLabel": "Shelf A1 - Indian Literary History + Indian literature (academia) (9 books)",
+    "title": "A History Of Indian Literature (500-1399) From The Courtly To The Popular",
+    "authors": [
+      "Sisir Kumar Das"
+    ],
+    "isbn": "8126021713",
+    "publisher": "Sahitya Akademi Publications"
+  },
+  {
+    "shelf": "A1",
+    "shelfLabel": "Shelf A1 - Indian Literary History + Indian literature (academia) (9 books)",
+    "title": "A History Of Indian Literature (1800-1910) Western Impact- Indian Response",
+    "authors": [
+      "Sisir Kumar Das"
+    ],
+    "isbn": "8172010060",
+    "publisher": "Sahitya Akademi Publications"
+  },
+  {
+    "shelf": "A1",
+    "shelfLabel": "Shelf A1 - Indian Literary History + Indian literature (academia) (9 books)",
+    "title": "A History of Indian Literature (1911-1956) Struggle for freedom, triumph and tragedy",
+    "authors": [
+      "Sisir Kumar Das"
+    ],
+    "isbn": "8172017987",
+    "publisher": "South Asia Books"
+  },
+  {
+    "shelf": "A1",
+    "shelfLabel": "Shelf A1 - Indian Literary History + Indian literature (academia) (9 books)",
+    "title": "The Dicing and the Sequal to Dicing",
+    "authors": [],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "B1",
+    "shelfLabel": "Shelf B1 - British Literary history (9 books)",
+    "title": "The Age of Revolution (1789-1848)",
+    "authors": [
+      "Eric Hobsbawm"
+    ],
+    "isbn": null,
+    "publisher": "Abacus"
+  },
+  {
+    "shelf": "B1",
+    "shelfLabel": "Shelf B1 - British Literary history (9 books)",
+    "title": "The Age of Capital (1848-1875)",
+    "authors": [
+      "Eric Hobsbawm"
+    ],
+    "isbn": null,
+    "publisher": "Abacus"
+  },
+  {
+    "shelf": "B1",
+    "shelfLabel": "Shelf B1 - British Literary history (9 books)",
+    "title": "The Age of Empire (1875-1914)",
+    "authors": [
+      "Eric Hobsbawm"
+    ],
+    "isbn": null,
+    "publisher": "Abacus"
+  },
+  {
+    "shelf": "B1",
+    "shelfLabel": "Shelf B1 - British Literary history (9 books)",
+    "title": "The Age of Extremes (1914-1991)",
+    "authors": [
+      "Eric Hobsbawm"
+    ],
+    "isbn": null,
+    "publisher": "Abacus"
+  },
+  {
+    "shelf": "B1",
+    "shelfLabel": "Shelf B1 - British Literary history (9 books)",
+    "title": "The Oxford English Literary History - Reform and Cultural Revolution (1350-1547) - Vol 2",
+    "authors": [
+      "James Simpson"
+    ],
+    "isbn": "0198182619",
+    "publisher": "Oxford University Press"
+  },
+  {
+    "shelf": "B1",
+    "shelfLabel": "Shelf B1 - British Literary history (9 books)",
+    "title": "The History of England - Tudors (Vol 2)",
+    "authors": [
+      "Peter Ackroyd"
+    ],
+    "isbn": "9781447236818",
+    "publisher": "Pan Publishing house"
+  },
+  {
+    "shelf": "B1",
+    "shelfLabel": "Shelf B1 - British Literary history (9 books)",
+    "title": "The History of England - Revolution (Vol 4)",
+    "authors": [
+      "Peter Ackroyd"
+    ],
+    "isbn": "1509811478",
+    "publisher": "Pan Publishing house"
+  },
+  {
+    "shelf": "B1",
+    "shelfLabel": "Shelf B1 - British Literary history (9 books)",
+    "title": "The Short Oxford History of English Literature",
+    "authors": [
+      "Andrew Sanders"
+    ],
+    "isbn": "9780195672640",
+    "publisher": "Oxford"
+  },
+  {
+    "shelf": "B1",
+    "shelfLabel": "Shelf B1 - British Literary history (9 books)",
+    "title": "The Pelican Guide to English Literature - Volume 3",
+    "authors": [
+      "Boris Ford (Editor)"
+    ],
+    "isbn": "0140203257",
+    "publisher": "Penguin Books Ltd"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "Black Skin, White Masks",
+    "authors": [
+      "Frantz Fanon"
+    ],
+    "isbn": "0241396662",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "The Wretched of the Earth",
+    "authors": [
+      "Frantz Fanon"
+    ],
+    "isbn": "0141186542",
+    "publisher": "Penguin classics"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "Cat's Cradle",
+    "authors": [
+      "Kurt Vonnegut"
+    ],
+    "isbn": "141189347",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "Chronicle of a Death Foretold",
+    "authors": [
+      "Gabriel Garcia Marquez"
+    ],
+    "isbn": null,
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "Memories of My Melancholy Whores",
+    "authors": [
+      "Gabriel Garcia Marquez"
+    ],
+    "isbn": "241968542",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "Love In The Time Of Cholera",
+    "authors": [
+      "Gabriel Garcia Marquez"
+    ],
+    "isbn": "014012389X",
+    "publisher": "Penguin India"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "The Broom of the System (Penguin Orange Classics)",
+    "authors": [
+      "David Foster Wallace"
+    ],
+    "isbn": "0143129449",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "After The Funeral",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn": "0007562691",
+    "publisher": "Harper Collins"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "The Murder of Roger Ackroyd",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn": "9780007527526",
+    "publisher": "Harper Collins"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "The Mystery of the Blue Train",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn": "9780008129484",
+    "publisher": "Harper Collins"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "Dead Man's Folly",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn": "000755687X",
+    "publisher": "Harper Collins"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "The Murder on the Links",
+    "authors": [
+      "Agatha Christie"
+    ],
+    "isbn": "0008129460",
+    "publisher": "Harper Collins"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "Satantango",
+    "authors": [
+      "Laszló Krasznahorkai"
+    ],
+    "isbn": "1788166353",
+    "publisher": "Tuskar Rock"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "The Nutcracker",
+    "authors": [
+      "E.T.A. Hoffmann"
+    ],
+    "isbn": "0143122509",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "The Night Before Christmas",
+    "authors": [
+      "Nikolay Gogol"
+    ],
+    "isbn": "0143122487",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "A Christmas Carol",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn": "0143122495",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "Good Wives",
+    "authors": [
+      "Louisa May Alcott"
+    ],
+    "isbn": "1914602005",
+    "publisher": "Chiltern Publications"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "Call Me By Your Name",
+    "authors": [
+      "Andre Aciman"
+    ],
+    "isbn": "9781786495259",
+    "publisher": "Atlantic Books"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "Wide Sargasso Sea",
+    "authors": [
+      "Jean Rhys"
+    ],
+    "isbn": "0241951550",
+    "publisher": "Penguin UK"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "The Letters of Vincent Van Gogh",
+    "authors": [
+      "Vincent Van Gogh"
+    ],
+    "isbn": "0140446745",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C1",
+    "shelfLabel": "Shelf C1 (20 books)",
+    "title": "The Discomfort of Evening",
+    "authors": [
+      "Lucas Rijneveld"
+    ],
+    "isbn": "0571349374",
+    "publisher": "Faber and Faber"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "Jane Eyre - (Harper Muse Classics: Painted Editions)",
+    "authors": [
+      "Charlotte Brontë"
+    ],
+    "isbn": "1400346525",
+    "publisher": "Thomas Nelson Inc"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "The Master and Margarita (Vintage Classic Russians Series)",
+    "authors": [
+      "Mikhail Bulgakov"
+    ],
+    "isbn": "1784871931",
+    "publisher": "Random House"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "Doctor Zhivago (Vintage Classic Russians Series)",
+    "authors": [
+      "Boris Pasternak"
+    ],
+    "isbn": "1784871923",
+    "publisher": "Random House"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "Everything the Light Touches",
+    "authors": [
+      "Janice Pariat"
+    ],
+    "isbn": "9356995311",
+    "publisher": "Harper Collins Publishers India"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "Things in Nature Merely Grow",
+    "authors": [
+      "Yiyun Li"
+    ],
+    "isbn": "0008753873",
+    "publisher": "Fourth Estate Ltd"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "Brave New World",
+    "authors": [
+      "Aldous Huxley"
+    ],
+    "isbn": "1784874167",
+    "publisher": "Vintage Classics"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "Days at the Morisaki Bookshop",
+    "authors": [
+      "Satoshi Yagisawa"
+    ],
+    "isbn": "1786583232",
+    "publisher": "Manilla Press"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "More Days at the Morisaki Bookshop",
+    "authors": [
+      "Satoshi Yagisawa"
+    ],
+    "isbn": "1786584328",
+    "publisher": "Manilla Press"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "Ulysses",
+    "authors": [
+      "James Joyce"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "A Clockwork Orange",
+    "authors": [
+      "Anthony Burgess"
+    ],
+    "isbn": "0141182601",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "A Portrait of an Artist as a Young Man",
+    "authors": [
+      "James Joyce"
+    ],
+    "isbn": "9780141182667",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "The Vegetarian",
+    "authors": [
+      "Han Kang"
+    ],
+    "isbn": "1846276039",
+    "publisher": "Granta Books"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "Human Acts",
+    "authors": [
+      "Han Kang"
+    ],
+    "isbn": "9781846275975",
+    "publisher": "Granta Books"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "The Masque of Africa",
+    "authors": [
+      "V.S. Naipaul"
+    ],
+    "isbn": "0330472046",
+    "publisher": "Picador"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "Orbital",
+    "authors": [
+      "Samantha Harvey"
+    ],
+    "isbn": "1529922933",
+    "publisher": "Vintage"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "Lolita",
+    "authors": [
+      "Vladimir Nabokov"
+    ],
+    "isbn": "0241953243",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "The Haunting of the Hill House",
+    "authors": [
+      "Shirley Jackson"
+    ],
+    "isbn": "0141191449",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "ShelfD",
+    "shelfLabel": "Shelf - D1 (18 books)",
+    "title": "Chernobyl Prayer",
+    "authors": [
+      "Svetlana Alexievich"
+    ],
+    "isbn": "9780241270530",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "Languages of Truth: Essays: 2003-2020",
+    "authors": [
+      "Salman Rushdie"
+    ],
+    "isbn": "0600635384",
+    "publisher": "Penguin Hamish Hamilton"
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "Knife: Meditations after an Attempted Murder",
+    "authors": [
+      "Salman Rushdie"
+    ],
+    "isbn": "0670099589",
+    "publisher": "Penguin Hamish Hamilton"
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "Imaginary Homelands",
+    "authors": [
+      "Salman Rushdie"
+    ],
+    "isbn": "0099542250",
+    "publisher": "Vintage"
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "Midnight's Children",
+    "authors": [
+      "Salman Rushdie"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "Ghost-eye: A Novel",
+    "authors": [
+      "Amitav Ghosh"
+    ],
+    "isbn": "9373073435",
+    "publisher": "Fourth Estate India"
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "Wild Fictions",
+    "authors": [
+      "Amitav Ghosh"
+    ],
+    "isbn": "9365691001",
+    "publisher": "Fourth Estate India"
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "The Nutmeg's Curse: Parables for a Planet in Crisis",
+    "authors": [
+      "Amitav Ghosh"
+    ],
+    "isbn": "0670095621",
+    "publisher": "Penguin Allen Lane"
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "River of Smoke",
+    "authors": [
+      "Amitav Ghosh"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "The Great Derangement: Climate Change and the Unthinkable",
+    "authors": [
+      "Amitav Ghosh"
+    ],
+    "isbn": "014342906X",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "The Shadow Lines",
+    "authors": [
+      "Amitav Ghosh"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "The God of Small Things",
+    "authors": [
+      "Arundhati Roy"
+    ],
+    "isbn": "014302857X",
+    "publisher": "India Penguin"
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "Em and the Big Hoom",
+    "authors": [
+      "Jerry Pinto"
+    ],
+    "isbn": "9789382277316",
+    "publisher": "Aleph Book Company"
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "Clear Light of the Day",
+    "authors": [
+      "Anita Desai"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "Train to Pakistan",
+    "authors": [
+      "Khushwant Singh"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "The Inheritence of Loss",
+    "authors": [
+      "Kiran Desai"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "Untouchable",
+    "authors": [
+      "Mulk Raj Anand"
+    ],
+    "isbn": "0143027808",
+    "publisher": "Penguin India"
+  },
+  {
+    "shelf": "A2",
+    "shelfLabel": "Shelf A2 - Indian Literature",
+    "title": "The Binding Vine",
+    "authors": [
+      "Shashi Deshpande"
+    ],
+    "isbn": "0140233369",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Thirteen Plays of Bhāsa",
+    "authors": [
+      "A.C. Woolner",
+      "Lakshman Sarup"
+    ],
+    "isbn": "9392510497",
+    "publisher": "Motilal Banarsidass"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "The Book of Vanci",
+    "authors": [
+      "Ilanko Atikal"
+    ],
+    "isbn": "9382267190",
+    "publisher": "Worldview Publications"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "The Mahabharata - The Dicing, The Sequel to the Dicing and The Temptation of Karna",
+    "authors": [
+      "Vyasa"
+    ],
+    "isbn": "9382267298",
+    "publisher": "Worldview Publications"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "The Mrichchhakatika of Sudraka",
+    "authors": [
+      "M.R. Kale"
+    ],
+    "isbn": "8120840100",
+    "publisher": "Motilal Banarsidass Publications"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "The Loom of Time",
+    "authors": [
+      "Kalidas"
+    ],
+    "isbn": "140424539",
+    "publisher": "Penguin India"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Samskara",
+    "authors": [
+      "U.R. Ananthamurthy"
+    ],
+    "isbn": "0198077149",
+    "publisher": "Oxford"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "The Position of Women in Hindu Civilization",
+    "authors": [
+      "A.S Altekar"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Heart Lamp",
+    "authors": [
+      "Dr Banu Mushtaq"
+    ],
+    "isbn": "0143464477",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Collected Plays",
+    "authors": [
+      "Mahesh Dattani"
+    ],
+    "isbn": "0140293256",
+    "publisher": "Penguin India"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "The Greatest Goan Stories Ever Told",
+    "authors": [
+      "Manohar Shetty"
+    ],
+    "isbn": "939385212X",
+    "publisher": "Rupa Publications India Pvt Ltd."
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Becoming Goan: A Contemporary Coming-Home Story",
+    "authors": [
+      "Michelle Mendonça Bambawale"
+    ],
+    "isbn": "0143462369",
+    "publisher": "Penguin eBury Press"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Halfway House",
+    "authors": [
+      "Mohan Rakesh"
+    ],
+    "isbn": "8186423281",
+    "publisher": "Worldview Publications"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Tamas",
+    "authors": [
+      "Bhisham Sahni"
+    ],
+    "isbn": "0670088056",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Quit India & Other Stories",
+    "authors": [
+      "Ismat Chughtai"
+    ],
+    "isbn": "9385606131",
+    "publisher": "Women Unlimited"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Obsession & Wild Pigeons",
+    "authors": [
+      "Ismat Chughtai"
+    ],
+    "isbn": "9388326970",
+    "publisher": "Speaking Tiger Publishing Private Limited"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Masooma",
+    "authors": [
+      "Ismat Chughtai"
+    ],
+    "isbn": "8188965669",
+    "publisher": "Women Unlimited"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "The Crooked Line",
+    "authors": [
+      "Ismat Chughtai"
+    ],
+    "isbn": "9388874374",
+    "publisher": "Speaking Tiger Publishing Pvt Ltd & Women"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "A Life in Words",
+    "authors": [
+      "Ismat Chughtai"
+    ],
+    "isbn": "0143420313",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Bombay Stories",
+    "authors": [
+      "Saadat Hasan Manto"
+    ],
+    "isbn": "8184006411",
+    "publisher": "Vintage Books"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Why I Write",
+    "authors": [
+      "Saadat Hasan Manto"
+    ],
+    "isbn": "0143458523",
+    "publisher": "Vintage Books"
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Chowringhee",
+    "authors": [
+      "Sankar"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "B2",
+    "shelfLabel": "Shelf B2 - Indian Literature",
+    "title": "Malloban",
+    "authors": [
+      "Jibananandan Das"
+    ],
+    "isbn": "0143451685",
+    "publisher": "Penguin Modern Classics"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Subhadra Kumari Chauhan Granthavali - vol 1",
+    "authors": [
+      "Rupa Gupta"
+    ],
+    "isbn": "9383513675",
+    "publisher": "Swaraj Prakashan"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Subhadra Kumari Chauhan Granthavali - vol 2",
+    "authors": [
+      "Rupa Gupta"
+    ],
+    "isbn": "9383513675",
+    "publisher": "Swaraj Prakashan"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Aapka Bunti",
+    "authors": [
+      "Mannu Bhandari"
+    ],
+    "isbn": "8183610935",
+    "publisher": "Radhakrishan Prakashan"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Smrityan Bahuteri",
+    "authors": [
+      "Prayag Shukla"
+    ],
+    "isbn": "9380441401",
+    "publisher": "Vagdevi Prakashan Bikaner"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Visamta ka Katha Sansar",
+    "authors": [
+      "Homvati Devi",
+      "Sudha Singh"
+    ],
+    "isbn": "9364103513",
+    "publisher": "Anamika Publishers"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Hari Ghaas Ki Chhappar Wali Jhopadi Aur Bauna Pahad",
+    "authors": [
+      "Vinod kumar Shukla"
+    ],
+    "isbn": "8126720190",
+    "publisher": "Rajkamal Prakashan"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Yasi Rasa Ta",
+    "authors": [
+      "Vinod kumar Shukla"
+    ],
+    "isbn": "9789352643790",
+    "publisher": "Harper Hindi"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Naukar ki Kameez",
+    "authors": [
+      "Vinod kumar Shukla"
+    ],
+    "isbn": "8126706899",
+    "publisher": "Rajkamal Prakashan"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Kahaniyon Ka Kahaniyaana",
+    "authors": [
+      "Vinod kumar Shukla"
+    ],
+    "isbn": "8119555295",
+    "publisher": "Hind Yugm"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Deewar mein ek khidki rehti thi",
+    "authors": [
+      "Vinod kumar Shukla"
+    ],
+    "isbn": "939282078X",
+    "publisher": "Hind Yugm"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Ek Chuppi Jagah",
+    "authors": [
+      "Vinod kumar Shukla"
+    ],
+    "isbn": "9384375225",
+    "publisher": "Jugnoo Prakashan, an imprint of Takshila Publication, New Delhi"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Khilega To Dekhenge",
+    "authors": [
+      "Vinod kumar Shukla"
+    ],
+    "isbn": "8119028562",
+    "publisher": "Rajkamal Prakashan Pvt. Ltd"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Mahavidyalaya",
+    "authors": [
+      "Vinod kumar Shukla"
+    ],
+    "isbn": "9393768129",
+    "publisher": "Rajkamal Prakashan Pvt. Ltd"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "A Silent Place",
+    "authors": [
+      "Vinod kumar Shukla"
+    ],
+    "isbn": "9390679141",
+    "publisher": "Eka"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Nari Hraday",
+    "authors": [
+      "Shivrani Devi"
+    ],
+    "isbn": "9788197829871",
+    "publisher": "Nayee kitab prakashan"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Pagalee",
+    "authors": [
+      "Shivrani Devi"
+    ],
+    "isbn": "9789348650627",
+    "publisher": "Nayee kitab prakashan"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Kaumudi",
+    "authors": [
+      "Shivrani Devi"
+    ],
+    "isbn": null,
+    "publisher": "Nayee Kitab Prakashan"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Vismrit Rachnakar- Shivrani Devi",
+    "authors": [
+      "Kshma Shankar Pandey"
+    ],
+    "isbn": null,
+    "publisher": "Nayee Kitab Prakashan"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "A Suitable Boy",
+    "authors": [
+      "Vikram Seth"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "The Map is not the Territory",
+    "authors": [
+      "Aranya"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Kanthapura",
+    "authors": [
+      "Raja Rao"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Ghashiram Kotwal",
+    "authors": [
+      "Vijay Tendulkar"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Selected Poems - Jibananandan Das",
+    "authors": [
+      "Jibananandan Das"
+    ],
+    "isbn": "0857426346",
+    "publisher": "Penguin India"
+  },
+  {
+    "shelf": "C2",
+    "shelfLabel": "Shelf C2- Indian Literature",
+    "title": "Tughlaq",
+    "authors": [
+      "Girish Karnad"
+    ],
+    "isbn": null,
+    "publisher": "Oxford"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "Intermezzo",
+    "authors": [
+      "Sally Rooney"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "In Cold Blood: A True Account of a Multiple Murder and its Consequences",
+    "authors": [
+      "Truman Capote"
+    ],
+    "isbn": "0141182571",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "Henderson the Rain King",
+    "authors": [
+      "Saul Bellow"
+    ],
+    "isbn": "0141188804",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "Duma Key",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn": "9781444707908",
+    "publisher": "Hodder & Stoughton"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "The Shining",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn": "9781444720723",
+    "publisher": "Hodder Paperbacks"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "On Writing",
+    "authors": [
+      "Stephen King"
+    ],
+    "isbn": "1444723251",
+    "publisher": "Hodder Paperbacks"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "The Turn of the Screw and Other Stories",
+    "authors": [
+      "Henry James"
+    ],
+    "isbn": "0099511231",
+    "publisher": "Vintage Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "We have Always Lived in the Castle",
+    "authors": [
+      "Shirley Jackson"
+    ],
+    "isbn": "0143134833",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "Walden and Other Writings",
+    "authors": [
+      "Henry David Thoreau"
+    ],
+    "isbn": "8176211796",
+    "publisher": "Full Circle Publishing"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "White Noise: (Penguin Orange Collection)",
+    "authors": [
+      "Don DeLillo"
+    ],
+    "isbn": "9780143129554",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "Brief Interviews with Hideous Men",
+    "authors": [
+      "David Foster Wallace"
+    ],
+    "isbn": "9780349111889",
+    "publisher": "Abacus"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "A Supposedly Fun Thing I'll Never do Again",
+    "authors": [
+      "David Foster Wallace"
+    ],
+    "isbn": "0349110018",
+    "publisher": "Little, Brown Book Group"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "The Road",
+    "authors": [
+      "Cormac McCarthy"
+    ],
+    "isbn": "1035003791",
+    "publisher": "Picador"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "Selected Stories (1968-1994)",
+    "authors": [
+      "Alice Munro"
+    ],
+    "isbn": "1784876887",
+    "publisher": "Vintage Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "Selected Stories (1995-2009)",
+    "authors": [
+      "Alice Munro"
+    ],
+    "isbn": "1784876852",
+    "publisher": "Vintage Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4",
+    "title": "Possession",
+    "authors": [
+      "A.S. Byatt"
+    ],
+    "isbn": "99503921",
+    "publisher": null
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "The Book Thief",
+    "authors": [
+      "Markus Zusak"
+    ],
+    "isbn": "9780552773898",
+    "publisher": null
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "Celestial Bodies",
+    "authors": [
+      "Jokha Alharthi"
+    ],
+    "isbn": "9386797569",
+    "publisher": "Simon & Schuster India"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "Into Thin Air",
+    "authors": [
+      "Jon Krakauer"
+    ],
+    "isbn": "1447200187",
+    "publisher": "Pan Macmillan"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "The Driver's Seat",
+    "authors": [
+      "Muriel Spark"
+    ],
+    "isbn": "141188340",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "The Prime of Miss Jean Brodie",
+    "authors": [
+      "Muriel Spark"
+    ],
+    "isbn": "0141181427",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "Twelve Year's a Slave",
+    "authors": [
+      "Solomon Northup"
+    ],
+    "isbn": "9788192681023",
+    "publisher": "Pirates"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "The Wind in the Willow",
+    "authors": [
+      "Kenneth Grahame"
+    ],
+    "isbn": "1840227826",
+    "publisher": "Wordsworth Editions Ltd"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "The Catcher in the Rye",
+    "authors": [
+      "J.D. Salinger"
+    ],
+    "isbn": "9780241950425",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "The Phantom of the Opera",
+    "authors": [
+      "Gaston Leroux"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "Animal Farm",
+    "authors": [
+      "George Orwell"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "To Kill a Mockingbird",
+    "authors": [
+      "Harper Lee"
+    ],
+    "isbn": "9780099549482",
+    "publisher": "Arrow"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "Heidi",
+    "authors": [
+      "Johanna Spyri"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "Black Beauty",
+    "authors": [
+      "Anna Sewell"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "Into the Wild",
+    "authors": [
+      "Jon Krakauer"
+    ],
+    "isbn": "0330469983",
+    "publisher": "Pan"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "The Heart of a Dog",
+    "authors": [
+      "Mikhail Bulgakov"
+    ],
+    "isbn": "9780099529941",
+    "publisher": "Vintage Classic"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "The Brothers Karamazov",
+    "authors": [
+      "Fyodor Dostoevsky"
+    ],
+    "isbn": "0099922800",
+    "publisher": "Vintage Classic"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "The Kite Runner",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "isbn": "1408850257",
+    "publisher": "Bloomsbury Paperbacks"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "Man's Search for Meaning",
+    "authors": [
+      "Viktor E. Frankl"
+    ],
+    "isbn": "9781846041242",
+    "publisher": "Rider"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "To the Lighthouse",
+    "authors": [
+      "Virginia Woolf"
+    ],
+    "isbn": "9780007934416",
+    "publisher": "William Collins"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "The Wave (Vintage Classics Woolf Series)",
+    "authors": [
+      "Virginia Woolf"
+    ],
+    "isbn": "1784870846",
+    "publisher": "Vintage Classics"
+  },
+  {
+    "shelf": "E2",
+    "shelfLabel": "Shelf E2",
+    "title": "Jacob's Room",
+    "authors": [
+      "Virginia Woolf"
+    ],
+    "isbn": "1784877956",
+    "publisher": "Vintage Classics"
+  },
+  {
+    "shelf": "A3",
+    "shelfLabel": "Shelf A3 (Margaret Atwood)",
+    "title": "Book of Lives: A Memoir of Sorts",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn": "1784744492",
+    "publisher": "Chatto & Windus"
+  },
+  {
+    "shelf": "A3",
+    "shelfLabel": "Shelf A3 (Margaret Atwood)",
+    "title": "On Writers and Writing",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn": "0349006237",
+    "publisher": "Virago"
+  },
+  {
+    "shelf": "A3",
+    "shelfLabel": "Shelf A3 (Margaret Atwood)",
+    "title": "Paper Boat: New and Selected Poems 1961-2023",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn": "1784745944",
+    "publisher": "Chatto & Windus"
+  },
+  {
+    "shelf": "A3",
+    "shelfLabel": "Shelf A3 (Margaret Atwood)",
+    "title": "The Handmaid Tales",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn": "0099740915",
+    "publisher": "Vintage"
+  },
+  {
+    "shelf": "A3",
+    "shelfLabel": "Shelf A3 (Margaret Atwood)",
+    "title": "The Blind Assassin",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A3",
+    "shelfLabel": "Shelf A3 (Margaret Atwood)",
+    "title": "The Robber Bride",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A3",
+    "shelfLabel": "Shelf A3 (Margaret Atwood)",
+    "title": "Alias Grace",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn": "0349013071",
+    "publisher": null
+  },
+  {
+    "shelf": "A3",
+    "shelfLabel": "Shelf A3 (Margaret Atwood)",
+    "title": "The Edible Woman",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A3",
+    "shelfLabel": "Shelf A3 (Margaret Atwood)",
+    "title": "The Heart Goes Last",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn": "0349007292",
+    "publisher": "Little, Brown Book Group"
+  },
+  {
+    "shelf": "A3",
+    "shelfLabel": "Shelf A3 (Margaret Atwood)",
+    "title": "Lady Chatterley's Lover",
+    "authors": [
+      "D.H. Lawrence"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A3",
+    "shelfLabel": "Shelf A3 (Margaret Atwood)",
+    "title": "Sense and Sensibility",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "B3",
+    "shelfLabel": "Shelf B3 (Penguin Clothbound Classics)",
+    "title": "Alice's Adventures in Wonderland and Through the Looking Glass",
+    "authors": [
+      "Lewis Carroll"
+    ],
+    "isbn": "9780141192468",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B3",
+    "shelfLabel": "Shelf B3 (Penguin Clothbound Classics)",
+    "title": "Gulliver's Travels",
+    "authors": [
+      "Jonathan Swift"
+    ],
+    "isbn": "0141196645",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B3",
+    "shelfLabel": "Shelf B3 (Penguin Clothbound Classics)",
+    "title": "The Picture of Dorian Gray",
+    "authors": [
+      "Oscar Wilde"
+    ],
+    "isbn": "0141442468",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B3",
+    "shelfLabel": "Shelf B3 (Penguin Clothbound Classics)",
+    "title": "A Tale of Two Cities",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn": "9780141196909",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B3",
+    "shelfLabel": "Shelf B3 (Penguin Clothbound Classics)",
+    "title": "Robinson Crusoe",
+    "authors": [
+      "Daniel Defoe"
+    ],
+    "isbn": "0141393408",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B3",
+    "shelfLabel": "Shelf B3 (Penguin Clothbound Classics)",
+    "title": "The Jungle Book",
+    "authors": [
+      "Rudyard Kipling"
+    ],
+    "isbn": "0141394625",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B3",
+    "shelfLabel": "Shelf B3 (Penguin Clothbound Classics)",
+    "title": "Frankenstein",
+    "authors": [
+      "Mary Shelly"
+    ],
+    "isbn": "0141393394",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B3",
+    "shelfLabel": "Shelf B3 (Penguin Clothbound Classics)",
+    "title": "Wuthering Heights",
+    "authors": [
+      "Emily Brontë"
+    ],
+    "isbn": "0141040351",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B3",
+    "shelfLabel": "Shelf B3 (Penguin Clothbound Classics)",
+    "title": "War and Peace",
+    "authors": [
+      "Leo Tolstoy"
+    ],
+    "isbn": "9780241265543",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B3",
+    "shelfLabel": "Shelf B3 (Penguin Clothbound Classics)",
+    "title": "Villette",
+    "authors": [
+      "Charlotte Brontë"
+    ],
+    "isbn": "9780241198964",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B3",
+    "shelfLabel": "Shelf B3 (Penguin Clothbound Classics)",
+    "title": "The Day of the Triffids",
+    "authors": [
+      "John Wyndham"
+    ],
+    "isbn": "0241284678",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B3",
+    "shelfLabel": "Shelf B3 (Penguin Clothbound Classics)",
+    "title": "Sanditon",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn": "0241436583",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C3",
+    "shelfLabel": "Shelf C3 (Penguin Clothbound Classics)",
+    "title": "Tess of the d'Urbervilles",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "isbn": "0141040335",
+    "publisher": null
+  },
+  {
+    "shelf": "C3",
+    "shelfLabel": "Shelf C3 (Penguin Clothbound Classics)",
+    "title": "The Canterbury Tales",
+    "authors": [
+      "Geoffrey Chaucer"
+    ],
+    "isbn": "0141393211",
+    "publisher": null
+  },
+  {
+    "shelf": "C3",
+    "shelfLabel": "Shelf C3 (Penguin Clothbound Classics)",
+    "title": "Anna Karenina",
+    "authors": [
+      "Leo Tolstoy"
+    ],
+    "isbn": "014119961X",
+    "publisher": null
+  },
+  {
+    "shelf": "C3",
+    "shelfLabel": "Shelf C3 (Penguin Clothbound Classics)",
+    "title": "The Tenant of Wildfell Hall",
+    "authors": [
+      "Anne Brontë"
+    ],
+    "isbn": "024119895X",
+    "publisher": null
+  },
+  {
+    "shelf": "C3",
+    "shelfLabel": "Shelf C3 (Penguin Clothbound Classics)",
+    "title": "Jude the Obscure",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "isbn": "0241382696",
+    "publisher": null
+  },
+  {
+    "shelf": "C3",
+    "shelfLabel": "Shelf C3 (Penguin Clothbound Classics)",
+    "title": "Crime and Punishment",
+    "authors": [
+      "Fyodor Dostoyevsky"
+    ],
+    "isbn": "0241347688",
+    "publisher": null
+  },
+  {
+    "shelf": "C3",
+    "shelfLabel": "Shelf C3 (Penguin Clothbound Classics)",
+    "title": "The Portrait of a Lady",
+    "authors": [
+      "Henry James"
+    ],
+    "isbn": "0141394668",
+    "publisher": null
+  },
+  {
+    "shelf": "C3",
+    "shelfLabel": "Shelf C3 (Penguin Clothbound Classics)",
+    "title": "Middlemarch",
+    "authors": [
+      "George Eliot"
+    ],
+    "isbn": "0141196890",
+    "publisher": null
+  },
+  {
+    "shelf": "C3",
+    "shelfLabel": "Shelf C3 (Penguin Clothbound Classics)",
+    "title": "Cranford",
+    "authors": [
+      "Elizabeth Gaskell"
+    ],
+    "isbn": "0141442549",
+    "publisher": null
+  },
+  {
+    "shelf": "C3",
+    "shelfLabel": "Shelf C3 (Penguin Clothbound Classics)",
+    "title": "The Sonnets and a Lover's Complaint",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn": "9780141192574",
+    "publisher": null
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Doctor Faustus",
+    "authors": [
+      "Christopher Marlowe",
+      "Suroopa Mukherjee"
+    ],
+    "isbn": "8186423419",
+    "publisher": "Worldview Critical Edition"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Othello",
+    "authors": [
+      "Shakespeare"
+    ],
+    "isbn": "8192065197",
+    "publisher": "Worldview Critical Edition"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Antony and Cleopatra",
+    "authors": [
+      "Shakespeare"
+    ],
+    "isbn": "9788186423448",
+    "publisher": "Worldview Critical Edition"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "As You Like It",
+    "authors": [
+      "Shakespeare"
+    ],
+    "isbn": "8186423524",
+    "publisher": "Worldview Critical Edition"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Much Ado About Nothing",
+    "authors": [
+      "Shakespeare"
+    ],
+    "isbn": "9789382563174",
+    "publisher": "Arden Shakespeare"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Romeo and Juliet",
+    "authors": [
+      "Shakespeare"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Macbeth",
+    "authors": [
+      "Shakespeare"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "A Midsummer Night's Dream",
+    "authors": [
+      "Shakespeare"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Hamlet",
+    "authors": [
+      "Shakespeare"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "The Duchess of Malfi",
+    "authors": [
+      "John Webster"
+    ],
+    "isbn": "9788186423486",
+    "publisher": "Worldview Critical Edition"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Look Back in Anger",
+    "authors": [
+      "John Osborne",
+      "Neeraj Malik"
+    ],
+    "isbn": "8186423737",
+    "publisher": "Worldview Critical Edition"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "The Playboy of the Western World",
+    "authors": [
+      "J.M. Synge"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Waiting for Godot",
+    "authors": [
+      "Samuel Beckett"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Murder in the Cathedral",
+    "authors": [
+      "T.S. Eliot"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Death of a Salesman",
+    "authors": [
+      "Arthur Miller"
+    ],
+    "isbn": "9780141182742",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "The Alchemist",
+    "authors": [
+      "Ben Jonson"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "The Rover",
+    "authors": [
+      "Aphra Behn"
+    ],
+    "isbn": "8186423494",
+    "publisher": "Worldview Critical Editions"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Pygmalion",
+    "authors": [
+      "G.B. Shaw"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "The Making of a Poem A Norton Anthology of Poetic forms",
+    "authors": [
+      "Eavan Boland",
+      "Mark Strand"
+    ],
+    "isbn": "0393321789",
+    "publisher": "W. W. Norton & Company"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "The Prosody Handbook",
+    "authors": [
+      "Robert Beum",
+      "Karl Shapiro"
+    ],
+    "isbn": "048644967X",
+    "publisher": "Dover Publications Inc."
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "The Wife of Bath's Prologue and Tale",
+    "authors": [
+      "Geoffery Chaucer",
+      "Harriet Raghunathan"
+    ],
+    "isbn": "8186423400",
+    "publisher": "Worldview Critical Edition"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Sidney, Spencer and Donne - A Critical Introduction",
+    "authors": [
+      "Rina Ramdev (Editor)"
+    ],
+    "isbn": "8186423427",
+    "publisher": "Worldview Critical Edition"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "The Rape of the Lock",
+    "authors": [
+      "Alexander Pope",
+      "Harriet Raghunathan"
+    ],
+    "isbn": "9382267476",
+    "publisher": "Worldview Critical Edition"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Mac Flecknoe",
+    "authors": [
+      "John Dryden",
+      "Madhu Grover"
+    ],
+    "isbn": "8186423508",
+    "publisher": "Worldview Critical Edition"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Paradise Lost",
+    "authors": [
+      "John Milton"
+    ],
+    "isbn": "9382267026",
+    "publisher": "Worldview Critical Edition"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "Johnson, Gray, Goldsmith - poets of the mid-eighteenth century",
+    "authors": [
+      "Harriet Raghunathan"
+    ],
+    "isbn": "8186423680",
+    "publisher": "Worldview Critical Edition"
+  },
+  {
+    "shelf": "D3",
+    "shelfLabel": "Shelf D3 Drama and Poetry",
+    "title": "The Rime of the Ancient Mariner and Other Poems",
+    "authors": [
+      "Samuel Taylor Coleridge"
+    ],
+    "isbn": "0008167567",
+    "publisher": "William Collins"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "Lord of the Flies (Penguin Classics Deluxe editions)",
+    "authors": [
+      "William Golding"
+    ],
+    "isbn": "0143129406",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "Women",
+    "authors": [
+      "Charles Bukowski"
+    ],
+    "isbn": "0061177598",
+    "publisher": "Ecco"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "Ham on Rye",
+    "authors": [
+      "Charles Bukowski"
+    ],
+    "isbn": "006117758X",
+    "publisher": "Ecco"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "Post Office",
+    "authors": [
+      "Charles Bukowski"
+    ],
+    "isbn": "0061177571",
+    "publisher": "Ecco"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "Love is a Dog from Hell (Poems 1974-1977)",
+    "authors": [
+      "Charles Bukowski"
+    ],
+    "isbn": "0876853629",
+    "publisher": "Ecco"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "Neruda, Walcott, and Atwood Poets of the Americas",
+    "authors": [
+      "Ajanta Dutt (editor)"
+    ],
+    "isbn": "8186423826",
+    "publisher": "Book Land Publishing Co"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "W.B. Yeats Selected Poetry",
+    "authors": [
+      "W.B. Yeats"
+    ],
+    "isbn": "8186423206",
+    "publisher": null
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "A Selection of Poems",
+    "authors": [
+      "T.S. Eliot",
+      "S.S. Sharma (editor)"
+    ],
+    "isbn": null,
+    "publisher": "Doaba Publication"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "A Critical Reading of the Selected poems of T.S. Eliot",
+    "authors": [
+      "Manju Jain",
+      "T.S. Eliot"
+    ],
+    "isbn": "019565837X",
+    "publisher": "Oxford University Press"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "Victorian Poets- Tennyson, Browning, Rossetti",
+    "authors": [
+      "Suroopa Mukherjee"
+    ],
+    "isbn": "818642329X",
+    "publisher": "Worldview Critical Editions"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "The Pleasures of the Damned",
+    "authors": [
+      "Charles Bukowski"
+    ],
+    "isbn": "1786895226",
+    "publisher": "Canongate Books"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "Hope Is the Thing with Feathers: Poems of Emily Dickinson",
+    "authors": [
+      "Emily Dickinson"
+    ],
+    "isbn": "1423650980",
+    "publisher": "Gibbs M. Smith Inc"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "A Passage to India",
+    "authors": [
+      "E.M. Forster"
+    ],
+    "isbn": "0241540429",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E3",
+    "shelfLabel": "Shelf E3",
+    "title": "Dylan Thomas Ominbus - Under Milk Wood, Poems, Stories, and Broadcasts",
+    "authors": [
+      "Dylan Thomas"
+    ],
+    "isbn": "1780227280",
+    "publisher": "Orion Publishing Group"
+  },
+  {
+    "shelf": "A4",
+    "shelfLabel": "Shelf A4",
+    "title": "The Divine Comedy",
+    "authors": [
+      "Dante Alighieri"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A4",
+    "shelfLabel": "Shelf A4",
+    "title": "The Plague, The Fall",
+    "authors": [
+      "Albert Camus"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A4",
+    "shelfLabel": "Shelf A4",
+    "title": "The Collected Stories",
+    "authors": [
+      "Alexander Pushkin"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A4",
+    "shelfLabel": "Shelf A4",
+    "title": "The Complete short Novels",
+    "authors": [
+      "Anton Chekhov"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A4",
+    "shelfLabel": "Shelf A4",
+    "title": "Essays",
+    "authors": [
+      "George Orwell"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A4",
+    "shelfLabel": "Shelf A4",
+    "title": "Collected Stories",
+    "authors": [
+      "Frantz Kafka"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A4",
+    "shelfLabel": "Shelf A4",
+    "title": "Atonement",
+    "authors": [
+      "Ian McEwan"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A4",
+    "shelfLabel": "Shelf A4",
+    "title": "The Best of Wodehouse",
+    "authors": [
+      "P.G. Wodehouse"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A4",
+    "shelfLabel": "Shelf A4",
+    "title": "Swami and Friends, The Bachelor of Arts, The Dark Room, The English teacher",
+    "authors": [
+      "R.K. Narayan"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A4",
+    "shelfLabel": "Shelf A4",
+    "title": "The African Trilogy",
+    "authors": [
+      "Chinua Achebe"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "A4",
+    "shelfLabel": "Shelf A4",
+    "title": "Flesh",
+    "authors": [
+      "David Szalay"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "B4",
+    "shelfLabel": "Shelf B4 (Penguin Clothbound Editions)",
+    "title": "The Iliad",
+    "authors": [
+      "Homer"
+    ],
+    "isbn": "014139465X",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "B4",
+    "shelfLabel": "Shelf B4 (Penguin Clothbound Editions)",
+    "title": "Orlando",
+    "authors": [
+      "Virginia Woolf"
+    ],
+    "isbn": "0241284643",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "B4",
+    "shelfLabel": "Shelf B4 (Penguin Clothbound Editions)",
+    "title": "Don Quixote",
+    "authors": [
+      "Cervantes"
+    ],
+    "isbn": "0241347769",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "B4",
+    "shelfLabel": "Shelf B4 (Penguin Clothbound Editions)",
+    "title": "The Aeneid",
+    "authors": [
+      "Virgil"
+    ],
+    "isbn": "0141996331",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B4",
+    "shelfLabel": "Shelf B4 (Penguin Clothbound Editions)",
+    "title": "The Mayor of Casterbridge",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "isbn": "0241347777",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B4",
+    "shelfLabel": "Shelf B4 (Penguin Clothbound Editions)",
+    "title": "A Confederacy of Dunces",
+    "authors": [
+      "John Kennedy Toole"
+    ],
+    "isbn": "024128466X",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "B4",
+    "shelfLabel": "Shelf B4 (Penguin Clothbound Editions)",
+    "title": "The Count of Monte Cristo",
+    "authors": [
+      "Alexander Dumas"
+    ],
+    "isbn": "9780141392462",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B4",
+    "shelfLabel": "Shelf B4 (Penguin Clothbound Editions)",
+    "title": "Paradise Lost",
+    "authors": [
+      "John Milton"
+    ],
+    "isbn": "0241240611",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "B4",
+    "shelfLabel": "Shelf B4 (Penguin Clothbound Editions)",
+    "title": "Metamorphoses",
+    "authors": [
+      "Ovid"
+    ],
+    "isbn": "9780141394619",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "B4",
+    "shelfLabel": "Shelf B4 (Penguin Clothbound Editions)",
+    "title": "The Odyssey",
+    "authors": [
+      "Homer"
+    ],
+    "isbn": "0141192445",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C4",
+    "shelfLabel": "Shelf C4 (Penguin clothbound classics)",
+    "title": "The Woman in White",
+    "authors": [
+      "Wilkie Collins"
+    ],
+    "isbn": "0141192429",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C4",
+    "shelfLabel": "Shelf C4 (Penguin clothbound classics)",
+    "title": "Sense and Sensibility",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn": "0141040378",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C4",
+    "shelfLabel": "Shelf C4 (Penguin clothbound classics)",
+    "title": "Northanger Abbey",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn": "0141197714",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C4",
+    "shelfLabel": "Shelf C4 (Penguin clothbound classics)",
+    "title": "Emma",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn": "9780141192475",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C4",
+    "shelfLabel": "Shelf C4 (Penguin clothbound classics)",
+    "title": "Pride and Prejudice",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn": "9780141040349",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C4",
+    "shelfLabel": "Shelf C4 (Penguin clothbound classics)",
+    "title": "Great Expectations",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn": "014104036X",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C4",
+    "shelfLabel": "Shelf C4 (Penguin clothbound classics)",
+    "title": "Bleak House",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn": "0141198354",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C4",
+    "shelfLabel": "Shelf C4 (Penguin clothbound classics)",
+    "title": "Little Women",
+    "authors": [
+      "Loisa May Alcott"
+    ],
+    "isbn": "9780141192413",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "C4",
+    "shelfLabel": "Shelf C4 (Penguin clothbound classics)",
+    "title": "Tom Jones",
+    "authors": [
+      "Henry Fielding"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "C4",
+    "shelfLabel": "Shelf C4 (Penguin clothbound classics)",
+    "title": "Vanity Fair",
+    "authors": [
+      "William Makepeace Thackeray"
+    ],
+    "isbn": "0141199644",
+    "publisher": "Penguin English Library Edition"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Hard Times",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn": "0141199563",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Oliver Twist",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn": "0141198885",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "David Copperfield",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn": "0141199164",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Mansfield Park",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn": "0141199873",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Sanditon",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn": "0241433711",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Persuasion",
+    "authors": [
+      "Jane Austen"
+    ],
+    "isbn": "0141198834",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Nineteen-Eighty Four",
+    "authors": [
+      "George Orwell"
+    ],
+    "isbn": "0241341655",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Dr. Jekyll and Mr. Hyde",
+    "authors": [
+      "Robert Louis Stevenson"
+    ],
+    "isbn": "0141389508",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Invisible Man",
+    "authors": [
+      "H.G. Wells"
+    ],
+    "isbn": "0141389516",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "The Time Machine",
+    "authors": [
+      "H.G. Wells"
+    ],
+    "isbn": "0141199342",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Far from the Madding Crowd",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "isbn": "0141198931",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "The Mill of the Floss",
+    "authors": [
+      "George Eliot"
+    ],
+    "isbn": "0141198915",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Wives and Daughters",
+    "authors": [
+      "Elizabeth Gaskell"
+    ],
+    "isbn": "978-0141973937",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Awakening",
+    "authors": [
+      "Kate Chopin"
+    ],
+    "isbn": "978-0241341438",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "A Study in Scarlet",
+    "authors": [
+      "Arthur Conan Doyle"
+    ],
+    "isbn": "0141395524",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "A Handful of Dust",
+    "authors": [
+      "Evelyn Waugh"
+    ],
+    "isbn": "0241341108",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "North and South",
+    "authors": [
+      "Elizabeth Gaskell"
+    ],
+    "isbn": "9780141198927",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Silas Marner",
+    "authors": [
+      "George Eliot"
+    ],
+    "isbn": "0141389451",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Mrs. Dalloway",
+    "authors": [
+      "Virginia Woolf"
+    ],
+    "isbn": "9780241341117",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Dubliners",
+    "authors": [
+      "James Joyce"
+    ],
+    "isbn": "0141199628",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "The Call of the Wild",
+    "authors": [
+      "Jack London"
+    ],
+    "isbn": "0241341493",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "The Man who was Thursday",
+    "authors": [
+      "G.K. Chesterton"
+    ],
+    "isbn": "9780141199771",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "Dracula",
+    "authors": [
+      "Bram Stoker"
+    ],
+    "isbn": "0141199334",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "D4",
+    "shelfLabel": "Shelf D4 (Penguin English Library Edition)",
+    "title": "The Great God Pan",
+    "authors": [
+      "Arthur Machen"
+    ],
+    "isbn": "0241341124",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "The Penguin Book of Christmas Stories",
+    "authors": [
+      "Jessica Harrison (Editor)"
+    ],
+    "isbn": "0241455650",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "Leaves of Grass",
+    "authors": [
+      "Walt Whitman"
+    ],
+    "isbn": "9780241303122",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "The Tower",
+    "authors": [
+      "W.B. Yeats"
+    ],
+    "isbn": "0241303095",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "Lamia, Isabella, The Eve of St Agnes and Other Poems",
+    "authors": [
+      "John Keats"
+    ],
+    "isbn": "0241303141",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "Lyrical Ballads",
+    "authors": [
+      "William Wordsworth"
+    ],
+    "isbn": "0241303109",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "The Queen of Spades",
+    "authors": [
+      "Alexander Pushkin"
+    ],
+    "isbn": "0241573769",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "The Communist Manifesto",
+    "authors": [
+      "Karl Marx",
+      "Friedrich Engels"
+    ],
+    "isbn": "9780141395906",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "Goblin Market and other Poems",
+    "authors": [
+      "Christina Rossetti"
+    ],
+    "isbn": "9780241303061",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "Wessex Poems",
+    "authors": [
+      "Thomas Hardy"
+    ],
+    "isbn": "0241303133",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "Poems",
+    "authors": [
+      "Wilfred Owen"
+    ],
+    "isbn": "0241303117",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "Lolly Willowes",
+    "authors": [
+      "Sylvia Townsend Warner"
+    ],
+    "isbn": "0241573785",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "Passing",
+    "authors": [
+      "Nella Larsen"
+    ],
+    "isbn": "0241573742",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "White Nights",
+    "authors": [
+      "Fyodor Dostoyevsky"
+    ],
+    "isbn": "0241252083",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "E4",
+    "shelfLabel": "Shelf E4 (Little Clothbound Classics)",
+    "title": "Madam Bovary",
+    "authors": [
+      "Gustave Flaubert"
+    ],
+    "isbn": "0099573075",
+    "publisher": "Vintage Classics"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "The Complete Short Stories: Vol. 1-4",
+    "authors": [
+      "Munshi Premchand"
+    ],
+    "isbn": "0143441132",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Mythology - Gods and Heros",
+    "authors": [
+      "Edith Hamilton"
+    ],
+    "isbn": "9780316438520",
+    "publisher": "Black Dog & Leventhal"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "The Chronicles of Narnia",
+    "authors": [
+      "C.S. Lewis"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "The Hobbit The Lord of the Rings",
+    "authors": [
+      "J.R.R. Tolkein"
+    ],
+    "isbn": "0547928181",
+    "publisher": "Mariner Books"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Complete Works of Shakespeare",
+    "authors": [
+      "William Shakespeare"
+    ],
+    "isbn": "1435154479",
+    "publisher": "Barnes & Noble Inc"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Tomb of Sand",
+    "authors": [
+      "Geetanjali Shree"
+    ],
+    "isbn": "0143448471",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "The Collected Short Stories",
+    "authors": [
+      "Satyajit Ray"
+    ],
+    "isbn": "9780143425052",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "The Complete Adventures of Feluda Vol. 1",
+    "authors": [
+      "Satyajit Ray"
+    ],
+    "isbn": "014342503X",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Complete Adventures of Feluda Vol.2",
+    "authors": [
+      "Satyajit Ray"
+    ],
+    "isbn": "0143425048",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Classic Rabindranath Tagore",
+    "authors": [
+      "Rabindranath Tagore"
+    ],
+    "isbn": "9780143416326",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Classic Saratchandra Volume 1",
+    "authors": [
+      "Saratchandra Chattopadhyay"
+    ],
+    "isbn": "9780143101253",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "The Deluge",
+    "authors": [
+      "Stephen Markley"
+    ],
+    "isbn": "1982123095",
+    "publisher": "Simon & Schuster"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Dune",
+    "authors": [
+      "Frank Herbert"
+    ],
+    "isbn": "059309932X",
+    "publisher": "Ace"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Dune Messiah",
+    "authors": [
+      "Frank Herbert"
+    ],
+    "isbn": "0593548442",
+    "publisher": "Ace"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Children of Dune",
+    "authors": [
+      "Frank Herbert"
+    ],
+    "isbn": "0593548450",
+    "publisher": "Ace"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Great Expectations",
+    "authors": [
+      "Charles Dickens"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Hitchhiker's Guide to the Galaxy",
+    "authors": [
+      "Douglas Adams"
+    ],
+    "isbn": "0345453743",
+    "publisher": "RHUS"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Ivanhoe",
+    "authors": [
+      "Walter Scott"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Ireland's Forgotten Past",
+    "authors": [
+      "Turtle Bunbury"
+    ],
+    "isbn": "0500022534",
+    "publisher": "Thames and Hudson"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Fierce History",
+    "authors": [
+      "Colin Murphy"
+    ],
+    "isbn": "1788490290",
+    "publisher": "O'Brien Press Ltd"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Felix Holt, the Radical",
+    "authors": [
+      "George Eliot"
+    ],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "The Classic Works of Mark Twain",
+    "authors": [
+      "Mark Twain"
+    ],
+    "isbn": "0753728222",
+    "publisher": "Octopus Publishing Group"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "Gone with the Wind",
+    "authors": [
+      "Margaret Mitchel"
+    ],
+    "isbn": "9380703333",
+    "publisher": "Lexicon Book Distiributors"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "The Norton Anthology of English Literature Vol 1",
+    "authors": [
+      "M. H. Abrams (Editor)",
+      "Stephen Greenblatt (Editor)"
+    ],
+    "isbn": "0393974863",
+    "publisher": "W W Norton & Co Inc"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "The Norton Anthology of English Literature Vol 2",
+    "authors": [
+      "Meyer Howard Abrams"
+    ],
+    "isbn": "0393962903",
+    "publisher": "W W Norton & Co Inc"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "A Critical History of English Literature Vol 1 From the Beginnings to Milton",
+    "authors": [
+      "David Daiches"
+    ],
+    "isbn": "8189930435",
+    "publisher": "Supernova Publishers"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "A Critical History of English Literature Vol 2 The Restoration to the Present Day",
+    "authors": [
+      "David Daiches"
+    ],
+    "isbn": "8189930443",
+    "publisher": "Supernova Publishers"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "The Norton Anthology of African American Literature",
+    "authors": [
+      "Henry Louis Gates",
+      "Nellie Y. McKay"
+    ],
+    "isbn": "0393959082",
+    "publisher": "W W Norton & Co Inc"
+  },
+  {
+    "shelf": "0",
+    "shelfLabel": "Shelf 0",
+    "title": "The Norton Anthology of American Literature Vol A-D",
+    "authors": [],
+    "isbn": null,
+    "publisher": null
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Literary Theory and Criticism",
+    "authors": [
+      "Patricia Waugh"
+    ],
+    "isbn": "9780198723851",
+    "publisher": "Oxford University Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Frankenstein Bloom's Modern Critical Interpretations",
+    "authors": [
+      "Mary Shelly",
+      "Harold Bloom"
+    ],
+    "isbn": "0791093034",
+    "publisher": "Chelsea House Publishers"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Heart of Darkness (Harold Bloom Interpretations)",
+    "authors": [
+      "Harold Bloom"
+    ],
+    "isbn": "1555460151",
+    "publisher": "Chelsea House Publishers"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Literary Theory: An Introduction",
+    "authors": [
+      "Terry Eagleton"
+    ],
+    "isbn": "081661251X",
+    "publisher": "University of Minnesota Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Posthumanism",
+    "authors": [
+      "Pramod K. Nayar"
+    ],
+    "isbn": "0745662412",
+    "publisher": "Polity Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Postcolonial Literature: An Introduction",
+    "authors": [
+      "Pramod K. Nayar"
+    ],
+    "isbn": "8193473450",
+    "publisher": "Pearson India"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "A Glossary of Literary Terms",
+    "authors": [
+      "M.H Abrams"
+    ],
+    "isbn": "ASIN B0DWT9X6GK",
+    "publisher": null
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vulnerable Earth",
+    "authors": [
+      "Pramod K. Nayar"
+    ],
+    "isbn": "1009496913",
+    "publisher": "Cambridge University Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "The Planetary Subaltern: On Indian History, Theory, and Texts in the Anthropocene",
+    "authors": [
+      "Somasree Sarkar",
+      "Agnibha Maity"
+    ],
+    "isbn": "1041244967",
+    "publisher": "Routledge India"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "The Mirror and the Lamp",
+    "authors": [
+      "Meyer Howard Abrams"
+    ],
+    "isbn": "0195014715",
+    "publisher": "OUP USA"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "The Penguin Dictionary of Literary Terms and Literary Theory",
+    "authors": [],
+    "isbn": "0141047151",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Dictionary of Critical Theory",
+    "authors": [],
+    "isbn": "0141047151",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Jung for Beginners",
+    "authors": [
+      "Platania Joe (Author)",
+      "Joe Lee (Illustrator)"
+    ],
+    "isbn": "8125031677",
+    "publisher": "Orient BlackSwan"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Postmodernism for Beginners",
+    "authors": [
+      "Jim Powell"
+    ],
+    "isbn": "8125020233",
+    "publisher": "Orient BlackSwan"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Chomsky for Beginners",
+    "authors": [
+      "David Cogswell"
+    ],
+    "isbn": "8125020470",
+    "publisher": "Orient Blackswan Private Limited - New Delhi"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Freud for Beginners",
+    "authors": [
+      "Richard (Author)",
+      "Maurice Mechan (Illustrator)"
+    ],
+    "isbn": "8125019146",
+    "publisher": "Orient Blackswan"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Sartre for Beginners",
+    "authors": [
+      "Donald Palmer"
+    ],
+    "isbn": "8125024719",
+    "publisher": "Orient Blackswan"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Fanon for Beginners",
+    "authors": [
+      "Deborah Wyrick"
+    ],
+    "isbn": "1934389870",
+    "publisher": "Orient Blackswan"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Nietzsche for Beginners",
+    "authors": [
+      "Marc Sautet"
+    ],
+    "isbn": "8125026606",
+    "publisher": "Orient Blackswan"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Foucault for Beginners",
+    "authors": [
+      "Lydia Alix Fillingham (Author)",
+      "Moshe Susser (Illustrator)"
+    ],
+    "isbn": "1934389129",
+    "publisher": "Orient Blackswan"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Heidegger for Beginners",
+    "authors": [
+      "Lemay; Pitts E."
+    ],
+    "isbn": "8125028994",
+    "publisher": "Orient Blackswan"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Derrida for Beginners",
+    "authors": [
+      "Jim Powell (Author)",
+      "Van Howell (Illustrator)"
+    ],
+    "isbn": "1934389110",
+    "publisher": null
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Saussure for Beginners",
+    "authors": [
+      "W. Terrence Gordon",
+      "Abbe Lubell"
+    ],
+    "isbn": "8125022325",
+    "publisher": "Orient BlackSwan"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Beginning Theory",
+    "authors": [
+      "Peter Barry"
+    ],
+    "isbn": "9387925560",
+    "publisher": "Viva Books"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Beginning Postcolonialism",
+    "authors": [
+      "John McLeod"
+    ],
+    "isbn": "9788130919041",
+    "publisher": "Viva Books"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Beginning Modernism",
+    "authors": [
+      "Jeff Wallace"
+    ],
+    "isbn": "0719067898",
+    "publisher": null
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Beginning Shakespeare",
+    "authors": [
+      "Lisa Hopkins"
+    ],
+    "isbn": "0719064236",
+    "publisher": null
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Beginning Postmoderninsm",
+    "authors": [
+      "Tim Woods"
+    ],
+    "isbn": "0719052114",
+    "publisher": null
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "An Introduction to Cultural Studies",
+    "authors": [
+      "Pramod K. Nayar"
+    ],
+    "isbn": "8130933985",
+    "publisher": "Viva Books"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Conversation with Gayatri Spivak",
+    "authors": [
+      "Gayatri Spivak"
+    ],
+    "isbn": "1905422288",
+    "publisher": "Seagull Books"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Mythologies",
+    "authors": [
+      "Roland Barthes"
+    ],
+    "isbn": "0099529750",
+    "publisher": "Vintage Classics"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Garbocracy: Towards a Great Human Collapse",
+    "authors": [
+      "Sayan Dey"
+    ],
+    "isbn": "1803747293",
+    "publisher": "Peter Lang International Academic"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Introducing Hegel",
+    "authors": [
+      "Lloyd Spencer (Author)",
+      "Andrzej Krauze (Illustrator)"
+    ],
+    "isbn": "1848312083",
+    "publisher": "Icon"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Freedom",
+    "authors": [
+      "Margaret Atwood"
+    ],
+    "isbn": "9781784874117",
+    "publisher": "Vintage"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "A very short Introduction to Climate Change",
+    "authors": [
+      "Mark Maslin"
+    ],
+    "isbn": "0198867867",
+    "publisher": "Oxford"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Ideology: A Very Short Introduction",
+    "authors": [
+      "Freeden"
+    ],
+    "isbn": "019280281X",
+    "publisher": "Oxford"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Classical Literary Criticism",
+    "authors": [],
+    "isbn": "0140446516",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 2 Oxford History of English Literature: Chaucer and Fifteenth- Century Verse and Prose",
+    "authors": [
+      "H. S. Bennett"
+    ],
+    "isbn": "0198122292",
+    "publisher": "Clarendon Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 3 Oxford History of English Literature: Malory and Fifteenth- century Drama, Lyrics and Ballads",
+    "authors": [
+      "E. K. Chambers"
+    ],
+    "isbn": "0198122306",
+    "publisher": "Clarendon Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 5 Oxford History of English Literature: The English Drama (1485-1585)",
+    "authors": [
+      "F. P. Wilson",
+      "G. K. Hunter"
+    ],
+    "isbn": "0198122322",
+    "publisher": "Clarendon Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 6 Oxford History of English Literature: English Drama 1586- 1642: The Age of Shakespeare",
+    "authors": [
+      "G.K. Hunter"
+    ],
+    "isbn": "0198122136",
+    "publisher": "Clarendon Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 07 Oxford History of English Literature: The Early Seventeenth Century (1600-1660) Jonson, Donne, and Milton",
+    "authors": [
+      "Douglas Bush"
+    ],
+    "isbn": "0198122330",
+    "publisher": "Clarendon Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 8 Oxford History of English Literature: Restoration Literature (1660-1700) Dryden, Bunyan, and Pepys",
+    "authors": [
+      "James R. Sutherland"
+    ],
+    "isbn": "0198122349",
+    "publisher": "Clarendon Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Oxford History of English Literature: English Literature in the Early Eighteenth Century (1700-1740)",
+    "authors": [
+      "Bonamy Dobree"
+    ],
+    "isbn": "0198122055",
+    "publisher": "Clarendon Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Oxford History of English Literature: The Age of Johnson (1740- 1789)",
+    "authors": [
+      "John Butt",
+      "Geoffrey Carnall"
+    ],
+    "isbn": "0198122365",
+    "publisher": "Clarendon Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Oxford History of English Literature: The Rise of the Romantics (1789-1815) Wordsworth, Coleridge and Jane Austen",
+    "authors": [
+      "W. L. Renwick"
+    ],
+    "isbn": "0198122373",
+    "publisher": "Clarendon Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Oxford History of English Literature: English Literature (1815- 1832)",
+    "authors": [
+      "Ian Jack"
+    ],
+    "isbn": "0198122381",
+    "publisher": "Clarendon Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Oxford History of English Literature: The Victorian Novel",
+    "authors": [
+      "Alan Horsman"
+    ],
+    "isbn": "0198122160",
+    "publisher": "Clarendon Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 15. Oxford History of English Literature: Writers of the Twentieth Century Hardy to Lawrence",
+    "authors": [
+      "J. I. M. Stewart"
+    ],
+    "isbn": "0198122403",
+    "publisher": "Clarendon Press"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 1. The Pelican Guide to English Literature: The Age Of Chaucer",
+    "authors": [
+      "Boris Ford"
+    ],
+    "isbn": "0140202900",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 2. The Pelican Guide to English Literature: The Age of Shakespeare",
+    "authors": [
+      "Boris Ford"
+    ],
+    "isbn": "0140138080",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 3. The Pelican Guide to English Literature: From Donne to Marvell",
+    "authors": [
+      "Boris Ford"
+    ],
+    "isbn": "0140203257",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 4. The Pelican Guide to English Literature: From Dryden to Johnson",
+    "authors": [
+      "Boris Ford"
+    ],
+    "isbn": "0140138102",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 5. The Pelican Guide to English Literature: From Blake to Byron",
+    "authors": [
+      "Boris Ford"
+    ],
+    "isbn": "0140204024",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 7. The Pelican Guide to English Literature: The Modern Age",
+    "authors": [
+      "Boris Ford"
+    ],
+    "isbn": "0140204652",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Vol 8. The Pelican Guide to English Literature: From Orwell to Naipaul",
+    "authors": [
+      "Boris Ford"
+    ],
+    "isbn": "0140238166",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "01",
+    "shelfLabel": "Additional Shelf 01 (floating shelf)",
+    "title": "Media Control",
+    "authors": [
+      "Noam Chomsky"
+    ],
+    "isbn": "1583225366",
+    "publisher": "Seven Stories Press"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Edgar Allan Poe Collected Works",
+    "authors": [
+      "Edgar Allan Poe"
+    ],
+    "isbn": "1607103141",
+    "publisher": null
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Classic Tales of Horror",
+    "authors": [],
+    "isbn": "1626864659",
+    "publisher": "Canterbury Classics"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Classic Works from Women Writers",
+    "authors": [],
+    "isbn": "1684125545",
+    "publisher": "Canterbury Classics"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Great Gatsby",
+    "authors": [
+      "F. Scott Fitzgerald"
+    ],
+    "isbn": "1645173518",
+    "publisher": "Canterbury Classics"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Selected Works of the Brontë Sisters",
+    "authors": [],
+    "isbn": "1645174379",
+    "publisher": "Canterbury Classics"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Classic Tales of Mystery",
+    "authors": [
+      "Ken Mondschein"
+    ],
+    "isbn": "1645178145",
+    "publisher": "Canterbury Classics"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Go Set a Watchman",
+    "authors": [
+      "Harper Lee"
+    ],
+    "isbn": "1785150286",
+    "publisher": "William Heinemann"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "House of Leaves",
+    "authors": [
+      "Mark Z. Danielewski"
+    ],
+    "isbn": "0375703764",
+    "publisher": null
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "And the Mountains Echoed",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "isbn": "1408842424",
+    "publisher": "Bloomsbury Publishing PLC"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "A Thousand Splendid Suns",
+    "authors": [
+      "Khaled Hosseini"
+    ],
+    "isbn": "0033449430",
+    "publisher": null
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Ecological Criticism for our Times Literature, Nature and Critical Inquiry",
+    "authors": [
+      "M. Shivaramakrishnan",
+      "Ujjawal Jana"
+    ],
+    "isbn": "817273588X",
+    "publisher": "Authors Press"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Submerged Worlds and Other Amazing Stories of India’s Mighty Rivers",
+    "authors": [
+      "Vaishali Shroff"
+    ],
+    "isbn": "0143462415",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Marginlands: Indian Landscapes on the Brink",
+    "authors": [
+      "Arati Kumar-Rao"
+    ],
+    "isbn": "8119300335",
+    "publisher": "Picador"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Intertidal",
+    "authors": [
+      "Yuvan Aves"
+    ],
+    "isbn": "9356402345",
+    "publisher": "Bloomsbury India"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "The Upheaval",
+    "authors": [
+      "Pundalik N. Naik"
+    ],
+    "isbn": "0195660390",
+    "publisher": "Oxford University Press"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Dweepa",
+    "authors": [
+      "N.A. D'Souza"
+    ],
+    "isbn": "0198097441",
+    "publisher": "Oxford University Press"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "The Climate Solution",
+    "authors": [
+      "Mridula Ramesh"
+    ],
+    "isbn": "9388322207",
+    "publisher": "Hachette India"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Animal's People",
+    "authors": [
+      "Indra Sinha"
+    ],
+    "isbn": "9781416526278",
+    "publisher": "Simon & Schuster"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Floating Coast",
+    "authors": [
+      "Bathsheba Demuth"
+    ],
+    "isbn": "0393358321",
+    "publisher": "Norton"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Woemn in the Wild",
+    "authors": [
+      "Anita Mani"
+    ],
+    "isbn": "9353451817",
+    "publisher": "Juggernaut"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "The Whispering Mountains",
+    "authors": [
+      "Namita Gokhale"
+    ],
+    "isbn": "0143470221",
+    "publisher": "Puffin"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Wild and Wilful",
+    "authors": [
+      "Neha Sinha"
+    ],
+    "isbn": "9353578299",
+    "publisher": "Harper Collins"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Wild Capital: Discovering Nature In Delhi",
+    "authors": [
+      "Neha Sinha"
+    ],
+    "isbn": "9369891773",
+    "publisher": "Harper Fiction"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Softly Dies a Lake",
+    "authors": [
+      "Akkineni Kutumbarao"
+    ],
+    "isbn": "9390122589",
+    "publisher": "Orient BlackSwan Pvt. Ltd."
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Green Humour for a Greying Planet",
+    "authors": [
+      "Rohan Chakravarty/Green Humour"
+    ],
+    "isbn": "0143452959",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "See ice? Now you dont!",
+    "authors": [
+      "Rohan Chakravarty/Green Humour"
+    ],
+    "isbn": "0143470590",
+    "publisher": "Vintage Books"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Pugmarks and Carbon Footprints",
+    "authors": [
+      "Rohan Chakravarty/Green Humour"
+    ],
+    "isbn": "0143459899",
+    "publisher": "Vintage Books"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Naturalist Ruddy",
+    "authors": [
+      "Rohan Chakravarty/Green Humour"
+    ],
+    "isbn": "0143455176",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "2",
+    "shelfLabel": "Additional Shelf 2 (2 Columns)",
+    "title": "Carri-On Ruddy!",
+    "authors": [
+      "Rohan Chakravarty/Green Humour"
+    ],
+    "isbn": "0143461109",
+    "publisher": "India Puffin"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "A Guardian and a Thief",
+    "authors": [
+      "Megha Majumdar"
+    ],
+    "isbn": "0143477730",
+    "publisher": "Penguin Hamish Hamilton"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "The Uninhabitable Earth",
+    "authors": [
+      "David Wallace-Wells"
+    ],
+    "isbn": "0525576703",
+    "publisher": "Tim Duggan Books"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "The Burning Earth: An Environmental History of the Last 500 Years",
+    "authors": [
+      "Sunil Amrith"
+    ],
+    "isbn": "0241461987",
+    "publisher": "Allen Lane"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "Slow Violence and the Environmentalism of the Poor",
+    "authors": [
+      "Rob Nixon"
+    ],
+    "isbn": "9780674072343",
+    "publisher": "Harvard University Press"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "Nature, Culture, Imperialism",
+    "authors": [
+      "David Arnold",
+      "Ramachandra Guha"
+    ],
+    "isbn": "0195640756",
+    "publisher": "Oxford University Press"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "Environmentalism",
+    "authors": [
+      "Ramachandra Guha"
+    ],
+    "isbn": "9780143427674",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "Speaking with Nature: The Origins of Indian Environmentalism",
+    "authors": [
+      "Ramachandra Guha"
+    ],
+    "isbn": "936213490X",
+    "publisher": "Fourth Estate India"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "Endurance",
+    "authors": [
+      "Alfred Lansing"
+    ],
+    "isbn": "0465062881",
+    "publisher": "Basic Books"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "Sherlock Holmes: The Novels",
+    "authors": [
+      "Sir Arthur Conan Doyle"
+    ],
+    "isbn": "9780143107132",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "The Second Sex",
+    "authors": [
+      "Simone de Beauvoir"
+    ],
+    "isbn": "9780099499381",
+    "publisher": "Vintage"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "The Feminine Mystique",
+    "authors": [
+      "Betty Friedan"
+    ],
+    "isbn": "9780141192055",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "The Madwoman in the Attic",
+    "authors": [
+      "Gilbert and Gubar"
+    ],
+    "isbn": "8186423842",
+    "publisher": "Worldview Critical Editions"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "A Room of One's Own",
+    "authors": [
+      "Virginia Woolf"
+    ],
+    "isbn": "0141183535",
+    "publisher": "Penguin"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "Difficult Women",
+    "authors": [
+      "Roxane Gay"
+    ],
+    "isbn": "9781472152770",
+    "publisher": "Corsair"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "Sexual Politics",
+    "authors": [
+      "Kate Millett"
+    ],
+    "isbn": "023117425X",
+    "publisher": "Columbia University Press"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "Mouth Full of Blood",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn": "1784742856",
+    "publisher": "Chatto & Windus"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "The Bell Jar",
+    "authors": [
+      "Sylvia Plath"
+    ],
+    "isbn": "8181320344",
+    "publisher": null
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "The Bluest Eye",
+    "authors": [
+      "Toni Morrison"
+    ],
+    "isbn": "0099759918",
+    "publisher": "Vintage"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "The Unabridged Journals of Sylvia Plath",
+    "authors": [
+      "Sylvia Plath"
+    ],
+    "isbn": "0385720254",
+    "publisher": "Anchor"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "A Vindication of the Rights of Woman",
+    "authors": [
+      "Mary Wollstonecraft"
+    ],
+    "isbn": "0099595826",
+    "publisher": "Vintage Classics"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "Bad Feminists",
+    "authors": [
+      "Roxane Gay"
+    ],
+    "isbn": "1472119738",
+    "publisher": "Constable & Robinson"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "The Unwomanly Face of War",
+    "authors": [
+      "Svetlana Alexievich"
+    ],
+    "isbn": "0141983531",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "The Color Purple",
+    "authors": [
+      "Alice Walker"
+    ],
+    "isbn": "9781780228716",
+    "publisher": null
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "I Know Why the Caged Bird Sings",
+    "authors": [
+      "Maya Angelou"
+    ],
+    "isbn": "9780860685111",
+    "publisher": "Virago"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "A Hymn to Life",
+    "authors": [
+      "Gisèle Pelicot"
+    ],
+    "isbn": "1847928978",
+    "publisher": "Bodley Head"
+  },
+  {
+    "shelf": "F3",
+    "shelfLabel": "Additional (Floating Shelf) 3",
+    "title": "Harry Potter Hardcover Boxed Set - Book 1-7",
+    "authors": [
+      "J.K. Rowling"
+    ],
+    "isbn": "0439280613",
+    "publisher": "Scholastic"
+  }
+]

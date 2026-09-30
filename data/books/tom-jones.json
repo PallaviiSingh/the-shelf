@@ -1,0 +1,77 @@
+{
+  "slug": "tom-jones",
+  "title": "Tom Jones",
+  "subtitle": null,
+  "authors": [
+    "henry-fielding"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1749,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 608
+  },
+  "cover": {
+    "file": "assets/covers/tom-jones.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#94aaa5",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#81aaac",
+      "#e9dec9",
+      "#c34e26"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Comic Novel"
+  ],
+  "region": "England",
+  "tags": [
+    "foundling",
+    "comedy",
+    "18th century",
+    "romance"
+  ],
+  "moods": [
+    "playful",
+    "warm",
+    "satirical"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to laugh",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "an English road",
+      "a foundling's luck",
+      "a genial narrator"
+    ],
+    "oneLine": "A warm-hearted foundling stumbles across England toward love and his true birth."
+  },
+  "summary": "A foundling of unknown parentage, the good-hearted and hot-blooded Tom Jones is thrown out of his benefactor's house and tumbles across eighteenth-century England toward London, love, and the truth of his birth. Fielding tells his hero's misadventures with enormous warmth and a genial narrator forever leaning in to comment, building one of the great comic novels and an early masterpiece of the form. Long, generous and full of life, it is a rollicking human comedy that helped teach the novel how to be entertaining.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A huge, warm, rollicking comic novel that helped invent the form. Fielding's foundling hero is impossible not to love.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Fielding gave the book a chatty narrator who addresses the reader directly, a device far ahead of its time.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C4",
+  "enriched": true
+}

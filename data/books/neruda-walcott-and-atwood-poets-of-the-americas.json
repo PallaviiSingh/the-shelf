@@ -1,0 +1,76 @@
+{
+  "slug": "neruda-walcott-and-atwood-poets-of-the-americas",
+  "title": "Neruda, Walcott, and Atwood Poets of the Americas",
+  "subtitle": null,
+  "authors": [
+    "ajanta-dutt"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Book Land Publishing Co",
+    "series": null,
+    "isbn": "8186423826",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/neruda-walcott-and-atwood-poets-of-the-americas.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5b4c69",
+    "w": 663,
+    "h": 1000,
+    "palette": [
+      "#342552",
+      "#e8cab3",
+      "#7e82b6"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Poetry",
+    "Criticism"
+  ],
+  "region": "Americas",
+  "tags": [
+    "Americas",
+    "postcolonial",
+    "criticism",
+    "study guide"
+  ],
+  "moods": [
+    "cerebral",
+    "luminous",
+    "political"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "the new-world voice",
+      "love and politics",
+      "a student's companion"
+    ],
+    "oneLine": "A critical guide to the poetry of Neruda, Walcott and Atwood."
+  },
+  "summary": "A critical study of three major poets of the Americas: Chile's Pablo Neruda, St Lucia's Derek Walcott and Canada's Margaret Atwood, whose work spans love, politics, history and the shaping of new-world identity. Prepared as a student's companion, it sets their poems in context and offers close readings across languages and traditions. A thoughtful scholarly introduction to three distinctive voices, two of them Nobel laureates, from across the vast and varied literature of the Americas.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A scholarly guide to Neruda, Walcott and Atwood, three great and very different poets of the Americas.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Both Neruda and Walcott won the Nobel Prize in Literature, in 1971 and 1992.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

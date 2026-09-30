@@ -1,0 +1,76 @@
+{
+  "slug": "the-history-of-england-revolution-vol-4",
+  "title": "The History of England - Revolution (Vol 4)",
+  "subtitle": null,
+  "authors": [
+    "peter-ackroyd"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2016,
+  "edition": {
+    "publisher": "Pan Publishing house",
+    "series": null,
+    "isbn": "1509811478",
+    "pageCount": 434
+  },
+  "cover": {
+    "file": "assets/covers/the-history-of-england-revolution-vol-4.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b49790",
+    "w": 660,
+    "h": 1000,
+    "palette": [
+      "#e8e5e0",
+      "#961b1f",
+      "#cab6b2"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History"
+  ],
+  "region": "England",
+  "tags": [
+    "Glorious Revolution",
+    "England",
+    "18th century",
+    "monarchy"
+  ],
+  "moods": [
+    "dramatic",
+    "cerebral",
+    "epic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a rainy day",
+      "to think hard"
+    ],
+    "sensory": [
+      "a bloodless revolution",
+      "Georgian intrigue",
+      "a growing empire"
+    ],
+    "oneLine": "Ackroyd on England from the Glorious Revolution through the Georges."
+  },
+  "summary": "The fourth volume of Peter Ackroyd's history of England spans the turbulent decades from the Glorious Revolution of 1688 through the reigns of the early Georges, an age of political intrigue, religious division, expanding empire and the birth of modern party politics. With his usual narrative gusto and feel for character, Ackroyd carries the national story into the eighteenth century. Lively and approachable, it is popular history at its most engaging.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Ackroyd carries England's story from the Glorious Revolution into the Georgian age. Lively, engaging popular history.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The volume covers the birth of Britain's modern party-political system.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B1",
+  "enriched": true
+}

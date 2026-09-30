@@ -1,0 +1,18 @@
+{
+  "slug": "mikhail-bulgakov",
+  "name": "Mikhail Bulgakov",
+  "birthYear": 1891,
+  "deathYear": 1940,
+  "nationality": "Russian (Soviet)",
+  "bio": "Russian novelist and playwright who trained as a doctor in Kyiv before he turned to writing. Much of his work was banned or cut under Stalin, and his masterpiece, The Master and Margarita, went unpublished while he was alive. He kept rewriting it until he died in 1940. It finally appeared, censored, in 1966 and 1967.",
+  "photo": {
+    "file": "assets/authors/mikhail-bulgakov.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mikhail_Bulgakov",
+    "license": "Public domain",
+    "attribution": "Moisej Nappelbaum"
+  },
+  "books": [
+    "the-master-and-margarita"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "dr-jekyll-and-mr-hyde",
+  "title": "Dr. Jekyll and Mr. Hyde",
+  "subtitle": null,
+  "authors": [
+    "robert-louis-stevenson"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1886,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "0141389508",
+    "pageCount": 130
+  },
+  "cover": {
+    "file": "assets/covers/dr-jekyll-and-mr-hyde.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#453b71",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#352566",
+      "#53537f",
+      "#9bc7be"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Gothic & Horror",
+    "Classic"
+  ],
+  "region": "Scotland",
+  "tags": [
+    "duality",
+    "double life",
+    "addiction",
+    "London"
+  ],
+  "moods": [
+    "unsettling",
+    "suspenseful",
+    "cerebral"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "a short sitting",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "fog-bound London",
+      "a locked laboratory",
+      "a transformation"
+    ],
+    "oneLine": "A good doctor brews a potion to free his darker self, and cannot cage it again."
+  },
+  "summary": "A respectable London doctor develops a potion that lets him split off and indulge his darker self, the brutal Mr Hyde, and slowly loses control of which man he is. Stevenson's short, taut novella turned a private nightmare into a permanent metaphor for the divided self, the decent citizen and the monster he carries inside. Structured almost like a detective story, it builds to one of literature's most famous revelations, and remains a chillingly modern parable about temptation, respectability and the cost of a double life.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A perfect, unsettling evening's read that gave us a phrase for the divided self. Short, sharp and still genuinely creepy.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Stevenson reportedly wrote the first draft in a few days, then burned it and rewrote the whole thing.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

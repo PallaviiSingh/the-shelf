@@ -1,0 +1,77 @@
+{
+  "slug": "hamlet",
+  "title": "Hamlet",
+  "subtitle": null,
+  "authors": [
+    "shakespeare"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1600,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 192
+  },
+  "cover": {
+    "file": "assets/covers/hamlet.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#1a8eab",
+    "w": 621,
+    "h": 1000,
+    "palette": [
+      "#039bc5",
+      "#53b1c6",
+      "#0c6e82"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Tragedy"
+  ],
+  "region": "England",
+  "tags": [
+    "revenge",
+    "madness",
+    "mortality",
+    "Denmark"
+  ],
+  "moods": [
+    "brooding",
+    "tragic",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a haunted castle",
+      "a father's ghost",
+      "a prince who cannot act"
+    ],
+    "oneLine": "A prince, commanded by a ghost to avenge his father, cannot act."
+  },
+  "summary": "Commanded by his father's ghost to avenge a murder, the Danish prince Hamlet hesitates, broods and feigns madness, turning the machinery of revenge into the deepest exploration of thought, doubt and mortality in all of drama. Shakespeare's longest and most famous play gave us 'To be or not to be' and a hero whose delay has fascinated readers for four centuries. Endlessly interpreted and endlessly rich, it is widely considered the greatest play ever written.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Widely called the greatest play ever written, and a bottomless study of doubt and delay. 'To be or not to be' begins here.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "At around four thousand lines, it is Shakespeare's longest play.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

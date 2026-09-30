@@ -1,0 +1,17 @@
+{
+  "slug": "emily-bront",
+  "name": "Emily Brontë",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Emily Jane Brontë was an English writer best known for her 1847 novel Wuthering Heights. She also co-authored a book of poetry with her sisters Charlotte and Anne entitled Poems by Currer, Ellis, and Acton Bell.",
+  "photo": {
+    "file": "assets/authors/emily-bront.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Emily_Bront%C3%AB"
+  },
+  "books": [
+    "wuthering-heights"
+  ],
+  "enriched": false
+}

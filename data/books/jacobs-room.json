@@ -1,0 +1,77 @@
+{
+  "slug": "jacobs-room",
+  "title": "Jacob's Room",
+  "subtitle": null,
+  "authors": [
+    "virginia-woolf"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1922,
+  "edition": {
+    "publisher": "Vintage Classics",
+    "series": null,
+    "isbn": "1784877956",
+    "pageCount": 180
+  },
+  "cover": {
+    "file": "assets/covers/jacobs-room.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7a6d78",
+    "w": 720,
+    "h": 982,
+    "palette": [
+      "#fce354",
+      "#052085",
+      "#030b3a"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "modernism",
+    "loss",
+    "war",
+    "impressionism"
+  ],
+  "moods": [
+    "melancholic",
+    "experimental",
+    "luminous"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "empty rooms",
+      "a young man glimpsed",
+      "the shadow of war"
+    ],
+    "oneLine": "A young man's whole life caught only in glimpses and empty rooms."
+  },
+  "summary": "Woolf's first fully experimental novel builds a portrait of a young man, Jacob Flanders, entirely from the impressions of others and the rooms he passes through, refusing the usual props of plot and psychology. Elliptical and shimmering, it traces his path from childhood to Cambridge to a death in the First World War that hangs over the whole book. A crucial early step toward Mrs Dalloway and To the Lighthouse, it is Woolf learning to write the modernist novel that would become her own.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Woolf's first true experiment, a life sketched entirely in glancing impressions. The doorway to her great novels.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was the first novel where Woolf fully abandoned conventional plot for her impressionist method.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

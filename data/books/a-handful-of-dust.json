@@ -1,0 +1,77 @@
+{
+  "slug": "a-handful-of-dust",
+  "title": "A Handful of Dust",
+  "subtitle": null,
+  "authors": [
+    "evelyn-waugh"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1934,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin English Library",
+    "isbn": "0241341108",
+    "pageCount": 265
+  },
+  "cover": {
+    "file": "assets/covers/a-handful-of-dust.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8d9868",
+    "w": 645,
+    "h": 1000,
+    "palette": [
+      "#aab879",
+      "#51553f",
+      "#737b57"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Satire"
+  ],
+  "region": "England",
+  "tags": [
+    "marriage",
+    "aristocracy",
+    "betrayal",
+    "dark comedy"
+  ],
+  "moods": [
+    "satirical",
+    "bleak",
+    "witty"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a crumbling country house",
+      "a fashionable set",
+      "a nightmare ending"
+    ],
+    "oneLine": "A gentleman's marriage and manor collapse in Waugh's darkest comedy."
+  },
+  "summary": "A decent, old-fashioned country gentleman watches his marriage and his beloved ancestral home fall apart as his bored wife drifts into an affair, in a story that turns from social comedy into something far darker. Waugh's sharpest novel skewers the emptiness of fashionable 1930s society with cold, glittering wit, before delivering one of the most horrifying endings in English fiction. Funny and devastating in equal measure, it is his most admired and unsettling book.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Waugh's sharpest, darkest comedy, glittering wit that curdles into horror. That ending is unforgettable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its infamous ending was adapted from a short story Waugh had written earlier.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

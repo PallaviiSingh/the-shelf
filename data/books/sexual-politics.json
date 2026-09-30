@@ -1,0 +1,75 @@
+{
+  "slug": "sexual-politics",
+  "title": "Sexual Politics",
+  "subtitle": null,
+  "authors": [
+    "kate-millett"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1970,
+  "edition": {
+    "publisher": "Columbia University Press",
+    "series": null,
+    "isbn": "023117425X",
+    "pageCount": 397
+  },
+  "cover": {
+    "file": "assets/covers/sexual-politics.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#605a4e",
+    "w": 667,
+    "h": 1000,
+    "palette": [
+      "#23211d",
+      "#cdb336",
+      "#998636"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy & Theory"
+  ],
+  "region": "United States",
+  "tags": [
+    "patriarchy",
+    "literature",
+    "power",
+    "gender"
+  ],
+  "moods": [
+    "political",
+    "cerebral",
+    "bleak"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "power between the sexes",
+      "the literary canon",
+      "a political reading"
+    ],
+    "oneLine": "The book that framed relations between the sexes as politics, and power."
+  },
+  "summary": "Kate Millett's fierce, foundational work of feminist theory argues that relations between the sexes are political, structured by power, and reads canonical male writers to expose the patriarchy embedded in their treatment of women and sex. Combining literary criticism with social and political analysis, it helped establish women's studies as a field and put the word patriarchy at the centre of feminist argument. Combative and influential, it remains a key text of the movement's second wave.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A combative classic that put 'patriarchy' at the centre of feminist argument. Reads male writers against the grain, brilliantly.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It began as Millett's doctoral dissertation and became a foundational text of women's studies.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

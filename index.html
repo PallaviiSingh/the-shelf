@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>The Shelf</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+<script>try{if(localStorage.getItem('shelf-theme')==='dark')document.documentElement.setAttribute('data-theme','dark');}catch(e){}</script>
+</head>
+<body>
+  <div id="grain" aria-hidden="true"></div>
+
+  <header id="topbar">
+    <a class="brand" href="#/shelf">
+      <span class="brand-name">The Shelf</span>
+    </a>
+    <nav id="nav">
+      <a href="#/shelf" data-view="shelf">The Shelf</a>
+      <a href="#/gallery" data-view="gallery">Gallery</a>
+      <a href="#/suggest" data-view="suggest">Read Next</a>
+      <a href="#/stats" data-view="stats">Reading Life</a>
+    </nav>
+    <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle light or dark" title="Switch the lights">
+      <span class="tt-track"><span class="tt-knob"></span></span>
+      <span class="tt-label">Lights</span>
+    </button>
+    <button id="navToggle" aria-label="Menu">☰</button>
+  </header>
+
+  <main id="app"><!-- views render here --></main>
+
+  <div id="overlay" class="overlay" hidden>
+    <div class="overlay-scrim" data-close></div>
+    <div id="overlayPanel" class="overlay-panel" role="dialog" aria-modal="true"></div>
+  </div>
+
+  <canvas id="shareCanvas" width="1080" height="1080" hidden></canvas>
+
+  <footer id="footer">
+    <span>The Shelf</span>
+    <span class="dot">·</span>
+    <span id="footNote">A private library</span>
+  </footer>
+
+  <script src="data.js"></script>
+  <script>
+  /* Merge owner-added books (data/added-books.json) into the library before the app builds its views. */
+  (function(){
+    function boot(){ var s=document.createElement('script'); s.src='app.js'; document.body.appendChild(s); }
+    function mergeAdded(added){
+      var L=window.LIBRARY; if(!L||!Array.isArray(added)) return;
+      L.books=L.books||[]; L.authors=L.authors||{}; L.organization=L.organization||[];
+      var have={}; L.books.forEach(function(b){ have[b.slug]=1; });
+      added.forEach(function(b){
+        if(!b||!b.slug||have[b.slug]) return; have[b.slug]=1;
+        (b._authors||[]).forEach(function(a){ if(a&&a.slug&&!L.authors[a.slug]) L.authors[a.slug]={name:a.name}; });
+        L.books.push(b);
+        var subjName=b.subject||'New Arrivals', shelfName=b.shelfName||'New Arrivals', subj=null, i, j;
+        for(i=0;i<L.organization.length;i++){ if(L.organization[i].subject===subjName){ subj=L.organization[i]; break; } }
+        if(!subj){ subj={subject:subjName,shelves:[]}; L.organization.push(subj); }
+        subj.shelves=subj.shelves||[];
+        var sh=null;
+        for(j=0;j<subj.shelves.length;j++){ if(subj.shelves[j].name===shelfName){ sh=subj.shelves[j]; break; } }
+        if(!sh){ sh={name:shelfName,books:[]}; subj.shelves.push(sh); }
+        if(sh.books.indexOf(b.slug)<0) sh.books.push(b.slug);
+      });
+    }
+    try{
+      fetch('data/added-books.json?t='+Date.now(),{cache:'no-store'})
+        .then(function(r){ return r.ok?r.json():[]; })
+        .then(function(a){ try{ mergeAdded(a); }catch(e){} })
+        .catch(function(){})
+        .finally(boot);
+    }catch(e){ boot(); }
+  })();
+  </script>
+</body>
+</html>

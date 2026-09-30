@@ -1,0 +1,13 @@
+{
+  "slug": "john-webster",
+  "name": "John Webster",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "John Webster was an English Jacobean dramatist best known for his tragedies The White Devil and The Duchess of Malfi, which are often seen as masterpieces of the early 17th-century English stage. His life and career overlapped with Shakespeare's.",
+  "photo": null,
+  "books": [
+    "the-duchess-of-malfi"
+  ],
+  "enriched": false
+}

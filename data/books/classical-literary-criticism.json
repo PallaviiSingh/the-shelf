@@ -1,0 +1,67 @@
+{
+  "slug": "classical-literary-criticism",
+  "title": "Classical Literary Criticism",
+  "subtitle": null,
+  "authors": [],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0140446516",
+    "pageCount": 251
+  },
+  "cover": {
+    "file": "assets/covers/classical-literary-criticism.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#756960",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#00141d",
+      "#b4836a",
+      "#e3cbb4"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Anthology",
+    "Theory"
+  ],
+  "region": "World",
+  "tags": [
+    "classical",
+    "criticism",
+    "Aristotle",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "epic"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "Aristotle's Poetics",
+      "the ancient world",
+      "the birth of criticism"
+    ],
+    "oneLine": "The founding texts of ancient Western literary criticism."
+  },
+  "summary": "This anthology gathers the foundational texts of Western literary criticism from the ancient world, above all Aristotle's Poetics and Plato's writings on poetry, along with Horace and Longinus on the sublime. These are the works that first asked what literature is, how it works and why it moves us, and they have shaped every later theory of art. An essential collection for understanding where criticism began.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Where criticism began, Aristotle, Plato, Horace and Longinus. The foundational texts of Western literary theory.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

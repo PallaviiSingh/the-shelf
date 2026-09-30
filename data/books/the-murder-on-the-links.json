@@ -1,0 +1,76 @@
+{
+  "slug": "the-murder-on-the-links",
+  "title": "The Murder on the Links",
+  "subtitle": null,
+  "authors": [
+    "agatha-christie"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1923,
+  "edition": {
+    "publisher": "Harper Collins",
+    "series": null,
+    "isbn": "0008129460",
+    "pageCount": 224
+  },
+  "cover": {
+    "file": "assets/covers/the-murder-on-the-links.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7ea091",
+    "w": 657,
+    "h": 1000,
+    "palette": [
+      "#226ead",
+      "#b0c151",
+      "#f7e440"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Mystery & Crime"
+  ],
+  "region": "England",
+  "tags": [
+    "Poirot",
+    "murder",
+    "France",
+    "puzzle"
+  ],
+  "moods": [
+    "suspenseful",
+    "playful",
+    "cerebral"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to be thrilled",
+      "on a train or plane"
+    ],
+    "sensory": [
+      "a French coast",
+      "a body by the links",
+      "duelling detectives"
+    ],
+    "oneLine": "Poirot arrives in France to find his client already murdered."
+  },
+  "summary": "Summoned to France by a frightened millionaire, Hercule Poirot arrives too late: his client is found stabbed in a shallow grave beside a golf course. As a rival detective backs the obvious theory, Poirot trusts his little grey cells and a tangle of buried pasts instead. An early, energetic Poirot mystery, it pits method against flashy guesswork and delivers the twists and misdirection that made Christie the queen of the form.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Early, sprightly Poirot, with a rival detective to show off against. Pure comfort-read Christie.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was one of Christie's early novels to send Poirot abroad, a device she would use often.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

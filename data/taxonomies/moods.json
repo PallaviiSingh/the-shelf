@@ -1,0 +1,22 @@
+{
+  "_description": "Controlled vocabulary of moods. Every book is tagged with 1-4 of these. `color` is a hint for the design layer (a book can still override with its own cover-extracted color-world).",
+  "moods": [
+    { "slug": "luminous",    "label": "Luminous",    "description": "Radiant, awe-filled, quietly transcendent.",        "color": "#E3B04B" },
+    { "slug": "melancholic", "label": "Melancholic", "description": "Wistful, aching, beautifully sad.",                 "color": "#6B7B8C" },
+    { "slug": "comforting",  "label": "Comforting",  "description": "Warm, gentle, a soft place to land.",               "color": "#C98B6B" },
+    { "slug": "unsettling",  "label": "Unsettling",  "description": "Uneasy, uncanny, gets under the skin.",             "color": "#5B4B6B" },
+    { "slug": "playful",     "label": "Playful",     "description": "Witty, inventive, light on its feet.",              "color": "#D98C5F" },
+    { "slug": "romantic",    "label": "Romantic",    "description": "Yearning, passionate, love in many forms.",         "color": "#B5546B" },
+    { "slug": "cerebral",    "label": "Cerebral",    "description": "Demanding, idea-dense, rewards attention.",         "color": "#3E5C63" },
+    { "slug": "epic",        "label": "Epic",        "description": "Sweeping in scale, time, or place.",                "color": "#7A4B34" },
+    { "slug": "quiet",       "label": "Quiet",       "description": "Slow, interior, small in the best way.",            "color": "#8C9A86" },
+    { "slug": "political",   "label": "Political",   "description": "Engaged with power, history, resistance.",          "color": "#8C3B33" },
+    { "slug": "dreamlike",   "label": "Dreamlike",   "description": "Surreal, fluid, logic of a dream.",                "color": "#6B6BA3" },
+    { "slug": "haunting",    "label": "Haunting",    "description": "Lingers after the last page; ghostly.",             "color": "#4A4A55" },
+    { "slug": "tender",      "label": "Tender",      "description": "Intimate, humane, softly felt.",                    "color": "#CB8FA0" },
+    { "slug": "satirical",   "label": "Satirical",   "description": "Sharp, funny, biting at the world.",                "color": "#B08A2E" },
+    { "slug": "suspenseful", "label": "Suspenseful", "description": "Taut, propulsive, need-to-know.",                   "color": "#7C4A2E" },
+    { "slug": "bleak",       "label": "Bleak",       "description": "Dark, unflinching, hard truths.",                   "color": "#4C5459" },
+    { "slug": "hopeful",     "label": "Hopeful",     "description": "Light through the cracks; endurance.",              "color": "#5E8C6A" }
+  ]
+}

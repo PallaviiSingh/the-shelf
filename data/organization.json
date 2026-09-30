@@ -1,0 +1,796 @@
+[
+  {
+    "subject": "Reference & Theory",
+    "shelves": [
+      {
+        "name": "Dictionaries & Handbooks",
+        "books": [
+          "a-glossary-of-literary-terms",
+          "the-penguin-dictionary-of-literary-terms-and-literary-theory",
+          "dictionary-of-critical-theory",
+          "the-prosody-handbook",
+          "the-making-of-a-poem-a-norton-anthology-of-poetic-forms"
+        ]
+      },
+      {
+        "name": "Major Anthologies",
+        "books": [
+          "the-norton-anthology-of-english-literature-vol-1",
+          "the-norton-anthology-of-english-literature-vol-2",
+          "the-norton-anthology-of-american-literature-vol-a",
+          "the-norton-anthology-of-american-literature-vol-b",
+          "the-norton-anthology-of-american-literature-vol-c",
+          "the-norton-anthology-of-american-literature-vol-d",
+          "the-norton-anthology-of-african-american-literature",
+          "classic-works-from-women-writers"
+        ]
+      },
+      {
+        "name": "Literary Theory & Criticism",
+        "books": [
+          "classical-literary-criticism",
+          "the-mirror-and-the-lamp",
+          "literary-theory-an-introduction",
+          "literary-theory-and-criticism",
+          "beginning-theory",
+          "beginning-modernism",
+          "beginning-postmoderninsm",
+          "beginning-shakespeare",
+          "mythologies",
+          "an-introduction-to-cultural-studies",
+          "frankenstein-blooms-modern-critical-interpretations",
+          "heart-of-darkness-harold-bloom-interpretations"
+        ]
+      },
+      {
+        "name": "Postcolonial Theory",
+        "books": [
+          "black-skin-white-masks",
+          "the-wretched-of-the-earth",
+          "beginning-postcolonialism",
+          "postcolonial-literature-an-introduction",
+          "conversation-with-gayatri-spivak"
+        ]
+      },
+      {
+        "name": "Thinkers & Philosophy",
+        "books": [
+          "introducing-hegel",
+          "nietzsche-for-beginners",
+          "freud-for-beginners",
+          "saussure-for-beginners",
+          "jung-for-beginners",
+          "heidegger-for-beginners",
+          "sartre-for-beginners",
+          "fanon-for-beginners",
+          "foucault-for-beginners",
+          "chomsky-for-beginners",
+          "derrida-for-beginners",
+          "postmodernism-for-beginners"
+        ]
+      },
+      {
+        "name": "Politics, Ideology & Media",
+        "books": [
+          "the-communist-manifesto",
+          "ideology-a-very-short-introduction",
+          "media-control"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Literary History",
+    "shelves": [
+      {
+        "name": "The Oxford History of English Literature",
+        "books": [
+          "vol-2-oxford-history-of-english-literature-chaucer-and-fifteenth-centu",
+          "vol-3-oxford-history-of-english-literature-malory-and-fifteenth-centur",
+          "vol-5-oxford-history-of-english-literature-the-english-drama-1485-1585",
+          "vol-6-oxford-history-of-english-literature-english-drama-1586-1642-the",
+          "vol-07-oxford-history-of-english-literature-the-early-seventeenth-cent",
+          "vol-8-oxford-history-of-english-literature-restoration-literature-1660",
+          "oxford-history-of-english-literature-english-literature-in-the-early-e",
+          "oxford-history-of-english-literature-the-age-of-johnson-1740-1789",
+          "oxford-history-of-english-literature-the-rise-of-the-romantics-1789-18",
+          "oxford-history-of-english-literature-english-literature-1815-1832",
+          "oxford-history-of-english-literature-the-victorian-novel",
+          "vol-15-oxford-history-of-english-literature-writers-of-the-twentieth-c",
+          "the-oxford-english-literary-history-reform-and-cultural-revolution-135"
+        ]
+      },
+      {
+        "name": "The Pelican Guides to English Literature",
+        "books": [
+          "vol-1-the-pelican-guide-to-english-literature-the-age-of-chaucer",
+          "vol-2-the-pelican-guide-to-english-literature-the-age-of-shakespeare",
+          "vol-3-the-pelican-guide-to-english-literature-from-donne-to-marvell",
+          "vol-4-the-pelican-guide-to-english-literature-from-dryden-to-johnson",
+          "vol-5-the-pelican-guide-to-english-literature-from-blake-to-byron",
+          "vol-7-the-pelican-guide-to-english-literature-the-modern-age",
+          "vol-8-the-pelican-guide-to-english-literature-from-orwell-to-naipaul"
+        ]
+      },
+      {
+        "name": "Surveys of English Literature",
+        "books": [
+          "a-critical-history-of-english-literature-vol-1-from-the-beginnings-to-",
+          "a-critical-history-of-english-literature-vol-2-the-restoration-to-the-",
+          "the-short-oxford-history-of-english-literature"
+        ]
+      },
+      {
+        "name": "Indian Literature",
+        "books": [
+          "a-history-of-indian-literature-500-1399-from-the-courtly-to-the-popula",
+          "a-history-of-indian-literature-1800-1910-western-impact-indian-respons",
+          "a-history-of-indian-literature-1911-1956-struggle-for-freedom-triumph-",
+          "a-concise-history-of-indian-literature-in-english",
+          "indian-english-literature-a-critical-survey-1980-2000",
+          "indian-english-literature-a-critical-survey-2001-2015",
+          "a-socio-political-history-of-marathi-theatre-vol-1",
+          "a-socio-political-history-of-marathi-theatre-vol-2",
+          "a-socio-political-history-of-marathi-theatre-vol-3"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "History",
+    "shelves": [
+      {
+        "name": "",
+        "books": [
+          "the-age-of-revolution-1789-1848",
+          "the-age-of-capital-1848-1875",
+          "the-age-of-empire-1875-1914",
+          "the-age-of-extremes-1914-1991",
+          "the-history-of-england-tudors-vol-2",
+          "the-history-of-england-revolution-vol-4",
+          "irelands-forgotten-past",
+          "fierce-history",
+          "indias-stuggle-for-independence"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Indian Literature",
+    "shelves": [
+      {
+        "name": "Classical & Epic",
+        "books": [
+          "the-mahabharata-the-dicing-the-sequel-to-the-dicing-and-the-temptation",
+          "the-dicing-and-the-sequal-to-dicing",
+          "thirteen-plays-of-bh-sa",
+          "the-mrichchhakatika-of-sudraka",
+          "the-loom-of-time",
+          "the-book-of-vanci"
+        ]
+      },
+      {
+        "name": "Hindi (Original Language)",
+        "books": [
+          "nari-hraday",
+          "pagalee",
+          "kaumudi",
+          "vismrit-rachnakar-shivrani-devi",
+          "subhadra-kumari-chauhan-granthavali-vol-1",
+          "subhadra-kumari-chauhan-granthavali-vol-2",
+          "visamta-ka-katha-sansar",
+          "aapka-bunti",
+          "naukar-ki-kameez",
+          "deewar-mein-ek-khidki-rehti-thi",
+          "khilega-to-dekhenge",
+          "hari-ghaas-ki-chhappar-wali-jhopadi-aur-bauna-pahad",
+          "yasi-rasa-ta",
+          "ek-chuppi-jagah",
+          "mahavidyalaya",
+          "kahaniyon-ka-kahaniyaana",
+          "a-silent-place",
+          "smrityan-bahuteri"
+        ]
+      },
+      {
+        "name": "Modern Indian Drama",
+        "books": [
+          "halfway-house",
+          "ghashiram-kotwal",
+          "tughlaq",
+          "collected-plays"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Indian Literature in Translation",
+    "shelves": [
+      {
+        "name": "Hindi & Urdu",
+        "books": [
+          "the-complete-short-stories-premchand-vol-1",
+          "the-complete-short-stories-premchand-vol-2",
+          "the-complete-short-stories-premchand-vol-3",
+          "the-complete-short-stories-premchand-vol-4",
+          "tamas",
+          "tomb-of-sand",
+          "quit-india-and-other-stories",
+          "obsession-and-wild-pigeons",
+          "masooma",
+          "the-crooked-line",
+          "a-life-in-words",
+          "bombay-stories",
+          "why-i-write"
+        ]
+      },
+      {
+        "name": "Bengali",
+        "books": [
+          "classic-rabindranath-tagore",
+          "classic-saratchandra-volume-1",
+          "malloban",
+          "selected-poems-jibananandan-das",
+          "chowringhee",
+          "the-collected-short-stories",
+          "the-complete-adventures-of-feluda-vol-1",
+          "complete-adventures-of-feluda-vol-2"
+        ]
+      },
+      {
+        "name": "Kannada & Goan",
+        "books": [
+          "samskara",
+          "heart-lamp",
+          "the-greatest-goan-stories-ever-told"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Indian Writing in English",
+    "shelves": [
+      {
+        "name": "",
+        "books": [
+          "untouchable",
+          "kanthapura",
+          "swami-and-friends-the-bachelor-of-arts-the-dark-room-the-english-teach",
+          "train-to-pakistan",
+          "clear-light-of-the-day",
+          "midnights-children",
+          "imaginary-homelands",
+          "languages-of-truth-essays-2003-2020",
+          "knife-meditations-after-an-attempted-murder",
+          "the-shadow-lines",
+          "river-of-smoke",
+          "wild-fictions",
+          "ghost-eye-a-novel",
+          "the-binding-vine",
+          "a-suitable-boy",
+          "the-god-of-small-things",
+          "the-inheritence-of-loss",
+          "em-and-the-big-hoom",
+          "the-map-is-not-the-territory",
+          "a-guardian-and-a-thief",
+          "everything-the-light-touches"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Classical & Medieval Foundations",
+    "shelves": [
+      {
+        "name": "",
+        "books": [
+          "mythology-gods-and-heros",
+          "the-iliad",
+          "the-odyssey",
+          "the-aeneid",
+          "metamorphoses",
+          "the-divine-comedy",
+          "the-canterbury-tales",
+          "the-wife-of-baths-prologue-and-tale",
+          "don-quixote"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Drama",
+    "shelves": [
+      {
+        "name": "Shakespeare",
+        "books": [
+          "complete-works-of-shakespeare",
+          "romeo-and-juliet",
+          "hamlet",
+          "othello",
+          "macbeth",
+          "antony-and-cleopatra",
+          "a-midsummer-nights-dream",
+          "much-ado-about-nothing",
+          "as-you-like-it",
+          "the-sonnets-and-a-lovers-complaint"
+        ]
+      },
+      {
+        "name": "English & World Drama",
+        "books": [
+          "doctor-faustus",
+          "the-alchemist",
+          "the-duchess-of-malfi",
+          "the-rover",
+          "the-playboy-of-the-western-world",
+          "pygmalion",
+          "murder-in-the-cathedral",
+          "death-of-a-salesman",
+          "waiting-for-godot",
+          "look-back-in-anger"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Poetry",
+    "shelves": [
+      {
+        "name": "English Poetry",
+        "books": [
+          "sidney-spencer-and-donne-a-critical-introduction",
+          "paradise-lost",
+          "mac-flecknoe",
+          "the-rape-of-the-lock",
+          "johnson-gray-goldsmith-poets-of-the-mid-eighteenth-century",
+          "lyrical-ballads",
+          "the-rime-of-the-ancient-mariner-and-other-poems",
+          "lamia-isabella-the-eve-of-st-agnes-and-other-poems",
+          "victorian-poets-tennyson-browning-rossetti",
+          "goblin-market-and-other-poems",
+          "wessex-poems",
+          "w-b-yeats-selected-poetry",
+          "the-tower",
+          "poems",
+          "a-selection-of-poems",
+          "a-critical-reading-of-the-selected-poems-of-t-s-eliot",
+          "dylan-thomas-ominbus-under-milk-wood-poems-stories-and-broadcasts"
+        ]
+      },
+      {
+        "name": "American & World Poetry",
+        "books": [
+          "leaves-of-grass",
+          "hope-is-the-thing-with-feathers-poems-of-emily-dickinson",
+          "neruda-walcott-and-atwood-poets-of-the-americas"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Classic Fiction",
+    "shelves": [
+      {
+        "name": "The Eighteenth Century",
+        "books": [
+          "robinson-crusoe",
+          "gullivers-travels",
+          "tom-jones"
+        ]
+      },
+      {
+        "name": "Jane Austen",
+        "books": [
+          "sense-and-sensibility",
+          "pride-and-prejudice",
+          "mansfield-park",
+          "emma",
+          "northanger-abbey",
+          "persuasion",
+          "sanditon"
+        ]
+      },
+      {
+        "name": "The Brontës",
+        "books": [
+          "jane-eyre",
+          "wide-sargasso-sea",
+          "villette",
+          "wuthering-heights",
+          "the-tenant-of-wildfell-hall",
+          "selected-works-of-the-bront-sisters"
+        ]
+      },
+      {
+        "name": "Romantic & Victorian Novel",
+        "books": [
+          "ivanhoe",
+          "oliver-twist",
+          "david-copperfield",
+          "bleak-house",
+          "hard-times",
+          "a-tale-of-two-cities",
+          "great-expectations",
+          "vanity-fair",
+          "cranford",
+          "north-and-south",
+          "wives-and-daughters",
+          "the-mill-of-the-floss",
+          "silas-marner",
+          "felix-holt-the-radical",
+          "middlemarch",
+          "the-woman-in-white",
+          "far-from-the-madding-crowd",
+          "the-mayor-of-casterbridge",
+          "tess-of-the-durbervilles",
+          "jude-the-obscure",
+          "the-picture-of-dorian-gray"
+        ]
+      },
+      {
+        "name": "Early Twentieth Century & Modernism",
+        "books": [
+          "the-man-who-was-thursday",
+          "dubliners",
+          "a-portrait-of-the-artist-as-a-young-man",
+          "ulysses",
+          "jacobs-room",
+          "mrs-dalloway",
+          "to-the-lighthouse",
+          "orlando",
+          "the-wave-vintage-classics-woolf-series",
+          "a-passage-to-india",
+          "lolly-willowes",
+          "lady-chatterleys-lover",
+          "a-handful-of-dust",
+          "the-best-of-wodehouse",
+          "animal-farm",
+          "nineteen-eighty-four",
+          "essays"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Modern Fiction",
+    "shelves": [
+      {
+        "name": "British, Irish & Commonwealth",
+        "books": [
+          "lord-of-the-flies-penguin-classics-deluxe-editions",
+          "the-prime-of-miss-jean-brodie",
+          "the-drivers-seat",
+          "a-clockwork-orange",
+          "possession",
+          "atonement",
+          "the-book-thief",
+          "flesh",
+          "orbital",
+          "intermezzo"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "American Literature",
+    "shelves": [
+      {
+        "name": "Classics",
+        "books": [
+          "the-classic-works-of-mark-twain",
+          "little-women",
+          "good-wives",
+          "the-portrait-of-a-lady",
+          "the-turn-of-the-screw-and-other-stories",
+          "awakening",
+          "the-call-of-the-wild",
+          "passing",
+          "great-gatsby",
+          "gone-with-the-wind",
+          "the-catcher-in-the-rye",
+          "henderson-the-rain-king",
+          "to-kill-a-mockingbird",
+          "go-set-a-watchman"
+        ]
+      },
+      {
+        "name": "Modern & Contemporary",
+        "books": [
+          "the-bell-jar",
+          "the-unabridged-journals-of-sylvia-plath",
+          "cats-cradle",
+          "ham-on-rye",
+          "post-office",
+          "women",
+          "love-is-a-dog-from-hell-poems-1974-1977",
+          "the-pleasures-of-the-damned",
+          "the-bluest-eye",
+          "mouth-full-of-blood",
+          "the-color-purple",
+          "a-confederacy-of-dunces",
+          "white-noise-penguin-orange-collection",
+          "the-broom-of-the-system-penguin-orange-classics",
+          "brief-interviews-with-hideous-men",
+          "a-supposedly-fun-thing-ill-never-do-again",
+          "the-road",
+          "call-me-by-your-name",
+          "difficult-women"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Canadian Literature",
+    "shelves": [
+      {
+        "name": "",
+        "books": [
+          "the-edible-woman",
+          "the-handmaid-tales",
+          "the-robber-bride",
+          "alias-grace",
+          "the-blind-assassin",
+          "the-heart-goes-last",
+          "paper-boat-new-and-selected-poems-1961-2023",
+          "on-writers-and-writing",
+          "freedom",
+          "book-of-lives-a-memoir-of-sorts",
+          "selected-stories-1968-1994",
+          "selected-stories-1995-2009"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "World Literature",
+    "shelves": [
+      {
+        "name": "Russian",
+        "books": [
+          "the-collected-stories",
+          "the-queen-of-spades",
+          "white-nights",
+          "crime-and-punishment",
+          "the-brothers-karamazov",
+          "war-and-peace",
+          "anna-karenina",
+          "the-complete-short-novels",
+          "the-heart-of-a-dog",
+          "the-master-and-margarita",
+          "doctor-zhivago",
+          "lolita"
+        ]
+      },
+      {
+        "name": "European",
+        "books": [
+          "the-count-of-monte-cristo",
+          "madam-bovary",
+          "collected-stories",
+          "the-plague-the-fall",
+          "satantango",
+          "the-discomfort-of-evening"
+        ]
+      },
+      {
+        "name": "Latin America, Africa, Middle East & Asia",
+        "books": [
+          "chronicle-of-a-death-foretold",
+          "love-in-the-time-of-cholera",
+          "memories-of-my-melancholy-whores",
+          "the-african-trilogy",
+          "celestial-bodies",
+          "the-kite-runner",
+          "a-thousand-splendid-suns",
+          "and-the-mountains-echoed",
+          "the-vegetarian",
+          "human-acts",
+          "days-at-the-morisaki-bookshop",
+          "more-days-at-the-morisaki-bookshop"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Genre Fiction",
+    "shelves": [
+      {
+        "name": "Gothic, Horror & Supernatural",
+        "books": [
+          "frankenstein",
+          "edgar-allan-poe-collected-works",
+          "dr-jekyll-and-mr-hyde",
+          "dracula",
+          "the-great-god-pan",
+          "the-phantom-of-the-opera",
+          "classic-tales-of-horror",
+          "the-haunting-of-hill-house",
+          "we-have-always-lived-in-the-castle",
+          "the-shining",
+          "duma-key",
+          "on-writing",
+          "house-of-leaves"
+        ]
+      },
+      {
+        "name": "Crime & Detection",
+        "books": [
+          "a-study-in-scarlet",
+          "sherlock-holmes-the-novels",
+          "the-murder-on-the-links",
+          "the-murder-of-roger-ackroyd",
+          "the-mystery-of-the-blue-train",
+          "after-the-funeral",
+          "dead-mans-folly",
+          "classic-tales-of-mystery"
+        ]
+      },
+      {
+        "name": "Science Fiction & Dystopia",
+        "books": [
+          "the-time-machine",
+          "invisible-man",
+          "brave-new-world",
+          "the-day-of-the-triffids",
+          "dune",
+          "dune-messiah",
+          "children-of-dune",
+          "hitchhikers-guide-to-the-galaxy"
+        ]
+      },
+      {
+        "name": "Fantasy",
+        "books": [
+          "the-chronicles-of-narnia",
+          "harry-potter-hardcover-boxed-set-book-1-7",
+          "the-hobbit-the-lord-of-the-rings"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Children's Classics",
+    "shelves": [
+      {
+        "name": "",
+        "books": [
+          "alices-adventures-in-wonderland-and-through-the-looking-glass",
+          "black-beauty",
+          "heidi",
+          "the-jungle-book",
+          "the-wind-in-the-willow",
+          "the-whispering-mountains"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "The Christmas Shelf",
+    "shelves": [
+      {
+        "name": "",
+        "books": [
+          "the-penguin-book-of-christmas-stories",
+          "the-nutcracker",
+          "a-christmas-carol",
+          "the-night-before-christmas"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Environment & Ecology",
+    "shelves": [
+      {
+        "name": "Ecocriticism & Environmental Humanities",
+        "books": [
+          "ecological-criticism-for-our-times-literature-nature-and-critical-inqu",
+          "slow-violence-and-the-environmentalism-of-the-poor",
+          "the-great-derangement-climate-change-and-the-unthinkable",
+          "posthumanism",
+          "vulnerable-earth",
+          "the-planetary-subaltern-on-indian-history-theory-and-texts-in-the-anth",
+          "garbocracy-towards-a-great-human-collapse"
+        ]
+      },
+      {
+        "name": "Environmental History & Climate",
+        "books": [
+          "nature-culture-imperialism",
+          "environmentalism",
+          "speaking-with-nature-the-origins-of-indian-environmentalism",
+          "the-burning-earth-an-environmental-history-of-the-last-500-years",
+          "the-nutmegs-curse-parables-for-a-planet-in-crisis",
+          "floating-coast",
+          "the-uninhabitable-earth",
+          "a-very-short-introduction-to-climate-change",
+          "the-climate-solution"
+        ]
+      },
+      {
+        "name": "Nature Writing",
+        "books": [
+          "walden-and-other-writings",
+          "marginlands-indian-landscapes-on-the-brink",
+          "intertidal",
+          "wild-and-wilful",
+          "wild-capital-discovering-nature-in-delhi",
+          "woemn-in-the-wild",
+          "submerged-worlds-and-other-amazing-stories-of-indias-mighty-rivers"
+        ]
+      },
+      {
+        "name": "Eco-Fiction",
+        "books": [
+          "the-upheaval",
+          "dweepa",
+          "softly-dies-a-lake",
+          "animals-people",
+          "the-deluge"
+        ]
+      },
+      {
+        "name": "Green Humour (Graphic)",
+        "books": [
+          "green-humour-for-a-greying-planet",
+          "pugmarks-and-carbon-footprints",
+          "see-ice-now-you-dont",
+          "naturalist-ruddy",
+          "carri-on-ruddy"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Feminist Thought",
+    "shelves": [
+      {
+        "name": "",
+        "books": [
+          "a-vindication-of-the-rights-of-woman",
+          "a-room-of-ones-own",
+          "the-second-sex",
+          "the-position-of-women-in-hindu-civilization",
+          "the-feminine-mystique",
+          "sexual-politics",
+          "the-madwoman-in-the-attic",
+          "bad-feminists",
+          "a-hymn-to-life"
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Life Writing",
+    "shelves": [
+      {
+        "name": "Memoir, Letters & Testimony",
+        "books": [
+          "the-letters-of-vincent-van-gogh",
+          "twelve-years-a-slave",
+          "mans-search-for-meaning",
+          "i-know-why-the-caged-bird-sings",
+          "things-in-nature-merely-grow",
+          "becoming-goan-a-contemporary-coming-home-story"
+        ]
+      },
+      {
+        "name": "Reportage & Oral History",
+        "books": [
+          "in-cold-blood-a-true-account-of-a-multiple-murder-and-its-consequences",
+          "the-unwomanly-face-of-war",
+          "chernobyl-prayer"
+        ]
+      },
+      {
+        "name": "Travel, Exploration & Adventure",
+        "books": [
+          "endurance",
+          "into-thin-air",
+          "into-the-wild",
+          "the-masque-of-africa"
+        ]
+      }
+    ]
+  }
+]

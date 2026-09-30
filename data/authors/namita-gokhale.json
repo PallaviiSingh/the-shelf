@@ -1,0 +1,17 @@
+{
+  "slug": "namita-gokhale",
+  "name": "Namita Gokhale",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Namita Gokhale is an Indian fiction writer, editor, festival director, and publisher. Her debut novel, Paro: Dreams of Passion was released in 1984, and she has since written fiction and nonfiction, and edited nonfiction collections. She conceptualized and hosted the Doordarshan show Kitaabnama: Books and Beyond and is a founder and co-director of the Jaipur",
+  "photo": {
+    "file": "assets/authors/namita-gokhale.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Namita_Gokhale"
+  },
+  "books": [
+    "the-whispering-mountains"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "margaret-atwood",
+  "name": "Margaret Atwood",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Margaret Eleanor Atwood is a Canadian novelist, poet, literary critic, and inventor. Since 1961, she has published 18 books of poetry, 18 novels, 11 books of nonfiction, nine collections of short fiction, eight children's books, two graphic novels, and a number of small press editions of both poetry and fiction. Her best-known work is the",
+  "photo": null,
+  "books": [
+    "alias-grace",
+    "book-of-lives-a-memoir-of-sorts",
+    "freedom",
+    "on-writers-and-writing",
+    "paper-boat-new-and-selected-poems-1961-2023",
+    "the-blind-assassin",
+    "the-edible-woman",
+    "the-handmaid-tales",
+    "the-heart-goes-last",
+    "the-robber-bride"
+  ],
+  "enriched": false
+}

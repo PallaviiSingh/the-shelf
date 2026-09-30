@@ -1,0 +1,76 @@
+{
+  "slug": "dune-messiah",
+  "title": "Dune Messiah",
+  "subtitle": null,
+  "authors": [
+    "frank-herbert"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1969,
+  "edition": {
+    "publisher": "Ace",
+    "series": null,
+    "isbn": "0593548442",
+    "pageCount": 279
+  },
+  "cover": {
+    "file": "assets/covers/dune-messiah.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#414f47",
+    "w": 490,
+    "h": 738,
+    "trimmed": true,
+    "palette": [
+      "#243b50",
+      "#101c2b",
+      "#ce9d07"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Science Fiction"
+  ],
+  "region": "World",
+  "tags": [
+    "empire",
+    "prophecy",
+    "power",
+    "tragedy"
+  ],
+  "moods": [
+    "political",
+    "cerebral",
+    "bleak"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "an imperial court",
+      "a blinded prophet",
+      "the cost of worship"
+    ],
+    "oneLine": "The messiah of Dune is now a trapped god, and the dream curdles."
+  },
+  "summary": "Twelve years after Dune, Paul Atreides rules as emperor and living god, his jihad having killed billions in his name, and he is trapped by the very prophecy that raised him. Herbert's shorter, darker sequel deliberately dismantles the hero of the first book, turning triumph into tragedy and warning, pointedly, against the worship of charismatic leaders. Cooler and more political than Dune, it deepens the saga's argument about power and its terrible costs.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The sequel that turns the hero into a warning. Herbert dismantling his own myth, on purpose and to great effect.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Herbert wrote it partly because readers had misread Paul as a straightforward hero, which alarmed him.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "selected-stories-1968-1994",
+  "title": "Selected Stories (1968-1994)",
+  "subtitle": null,
+  "authors": [
+    "alice-munro"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1996,
+  "edition": {
+    "publisher": "Vintage Classics",
+    "series": null,
+    "isbn": "1784876887",
+    "pageCount": 688
+  },
+  "cover": {
+    "file": "assets/covers/selected-stories-1968-1994.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#bd9bb2",
+    "w": 645,
+    "h": 1000,
+    "palette": [
+      "#0484b4",
+      "#f3e4e5",
+      "#e85651"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Literary Fiction"
+  ],
+  "region": "Canada",
+  "tags": [
+    "short stories",
+    "small towns",
+    "women",
+    "Canada"
+  ],
+  "moods": [
+    "quiet",
+    "melancholic",
+    "luminous"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "on a rainy day",
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "small-town Ontario",
+      "a secret turning point",
+      "a whole life in a few pages"
+    ],
+    "oneLine": "Three decades of Alice Munro, who fits whole lives into single stories."
+  },
+  "summary": "The first volume of a career-spanning selection from Alice Munro, the Nobel laureate widely regarded as one of the greatest short-story writers who ever lived. Set mostly in small-town Ontario, her stories compress whole lives, marriages and secret turning points into a few luminous pages, with a novelist's depth and a poet's economy. Quiet on the surface and devastating underneath, they reward slow reading. This gathering shows the first three decades of a quiet master at work.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The quiet master of the short story, first three decades. Munro compresses whole lives into a few devastating pages.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Munro won the Nobel Prize in Literature in 2013, cited as a 'master of the contemporary short story'.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

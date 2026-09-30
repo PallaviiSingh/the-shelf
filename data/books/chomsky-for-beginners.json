@@ -1,0 +1,72 @@
+{
+  "slug": "chomsky-for-beginners",
+  "title": "Chomsky for Beginners",
+  "subtitle": null,
+  "authors": [
+    "david-cogswell"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orient Blackswan Private Limited - New Delhi",
+    "series": null,
+    "isbn": "8125020470",
+    "pageCount": 160
+  },
+  "cover": {
+    "file": "assets/covers/chomsky-for-beginners.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#977446",
+    "w": 645,
+    "h": 1000,
+    "palette": [
+      "#e1b421",
+      "#2a1455",
+      "#3d3999"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy",
+    "Introduction",
+    "Graphic & Comics"
+  ],
+  "region": "United States",
+  "tags": [
+    "linguistics",
+    "Chomsky",
+    "politics",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "political"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "universal grammar",
+      "media and power",
+      "cartoons and clarity"
+    ],
+    "oneLine": "An illustrated introduction to the ideas of Noam Chomsky."
+  },
+  "summary": "Part of the illustrated For Beginners series, this book introduces Noam Chomsky in both his roles: the revolutionary linguist who transformed the study of language, and the fierce political critic of media and American power, through clear text and cartoons. It explains his ideas on universal grammar and his analysis of propaganda and dissent. An accessible, engaging first step into one of the most influential intellectuals alive.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Chomsky the linguist and the political critic, made accessible with text and cartoons. An engaging first step.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

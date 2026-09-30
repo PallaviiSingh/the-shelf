@@ -1,0 +1,13 @@
+{
+  "slug": "saul-bellow",
+  "name": "Saul Bellow",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Saul Bellow was an American writer. For his literary work, Bellow was awarded the Pulitzer Prize, the 1976 Nobel Prize in Literature, and the National Medal of Arts. He is the only writer to win the National Book Award for Fiction three times, and he received the National Book Foundation's lifetime Medal for Distinguished Contribution",
+  "photo": null,
+  "books": [
+    "henderson-the-rain-king"
+  ],
+  "enriched": false
+}

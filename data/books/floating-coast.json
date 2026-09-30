@@ -1,0 +1,77 @@
+{
+  "slug": "floating-coast",
+  "title": "Floating Coast",
+  "subtitle": null,
+  "authors": [
+    "bathsheba-demuth"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2019,
+  "edition": {
+    "publisher": "Norton",
+    "series": null,
+    "isbn": "0393358321",
+    "pageCount": 416
+  },
+  "cover": {
+    "file": "assets/covers/floating-coast.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a6a993",
+    "w": 665,
+    "h": 1000,
+    "palette": [
+      "#b1b289",
+      "#deddd0",
+      "#4d573e"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History",
+    "Environmental Humanities"
+  ],
+  "region": "Arctic",
+  "tags": [
+    "Arctic",
+    "Bering Strait",
+    "ecology",
+    "history"
+  ],
+  "moods": [
+    "luminous",
+    "cerebral",
+    "atmospheric"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours",
+      "in winter"
+    ],
+    "sensory": [
+      "the Bering Strait",
+      "whales and walruses",
+      "empires at the edge"
+    ],
+    "oneLine": "An environmental history of the Arctic where Russia meets America."
+  },
+  "summary": "Bathsheba Demuth tells the environmental history of Beringia, the remote lands and waters around the Bering Strait where Russia and America meet the Arctic. Tracing whales, walruses, gold, fur and energy through Indigenous life, empire and ideology, she shows how both capitalist and communist dreams collided with a fragile northern world. Lyrical and deeply researched, it is a strikingly original history that reads the twentieth century through the bodies of animals and the endurance of a place at the edge of the world.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A lyrical, original environmental history of the Arctic Bering Strait, read through whales, walruses and empire. Beautiful and deep.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won several major history prizes for its original approach to the far north.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

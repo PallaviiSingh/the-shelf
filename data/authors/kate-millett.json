@@ -1,0 +1,17 @@
+{
+  "slug": "kate-millett",
+  "name": "Kate Millett",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Katherine Murray Millett was an American feminist writer, educator, artist, and activist. She attended the University of Oxford, and was the first American woman to be awarded a degree with first-class honors, after studying at St Hilda's College, Oxford. She has been described as \"a seminal influence on second-wave feminism\", and is best known for",
+  "photo": {
+    "file": "assets/authors/kate-millett.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kate_Millett"
+  },
+  "books": [
+    "sexual-politics"
+  ],
+  "enriched": false
+}

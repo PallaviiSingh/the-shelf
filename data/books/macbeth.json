@@ -1,0 +1,78 @@
+{
+  "slug": "macbeth",
+  "title": "Macbeth",
+  "subtitle": null,
+  "authors": [
+    "shakespeare"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1606,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 135
+  },
+  "cover": {
+    "file": "assets/covers/macbeth.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#694b46",
+    "w": 720,
+    "h": 1159,
+    "palette": [
+      "#392824",
+      "#6a3e3b",
+      "#b26c6b"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Tragedy"
+  ],
+  "region": "England",
+  "tags": [
+    "ambition",
+    "murder",
+    "prophecy",
+    "guilt"
+  ],
+  "moods": [
+    "dark",
+    "tragic",
+    "haunting"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a witches' prophecy",
+      "a bloodied dagger",
+      "a guilty crown"
+    ],
+    "oneLine": "A prophecy and a ruthless wife drive a warrior to murder his king."
+  },
+  "summary": "Spurred by a witches' prophecy and his own ruthless wife, the Scottish warrior Macbeth murders his king and seizes the throne, only to be consumed by paranoia, bloodshed and guilt. Shakespeare's shortest, fastest tragedy is a nightmare study of ambition and conscience, dense with some of his darkest and most quoted poetry. Taut and relentless, it drives from its first prophecy to its blood-soaked end without pause, and remains the most viscerally gripping of the great tragedies.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Shakespeare's shortest, fastest, darkest tragedy, a nightmare of ambition and guilt. Relentless from first line to last.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Actors' superstition still forbids naming the play in a theatre, calling it 'the Scottish play'.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

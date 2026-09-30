@@ -1,0 +1,76 @@
+{
+  "slug": "felix-holt-the-radical",
+  "title": "Felix Holt, the Radical",
+  "subtitle": null,
+  "authors": [
+    "george-eliot"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1866,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 440
+  },
+  "cover": {
+    "file": "assets/covers/felix-holt-the-radical.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#71584b",
+    "w": 644,
+    "h": 1000,
+    "palette": [
+      "#513b38",
+      "#281d21",
+      "#866654"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "politics",
+    "reform",
+    "class",
+    "election"
+  ],
+  "moods": [
+    "political",
+    "cerebral",
+    "romantic"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a contested election",
+      "a working-class idealist",
+      "the politics of reform"
+    ],
+    "oneLine": "An idealistic radical and a contested election in reforming England."
+  },
+  "summary": "Set around a contested election in the years of England's expanding franchise, George Eliot's political novel follows the idealistic working-class radical Felix Holt, the compromised heir Harold Transome, and the young woman caught between their worlds. Denser and less read than her masterpieces, it is a serious meditation on reform, class and the gap between political rhetoric and real change. For readers who love Eliot's moral seriousness, it rewards patience with rich characterisation and thought.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Eliot's underread political novel about reform and class. Dense, serious and rewarding for her devotees.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Eliot wrote it as debate over extending the vote was reshaping British politics.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

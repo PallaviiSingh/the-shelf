@@ -1,0 +1,13 @@
+{
+  "slug": "bram-stoker",
+  "name": "Bram Stoker",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Abraham Stoker was an Irish writer, barrister, literary critic, and theatre manager. He was the author of the Gothic horror novel Dracula (1897) and the creator of the fictional character Count Dracula. The work and its antagonist are regarded as milestones in the fields of Gothic and vampire literature.",
+  "photo": null,
+  "books": [
+    "dracula"
+  ],
+  "enriched": false
+}

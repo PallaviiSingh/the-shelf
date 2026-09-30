@@ -1,0 +1,70 @@
+{
+  "slug": "indian-english-literature-a-critical-survey-2001-2015",
+  "title": "Indian English Literature - A Critical Survey (2001-2015)",
+  "subtitle": null,
+  "authors": [
+    "shyamala-a-narayan",
+    "m-k-naik"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Pencraft International",
+    "series": null,
+    "isbn": "9382178295",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/indian-english-literature-a-critical-survey-2001-2015.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#cab483",
+    "w": 350,
+    "h": 556,
+    "palette": [
+      "#fbe8ae",
+      "#321c06",
+      "#f1cc8e"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "India",
+  "tags": [
+    "Indian literature",
+    "English",
+    "criticism",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "the new century",
+      "established and new writers",
+      "a critical guide"
+    ],
+    "oneLine": "A critical survey of Indian English literature, 2001 to 2015."
+  },
+  "summary": "This critical survey by Shyamala A. Narayan and M. K. Naik covers Indian English literature from 2001 to 2015, continuing their earlier volumes. It reviews the fiction, poetry, drama and non-fiction of the new century, taking in the many established and emerging writers who kept Indian writing in English at the centre of world literature. A useful reference and critical guide to fifteen years of contemporary Indian literature, aimed at students and scholars.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A critical survey of twenty-first-century Indian English literature, 2001 to 2015. Useful, up-to-date reference.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "A1",
+  "enriched": true
+}

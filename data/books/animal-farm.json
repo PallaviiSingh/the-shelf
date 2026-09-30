@@ -1,0 +1,77 @@
+{
+  "slug": "animal-farm",
+  "title": "Animal Farm",
+  "subtitle": null,
+  "authors": [
+    "george-orwell"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1945,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 128
+  },
+  "cover": {
+    "file": "assets/covers/animal-farm.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#c66060",
+    "w": 485,
+    "h": 800,
+    "palette": [
+      "#ce3d3d",
+      "#ddb6b3",
+      "#571b1d"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Satire"
+  ],
+  "region": "England",
+  "tags": [
+    "allegory",
+    "revolution",
+    "totalitarianism",
+    "power"
+  ],
+  "moods": [
+    "satirical",
+    "bleak",
+    "political"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a farmyard revolt",
+      "the pigs in charge",
+      "a betrayed ideal"
+    ],
+    "oneLine": "Farm animals overthrow their master, and the pigs become tyrants."
+  },
+  "summary": "The animals of Manor Farm overthrow their drunken human master and set up a society run on the principle that all animals are equal, only to watch the pigs gradually seize power and betray every ideal of the revolution. Orwell's short, savage fable is a devastating allegory of the Russian Revolution and the way idealism curdles into tyranny. Deceptively simple and endlessly quotable, it is one of the most powerful political satires ever written, and as sharp today as ever.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A short, savage fable about how revolutions betray themselves. Deceptively simple and endlessly relevant.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its line 'all animals are equal, but some are more equal than others' has entered everyday speech.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "tamas",
+  "title": "Tamas",
+  "subtitle": null,
+  "authors": [
+    "bhisham-sahni"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 1974,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0670088056",
+    "pageCount": 236
+  },
+  "cover": {
+    "file": "assets/covers/tamas.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#3c3b3c",
+    "w": 352,
+    "h": 537,
+    "palette": [
+      "#3f3f41",
+      "#793437"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Classic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Partition",
+    "Bhisham Sahni",
+    "violence"
+  ],
+  "moods": [
+    "bleak",
+    "political",
+    "tragic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a town in flames",
+      "neighbours turned enemies",
+      "the horror of 1947"
+    ],
+    "oneLine": "Communal violence engulfs a town at Partition, in a landmark Hindi novel."
+  },
+  "summary": "Tamas, meaning darkness, is Bhisham Sahni's powerful novel of the Partition of India, set as communal violence erupts in a town in the days around independence. Following ordinary Hindus, Muslims and Sikhs swept up in riots stoked by politics and rumour, it shows with terrible clarity how neighbours turn on one another. Based partly on what Sahni witnessed, it is one of the finest and most unflinching novels of Partition, and was made into a landmark television series.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Bhisham Sahni's unflinching novel of Partition violence, how neighbours turn on one another. One of the finest on 1947.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was adapted into an acclaimed and controversial Indian television series in 1988.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

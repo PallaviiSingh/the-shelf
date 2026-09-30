@@ -1,0 +1,164 @@
+{
+  "jane-eyre": {
+    "file": "assets/covers/jane-eyre.jpg",
+    "source": "openlibrary",
+    "match": "title-search",
+    "sourceUrl": "https://covers.openlibrary.org/b/id/8235363-L.jpg",
+    "pageCount": 480,
+    "first_publish_year": 1847,
+    "publishers": null
+  },
+  "the-master-and-margarita": {
+    "file": "assets/covers/the-master-and-margarita.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/1784871931-L.jpg?default=false",
+    "pageCount": 371,
+    "first_publish_year": "2003",
+    "publishers": "Vintage"
+  },
+  "doctor-zhivago": {
+    "file": "assets/covers/doctor-zhivago.jpg",
+    "source": "openlibrary",
+    "match": "title-search",
+    "sourceUrl": "https://covers.openlibrary.org/b/id/1045432-L.jpg",
+    "pageCount": 544,
+    "first_publish_year": "2017",
+    "publishers": "Penguin Random House"
+  },
+  "everything-the-light-touches": {
+    "file": "assets/covers/everything-the-light-touches.jpg",
+    "source": "google",
+    "match": "isbn",
+    "sourceUrl": "https://books.google.com/books/content?vid=ISBN9356995311&printsec=frontcover&img=1&zoom=2",
+    "pageCount": 320,
+    "first_publish_year": 2022,
+    "publishers": null
+  },
+  "things-in-nature-merely-grow": {
+    "file": "assets/covers/things-in-nature-merely-grow.jpg",
+    "source": "openlibrary",
+    "match": "title-search",
+    "sourceUrl": "https://covers.openlibrary.org/b/id/15236534-L.jpg",
+    "pageCount": 192,
+    "first_publish_year": 2025,
+    "publishers": null
+  },
+  "brave-new-world": {
+    "file": "assets/covers/brave-new-world.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/1784874167-L.jpg?default=false",
+    "pageCount": 240,
+    "first_publish_year": 1932,
+    "publishers": "Vintage"
+  },
+  "days-at-the-morisaki-bookshop": {
+    "file": "assets/covers/days-at-the-morisaki-bookshop.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/1786583232-L.jpg?default=false",
+    "pageCount": 160,
+    "first_publish_year": "2023",
+    "publishers": "Manilla"
+  },
+  "more-days-at-the-morisaki-bookshop": {
+    "file": "assets/covers/more-days-at-the-morisaki-bookshop.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/1786584328-L.jpg?default=false",
+    "pageCount": 176,
+    "first_publish_year": "2024",
+    "publishers": "Manilla"
+  },
+  "ulysses": {
+    "file": "assets/covers/ulysses.jpg",
+    "source": "openlibrary",
+    "match": "title-search",
+    "sourceUrl": "https://covers.openlibrary.org/b/id/13136548-L.jpg",
+    "pageCount": 736,
+    "first_publish_year": 1914,
+    "publishers": null
+  },
+  "a-clockwork-orange": {
+    "file": "assets/covers/a-clockwork-orange.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/0141182601-L.jpg?default=false",
+    "pageCount": 176,
+    "first_publish_year": "February 24, 2000",
+    "publishers": "Penguin Books Ltd"
+  },
+  "a-portrait-of-the-artist-as-a-young-man": {
+    "file": "assets/covers/a-portrait-of-the-artist-as-a-young-man.jpg",
+    "source": "openlibrary",
+    "match": "title-search",
+    "sourceUrl": "https://covers.openlibrary.org/b/id/9328410-L.jpg",
+    "pageCount": 384,
+    "first_publish_year": "2000",
+    "publishers": "Penguin Books, Limited"
+  },
+  "the-vegetarian": {
+    "file": "assets/covers/the-vegetarian.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/1846276039-L.jpg?default=false",
+    "pageCount": 192,
+    "first_publish_year": "Nov 05, 2015",
+    "publishers": "imusti, Granta Books"
+  },
+  "human-acts": {
+    "file": "assets/covers/human-acts.jpg",
+    "source": "openlibrary",
+    "match": "title-search",
+    "sourceUrl": "https://covers.openlibrary.org/b/id/8047485-L.jpg",
+    "pageCount": 224,
+    "first_publish_year": "2017",
+    "publishers": "Portobello Books"
+  },
+  "the-masque-of-africa": {
+    "file": "assets/covers/the-masque-of-africa.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/0330472046-L.jpg?default=false",
+    "pageCount": 336,
+    "first_publish_year": "Jun 01, 2011",
+    "publishers": "Picador USA"
+  },
+  "orbital": {
+    "file": "assets/covers/orbital.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/1529922933-L.jpg?default=false",
+    "pageCount": 144,
+    "first_publish_year": "2024-09-03",
+    "publishers": "Penguin Random House"
+  },
+  "lolita": {
+    "file": "assets/covers/lolita.jpg",
+    "source": "openlibrary",
+    "match": "title-search",
+    "sourceUrl": "https://covers.openlibrary.org/b/id/12984540-L.jpg",
+    "pageCount": 362,
+    "first_publish_year": "2011",
+    "publishers": "Penguin Books, Limited"
+  },
+  "the-haunting-of-hill-house": {
+    "file": "assets/covers/the-haunting-of-hill-house.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/0141191449-L.jpg?default=false",
+    "pageCount": 256,
+    "first_publish_year": "Oct 01, 2009",
+    "publishers": "Penguin Books"
+  },
+  "chernobyl-prayer": {
+    "file": "assets/covers/chernobyl-prayer.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/9780241270530-L.jpg?default=false",
+    "pageCount": 304,
+    "first_publish_year": "2016-04-21",
+    "publishers": "Penguin Books"
+  }
+}

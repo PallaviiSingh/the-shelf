@@ -1,0 +1,75 @@
+{
+  "slug": "selected-works-of-the-bront-sisters",
+  "title": "Selected Works of the Brontë Sisters",
+  "subtitle": null,
+  "authors": [],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1947,
+  "edition": {
+    "publisher": "Canterbury Classics",
+    "series": null,
+    "isbn": "1645174379",
+    "pageCount": 703
+  },
+  "cover": {
+    "file": "assets/covers/selected-works-of-the-bront-sisters.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4d4457",
+    "w": 640,
+    "h": 1000,
+    "palette": [
+      "#332d53",
+      "#6f6351",
+      "#9a8457"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Anthology"
+  ],
+  "region": "England",
+  "tags": [
+    "Brontes",
+    "Yorkshire",
+    "Victorian",
+    "collection"
+  ],
+  "moods": [
+    "haunting",
+    "romantic",
+    "atmospheric"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a rainy day",
+      "in bed at night"
+    ],
+    "sensory": [
+      "the Yorkshire moors",
+      "a parsonage",
+      "three sisters writing"
+    ],
+    "oneLine": "The Bronte sisters' fiction gathered in a single volume."
+  },
+  "summary": "A gathered volume of the Bronte sisters' fiction, bringing Charlotte, Emily and Anne together as they have belonged since their brief, brilliant careers on the Yorkshire moors. Between them these novels reshaped English fiction, giving passionate inner lives to plain governesses, wild lovers and women fleeing bad marriages. Reading them side by side reveals how differently three sisters in one parsonage imagined love, freedom and the constraints of their world. A handsome one-stop introduction to a singular literary family.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Charlotte, Emily and Anne in one volume, three sisters who remade English fiction from one parsonage. A perfect one-stop shelf.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The three sisters first published together under the ambiguous names Currer, Ellis and Acton Bell.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

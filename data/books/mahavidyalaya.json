@@ -1,0 +1,76 @@
+{
+  "slug": "mahavidyalaya",
+  "title": "Mahavidyalaya",
+  "subtitle": null,
+  "authors": [
+    "vinod-kumar-shukla"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 2022,
+  "edition": {
+    "publisher": "Rajkamal Prakashan Pvt. Ltd",
+    "series": null,
+    "isbn": "9393768129",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/mahavidyalaya.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#aa9f91",
+    "w": 656,
+    "h": 1000,
+    "palette": [
+      "#e5bc9f",
+      "#e1e4db",
+      "#b7977d"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Vinod Kumar Shukla",
+    "short stories",
+    "everyday life"
+  ],
+  "moods": [
+    "quiet",
+    "warm",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to relax and unwind",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "ordinary people",
+      "small struggles",
+      "quiet wonder"
+    ],
+    "oneLine": "Short stories of ordinary lives, by a master of modern Hindi fiction."
+  },
+  "summary": "Mahavidyalaya, or College, is a collection of short stories by Vinod Kumar Shukla, centred as ever on ordinary people of modest means and the small struggles, memories and quiet moments of their everyday lives. Written in his spare, deceptively simple prose, the stories find depth and gentle wonder in the unremarkable. A fine gathering of short fiction from one of the most distinctive voices in modern Hindi literature, honoured in 2025 with the Jnanpith Award.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Vinod Kumar Shukla's short stories of ordinary lives, finding quiet wonder in the unremarkable. Spare and deeply humane.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Vinod Kumar Shukla was named for the Jnanpith Award, India's highest literary honour, in 2025.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

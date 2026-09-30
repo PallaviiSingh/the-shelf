@@ -1,0 +1,17 @@
+{
+  "slug": "dante-alighieri",
+  "name": "Dante Alighieri",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Dante Alighieri, widely known mononymously as Dante, was an Italian poet, writer, and philosopher. His Divine Comedy, originally called Comedìa and later christened Divina by Giovanni Boccaccio, is widely considered one of the most important poems of the Middle Ages and the greatest literary work in the Italian language.",
+  "photo": {
+    "file": "assets/authors/dante-alighieri.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dante_Alighieri"
+  },
+  "books": [
+    "the-divine-comedy"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "environmentalism",
+  "title": "Environmentalism",
+  "subtitle": null,
+  "authors": [
+    "ramachandra-guha"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2000,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "9780143427674",
+    "pageCount": 161
+  },
+  "cover": {
+    "file": "assets/covers/environmentalism.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9aaaa4",
+    "w": 409,
+    "h": 650,
+    "palette": [
+      "#cde0ea",
+      "#6b9fb3",
+      "#3b6939"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History"
+  ],
+  "region": "World",
+  "tags": [
+    "environmental movement",
+    "global history",
+    "ecology",
+    "activism"
+  ],
+  "moods": [
+    "cerebral",
+    "political",
+    "curious"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study",
+      "in a cafe"
+    ],
+    "sensory": [
+      "two centuries of activism",
+      "rich and poor greens",
+      "a global movement"
+    ],
+    "oneLine": "A concise global history of environmentalism across two centuries."
+  },
+  "summary": "Ramachandra Guha's concise global history of environmentalism traces the movement across two centuries and several continents, from early nature lovers and back-to-the-land thinkers to the ecological struggles of the poor in the global South. Clear, balanced and unusually attentive to non-Western environmentalism, it distinguishes the 'full-stomach' environmentalism of the rich world from the 'empty-belly' environmentalism of those fighting for survival. An accessible, authoritative introduction to how people everywhere came to defend the earth.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Guha's clear, global history of the green movement, unusually fair to the environmentalism of the poor. Authoritative and readable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Guha distinguishes 'full-stomach' from 'empty-belly' environmentalism, a much-cited idea.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

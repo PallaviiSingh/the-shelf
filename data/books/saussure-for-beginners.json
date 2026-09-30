@@ -1,0 +1,73 @@
+{
+  "slug": "saussure-for-beginners",
+  "title": "Saussure for Beginners",
+  "subtitle": null,
+  "authors": [
+    "w-terrence-gordon",
+    "abbe-lubell"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orient BlackSwan",
+    "series": null,
+    "isbn": "8125022325",
+    "pageCount": 128
+  },
+  "cover": {
+    "file": "assets/covers/saussure-for-beginners.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#818b7f",
+    "w": 673,
+    "h": 1000,
+    "palette": [
+      "#52b665",
+      "#fdd2e8",
+      "#9a379d"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy",
+    "Introduction",
+    "Graphic & Comics"
+  ],
+  "region": "Switzerland",
+  "tags": [
+    "linguistics",
+    "Saussure",
+    "structuralism",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "the sign",
+      "word and meaning",
+      "cartoons and clarity"
+    ],
+    "oneLine": "An illustrated introduction to the linguistics of Saussure."
+  },
+  "summary": "Part of the illustrated For Beginners series, this book introduces the ideas of Ferdinand de Saussure, the founder of modern linguistics and a key source of structuralism, through clear text and cartoons. It explains his revolutionary account of the sign, the arbitrary link between word and meaning, and how his thought reshaped linguistics, literary theory and the human sciences. An accessible, entertaining first step into ideas that underlie much of modern theory.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Saussure's revolutionary linguistics made accessible with text and cartoons. The roots of structuralism, clearly explained.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

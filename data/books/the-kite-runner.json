@@ -1,0 +1,76 @@
+{
+  "slug": "the-kite-runner",
+  "title": "The Kite Runner",
+  "subtitle": null,
+  "authors": [
+    "khaled-hosseini"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2003,
+  "edition": {
+    "publisher": "Bloomsbury Paperbacks",
+    "series": null,
+    "isbn": "1408850257",
+    "pageCount": 371
+  },
+  "cover": {
+    "file": "assets/covers/the-kite-runner.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#99bac8",
+    "w": 650,
+    "h": 1000,
+    "palette": [
+      "#cde8f4",
+      "#9bcfea",
+      "#55b6e1"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Afghanistan",
+  "tags": [
+    "Afghanistan",
+    "friendship",
+    "guilt",
+    "redemption"
+  ],
+  "moods": [
+    "bleak",
+    "tender",
+    "political"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to feel something deeply",
+      "on a train or plane"
+    ],
+    "sensory": [
+      "Kabul kite contests",
+      "a betrayal",
+      "a country at war"
+    ],
+    "oneLine": "One boyhood betrayal shadows a life, across a country torn apart."
+  },
+  "summary": "In pre-war Kabul, Amir, a merchant's son, and Hassan, the servant boy who loves him, are inseparable until a single act of cowardice sets a betrayal that will shadow Amir for the rest of his life. As the Soviets and then the Taliban tear Afghanistan apart, Amir's road to some kind of redemption runs back through everything he ran from. Hosseini's debut is a hugely popular, emotionally direct story of guilt, class and atonement that also gave many readers their first human map of Afghanistan.",
+  "summarySource": "knowledge",
+  "whyReadIt": "An emotionally direct, hard-to-put-down story of friendship and guilt. The book that put Afghan lives on millions of nightstands.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was Hosseini's first novel and became one of the best-selling literary debuts of its era.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

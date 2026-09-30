@@ -1,0 +1,78 @@
+{
+  "slug": "thirteen-plays-of-bh-sa",
+  "title": "Thirteen Plays of Bhāsa",
+  "subtitle": null,
+  "authors": [
+    "a-c-woolner",
+    "lakshman-sarup"
+  ],
+  "translator": null,
+  "originalLanguage": "Sanskrit",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Motilal Banarsidass",
+    "series": null,
+    "isbn": "9392510497",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/thirteen-plays-of-bh-sa.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6d4a38",
+    "w": 426,
+    "h": 648,
+    "palette": [
+      "#4a291e",
+      "#7e6755",
+      "#e29c53"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Bhasa",
+    "Sanskrit",
+    "drama",
+    "classic"
+  ],
+  "moods": [
+    "epic",
+    "dramatic",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "ancient Sanskrit theatre",
+      "heroes and lovers",
+      "a rediscovered master"
+    ],
+    "oneLine": "Thirteen plays by Bhasa, one of ancient India's earliest dramatists."
+  },
+  "summary": "Thirteen plays attributed to Bhasa, one of the earliest and greatest of the ancient Sanskrit dramatists, who wrote centuries before the classical age of Kalidasa. Drawing on the Mahabharata, Ramayana and popular legend, the plays range from heroic drama to romance and comedy, and were rediscovered only in the twentieth century. This scholarly translation makes accessible a foundational body of early Indian theatre, vivid, varied and startlingly stage-worthy for works well over a thousand years old.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Thirteen plays by ancient India's earliest great dramatist, rediscovered only last century. Foundational Sanskrit theatre.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Bhasa's plays were lost for centuries and rediscovered in a manuscript only in 1912.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "betty-friedan",
+  "name": "Betty Friedan",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Betty Friedan was an American feminist writer and activist. A leading figure in the women's movement in the United States, her 1963 book The Feminine Mystique is often credited with sparking the second wave of American feminism in the 20th century. In 1966, Friedan co-founded and was elected the first president of the National Organization",
+  "photo": null,
+  "books": [
+    "the-feminine-mystique"
+  ],
+  "enriched": false
+}

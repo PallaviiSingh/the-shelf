@@ -1,0 +1,76 @@
+{
+  "slug": "chernobyl-prayer",
+  "title": "Chernobyl Prayer",
+  "subtitle": null,
+  "authors": [
+    "svetlana-alexievich"
+  ],
+  "translator": "Anna Gunin & Arch Tait",
+  "originalLanguage": "Russian",
+  "translated": true,
+  "originalPublicationYear": 1997,
+  "edition": {
+    "publisher": "Penguin Books",
+    "series": "Penguin Classics",
+    "pageCount": 304
+  },
+  "cover": {
+    "file": "assets/covers/chernobyl-prayer.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/9780241270530-L.jpg?default=false",
+    "dominantColor": "#83837c",
+    "w": 326,
+    "h": 500,
+    "palette": [
+      "#676769",
+      "#828459",
+      "#d3e4e3"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Oral History & Reportage"
+  ],
+  "region": "Belarus / Ukraine",
+  "tags": [
+    "Chernobyl",
+    "disaster",
+    "testimony",
+    "Soviet"
+  ],
+  "moods": [
+    "bleak",
+    "haunting",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard"
+    ],
+    "sensory": [
+      "a poisoned zone",
+      "a firefighter's widow",
+      "voices of the fallout"
+    ],
+    "oneLine": "The voices of those who survived Chernobyl, gathered into a requiem."
+  },
+  "summary": "Svetlana Alexievich gathered the voices of those who lived through the 1986 Chernobyl nuclear disaster: the widows of firefighters, evacuated villagers, scientists, soldiers and children, each testifying to a catastrophe unlike any before it. Out of their monologues she builds a devastating oral history of loss, courage and a poisoned world. The Nobel laureate's method turns raw human testimony into literature, and this may be her most harrowing and unforgettable book, a requiem for a place and a way of life.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Alexievich's harrowing chorus of Chernobyl survivors, turning raw testimony into literature. A requiem you won't forget.",
+  "awards": [
+    "Part of the work honoured by the Nobel Prize in Literature 2015"
+  ],
+  "funFacts": [
+    {
+      "text": "Alexievich won the 2015 Nobel Prize for the documentary method this book exemplifies.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

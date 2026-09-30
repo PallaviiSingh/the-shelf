@@ -1,0 +1,17 @@
+{
+  "slug": "bhisham-sahni",
+  "name": "Bhisham Sahni",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Bhisham Sahni was an Indian writer, playwright in Hindi and an actor, most famous for his novel Tamas (\"Darkness\"/'Ignorance\") and the television screenplay adaptation of the same name, a powerful and passionate account of the partition of India. He was awarded the Padma Bhushan for literature in 1998, and Sahitya Akademi Fellowship in 2002. He",
+  "photo": {
+    "file": "assets/authors/bhisham-sahni.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bhisham_Sahni"
+  },
+  "books": [
+    "tamas"
+  ],
+  "enriched": false
+}

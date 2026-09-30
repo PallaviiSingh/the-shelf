@@ -1,0 +1,76 @@
+{
+  "slug": "the-man-who-was-thursday",
+  "title": "The Man who was Thursday",
+  "subtitle": null,
+  "authors": [
+    "g-k-chesterton"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1908,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin English Library",
+    "isbn": "9780141199771",
+    "pageCount": 162
+  },
+  "cover": {
+    "file": "assets/covers/the-man-who-was-thursday.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#57484a",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#3e3f41",
+      "#c7403f",
+      "#e0e8e7"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "anarchists",
+    "mystery",
+    "allegory",
+    "paradox"
+  ],
+  "moods": [
+    "surreal",
+    "playful",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a council of anarchists",
+      "a masked conspiracy",
+      "a metaphysical twist"
+    ],
+    "oneLine": "An undercover poet infiltrates anarchists, in a dizzying metaphysical thriller."
+  },
+  "summary": "A poet turned undercover detective infiltrates a secret council of anarchists, whose seven members are code-named for the days of the week, only to find that nothing and no one is what they seem. Chesterton's dizzying, paradoxical thriller spirals from spy caper into philosophical nightmare and finally into something like a religious allegory. Funny, dreamlike and endlessly interpreted, it is a one-of-a-kind novel that keeps pulling the rug from under you right to its startling end.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A spy thriller that turns into a dreamlike philosophical puzzle. Funny, surreal, and unlike anything else.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Chesterton subtitled it 'A Nightmare', and its meaning has been debated ever since.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

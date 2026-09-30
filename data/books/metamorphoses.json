@@ -1,0 +1,77 @@
+{
+  "slug": "metamorphoses",
+  "title": "Metamorphoses",
+  "subtitle": null,
+  "authors": [
+    "ovid"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 8,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9780141394619",
+    "pageCount": 394
+  },
+  "cover": {
+    "file": "assets/covers/metamorphoses.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#69553f",
+    "w": 613,
+    "h": 1000,
+    "palette": [
+      "#4a4a4a",
+      "#b37026",
+      "#7d5d39"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Verse Epic",
+    "Classic"
+  ],
+  "region": "Ancient Rome",
+  "tags": [
+    "myth",
+    "transformation",
+    "gods",
+    "Rome"
+  ],
+  "moods": [
+    "dreamlike",
+    "playful",
+    "epic"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "in bed at night",
+      "in a garden"
+    ],
+    "sensory": [
+      "gods and mortals",
+      "bodies transforming",
+      "endless myth"
+    ],
+    "oneLine": "Hundreds of myths of transformation, from the world's making to Rome."
+  },
+  "summary": "Ovid's shimmering epic strings together hundreds of Greek and Roman myths on a single theme: transformation. Gods and mortals turn into beasts, trees, stars and stones, in tales of love, lust, punishment and grief that flow one into the next from the creation of the world to Ovid's own day. Witty, sensuous and endlessly inventive, it is the single greatest source of classical mythology for later art and poetry, the book Shakespeare and countless others quietly plundered.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The great treasury of myth that later art keeps raiding. Sensuous, witty and full of gods behaving badly.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Much of what later painters and poets knew about Greek myth came through Ovid's version.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B4",
+  "enriched": true
+}

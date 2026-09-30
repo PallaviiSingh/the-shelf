@@ -1,0 +1,75 @@
+{
+  "slug": "on-writers-and-writing",
+  "title": "On Writers and Writing",
+  "subtitle": null,
+  "authors": [
+    "margaret-atwood"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2002,
+  "edition": {
+    "publisher": "Virago",
+    "series": null,
+    "isbn": "0349006237",
+    "pageCount": 219
+  },
+  "cover": {
+    "file": "assets/covers/on-writers-and-writing.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#78756c",
+    "w": 636,
+    "h": 1000,
+    "palette": [
+      "#b7b2af",
+      "#d4c16a",
+      "#887d3d"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays"
+  ],
+  "region": "Canada",
+  "tags": [
+    "writing",
+    "craft",
+    "creativity",
+    "lectures"
+  ],
+  "moods": [
+    "cerebral",
+    "playful"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "a lectern",
+      "the writer's bargain",
+      "a descent into imagination"
+    ],
+    "oneLine": "Atwood on the strange, haunted business of being a writer."
+  },
+  "summary": "Drawn from a series of lectures, Atwood's reflections on the writing life range wittily over why writers write, the figure of the author, the strange pact between writer and reader, and the descent into imagination that every book requires. Erudite, funny and personal, it is a wise companion for anyone who writes or simply loves books, delivered in the same dry, clever voice as her fiction. A generous look behind the curtain from a master of the craft.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Atwood on why writers write, witty and wise. A generous look behind the curtain for anyone who loves books.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It grew out of the Empson Lectures she delivered at the University of Cambridge.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A3",
+  "enriched": true
+}

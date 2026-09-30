@@ -1,0 +1,77 @@
+{
+  "slug": "far-from-the-madding-crowd",
+  "title": "Far from the Madding Crowd",
+  "subtitle": null,
+  "authors": [
+    "thomas-hardy"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1874,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "0141198931",
+    "pageCount": 424
+  },
+  "cover": {
+    "file": "assets/covers/far-from-the-madding-crowd.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#e7c581",
+    "w": 645,
+    "h": 1000,
+    "palette": [
+      "#f3d58c",
+      "#b67144",
+      "#ccae72"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Romance"
+  ],
+  "region": "England",
+  "tags": [
+    "Wessex",
+    "farming",
+    "love triangle",
+    "rural"
+  ],
+  "moods": [
+    "romantic",
+    "pastoral",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "on a rainy day",
+      "in the sun"
+    ],
+    "sensory": [
+      "the English countryside",
+      "a woman's own farm",
+      "three suitors"
+    ],
+    "oneLine": "An independent woman inherits a farm and juggles three suitors."
+  },
+  "summary": "The spirited and independent Bathsheba Everdene inherits a farm and finds herself pursued by three very different men: a steadfast shepherd, a prosperous older farmer, and a dashing, faithless soldier. Set in Hardy's beloved rural Wessex, this is his warmest major novel, a beautifully observed story of love, mistake and the rhythms of country life. More hopeful than his later tragedies, it pairs a strong-willed heroine with some of the loveliest writing about the English countryside.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Hardy's warmest novel, a strong heroine and three suitors in beautiful rural Wessex. His most hopeful major book.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was the first of Hardy's novels set in his fictional region of Wessex.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "murder-in-the-cathedral",
+  "title": "Murder in the Cathedral",
+  "subtitle": null,
+  "authors": [
+    "t-s-eliot"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1935,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 88
+  },
+  "cover": {
+    "file": "assets/covers/murder-in-the-cathedral.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8f7262",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#23404f",
+      "#cab083",
+      "#df6a52"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Verse Drama"
+  ],
+  "region": "England",
+  "tags": [
+    "faith",
+    "martyrdom",
+    "medieval",
+    "verse"
+  ],
+  "moods": [
+    "solemn",
+    "cerebral",
+    "haunting"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "in bed at night"
+    ],
+    "sensory": [
+      "Canterbury Cathedral",
+      "an archbishop's last days",
+      "the meaning of martyrdom"
+    ],
+    "oneLine": "Eliot's verse drama of Archbishop Becket's murder in the cathedral."
+  },
+  "summary": "T. S. Eliot's verse drama recreates the murder of Archbishop Thomas Becket in Canterbury Cathedral in 1170, focusing on the days before his death as he wrestles with pride, fear and the meaning of martyrdom. Written for a church festival, it is spare, incantatory and deeply serious, using a Greek-style chorus and Eliot's great poetic gift to turn a historical killing into a meditation on faith and sacrifice. A landmark of modern poetic theatre.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Eliot turning a medieval martyrdom into spare, incantatory poetic theatre. Solemn and deeply moving.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Eliot wrote it for the Canterbury Festival, near the very spot where Becket was killed.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

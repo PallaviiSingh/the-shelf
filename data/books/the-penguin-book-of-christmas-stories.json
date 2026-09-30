@@ -1,0 +1,76 @@
+{
+  "slug": "the-penguin-book-of-christmas-stories",
+  "title": "The Penguin Book of Christmas Stories",
+  "subtitle": null,
+  "authors": [
+    "jessica-harrison"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1843,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241455650",
+    "pageCount": 114
+  },
+  "cover": {
+    "file": "assets/covers/the-penguin-book-of-christmas-stories.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8f93a3",
+    "w": 619,
+    "h": 1135,
+    "trimmed": true,
+    "palette": [
+      "#1e294d",
+      "#4f566f"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories"
+  ],
+  "region": "World",
+  "tags": [
+    "Christmas",
+    "anthology",
+    "winter",
+    "festive"
+  ],
+  "moods": [
+    "comforting",
+    "quiet",
+    "tender"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "by a fire",
+      "in bed at night",
+      "in winter"
+    ],
+    "sensory": [
+      "snow",
+      "firelight",
+      "a story a night"
+    ],
+    "oneLine": "Christmas tales from two centuries, to read one a night by the fire."
+  },
+  "summary": "A warm gathering of Christmas tales from around the world and across two centuries, from Dickens and Chekhov to Truman Capote and beyond. The stories range from cosy and comic to strange and melancholy, capturing the whole emotional weather of the season rather than just its cheer. Ideal for reading one an evening through December, it is the kind of anthology to keep by the fire and return to each winter, a small tradition in book form.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A story a night for December, from Dickens to Capote. The whole weather of the season, cosy and melancholy alike.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The anthology spans writers from Dickens and Chekhov to Truman Capote.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

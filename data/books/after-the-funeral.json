@@ -1,0 +1,76 @@
+{
+  "slug": "after-the-funeral",
+  "title": "After The Funeral",
+  "subtitle": null,
+  "authors": [
+    "agatha-christie"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1953,
+  "edition": {
+    "publisher": "Harper Collins",
+    "series": null,
+    "isbn": "0007562691",
+    "pageCount": 237
+  },
+  "cover": {
+    "file": "assets/covers/after-the-funeral.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": null,
+    "dominantColor": "#3c3837",
+    "w": 322,
+    "h": 500,
+    "palette": [
+      "#241e1e",
+      "#ddd2d0",
+      "#f7db99"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Mystery & Crime"
+  ],
+  "region": "England",
+  "tags": [
+    "Poirot",
+    "inheritance",
+    "family",
+    "murder"
+  ],
+  "moods": [
+    "suspenseful",
+    "cerebral",
+    "playful"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to be thrilled",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a family gathering",
+      "a reading of the will",
+      "one careless remark"
+    ],
+    "oneLine": "A blurted accusation at a funeral, and the woman who said it is next."
+  },
+  "summary": "After a wealthy man's funeral, his scatty younger sister blurts out that he was surely murdered, and the next day she herself is killed. Hercule Poirot is quietly brought in to sort truth from the greedy, grieving family gathered for the will. A tightly plotted later Poirot, built on inheritance, disguise and a single throwaway remark that turns out to matter enormously, it is Christie doing what she did best: hiding the answer in plain sight.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Late, tightly plotted Poirot, with a clue hidden in one careless sentence. Christie's misdirection at its finest.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The plot turns on a tiny detail most readers skate right past, a classic Christie trick.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "edgar-allan-poe-collected-works",
+  "title": "Edgar Allan Poe Collected Works",
+  "subtitle": null,
+  "authors": [
+    "edgar-allan-poe"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1845,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "1607103141",
+    "pageCount": 42
+  },
+  "cover": {
+    "file": "assets/covers/edgar-allan-poe-collected-works.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#693e38",
+    "w": 720,
+    "h": 1120,
+    "palette": [
+      "#4e1413",
+      "#ce231c",
+      "#f5eacf"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Gothic & Horror",
+    "Short Stories",
+    "Classic"
+  ],
+  "region": "United States",
+  "tags": [
+    "horror",
+    "detective",
+    "the macabre",
+    "poetry"
+  ],
+  "moods": [
+    "haunting",
+    "unsettling",
+    "dreamlike"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "a short sitting",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "a crumbling house",
+      "a beating heart",
+      "a raven at the door"
+    ],
+    "oneLine": "The feverish source of both horror and the detective story."
+  },
+  "summary": "Everything that made Poe the master of American gothic, gathered in one volume: the tales of premature burial and beating hearts, the pioneering detective stories that invented the genre, and poems like The Raven that lodge in the memory forever. Poe wrote about dread, guilt and obsession with a feverish precision, turning the inside of a disturbed mind into architecture. Uneven at times, but at his best unmatched, he is the source almost every later writer of horror and mystery quietly drinks from.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The wellspring of horror and detective fiction both. Dip in anywhere for a jolt of beautifully controlled dread.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Poe's Murders in the Rue Morgue is widely considered the first modern detective story.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

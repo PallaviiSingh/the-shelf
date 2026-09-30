@@ -1,0 +1,77 @@
+{
+  "slug": "possession",
+  "title": "Possession",
+  "subtitle": null,
+  "authors": [
+    "a-s-byatt"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1990,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "99503921",
+    "pageCount": 528
+  },
+  "cover": {
+    "file": "assets/covers/possession.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#665758",
+    "w": 659,
+    "h": 1000,
+    "palette": [
+      "#392a41",
+      "#6c694f",
+      "#979e50"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Historical Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "scholars",
+    "Victorian poets",
+    "letters",
+    "mystery"
+  ],
+  "moods": [
+    "romantic",
+    "cerebral",
+    "dreamlike"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "dusty archives",
+      "Victorian letters",
+      "a scholarly chase"
+    ],
+    "oneLine": "Two scholars uncover a secret Victorian romance, and fall into their own."
+  },
+  "summary": "Two present-day academics, tracing a hidden love affair between a pair of Victorian poets, find themselves slowly drawn into a romance of their own. Byatt braids the two eras together with astonishing skill, inventing whole bodies of Victorian poetry and letters so convincing they feel unearthed rather than written. Part literary detective story, part love story, part meditation on how we possess the past and each other, it is a dazzling, demanding novel that won the Booker Prize and rewards every ounce of attention.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A literary treasure hunt and a double love story in one. Brainy and romantic at once, and unlike anything else.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Byatt invented entire volumes of convincing Victorian verse for the fictional poets; it won the 1990 Booker Prize.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

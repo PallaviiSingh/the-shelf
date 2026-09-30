@@ -1,0 +1,77 @@
+{
+  "slug": "quit-india-and-other-stories",
+  "title": "Quit India & Other Stories",
+  "subtitle": null,
+  "authors": [
+    "ismat-chughtai"
+  ],
+  "translator": null,
+  "originalLanguage": "Urdu",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Women Unlimited",
+    "series": null,
+    "isbn": "9385606131",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/quit-india-and-other-stories.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#967f85",
+    "w": 647,
+    "h": 1000,
+    "palette": [
+      "#998489",
+      "#b80c04",
+      "#ac4f53"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Urdu",
+    "Ismat Chughtai",
+    "women",
+    "short stories"
+  ],
+  "moods": [
+    "satirical",
+    "warm",
+    "defiant"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "middle-class Muslim life",
+      "women's small rebellions",
+      "an earthy voice"
+    ],
+    "oneLine": "Short stories by the bold Urdu writer Ismat Chughtai."
+  },
+  "summary": "A collection of short stories by Ismat Chughtai, the fearless Urdu writer who scandalised and delighted mid-century India with her frank, sharp-eyed portraits of middle-class Muslim women's lives. These stories take up desire, hypocrisy, class and the small rebellions of women hemmed in by convention, told in her signature earthy, unsentimental voice. A fine gathering from one of the boldest and most beloved figures in modern Urdu literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The fearless Ismat Chughtai on Muslim women's lives, desire and hypocrisy. Earthy, sharp and unsentimental.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Chughtai was once tried for obscenity over her frank story 'Lihaaf' (The Quilt).",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

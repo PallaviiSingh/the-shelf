@@ -1,0 +1,17 @@
+{
+  "slug": "e-t-a-hoffmann",
+  "name": "E.T.A. Hoffmann",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Ernst Theodor Amadeus Hoffmann was a German Romantic author of fantasy and gothic horror, a jurist, composer, music critic and artist. His short story \"The Sandman\" is seen as a pioneering work of horror fiction, while his novella Mademoiselle de Scuderi is regarded as one of the earliest examples of crime fiction.",
+  "photo": {
+    "file": "assets/authors/e-t-a-hoffmann.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/E._T._A._Hoffmann"
+  },
+  "books": [
+    "the-nutcracker"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "vyasa",
+  "name": "Vyasa",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Vyasa is a rishi (sage) with a prominent role in most Hindu traditions. He is also known as Veda Vyasa or Krishna Dvaipayana. Traditionally regarded as the author of the epic Mahābhārata, Vyasa also plays a prominent role as a character. He is also regarded by the Hindu traditions to be the compiler of the",
+  "photo": {
+    "file": "assets/authors/vyasa.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vyasa"
+  },
+  "books": [
+    "the-mahabharata-the-dicing-the-sequel-to-the-dicing-and-the-temptation"
+  ],
+  "enriched": false
+}

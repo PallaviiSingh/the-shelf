@@ -1,0 +1,18 @@
+{
+  "slug": "h-g-wells",
+  "name": "H.G. Wells",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Herbert George Wells was an English writer, prolific in many genres. He wrote more than forty novels and dozens of short stories. His non-fiction output included works of social commentary, politics, history, popular science, satire, biography, and autobiography. Wells is most known today for his groundbreaking science fiction novels; he has sometimes been called the",
+  "photo": {
+    "file": "assets/authors/h-g-wells.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/H._G._Wells"
+  },
+  "books": [
+    "invisible-man",
+    "the-time-machine"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "look-back-in-anger",
+  "title": "Look Back in Anger",
+  "subtitle": null,
+  "authors": [
+    "john-osborne",
+    "neeraj-malik"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1956,
+  "edition": {
+    "publisher": "Worldview Critical Edition",
+    "series": null,
+    "isbn": "8186423737",
+    "pageCount": 96
+  },
+  "cover": {
+    "file": "assets/covers/look-back-in-anger.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#bc4c29",
+    "w": 720,
+    "h": 1120,
+    "palette": [
+      "#e10104",
+      "#e4fc9b",
+      "#c9cf53"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama"
+  ],
+  "region": "England",
+  "tags": [
+    "class",
+    "postwar Britain",
+    "marriage",
+    "anger"
+  ],
+  "moods": [
+    "intense",
+    "bleak",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a cramped flat",
+      "a seething young man",
+      "postwar discontent"
+    ],
+    "oneLine": "A furious young man rages at his wife and postwar England."
+  },
+  "summary": "In a cramped one-room flat, the articulate, seething Jimmy Porter rages against his wife, his class, and a postwar England he finds hollow and complacent. John Osborne's explosive play introduced the 'angry young man' and detonated the polite conventions of British theatre, making room for a new realism of ordinary, working-class discontent. Raw, verbose and furious, it captured the frustration of a generation and remains a landmark that split British drama into before and after.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The play that blew up polite British theatre and coined the 'angry young man'. Raw, furious and era-defining.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It gave rise to the term 'angry young men' for a whole generation of British writers.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "fierce-history",
+  "title": "Fierce History",
+  "subtitle": null,
+  "authors": [
+    "colin-murphy"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2018,
+  "edition": {
+    "publisher": "O'Brien Press Ltd",
+    "series": null,
+    "isbn": "1788490290",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/fierce-history.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#ae9a78",
+    "w": 271,
+    "h": 440,
+    "palette": [
+      "#e4d099",
+      "#d1b06c",
+      "#ca2828"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History"
+  ],
+  "region": "Ireland",
+  "tags": [
+    "history",
+    "trivia",
+    "humour",
+    "Ireland"
+  ],
+  "moods": [
+    "playful",
+    "curious",
+    "witty"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to laugh",
+      "comfort reading"
+    ],
+    "sensory": [
+      "history's oddities",
+      "the bizarre and grotesque",
+      "stories to dip into"
+    ],
+    "oneLine": "The strangest, most startling stories from five thousand years of history."
+  },
+  "summary": "Colin Murphy's Fierce History gathers five thousand years of the strangest, most startling stories from Ireland and around the world, the bizarre, grotesque and unexpected episodes that rarely make it into the textbooks. From the eccentric siblings of the famous to flaming war-camels, botched assassinations and alarming medical practices, it is a compendium designed to intrigue, appall and make you laugh. Fast, funny and full of oddities, it is popular history at its most entertaining, ideal for dipping into.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Five thousand years of history's weirdest, grisliest and funniest stories. Popular history made purely for the fun of it.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its odd cast includes the lawman brother of Al Capone and the brother of the explorer Ernest Shackleton.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

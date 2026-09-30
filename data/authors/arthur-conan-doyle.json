@@ -1,0 +1,17 @@
+{
+  "slug": "arthur-conan-doyle",
+  "name": "Arthur Conan Doyle",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Sir Arthur Ignatius Conan Doyle was a British writer and physician. He is best known for his four novels and fifty-six short stories about the fictional consulting detective Sherlock Holmes and his assistant Dr. Watson, which are milestones in crime fiction, and for his first work featuring Professor Challenger, The Lost World (1912), which gave",
+  "photo": {
+    "file": "assets/authors/arthur-conan-doyle.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+  },
+  "books": [
+    "a-study-in-scarlet"
+  ],
+  "enriched": false
+}

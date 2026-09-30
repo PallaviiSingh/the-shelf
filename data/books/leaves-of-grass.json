@@ -1,0 +1,77 @@
+{
+  "slug": "leaves-of-grass",
+  "title": "Leaves of Grass",
+  "subtitle": null,
+  "authors": [
+    "walt-whitman"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1855,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9780241303122",
+    "pageCount": 384
+  },
+  "cover": {
+    "file": "assets/covers/leaves-of-grass.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#ca8a80",
+    "w": 575,
+    "h": 1000,
+    "palette": [
+      "#b8bdaf",
+      "#f50606",
+      "#e23d38"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "United States",
+  "tags": [
+    "America",
+    "the self",
+    "democracy",
+    "free verse"
+  ],
+  "moods": [
+    "expansive",
+    "joyful",
+    "luminous"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "in the sun",
+      "to think hard"
+    ],
+    "sensory": [
+      "a sprawling America",
+      "the singing self",
+      "open-armed free verse"
+    ],
+    "oneLine": "Whitman's revolutionary hymn to the self, the body and democratic America."
+  },
+  "summary": "Walt Whitman's revolutionary collection, which he revised and expanded throughout his life, sings of the self, the body, democracy and the vast sprawling life of America in sweeping, unrhymed free verse unlike anything before it. Barbaric, tender and endlessly generous, 'Song of Myself' and its companion poems remade what poetry could be and sound like. The founding book of American poetry, it still feels startlingly modern, alive and open-armed to the whole of human experience.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The founding book of American poetry, barbaric and tender, that invented modern free verse. Still startlingly alive.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Whitman kept revising and enlarging the book for nearly forty years, from 1855 until his death.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

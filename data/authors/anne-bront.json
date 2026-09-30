@@ -1,0 +1,17 @@
+{
+  "slug": "anne-bront",
+  "name": "Anne Brontë",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Anne Brontë was an English novelist and poet. A member of the Brontë literary family, she was the younger sister of Charlotte, Emily, and Branwell. Anne is known for her 1847 novel Agnes Grey and for her 1848 novel The Tenant of Wildfell Hall, which is considered to be one of the first feminist novels.",
+  "photo": {
+    "file": "assets/authors/anne-bront.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anne_Bront%C3%AB"
+  },
+  "books": [
+    "the-tenant-of-wildfell-hall"
+  ],
+  "enriched": false
+}

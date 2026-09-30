@@ -1,0 +1,75 @@
+{
+  "slug": "the-canterbury-tales",
+  "title": "The Canterbury Tales",
+  "subtitle": null,
+  "authors": [
+    "geoffrey-chaucer"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1400,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "0141393211",
+    "pageCount": 427
+  },
+  "cover": {
+    "file": "assets/covers/the-canterbury-tales.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4f6369",
+    "w": 603,
+    "h": 1000,
+    "palette": [
+      "#415764",
+      "#a1ad88"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "pilgrimage",
+    "medieval",
+    "comedy",
+    "England"
+  ],
+  "moods": [
+    "playful",
+    "satirical",
+    "epic"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to laugh",
+      "to think hard"
+    ],
+    "sensory": [
+      "a pilgrim road",
+      "a roadside inn",
+      "tales tall and bawdy"
+    ],
+    "oneLine": "Pilgrims to Canterbury swap stories, and Chaucer paints all of medieval England."
+  },
+  "summary": "A boisterous company of pilgrims, from a bawdy Wife of Bath to a corrupt Pardoner, ride toward Canterbury telling stories to pass the time, and Chaucer uses their tales to paint the whole of medieval English society with wit, warmth and sly satire. Written in Middle English, it is funny, earthy and astonishingly alive, the great foundational work of English poetry and a portrait gallery of humanity that still feels startlingly modern in its appetites and hypocrisies.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Funny, bawdy and astonishingly alive for six hundred years old. The foundation of English poetry, and a riot of human types.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is one of the earliest major works written in English rather than French or Latin.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C3",
+  "enriched": true
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "svetlana-alexievich",
+  "name": "Svetlana Alexievich",
+  "birthYear": 1948,
+  "deathYear": null,
+  "nationality": "Belarusian",
+  "bio": "Belarusian journalist and oral historian who built a whole genre out of thousands of interviews, weaving individual testimony into a single collective voice. Her subjects include the Soviet war in Afghanistan, Chernobyl and the fall of the USSR. She won the 2015 Nobel Prize in Literature for her 'polyphonic writings.'",
+  "photo": {
+    "file": "assets/authors/svetlana-alexievich.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Svetlana_Alexievich",
+    "license": "FAL",
+    "attribution": "A.Savin"
+  },
+  "books": [
+    "chernobyl-prayer"
+  ]
+}

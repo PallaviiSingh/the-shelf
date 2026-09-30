@@ -1,0 +1,76 @@
+{
+  "slug": "heidi",
+  "title": "Heidi",
+  "subtitle": null,
+  "authors": [
+    "johanna-spyri"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1881,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 284
+  },
+  "cover": {
+    "file": "assets/covers/heidi.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7db581",
+    "w": 720,
+    "h": 1054,
+    "palette": [
+      "#a4d3dc",
+      "#7ac042",
+      "#0184c7"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "Switzerland",
+  "tags": [
+    "Alps",
+    "childhood",
+    "home",
+    "nature"
+  ],
+  "moods": [
+    "comforting",
+    "hopeful",
+    "luminous"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "in bed at night",
+      "in the sun"
+    ],
+    "sensory": [
+      "the Swiss Alps",
+      "a grandfather's hut",
+      "mountain air"
+    ],
+    "oneLine": "An orphan's warmth thaws a gruff grandfather high in the Alps."
+  },
+  "summary": "An orphaned girl is sent to live with her gruff grandfather high in the Swiss Alps, and her warmth slowly thaws him and everyone she meets, until she is torn away to the city and pines for the mountains. Johanna Spyri's beloved children's classic is a sunlit story of home, nature and the healing power of a good heart. Simple and deeply comforting, it has kept its charm for well over a century and remains a perfect gentle read for children and grown-ups alike.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Pure comfort: mountains, goats, and a child who warms everyone she meets. The literary equivalent of fresh alpine air.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The novel has made the Swiss Alps a place of pilgrimage for readers for over a century.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

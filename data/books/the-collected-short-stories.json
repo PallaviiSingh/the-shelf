@@ -1,0 +1,76 @@
+{
+  "slug": "the-collected-short-stories",
+  "title": "The Collected Short Stories",
+  "subtitle": null,
+  "authors": [
+    "satyajit-ray"
+  ],
+  "translator": null,
+  "originalLanguage": "Bengali",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "9780143425052",
+    "pageCount": 80
+  },
+  "cover": {
+    "file": "assets/covers/the-collected-short-stories.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#aa8171",
+    "w": 644,
+    "h": 1000,
+    "palette": [
+      "#640808",
+      "#fae8b1",
+      "#e0cb9d"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Bengali",
+    "Satyajit Ray",
+    "short stories"
+  ],
+  "moods": [
+    "playful",
+    "eerie",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "in bed at night",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "eerie tales",
+      "twist endings",
+      "a filmmaker's imagination"
+    ],
+    "oneLine": "The clever, wide-ranging short stories of Satyajit Ray."
+  },
+  "summary": "A collection of the short stories of Satyajit Ray, the legendary filmmaker who was also a gifted and hugely popular writer in Bengali. Ranging from eerie and supernatural tales to twist-in-the-tail mysteries and science fiction, his stories are ingenious, witty and beautifully crafted for readers of all ages. Beyond the cinema, Ray built a whole literary world, and this gathering shows the same imagination and precision that made him one of the great storytellers of modern India.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The ingenious, witty short stories of the legendary Satyajit Ray, filmmaker and beloved Bengali writer. Craft and imagination.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Ray also created the beloved boy scientist Professor Shonku and the detective Feluda.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

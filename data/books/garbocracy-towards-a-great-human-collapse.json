@@ -1,0 +1,77 @@
+{
+  "slug": "garbocracy-towards-a-great-human-collapse",
+  "title": "Garbocracy: Towards a Great Human Collapse",
+  "subtitle": null,
+  "authors": [
+    "sayan-dey"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2025,
+  "edition": {
+    "publisher": "Peter Lang International Academic",
+    "series": null,
+    "isbn": "1803747293",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/garbocracy-towards-a-great-human-collapse.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8b8fa5",
+    "w": 664,
+    "h": 1000,
+    "palette": [
+      "#9797b3",
+      "#2a4ea0",
+      "#dfdbd2"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Environmental Humanities",
+    "Criticism"
+  ],
+  "region": "India",
+  "tags": [
+    "waste",
+    "power",
+    "caste",
+    "India",
+    "Anthropocene"
+  ],
+  "moods": [
+    "cerebral",
+    "political",
+    "urgent"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "waste as power",
+      "caste and garbage",
+      "the Anthropocene"
+    ],
+    "oneLine": "How the making and dumping of waste becomes a system of power in India."
+  },
+  "summary": "Sayan Dey coins the word 'garbocracy' to argue that in contemporary India the making, dumping, moving and regulating of waste is itself a system of power, shaped by caste, class, religion and politics and falling hardest on the marginalised. Ranging across posthumanism, decolonial thought and the Anthropocene, he treats garbage heaps as governing forces that quietly shape how people think and live, before turning to imagine what he calls counter-garbocratic futures. A provocative academic study of waste and power.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A provocative study that reads India's waste as a system of power and caste. Sharp environmental-humanities thinking.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Dey structures the book around four operations of waste: accumulating, disposing, distributing and regulating.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "01",
+  "enriched": true
+}

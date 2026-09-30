@@ -1,0 +1,76 @@
+{
+  "slug": "intermezzo",
+  "title": "Intermezzo",
+  "subtitle": null,
+  "authors": [
+    "sally-rooney"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2024,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 454
+  },
+  "cover": {
+    "file": "assets/covers/intermezzo.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5366ac",
+    "w": 720,
+    "h": 1152,
+    "palette": [
+      "#003aeb",
+      "#010e3b",
+      "#01289e"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Ireland",
+  "tags": [
+    "brothers",
+    "grief",
+    "chess",
+    "love"
+  ],
+  "moods": [
+    "tender",
+    "melancholic",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "on a rainy day",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "Dublin",
+      "a chessboard",
+      "a father's absence"
+    ],
+    "oneLine": "Two grieving brothers fumble through love after their father's death."
+  },
+  "summary": "After their father's death, two very different brothers, a buttoned-up lawyer and a younger competitive chess player, grieve and blunder through their tangled love lives in contemporary Dublin. Rooney turns her precise attention from young lovers to family, masculinity and the awkward tenderness between siblings, writing about desire and mourning with her usual quiet intensity and, this time, a more experimental, interior style. It is her most emotionally expansive novel, a study of two men trying, and mostly failing, to say what they feel.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Rooney's warmest, most grown-up novel, about brothers and grief. If you have resisted her before, this may be the one that wins you.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The title is a chess and musical term for an interlude, fitting for a novel about a chess player between moves.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

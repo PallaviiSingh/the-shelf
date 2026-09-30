@@ -1,0 +1,71 @@
+{
+  "slug": "heidegger-for-beginners",
+  "title": "Heidegger for Beginners",
+  "subtitle": null,
+  "authors": [
+    "lemay-pitts-e"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orient Blackswan",
+    "series": null,
+    "isbn": "8125028994",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/heidegger-for-beginners.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#825f75",
+    "w": 500,
+    "h": 766,
+    "palette": [
+      "#52259d",
+      "#4057ac",
+      "#c8e305"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy",
+    "Introduction",
+    "Graphic & Comics"
+  ],
+  "region": "Germany",
+  "tags": [
+    "philosophy",
+    "Heidegger",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "the question of Being",
+      "being-in-the-world",
+      "cartoons and clarity"
+    ],
+    "oneLine": "An illustrated introduction to the philosophy of Heidegger."
+  },
+  "summary": "Part of the illustrated For Beginners series, this book tackles the formidable philosophy of Martin Heidegger, from his central question of Being to concepts like being-in-the-world and authenticity, through clear text and cartoons. It sets his difficult ideas in context and traces their huge influence on later thought. An accessible, if inevitably simplified, first step into one of the most challenging philosophers of the twentieth century.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The formidable Heidegger made approachable with text and cartoons. A brave first step into very hard philosophy.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

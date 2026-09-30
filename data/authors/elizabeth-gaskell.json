@@ -1,0 +1,19 @@
+{
+  "slug": "elizabeth-gaskell",
+  "name": "Elizabeth Gaskell",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Elizabeth Cleghorn Gaskell, often referred to as Mrs Gaskell, was an English novelist, biographer, and short story writer. Her novels offer detailed studies of Victorian society, including the lives of the very poor. Her first novel, Mary Barton, was published in 1848. Her only biography The Life of Charlotte Brontë, published in 1857, was controversial",
+  "photo": {
+    "file": "assets/authors/elizabeth-gaskell.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Elizabeth_Gaskell"
+  },
+  "books": [
+    "cranford",
+    "north-and-south",
+    "wives-and-daughters"
+  ],
+  "enriched": false
+}

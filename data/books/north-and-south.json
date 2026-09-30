@@ -1,0 +1,76 @@
+{
+  "slug": "north-and-south",
+  "title": "North and South",
+  "subtitle": null,
+  "authors": [
+    "elizabeth-gaskell"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1855,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin English Library",
+    "isbn": "9780141198927",
+    "pageCount": 452
+  },
+  "cover": {
+    "file": "assets/covers/north-and-south.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b2b4b5",
+    "w": 604,
+    "h": 1000,
+    "palette": [
+      "#b4b8b9",
+      "#6f5157"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Romance"
+  ],
+  "region": "England",
+  "tags": [
+    "industrial",
+    "class",
+    "North England",
+    "factory"
+  ],
+  "moods": [
+    "romantic",
+    "political",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a northern mill town",
+      "a workers' strike",
+      "a proud manufacturer"
+    ],
+    "oneLine": "A southern girl clashes with a northern mill owner, and industrial England."
+  },
+  "summary": "Uprooted from the gentle south of England to a harsh northern mill town, Margaret Hale collides with the industrial world, its strikes and its poverty, and with the proud manufacturer John Thornton. Gaskell weaves a slow-burning romance into a serious study of the divide between agrarian south and industrial north, masters and workers, prejudice and understanding. Both a love story and a thoughtful social novel, it gives its heroine real moral and political weight.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A slow-burn romance wrapped in a serious novel about industrial England. Its heroine has real spine.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Gaskell wrote it partly to give the industrial working class a sympathetic voice in fiction.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

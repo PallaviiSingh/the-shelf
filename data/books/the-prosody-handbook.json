@@ -1,0 +1,70 @@
+{
+  "slug": "the-prosody-handbook",
+  "title": "The Prosody Handbook",
+  "subtitle": null,
+  "authors": [
+    "robert-beum",
+    "karl-shapiro"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Dover Publications Inc.",
+    "series": null,
+    "isbn": "048644967X",
+    "pageCount": 227
+  },
+  "cover": {
+    "file": "assets/covers/the-prosody-handbook.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6f8465",
+    "w": 634,
+    "h": 1000,
+    "palette": [
+      "#3b5437",
+      "#678555",
+      "#9cae84"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Reference",
+    "Poetry"
+  ],
+  "region": "World",
+  "tags": [
+    "prosody",
+    "poetry",
+    "craft",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "curious"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "meter and rhythm",
+      "the sound of verse",
+      "the poet's craft"
+    ],
+    "oneLine": "A practical handbook of English meter, rhythm and verse form."
+  },
+  "summary": "Robert Beum and Karl Shapiro's handbook is a clear, practical guide to English prosody, the study of meter, rhythm, rhyme and the sound patterns of verse. It explains how poems work at the level of the line, from iambic pentameter to stanza forms, with abundant examples. Accessible and enduringly useful, it helps readers hear what poetry is doing and gives writers the tools of the craft. A concise classic for anyone serious about how verse is made.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A clear, practical guide to how verse actually works, meter, rhythm and rhyme. A concise classic of craft.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "D3",
+  "enriched": true
+}

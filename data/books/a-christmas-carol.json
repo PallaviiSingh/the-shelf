@@ -1,0 +1,76 @@
+{
+  "slug": "a-christmas-carol",
+  "title": "A Christmas Carol",
+  "subtitle": null,
+  "authors": [
+    "charles-dickens"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1843,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "0143122495",
+    "pageCount": 114
+  },
+  "cover": {
+    "file": "assets/covers/a-christmas-carol.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d6c0c6",
+    "w": 720,
+    "h": 1099,
+    "palette": [
+      "#dfd9e3",
+      "#b80a22",
+      "#c4727f"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "Christmas",
+    "redemption",
+    "ghosts",
+    "Victorian"
+  ],
+  "moods": [
+    "comforting",
+    "haunting",
+    "hopeful"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "by a fire",
+      "in bed at night",
+      "in winter"
+    ],
+    "sensory": [
+      "foggy London",
+      "three ghosts",
+      "a change of heart"
+    ],
+    "oneLine": "Three ghosts give a miser one night to change his heart."
+  },
+  "summary": "The miser Ebenezer Scrooge, visited on Christmas Eve by the ghosts of Christmas past, present and yet to come, is shown his own hard heart and given the chance to change before it is too late. Dickens's short, perfect ghost story more or less invented Christmas as we celebrate it, and its message of generosity and second chances has never dated. Warm, spooky and genuinely moving, it is the book to read aloud every December.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Christmas story, and it earns its place every single year. Short, warm, a little spooky, and impossible not to love.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was so influential that it helped shape the modern Victorian idea of Christmas itself.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

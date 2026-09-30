@@ -1,0 +1,76 @@
+{
+  "slug": "duma-key",
+  "title": "Duma Key",
+  "subtitle": null,
+  "authors": [
+    "stephen-king"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2008,
+  "edition": {
+    "publisher": "Hodder & Stoughton",
+    "series": null,
+    "isbn": "9781444707908",
+    "pageCount": 687
+  },
+  "cover": {
+    "file": "assets/covers/duma-key.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#2a628e",
+    "w": 644,
+    "h": 1000,
+    "palette": [
+      "#056cb3",
+      "#0b4f82",
+      "#0d243c"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Gothic & Horror"
+  ],
+  "region": "United States",
+  "tags": [
+    "art",
+    "recovery",
+    "Florida",
+    "the supernatural"
+  ],
+  "moods": [
+    "unsettling",
+    "suspenseful",
+    "melancholic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "by the water",
+      "in bed at night",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a Florida shore",
+      "haunted paintings",
+      "a rising tide"
+    ],
+    "oneLine": "A broken man finds he can paint, and his pictures start coming true."
+  },
+  "summary": "After a terrible accident costs him an arm and his old life, Edgar Freemantle retreats to a lonely Florida key to recover, and discovers he can paint, with a talent that turns out to be supernatural and dangerous. As his eerie pictures begin to shape reality, an ancient malevolence stirs on the island. One of King's later, more reflective novels, it braids a genuine story of grief and healing through its mounting horror, and is unusually moving about loss, art and second chances.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Later, more soulful King: a ghost story that is really about grief, art and starting over. Slow to build, then hard to put down.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "King wrote it after his own near-fatal accident, and the theme of recovery is drawn from that.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

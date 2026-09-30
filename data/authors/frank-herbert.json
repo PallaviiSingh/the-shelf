@@ -1,0 +1,19 @@
+{
+  "slug": "frank-herbert",
+  "name": "Frank Herbert",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Franklin Patrick Herbert Jr. was an American science-fiction author, best known for his 1965 novel Dune and five sequels to it. He also wrote short stories and worked as a newspaper journalist, photographer, book reviewer, ecological consultant, and lecturer.",
+  "photo": {
+    "file": "assets/authors/frank-herbert.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Frank_Herbert"
+  },
+  "books": [
+    "children-of-dune",
+    "dune",
+    "dune-messiah"
+  ],
+  "enriched": false
+}

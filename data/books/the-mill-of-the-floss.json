@@ -1,0 +1,76 @@
+{
+  "slug": "the-mill-of-the-floss",
+  "title": "The Mill of the Floss",
+  "subtitle": null,
+  "authors": [
+    "george-eliot"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1860,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "0141198915",
+    "pageCount": 540
+  },
+  "cover": {
+    "file": "assets/covers/the-mill-of-the-floss.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#316671",
+    "w": 646,
+    "h": 1000,
+    "palette": [
+      "#1c5568",
+      "#9ecad0",
+      "#386e7f"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "siblings",
+    "provincial",
+    "tragedy",
+    "coming of age"
+  ],
+  "moods": [
+    "melancholic",
+    "tender",
+    "tragic"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a riverside mill",
+      "a fierce sibling bond",
+      "a thwarted heart"
+    ],
+    "oneLine": "A clever girl and her rigid brother, and a small world that won't hold her."
+  },
+  "summary": "Clever, passionate Maggie Tulliver grows up chafing against the narrow expectations of her provincial family and her fierce bond with her rigid brother Tom, on whom her heart depends even as he judges her. George Eliot's most autobiographical novel is a deeply felt study of intelligence and desire thwarted by a small, unforgiving world, building to one of the most famous and heartbreaking endings in Victorian fiction. Rich, sympathetic and quietly devastating.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Eliot's most personal novel, a brilliant girl trapped by a small world. That ending is unforgettable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The novel draws heavily on Eliot's own childhood and her painful estrangement from her brother.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

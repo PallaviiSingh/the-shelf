@@ -1,0 +1,17 @@
+{
+  "slug": "alexander-dumas",
+  "name": "Alexander Dumas",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Alexandre Dumas, also known as Alexandre Dumas père, was a French novelist and playwright.",
+  "photo": {
+    "file": "assets/authors/alexander-dumas.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Alexandre_Dumas"
+  },
+  "books": [
+    "the-count-of-monte-cristo"
+  ],
+  "enriched": false
+}

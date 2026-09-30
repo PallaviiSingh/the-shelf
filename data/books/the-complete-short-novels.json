@@ -1,0 +1,77 @@
+{
+  "slug": "the-complete-short-novels",
+  "title": "The Complete short Novels",
+  "subtitle": null,
+  "authors": [
+    "anton-chekhov"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1898,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 554
+  },
+  "cover": {
+    "file": "assets/covers/the-complete-short-novels.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5c3d36",
+    "w": 279,
+    "h": 450,
+    "palette": [
+      "#291b12",
+      "#544035",
+      "#ab9484"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Short Stories"
+  ],
+  "region": "Russia",
+  "tags": [
+    "Russia",
+    "provincial life",
+    "longing",
+    "Chekhov"
+  ],
+  "moods": [
+    "quiet",
+    "melancholic",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "on a rainy day",
+      "to relax and unwind",
+      "to think hard"
+    ],
+    "sensory": [
+      "provincial towns",
+      "a country estate",
+      "unspoken feeling"
+    ],
+    "oneLine": "Chekhov at novella length, finding all of life in quiet provincial rooms."
+  },
+  "summary": "Chekhov is usually celebrated for his short stories, but these longer pieces, gathered here, show him at full stretch. Works like The Duel, Ward No. 6 and The Story of an Unknown Man move at a novelist's pace while keeping his famous restraint, watching provincial doctors, drifters and disappointed lovers fail to say what they mean. Nothing is underlined and nothing is wasted. Together they make the quiet, humane case that ordinary lives, carefully observed, hold all the drama anyone could need.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Chekhov with more room to breathe. Quiet, humane and endlessly re-readable, the perfect antidote to plot-heavy fiction.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Chekhov, a working doctor, called medicine his lawful wife and literature his mistress.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A4",
+  "enriched": true
+}

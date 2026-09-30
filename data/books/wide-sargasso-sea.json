@@ -1,0 +1,77 @@
+{
+  "slug": "wide-sargasso-sea",
+  "title": "Wide Sargasso Sea",
+  "subtitle": null,
+  "authors": [
+    "jean-rhys"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1966,
+  "edition": {
+    "publisher": "Penguin UK",
+    "series": null,
+    "isbn": "0241951550",
+    "pageCount": 189
+  },
+  "cover": {
+    "file": "assets/covers/wide-sargasso-sea.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8998bc",
+    "w": 720,
+    "h": 1172,
+    "palette": [
+      "#8398c2",
+      "#b0b4c5",
+      "#e5decb"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Postcolonial"
+  ],
+  "region": "Caribbean",
+  "tags": [
+    "Caribbean",
+    "madness",
+    "retelling",
+    "colonialism"
+  ],
+  "moods": [
+    "haunting",
+    "sensual",
+    "melancholic"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a lush Caribbean estate",
+      "a doomed marriage",
+      "a suppressed history"
+    ],
+    "oneLine": "The untold story of Jane Eyre's madwoman, in the lush colonial Caribbean."
+  },
+  "summary": "Jean Rhys reimagines the life of the 'madwoman in the attic' from Jane Eyre, giving voice to Antoinette, a Creole heiress in the lush, haunted Caribbean, and tracing how a marriage to a cold Englishman drives her toward the fate Bronte assigned her. Lyrical, feverish and steeped in the colonial history Bronte left offstage, it is a landmark of postcolonial and feminist fiction. A short, hypnotic novel that changes how you read its famous source forever.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The 'madwoman in the attic' from Jane Eyre, finally given her own voice. Lyrical, feverish, and quietly devastating.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Rhys spent decades on the book, reclaiming a character Charlotte Bronte had left silent.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

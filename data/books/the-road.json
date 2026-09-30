@@ -1,0 +1,74 @@
+{
+  "slug": "the-road",
+  "title": "The Road",
+  "subtitle": null,
+  "authors": [
+    "cormac-mccarthy"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2006,
+  "edition": {
+    "publisher": "Picador",
+    "series": null,
+    "isbn": "1035003791",
+    "pageCount": 256
+  },
+  "cover": {
+    "file": "assets/covers/the-road.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5f5b59",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#151213"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "post-apocalyptic",
+    "father and son",
+    "survival",
+    "love"
+  ],
+  "moods": [
+    "bleak",
+    "tender",
+    "haunting"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "in bed at night",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a grey wasteland",
+      "a shared blanket",
+      "a carried fire"
+    ],
+    "oneLine": "A father and son walk through a dead world, carrying their love through it."
+  },
+  "summary": "A father and his young son walk south through a grey, ash-covered America after an unnamed catastrophe, scavenging for food and dodging the desperate remnants of humanity, carrying 'the fire' of their love and decency through a dead world. McCarthy strips his prose almost to the bone, and the result is unbearably tender as well as terrifying, one of the great books about parenthood disguised as a horror. Spare, devastating and, at its core, about the fiercest love there is.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A horror of a dead world that is really the tenderest book about a father and son. Spare, devastating, unforgettable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won the Pulitzer Prize; McCarthy dedicated it to his own young son.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

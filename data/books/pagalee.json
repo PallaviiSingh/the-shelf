@@ -1,0 +1,76 @@
+{
+  "slug": "pagalee",
+  "title": "Pagalee",
+  "subtitle": null,
+  "authors": [
+    "shivrani-devi"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Nayee kitab prakashan",
+    "series": null,
+    "isbn": "9789348650627",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/pagalee.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d4cfce",
+    "w": 363,
+    "h": 550,
+    "palette": [
+      "#e7e4e3",
+      "#d26165"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Shivrani Devi",
+    "women",
+    "short stories"
+  ],
+  "moods": [
+    "tender",
+    "defiant",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "women's lives",
+      "social constraints",
+      "a recovered voice"
+    ],
+    "oneLine": "Newly collected short stories of the writer Shivrani Devi."
+  },
+  "summary": "Pagli gathers the scattered, previously uncollected short stories of Shivrani Devi, the Hindi writer and freedom fighter long known chiefly as Premchand's wife. Part of a recent effort to restore her as an author in her own right, the collection brings together fiction centred on women's lives, courage and the social constraints of her time. It reveals a writer with her own convictions and a plain-spoken directness that set her apart in early twentieth-century Hindi literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Newly gathered stories of Shivrani Devi, restoring a bold early Hindi woman writer to her own name.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The collection is part of a recent revival of Shivrani Devi's writing, decades after her death.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

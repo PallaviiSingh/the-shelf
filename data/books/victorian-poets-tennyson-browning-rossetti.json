@@ -1,0 +1,76 @@
+{
+  "slug": "victorian-poets-tennyson-browning-rossetti",
+  "title": "Victorian Poets- Tennyson, Browning, Rossetti",
+  "subtitle": null,
+  "authors": [
+    "suroopa-mukherjee"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Worldview Critical Editions",
+    "series": null,
+    "isbn": "818642329X",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/victorian-poets-tennyson-browning-rossetti.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b3856e",
+    "w": 663,
+    "h": 1000,
+    "palette": [
+      "#9e6450",
+      "#f4e3b3",
+      "#e6ca86"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Poetry",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "Victorian",
+    "criticism",
+    "study guide",
+    "19th century"
+  ],
+  "moods": [
+    "cerebral",
+    "melancholic",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "Victorian verse",
+      "the dramatic monologue",
+      "a student's companion"
+    ],
+    "oneLine": "A critical guide to the Victorian poetry of Tennyson, Browning and Rossetti."
+  },
+  "summary": "A critical study of three towering Victorian poets: Alfred Tennyson, Robert Browning and Dante Gabriel Rossetti, whose work defined the poetry of nineteenth-century England, from Tennyson's grand elegies to Browning's dramatic monologues. Prepared as a student's companion, it offers context and close readings to guide new readers through their language, forms and preoccupations. A helpful scholarly introduction to the age when English poetry grappled with faith, doubt, love and industrial modernity.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A scholarly guide to Tennyson, Browning and Rossetti, the poets who defined the Victorian age.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Browning's dramatic monologues, spoken by invented characters, influenced modern poetry deeply.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

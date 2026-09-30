@@ -1,0 +1,77 @@
+{
+  "slug": "dubliners",
+  "title": "Dubliners",
+  "subtitle": null,
+  "authors": [
+    "james-joyce"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1914,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin English Library",
+    "isbn": "0141199628",
+    "pageCount": 240
+  },
+  "cover": {
+    "file": "assets/covers/dubliners.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#674148",
+    "w": 720,
+    "h": 1105,
+    "palette": [
+      "#492645",
+      "#f3cf5e",
+      "#cf9a50"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Short Stories"
+  ],
+  "region": "Ireland",
+  "tags": [
+    "Dublin",
+    "paralysis",
+    "epiphany",
+    "short fiction"
+  ],
+  "moods": [
+    "melancholic",
+    "quiet",
+    "luminous"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "early-century Dublin",
+      "ordinary lives",
+      "a moment of clarity"
+    ],
+    "oneLine": "Fifteen quietly devastating stories of ordinary Dublin life."
+  },
+  "summary": "Fifteen stories trace the ordinary lives of early twentieth-century Dubliners, from childhood to old age, each quietly building to a moment of painful clarity Joyce called an epiphany. Written in spare, precise prose utterly unlike his later experiments, these tales of thwarted love, small failures and spiritual paralysis end with 'The Dead', one of the greatest short stories ever written. A perfect, accessible introduction to Joyce and a masterpiece of the form in its own right.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Joyce at his most accessible, fifteen perfect stories of ordinary Dublin lives. 'The Dead' alone is one of the finest ever written.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The closing story, 'The Dead', is frequently named among the greatest short stories in English.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

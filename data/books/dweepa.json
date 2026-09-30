@@ -1,0 +1,77 @@
+{
+  "slug": "dweepa",
+  "title": "Dweepa",
+  "subtitle": null,
+  "authors": [
+    "n-a-dsouza"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Oxford University Press",
+    "series": null,
+    "isbn": "0198097441",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/dweepa.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#509dad",
+    "w": 691,
+    "h": 1000,
+    "palette": [
+      "#59b6c8",
+      "#447a86",
+      "#131b22"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "dam",
+    "displacement",
+    "Karnataka",
+    "translation"
+  ],
+  "moods": [
+    "atmospheric",
+    "tense",
+    "tragic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to feel something deeply",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a rising reservoir",
+      "a village about to drown",
+      "a family holding on"
+    ],
+    "oneLine": "A family clings to its land as a new dam prepares to drown their village."
+  },
+  "summary": "Translated from the Kannada, Na D'Souza's novel follows a family whose village is about to be submerged by a new dam, as most neighbours leave but they hold on to their land and their island of higher ground. A quietly powerful story of development and displacement, it captures the human cost of the dams that flooded so many Indian villages in the name of progress. Spare and moving, it gives a face to the countless people uprooted by large projects, and was later made into an acclaimed film.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A spare, moving Kannada novel about a family whose village is drowned by a dam. The human cost of 'progress'.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was adapted into an award-winning Kannada film of the same name.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "cats-cradle",
+  "title": "Cat's Cradle",
+  "subtitle": null,
+  "authors": [
+    "kurt-vonnegut"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1963,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "141189347",
+    "pageCount": 231
+  },
+  "cover": {
+    "file": "assets/covers/cats-cradle.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#527055",
+    "w": 326,
+    "h": 500,
+    "palette": [
+      "#019492",
+      "#253823",
+      "#b0b170"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Science Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "apocalypse",
+    "science",
+    "religion",
+    "satire"
+  ],
+  "moods": [
+    "satirical",
+    "playful",
+    "bleak"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to laugh",
+      "to think hard"
+    ],
+    "sensory": [
+      "a doomsday substance",
+      "an invented religion",
+      "the end of the world"
+    ],
+    "oneLine": "A doomsday ice, a made-up religion, and the end of the world, played for laughs."
+  },
+  "summary": "A writer researching the father of the atom bomb stumbles onto ice-nine, a substance that can freeze all the world's water, and onto Bokononism, an invented religion built openly on comforting lies. Vonnegut's fast, funny, doom-laced satire skewers science without conscience, blind faith and human folly, building with deadpan glee toward the end of the world. Short and endlessly quotable, it is one of his sharpest, a comic novel about the apocalypse that is somehow a delight to read.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Vonnegut at his funniest and bleakest, a comic apocalypse you race through. Short, quotable, and quietly furious.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Vonnegut's invented religion, Bokononism, has real-life adherents who take its comforting 'lies' to heart.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "satantango",
+  "title": "Satantango",
+  "subtitle": null,
+  "authors": [
+    "laszl-krasznahorkai"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1985,
+  "edition": {
+    "publisher": "Tuskar Rock",
+    "series": null,
+    "isbn": "1788166353",
+    "pageCount": 287
+  },
+  "cover": {
+    "file": "assets/covers/satantango.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#2d2f31",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#212224"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Hungary",
+  "tags": [
+    "Hungary",
+    "decay",
+    "apocalyptic",
+    "translated"
+  ],
+  "moods": [
+    "bleak",
+    "dreamlike",
+    "cerebral"
+  ],
+  "difficulty": "summit",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "endless rain",
+      "a dying farm",
+      "a false messiah"
+    ],
+    "oneLine": "A ruined village waits for salvation, and a swindler answers."
+  },
+  "summary": "On a collapsing collective farm in rain-soaked rural Hungary, a set of ruined, scheming villagers wait for money and deliverance, and then for the return of the charismatic con man Irimias, who may be a saviour or a swindler. Krasznahorkai tells it in vast, coiling, almost unbroken sentences that mimic the mud and stupor of the place, building a hypnotic, apocalyptic vision of hope curdling into manipulation. Demanding and unforgettable, it is one of the towering works of late twentieth-century European fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A hypnotic, mud-soaked masterpiece for readers who want to be swallowed whole. Surrender to the long sentences and it becomes unforgettable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Bela Tarr filmed it as a seven-hour black-and-white epic that is itself a landmark of world cinema.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

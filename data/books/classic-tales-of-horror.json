@@ -1,0 +1,74 @@
+{
+  "slug": "classic-tales-of-horror",
+  "title": "Classic Tales of Horror",
+  "subtitle": null,
+  "authors": [],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1981,
+  "edition": {
+    "publisher": "Canterbury Classics",
+    "series": null,
+    "isbn": "1626864659",
+    "pageCount": 599
+  },
+  "cover": {
+    "file": "assets/covers/classic-tales-of-horror.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#494e41",
+    "w": 222,
+    "h": 350,
+    "palette": [
+      "#23251c",
+      "#849670",
+      "#6b7f5a"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Gothic & Horror",
+    "Short Stories"
+  ],
+  "region": "World",
+  "tags": [
+    "horror",
+    "anthology",
+    "ghost stories"
+  ],
+  "moods": [
+    "haunting",
+    "unsettling",
+    "bleak"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "a short sitting",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "candlelight",
+      "old houses",
+      "things that should not be"
+    ],
+    "oneLine": "Two centuries of the greatest horror stories in one dark volume."
+  },
+  "summary": "A handsome gathering of the horror tradition's greatest short works, drawing together the writers who taught the world to be afraid, from Poe and Le Fanu to Lovecraft and beyond. Across ghosts, monsters, madness and the plainly inexplicable, the collection is a tour of how fear has been made on the page over two centuries. Ideal for reading one unsettling story at a time, late at night, it doubles as a map of where every modern scare ultimately comes from.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A one-volume tour of the scariest short fiction ever written. Perfect for a story a night with the lights low.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Anthologies like this trace a direct line from Gothic ghost stories to modern horror.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

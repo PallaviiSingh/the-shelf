@@ -1,0 +1,18 @@
+{
+  "slug": "muriel-spark",
+  "name": "Muriel Spark",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Dame Muriel Sarah Spark was a Scottish novelist, short story writer, poet and essayist.",
+  "photo": {
+    "file": "assets/authors/muriel-spark.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Muriel_Spark"
+  },
+  "books": [
+    "the-drivers-seat",
+    "the-prime-of-miss-jean-brodie"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "charles-dickens",
+  "name": "Charles Dickens",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Charles John Huffam Dickens was an English writer and journalist. He created some of literature's best-known fictional characters, and is regarded by many as the greatest novelist of the Victorian era. His works enjoyed unprecedented popularity during his lifetime and, by the 20th century, critics and scholars had recognised him as a literary genius. His",
+  "photo": {
+    "file": "assets/authors/charles-dickens.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charles_Dickens"
+  },
+  "books": [
+    "a-christmas-carol",
+    "a-tale-of-two-cities",
+    "bleak-house",
+    "david-copperfield",
+    "great-expectations",
+    "hard-times",
+    "oliver-twist"
+  ],
+  "enriched": false
+}

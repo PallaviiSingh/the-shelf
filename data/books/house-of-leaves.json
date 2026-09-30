@@ -1,0 +1,77 @@
+{
+  "slug": "house-of-leaves",
+  "title": "House of Leaves",
+  "subtitle": null,
+  "authors": [
+    "mark-z-danielewski"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2000,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "0375703764",
+    "pageCount": 736
+  },
+  "cover": {
+    "file": "assets/covers/house-of-leaves.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": null,
+    "dominantColor": "#2c2d32",
+    "w": 313,
+    "h": 475,
+    "palette": [
+      "#2d2e33",
+      "#14141d",
+      "#535022"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Gothic & Horror",
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "experimental",
+    "labyrinth",
+    "obsession",
+    "typography"
+  ],
+  "moods": [
+    "unsettling",
+    "dreamlike",
+    "cerebral"
+  ],
+  "difficulty": "summit",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "in bed at night"
+    ],
+    "sensory": [
+      "an impossible house",
+      "spiralling footnotes",
+      "text as maze"
+    ],
+    "oneLine": "A house bigger inside than out, told in a book that becomes a maze."
+  },
+  "summary": "A young man finds a dead neighbour's manuscript about a documentary film concerning a house that is bigger on the inside than the outside, and as he pieces it together the reading of it begins to unravel him too. Danielewski's cult novel is a labyrinth in every sense: footnotes swallow footnotes, text spirals and fractures across the page, and multiple unreliable narrators nest inside one another. Part haunted-house horror, part love story, part puzzle box, it is unlike anything else, demanding and genuinely disorienting.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A book that becomes the labyrinth it describes. A demanding, one-of-a-kind experience for readers who want to get lost.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its typography is part of the story: pages spiral, invert and empty out to mirror the house's spaces.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

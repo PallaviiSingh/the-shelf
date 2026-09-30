@@ -1,0 +1,78 @@
+{
+  "slug": "crime-and-punishment",
+  "title": "Crime and Punishment",
+  "subtitle": null,
+  "authors": [
+    "fyodor-dostoyevsky"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1866,
+  "edition": {
+    "publisher": null,
+    "series": "Penguin",
+    "isbn": "0241347688",
+    "pageCount": 520
+  },
+  "cover": {
+    "file": "assets/covers/crime-and-punishment.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6a181d",
+    "w": 720,
+    "h": 1191,
+    "palette": [
+      "#e10613",
+      "#3a2021",
+      "#84131a"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "Russia",
+  "tags": [
+    "guilt",
+    "murder",
+    "conscience",
+    "St Petersburg",
+    "poverty"
+  ],
+  "moods": [
+    "bleak",
+    "cerebral",
+    "suspenseful"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a stifling garret",
+      "fevered streets",
+      "the weight of a secret"
+    ],
+    "oneLine": "A student murders to prove a theory, then his own conscience hunts him down."
+  },
+  "summary": "Raskolnikov, a poor, feverish ex-student in St Petersburg, convinces himself that a superior man is entitled to step over ordinary morality, and murders a pawnbroker to prove it. What follows is not a hunt for the killer but a hunt inside him, as guilt, paranoia and an unlikely tenderness slowly close in. Dostoevsky turns a crime into one of the most gripping psychological and moral dramas ever written, arguing with itself about suffering, redemption and whether anyone is beyond saving. Grim, propulsive and strangely warm at its core.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A murder story that becomes a fever dream of conscience. Difficult, yes, but genuinely unputdownable once Raskolnikov starts to crack.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Dostoevsky wrote it under crushing debt, partly to pay off gambling losses, dictating parts against the clock.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C3",
+  "enriched": true
+}

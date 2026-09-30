@@ -1,0 +1,76 @@
+{
+  "slug": "love-is-a-dog-from-hell-poems-1974-1977",
+  "title": "Love is a Dog from Hell (Poems 1974-1977)",
+  "subtitle": null,
+  "authors": [
+    "charles-bukowski"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1977,
+  "edition": {
+    "publisher": "Ecco",
+    "series": null,
+    "isbn": "0876853629",
+    "pageCount": 307
+  },
+  "cover": {
+    "file": "assets/covers/love-is-a-dog-from-hell-poems-1974-1977.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d6c9b2",
+    "w": 720,
+    "h": 1084,
+    "palette": [
+      "#ebdcc3",
+      "#ccb69b",
+      "#b79d82"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Poetry Collection"
+  ],
+  "region": "United States",
+  "tags": [
+    "love",
+    "sex",
+    "drinking",
+    "poetry"
+  ],
+  "moods": [
+    "bleak",
+    "satirical",
+    "tender"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "in bed at night",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "bars at 3am",
+      "the body's indignities",
+      "blunt tenderness"
+    ],
+    "oneLine": "Bukowski's plainspoken, profane poems of love, lust and loneliness."
+  },
+  "summary": "Bukowski's poems from the mid-1970s, plainspoken and profane, about love, lust, loneliness, drinking and the indignities of the body. Written in his stripped-down, conversational line, they find odd flashes of tenderness and truth in the gutter, refusing every poetic convention. Fans consider this one of his essential collections; newcomers will find the fastest way into why so many readers who claim to hate poetry make an exception for Bukowski.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The fastest way in for anyone who thinks they hate poetry. Plainspoken, profane, and sometimes unexpectedly tender.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Bukowski's conversational, no-frills style made him one of the best-selling poets in America.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "vol-5-the-pelican-guide-to-english-literature-from-blake-to-byron",
+  "title": "Vol 5. The Pelican Guide to English Literature: From Blake to Byron",
+  "subtitle": null,
+  "authors": [
+    "boris-ford"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0140204024",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-5-the-pelican-guide-to-english-literature-from-blake-to-byron.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#decab6",
+    "w": 612,
+    "h": 1000,
+    "palette": [
+      "#f1dfc3",
+      "#deb29b",
+      "#566899"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "Romanticism",
+    "poetry",
+    "Pelican Guide",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "the Romantic poets",
+      "Blake and Keats",
+      "criticism for all"
+    ],
+    "oneLine": "The Pelican Guide from Blake to Byron."
+  },
+  "summary": "The fifth volume of Boris Ford's Pelican Guide to English Literature covers the Romantic period, From Blake to Byron. It surveys the great Romantic poets, Blake, Wordsworth, Coleridge, Shelley, Keats and Byron, along with the prose and fiction of the age, pairing critical essays with a general account of the period. Accessible and enduringly popular, it makes the poetry of the Romantic era vivid and approachable for readers.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Pelican Guide's companion to the Romantics, from Blake to Byron. Accessible and enduringly popular.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "oxford-history-of-english-literature-the-rise-of-the-romantics-1789-18",
+  "title": "Oxford History of English Literature: The Rise of the Romantics (1789-1815) Wordsworth, Coleridge and Jane Austen",
+  "subtitle": null,
+  "authors": [
+    "w-l-renwick"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Clarendon Press",
+    "series": null,
+    "isbn": "0198122373",
+    "pageCount": 293
+  },
+  "cover": {
+    "file": "assets/covers/oxford-history-of-english-literature-the-rise-of-the-romantics-1789-18.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7f7d7c",
+    "w": 606,
+    "h": 1000,
+    "palette": [
+      "#fde4a0",
+      "#2c355c",
+      "#b7af99"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "Romanticism",
+    "reference",
+    "poetry"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "a revolution in verse",
+      "Wordsworth and Austen",
+      "the Romantic dawn"
+    ],
+    "oneLine": "The Oxford history of the rise of the Romantics, 1789 to 1815."
+  },
+  "summary": "W. L. Renwick's volume in the Oxford History of English Literature covers the rise of the Romantics, from 1789 to 1815, the age of Wordsworth, Coleridge and Jane Austen. It surveys the revolution in poetry brought by the early Romantics and the flowering of the novel, setting them against the upheavals of the French Revolution and its aftermath. An authoritative scholarly account of the dawn of Romanticism, one of the most transformative moments in English literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Oxford account of early Romanticism, Wordsworth, Coleridge and Austen. Authoritative literary history.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "ghost-eye-a-novel",
+  "title": "Ghost-eye: A Novel",
+  "subtitle": null,
+  "authors": [
+    "amitav-ghosh"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2025,
+  "edition": {
+    "publisher": "Fourth Estate India",
+    "series": null,
+    "isbn": "9373073435",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/ghost-eye-a-novel.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a8aaa4",
+    "w": 671,
+    "h": 993,
+    "trimmed": true,
+    "palette": [
+      "#cdcdca",
+      "#f6f1dc",
+      "#4d5a67"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Magical Realism"
+  ],
+  "region": "India",
+  "tags": [
+    "reincarnation",
+    "memory",
+    "ecology",
+    "Calcutta"
+  ],
+  "moods": [
+    "dreamlike",
+    "cerebral",
+    "haunting"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "1960s Calcutta",
+      "a remembered past life",
+      "a threatened wilderness"
+    ],
+    "oneLine": "A girl's memories of a past life, memory and ecology, in Ghosh's new novel."
+  },
+  "summary": "Amitav Ghosh's return to fiction moves between 1960s Calcutta and present-day Brooklyn. In a strictly vegetarian Calcutta household, a girl named Varsha insists she remembers a past life in a riverside mud house, where she caught and cooked fish with another mother, and a psychologist begins studying her as a case of reincarnation. Half a century later, her old case file draws environmental activists into a search for her, because if her gifts are real they might help stop a coal plant threatening one of India's last wildernesses. Magical realism binding memory, fate and ecological crisis.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Ghosh's first novel since Gun Island, a magical-realist tale of past lives, memory and a threatened wilderness. Haunting and timely.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is Amitav Ghosh's first novel since Gun Island in 2019.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

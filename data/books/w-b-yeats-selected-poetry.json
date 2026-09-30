@@ -1,0 +1,77 @@
+{
+  "slug": "w-b-yeats-selected-poetry",
+  "title": "W.B. Yeats Selected Poetry",
+  "subtitle": null,
+  "authors": [
+    "w-b-yeats"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "8186423206",
+    "pageCount": 474
+  },
+  "cover": {
+    "file": "assets/covers/w-b-yeats-selected-poetry.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7e7c6f",
+    "w": 649,
+    "h": 1000,
+    "palette": [
+      "#54503b",
+      "#0f1e1e",
+      "#83683d"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "Ireland",
+  "tags": [
+    "Ireland",
+    "myth",
+    "aging",
+    "modernism"
+  ],
+  "moods": [
+    "luminous",
+    "melancholic",
+    "mystical"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to think hard",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "Irish myth",
+      "a mystical vision",
+      "a voice deepening with age"
+    ],
+    "oneLine": "The essential poems of W. B. Yeats, greatest of Irish poets."
+  },
+  "summary": "A career-spanning selection from W. B. Yeats, the greatest Irish poet and one of the supreme voices of the twentieth century, moving from his early dreamy, Celtic lyrics to the stark, powerful poems of his maturity. Steeped in Irish myth, politics, love and a private mystical vision, his verse only grew more masterful as he aged. This selection gathers the essential poems, from 'The Lake Isle of Innisfree' to 'Sailing to Byzantium', a perfect introduction to a towering poet.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The essential Yeats, from dreamy Celtic lyrics to the stark power of his late masterpieces. A towering poet.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Yeats is unusual among poets in that his work is widely thought to have improved as he grew older.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

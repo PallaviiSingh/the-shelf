@@ -1,0 +1,70 @@
+{
+  "slug": "beginning-shakespeare",
+  "title": "Beginning Shakespeare",
+  "subtitle": null,
+  "authors": [
+    "lisa-hopkins"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "0719064236",
+    "pageCount": 212
+  },
+  "cover": {
+    "file": "assets/covers/beginning-shakespeare.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#705f46",
+    "w": 459,
+    "h": 720,
+    "trimmed": true,
+    "palette": [
+      "#285537",
+      "#783f65",
+      "#b36a38"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Introduction"
+  ],
+  "region": "England",
+  "tags": [
+    "Shakespeare",
+    "introduction",
+    "criticism"
+  ],
+  "moods": [
+    "cerebral",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "reading Shakespeare critically",
+      "current approaches",
+      "a first bridge"
+    ],
+    "oneLine": "An accessible introduction to critical approaches to Shakespeare."
+  },
+  "summary": "Lisa Hopkins's Beginning Shakespeare introduces the ways scholars and critics approach Shakespeare today, from textual and historical questions to feminist, postcolonial and performance-based readings. Rather than a plot guide, it shows how to think and write critically about the plays, applying current approaches to well-known texts. Clear and student-friendly, it is a useful bridge for readers moving from simply enjoying Shakespeare to studying him seriously.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A clear guide to studying Shakespeare critically, not just reading him. A useful bridge into serious study.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

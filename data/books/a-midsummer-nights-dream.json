@@ -1,0 +1,78 @@
+{
+  "slug": "a-midsummer-nights-dream",
+  "title": "A Midsummer Night's Dream",
+  "subtitle": null,
+  "authors": [
+    "shakespeare"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1595,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 124
+  },
+  "cover": {
+    "file": "assets/covers/a-midsummer-nights-dream.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#acb26b",
+    "w": 361,
+    "h": 554,
+    "palette": [
+      "#c9ce68",
+      "#b1b27f",
+      "#c6e09b"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Comedy"
+  ],
+  "region": "England",
+  "tags": [
+    "fairies",
+    "love",
+    "magic",
+    "comedy"
+  ],
+  "moods": [
+    "playful",
+    "romantic",
+    "dreamlike"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "to laugh",
+      "in the sun"
+    ],
+    "sensory": [
+      "an enchanted wood",
+      "a love potion",
+      "quarrelling fairies"
+    ],
+    "oneLine": "Lovers, fairies and a love potion tangle on a magical midsummer night."
+  },
+  "summary": "On a magical midsummer night, four young lovers, a troupe of bumbling amateur actors, and a court of quarrelling fairies collide in an enchanted wood, where a mischievous sprite's love potion turns everything joyfully upside down. Shakespeare's most beloved comedy is a shimmering dream of desire, confusion and reconciliation, ending in laughter and blessing. Light, funny and endlessly charming, it is the most purely delightful thing he wrote and a perfect first Shakespeare for anyone.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Shakespeare's most delightful comedy, all fairies, lovers and mischief in an enchanted wood. Pure joy.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The mischievous fairy Puck's closing speech is among the most quoted in all of Shakespeare.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

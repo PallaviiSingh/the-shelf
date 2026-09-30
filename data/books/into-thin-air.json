@@ -1,0 +1,76 @@
+{
+  "slug": "into-thin-air",
+  "title": "Into Thin Air",
+  "subtitle": null,
+  "authors": [
+    "jon-krakauer"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1997,
+  "edition": {
+    "publisher": "Pan Macmillan",
+    "series": null,
+    "isbn": "1447200187",
+    "pageCount": 335
+  },
+  "cover": {
+    "file": "assets/covers/into-thin-air.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#214f83",
+    "w": 660,
+    "h": 1000,
+    "palette": [
+      "#013875",
+      "#375a81",
+      "#6c839b"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "Nepal",
+  "tags": [
+    "Everest",
+    "disaster",
+    "mountaineering",
+    "survival"
+  ],
+  "moods": [
+    "suspenseful",
+    "bleak",
+    "haunting"
+  ],
+  "difficulty": "gentle",
+  "pace": "propulsive",
+  "vibeProfile": {
+    "occasions": [
+      "to be thrilled",
+      "to be absorbed for hours",
+      "in winter"
+    ],
+    "sensory": [
+      "the Everest death zone",
+      "a sudden storm",
+      "a mountain of ambition"
+    ],
+    "oneLine": "A journalist survives the 1996 Everest disaster, and counts the cost."
+  },
+  "summary": "Jon Krakauer was on Everest as a journalist when the 1996 climbing season turned into disaster, and a sudden storm killed several climbers high on the mountain. His firsthand account reconstructs those hours with harrowing honesty, including his own role and guilt, and asks hard questions about the commercialisation of Everest. Gripping, sober and haunted, it is one of the finest and most chilling books ever written about mountaineering and the thin line between ambition and catastrophe.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A harrowing, honest firsthand account of the deadly 1996 Everest disaster. Impossible to put down, impossible to forget.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Krakauer wrote it partly to work through survivor's guilt after the expedition.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

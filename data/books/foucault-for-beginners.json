@@ -1,0 +1,72 @@
+{
+  "slug": "foucault-for-beginners",
+  "title": "Foucault for Beginners",
+  "subtitle": null,
+  "authors": [
+    "lydia-alix-fillingham",
+    "moshe-susser"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orient Blackswan",
+    "series": null,
+    "isbn": "1934389129",
+    "pageCount": 158
+  },
+  "cover": {
+    "file": "assets/covers/foucault-for-beginners.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5c6296",
+    "w": 500,
+    "h": 721,
+    "palette": [
+      "#2674b6",
+      "#b61282",
+      "#e2e303"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy",
+    "Introduction",
+    "Graphic & Comics"
+  ],
+  "region": "France",
+  "tags": [
+    "philosophy",
+    "Foucault",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "power and knowledge",
+      "discipline and madness",
+      "cartoons and clarity"
+    ],
+    "oneLine": "An illustrated introduction to the ideas of Michel Foucault."
+  },
+  "summary": "Part of the illustrated For Beginners series, this book introduces the ideas of Michel Foucault, from power and knowledge to discipline, madness, punishment and sexuality, through clear text and cartoons. It traces how his histories of institutions and ideas transformed the humanities and social sciences. An accessible, entertaining first step into one of the most influential and wide-ranging thinkers of the twentieth century.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Foucault on power, knowledge and discipline, made accessible with text and cartoons. An entertaining first step.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "animals-people",
+  "title": "Animal's People",
+  "subtitle": null,
+  "authors": [
+    "indra-sinha"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2007,
+  "edition": {
+    "publisher": "Simon & Schuster",
+    "series": null,
+    "isbn": "9781416526278",
+    "pageCount": 374
+  },
+  "cover": {
+    "file": "assets/covers/animals-people.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d4b780",
+    "w": 663,
+    "h": 1000,
+    "palette": [
+      "#f4e5b4",
+      "#e7cd83",
+      "#9b6c3b"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "Bhopal",
+    "disaster",
+    "poverty",
+    "justice"
+  ],
+  "moods": [
+    "intense",
+    "dark",
+    "defiant"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a poisoned city",
+      "a defiant narrator",
+      "a fight for justice"
+    ],
+    "oneLine": "A survivor of a chemical disaster fights for justice, in a blazing voice."
+  },
+  "summary": "Narrated by Animal, a young man whose spine was twisted by a chemical disaster that poisoned his Indian city, forcing him to walk on all fours, Indra Sinha's fierce, funny, furious novel gives voice to the survivors of an industrial catastrophe and their fight for justice against a faceless foreign company. Inspired by the Bhopal gas tragedy, it is raw, profane and blazing with life, refusing pity for something angrier and more alive. A darkly comic, unforgettable cry from the wrong side of globalization.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A fierce, funny, furious novel voiced by a survivor of an industrial disaster. Raw, alive and unforgettable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was inspired by the 1984 Bhopal gas disaster and shortlisted for the Booker Prize.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "sherlock-holmes-the-novels",
+  "title": "Sherlock Holmes: The Novels",
+  "subtitle": null,
+  "authors": [
+    "sir-arthur-conan-doyle"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1902,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "9780143107132",
+    "pageCount": 309
+  },
+  "cover": {
+    "file": "assets/covers/sherlock-holmes-the-novels.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4d413b",
+    "w": 664,
+    "h": 1000,
+    "palette": [
+      "#241f1e",
+      "#846b62",
+      "#b49885"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Mystery & Crime",
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "Sherlock Holmes",
+    "detection",
+    "London",
+    "mystery"
+  ],
+  "moods": [
+    "suspenseful",
+    "playful",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a train or plane",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "the foggy moors",
+      "Baker Street",
+      "a spectral hound"
+    ],
+    "oneLine": "The four full Holmes adventures, moors, hounds and all."
+  },
+  "summary": "The four full-length Holmes adventures in one volume: A Study in Scarlet, The Sign of Four, the immortal The Hound of the Baskervilles and The Valley of Fear. Given more room than the short stories, Conan Doyle sends Holmes and Watson from foggy London to the brooding moors and into buried American feuds, deepening the friendship at the heart of the canon. Together they show the great detective at full stretch, and contain some of the most atmospheric and famous scenes in all of crime writing.",
+  "summarySource": "knowledge",
+  "whyReadIt": "All four Holmes novels together, including the peerless Hound of the Baskervilles. The complete long-form Holmes in one go.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The Hound of the Baskervilles was written to bring Holmes back after Doyle had killed him off.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

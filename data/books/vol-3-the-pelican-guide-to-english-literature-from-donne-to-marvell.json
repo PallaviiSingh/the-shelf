@@ -1,0 +1,69 @@
+{
+  "slug": "vol-3-the-pelican-guide-to-english-literature-from-donne-to-marvell",
+  "title": "Vol 3. The Pelican Guide to English Literature: From Donne to Marvell",
+  "subtitle": null,
+  "authors": [
+    "boris-ford"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0140203257",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-3-the-pelican-guide-to-english-literature-from-donne-to-marvell.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#695c4a",
+    "w": 601,
+    "h": 1000,
+    "palette": [
+      "#222322",
+      "#c8af81",
+      "#4d4236"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "seventeenth century",
+    "metaphysical",
+    "Pelican Guide",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "metaphysical poets",
+      "the seventeenth century",
+      "criticism for all"
+    ],
+    "oneLine": "The Pelican Guide to the seventeenth century, from Donne to Marvell."
+  },
+  "summary": "The third volume of Boris Ford's Pelican Guide to English Literature covers the seventeenth century, From Donne to Marvell. It surveys the metaphysical poets, the drama and prose of the period, and figures like Milton, Herbert and the Cavaliers, with critical essays alongside a general account of the age. Accessible and enduringly useful, it makes the rich literature of the seventeenth century approachable for students and general readers.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Pelican Guide's companion to the seventeenth century, from Donne to Marvell. Approachable criticism of a rich age.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

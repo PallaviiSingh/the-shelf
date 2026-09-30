@@ -1,0 +1,21 @@
+{
+  "slug": "ismat-chughtai",
+  "name": "Ismat Chughtai",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Ismat Chughtai was an Indian Urdu novelist, short story writer, liberal humanist and filmmaker. Beginning in the 1930s, she wrote extensively on themes including female sexuality and femininity, middle-class gentility, and class conflict, often from a Marxist perspective. With a style characterised by literary realism, Chughtai established herself as a significant voice in the Urdu",
+  "photo": {
+    "file": "assets/authors/ismat-chughtai.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ismat_Chughtai"
+  },
+  "books": [
+    "a-life-in-words",
+    "masooma",
+    "obsession-and-wild-pigeons",
+    "quit-india-and-other-stories",
+    "the-crooked-line"
+  ],
+  "enriched": false
+}

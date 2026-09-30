@@ -1,0 +1,77 @@
+{
+  "slug": "hope-is-the-thing-with-feathers-poems-of-emily-dickinson",
+  "title": "Hope Is the Thing with Feathers: Poems of Emily Dickinson",
+  "subtitle": null,
+  "authors": [
+    "emily-dickinson"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Gibbs M. Smith Inc",
+    "series": null,
+    "isbn": "1423650980",
+    "pageCount": 336
+  },
+  "cover": {
+    "file": "assets/covers/hope-is-the-thing-with-feathers-poems-of-emily-dickinson.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d48176",
+    "w": 720,
+    "h": 1033,
+    "palette": [
+      "#ec544f",
+      "#f59555",
+      "#e0ddd3"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "United States",
+  "tags": [
+    "America",
+    "interiority",
+    "death",
+    "nature"
+  ],
+  "moods": [
+    "luminous",
+    "meditative",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to feel something deeply",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a New England room",
+      "a slant of light",
+      "a few daring dashes"
+    ],
+    "oneLine": "The startling short poems of the reclusive genius Emily Dickinson."
+  },
+  "summary": "A selection of the poems of Emily Dickinson, the reclusive New England poet who wrote nearly 1,800 short, startling lyrics and published almost none in her lifetime. Compressed, slant and utterly original, her poems dart at the largest subjects, death, faith, nature, the self, in a few dashes and images. This collection, named for one of her most beloved poems, gathers the essential Dickinson, whose quiet radicalism made her one of the greatest poets America has produced.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The essential Emily Dickinson, compressed, startling and utterly original. One of the greatest poets America has produced.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Dickinson wrote around 1,800 poems but published only a handful while she was alive.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

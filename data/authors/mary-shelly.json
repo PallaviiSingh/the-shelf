@@ -1,0 +1,18 @@
+{
+  "slug": "mary-shelly",
+  "name": "Mary Shelly",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Mary Wollstonecraft Shelley was an English novelist who wrote the Gothic novel Frankenstein; or, The Modern Prometheus (1818), which is considered an early example of science fiction. She also edited and promoted the works of her husband, the Romantic poet and philosopher Percy Bysshe Shelley. Her father was the political philosopher William Godwin and her",
+  "photo": {
+    "file": "assets/authors/mary-shelly.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mary_Shelley"
+  },
+  "books": [
+    "frankenstein",
+    "frankenstein-blooms-modern-critical-interpretations"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "the-woman-in-white",
+  "title": "The Woman in White",
+  "subtitle": null,
+  "authors": [
+    "wilkie-collins"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1859,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141192429",
+    "pageCount": 544
+  },
+  "cover": {
+    "file": "assets/covers/the-woman-in-white.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#1c3f5b",
+    "w": 632,
+    "h": 1000,
+    "palette": [
+      "#22313e",
+      "#066eb7",
+      "#1d4a6f"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Mystery"
+  ],
+  "region": "England",
+  "tags": [
+    "sensation novel",
+    "mystery",
+    "identity",
+    "conspiracy"
+  ],
+  "moods": [
+    "suspenseful",
+    "haunting",
+    "atmospheric"
+  ],
+  "difficulty": "moderate",
+  "pace": "propulsive",
+  "vibeProfile": {
+    "occasions": [
+      "to be thrilled",
+      "to be absorbed for hours",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a moonlit road",
+      "a woman in white",
+      "a sinister conspiracy"
+    ],
+    "oneLine": "A ghostly woman on a night road pulls a man into a deadly conspiracy."
+  },
+  "summary": "A young drawing master meets a terrified woman dressed all in white on a moonlit road, and is drawn into a labyrinth of stolen identity, false imprisonment and a sinister conspiracy over an inheritance. Told through a chorus of witnesses, Wilkie Collins's masterpiece all but invented the sensation novel and the modern mystery, with the unforgettable villain Count Fosco at its centre. Twisty, gripping and brilliantly plotted, it is one of the most purely entertaining of all Victorian novels.",
+  "summarySource": "knowledge",
+  "whyReadIt": "One of the first and best mystery thrillers, twisty and gripping. Count Fosco is a villain for the ages.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its huge success helped establish the 'sensation novel', a Victorian craze for mystery and suspense.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C4",
+  "enriched": true
+}

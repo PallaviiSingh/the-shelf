@@ -1,0 +1,77 @@
+{
+  "slug": "the-sonnets-and-a-lovers-complaint",
+  "title": "The Sonnets and a Lover's Complaint",
+  "subtitle": null,
+  "authors": [
+    "william-shakespeare"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1609,
+  "edition": {
+    "publisher": null,
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9780141192574",
+    "pageCount": 168
+  },
+  "cover": {
+    "file": "assets/covers/the-sonnets-and-a-lovers-complaint.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a0443a",
+    "w": 631,
+    "h": 1000,
+    "palette": [
+      "#823236",
+      "#e66b43",
+      "#b3503f"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "England",
+  "tags": [
+    "love",
+    "time",
+    "sonnets",
+    "desire"
+  ],
+  "moods": [
+    "romantic",
+    "melancholic",
+    "passionate"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to feel something deeply",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a fair young man",
+      "a dark lady",
+      "time against love"
+    ],
+    "oneLine": "Shakespeare's 154 sonnets, the greatest love poems in English."
+  },
+  "summary": "Shakespeare's 154 sonnets are the greatest sequence of love poems in English, moving through desire, jealousy, time, mortality and the mystery of a fair young man and a dark lady, and this edition pairs them with his narrative poem 'A Lover's Complaint'. Compressed, musical and endlessly quoted, the sonnets contain some of the most famous lines ever written about love and time. A lifetime's worth of poetry in a small book, they reward slow, repeated reading.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The greatest love poems in English, and endlessly quotable. A whole lifetime of poetry in one slim book.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Sonnet 18, 'Shall I compare thee to a summer's day', is among the most famous poems ever written.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C3",
+  "enriched": true
+}

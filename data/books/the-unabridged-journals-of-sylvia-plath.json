@@ -1,0 +1,76 @@
+{
+  "slug": "the-unabridged-journals-of-sylvia-plath",
+  "title": "The Unabridged Journals of Sylvia Plath",
+  "subtitle": null,
+  "authors": [
+    "sylvia-plath"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2000,
+  "edition": {
+    "publisher": "Anchor",
+    "series": null,
+    "isbn": "0385720254",
+    "pageCount": 732
+  },
+  "cover": {
+    "file": "assets/covers/the-unabridged-journals-of-sylvia-plath.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#554841",
+    "w": 720,
+    "h": 1118,
+    "palette": [
+      "#2a1d14",
+      "#523e37",
+      "#6b574f"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Letters & Diaries"
+  ],
+  "region": "United States",
+  "tags": [
+    "diaries",
+    "writing",
+    "ambition",
+    "inner life"
+  ],
+  "moods": [
+    "cerebral",
+    "melancholic",
+    "luminous"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "in bed at night",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a writer's notebook",
+      "raw ambition",
+      "an inner life laid bare"
+    ],
+    "oneLine": "A great poet's private journals, ambition and anguish laid bare."
+  },
+  "summary": "Plath's private journals, published unabridged, run from her college years to shortly before her death, recording in astonishing, unfiltered prose her ambition, rage, love, self-doubt and ferocious will to write. They are a rare, close-up look at a major artist making herself, page by page, alongside a vivid record of a woman's inner life in the 1950s and early 60s. Raw and brilliant, they are as compelling as any of her published work, and often more revealing.",
+  "summarySource": "knowledge",
+  "whyReadIt": "An astonishing, unfiltered window into a great poet making herself. As gripping as any novel, and more revealing.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Her husband Ted Hughes said he destroyed the final journal; the rest were published in full in 2000.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

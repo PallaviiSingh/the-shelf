@@ -1,0 +1,77 @@
+{
+  "slug": "heart-lamp",
+  "title": "Heart Lamp",
+  "subtitle": null,
+  "authors": [
+    "dr-banu-mushtaq"
+  ],
+  "translator": null,
+  "originalLanguage": "Kannada",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0143464477",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/heart-lamp.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d2b4a4",
+    "w": 254,
+    "h": 392,
+    "palette": [
+      "#f2ede4",
+      "#c93d25",
+      "#833a1e"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Kannada",
+    "Banu Mushtaq",
+    "women",
+    "short stories"
+  ],
+  "moods": [
+    "tender",
+    "defiant",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to feel something deeply",
+      "to think hard"
+    ],
+    "sensory": [
+      "Muslim women's lives",
+      "faith and patriarchy",
+      "small resistances"
+    ],
+    "oneLine": "Stories of Muslim women's lives in southern India, from the Kannada."
+  },
+  "summary": "Heart Lamp gathers short stories by Banu Mushtaq, translated from the Kannada by Deepa Bhasthi, giving voice to the lives of Muslim women and girls in southern India as they navigate faith, family, patriarchy and small acts of resistance. Written over three decades with wit, anger and deep empathy, the stories illuminate worlds rarely seen in world literature. The collection made history as a winner of the International Booker Prize, bringing Kannada fiction to a global readership.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Banu Mushtaq's witty, angry, empathetic stories of Muslim women in southern India. The Booker-winning Kannada collection.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won the International Booker Prize, the first collection of short stories ever to do so.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

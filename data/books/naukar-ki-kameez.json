@@ -1,0 +1,75 @@
+{
+  "slug": "naukar-ki-kameez",
+  "title": "Naukar ki Kameez",
+  "subtitle": null,
+  "authors": [
+    "vinod-kumar-shukla"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 1979,
+  "edition": {
+    "publisher": "Rajkamal Prakashan",
+    "series": null,
+    "isbn": "8126706899",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/naukar-ki-kameez.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#af9f82",
+    "w": 647,
+    "h": 1000,
+    "palette": [
+      "#e7d4ab",
+      "#cbb997",
+      "#4c4339"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Vinod Kumar Shukla",
+    "everyday life"
+  ],
+  "moods": [
+    "quiet",
+    "warm",
+    "dreamlike"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "a small clerk's life",
+      "everyday indignities",
+      "a quiet wonder"
+    ],
+    "oneLine": "A humble clerk's ordinary world made luminous, in a Hindi classic."
+  },
+  "summary": "Naukar ki Kameez, or The Servant's Shirt, is a celebrated early novel by Vinod Kumar Shukla, a writer known for finding the strange and luminous inside ordinary lower-middle-class life. Following a humble clerk and the small pressures and indignities of his world, it renders everyday existence with quiet wonder and gentle absurdity in Shukla's utterly distinctive style. Spare and hypnotic, it was later made into an acclaimed film and remains a landmark of modern Hindi fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Vinod Kumar Shukla finding wonder and gentle absurdity in a humble clerk's life. Spare, hypnotic, distinctive.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was adapted into an acclaimed film by the director Mani Kaul.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "the-nutmegs-curse-parables-for-a-planet-in-crisis",
+  "title": "The Nutmeg's Curse: Parables for a Planet in Crisis",
+  "subtitle": null,
+  "authors": [
+    "amitav-ghosh"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2021,
+  "edition": {
+    "publisher": "Penguin Allen Lane",
+    "series": null,
+    "isbn": "0670095621",
+    "pageCount": 343
+  },
+  "cover": {
+    "file": "assets/covers/the-nutmegs-curse-parables-for-a-planet-in-crisis.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a5948b",
+    "w": 343,
+    "h": 564,
+    "palette": [
+      "#e5e2df",
+      "#b1bac5",
+      "#4f3d27"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays",
+    "Environmental Humanities"
+  ],
+  "region": "World",
+  "tags": [
+    "colonialism",
+    "climate",
+    "commodities",
+    "nature"
+  ],
+  "moods": [
+    "cerebral",
+    "political",
+    "urgent"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study",
+      "in a cafe"
+    ],
+    "sensory": [
+      "a conquered spice island",
+      "colonial violence",
+      "a silenced earth"
+    ],
+    "oneLine": "Ghosh roots the climate crisis in colonialism, starting with the nutmeg."
+  },
+  "summary": "Beginning with the bloody history of the nutmeg and the Dutch conquest of its islands, Amitav Ghosh traces how the Western drive to treat the earth and its peoples as mere resources led straight to today's climate emergency. Weaving history, myth and reportage, he argues that the planetary crisis is rooted in the violence of colonialism and a worldview that silenced the living earth. Provocative and richly told, it is a companion to The Great Derangement and a powerful reframing of the crisis.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Ghosh traces today's climate crisis back to colonial violence, starting with a single spice. Provocative and richly told.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It opens with the Dutch massacre and conquest of the nutmeg-growing Banda Islands.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

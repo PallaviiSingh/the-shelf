@@ -1,0 +1,78 @@
+{
+  "slug": "othello",
+  "title": "Othello",
+  "subtitle": null,
+  "authors": [
+    "shakespeare"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1603,
+  "edition": {
+    "publisher": "Worldview Critical Edition",
+    "series": null,
+    "isbn": "8192065197",
+    "pageCount": 176
+  },
+  "cover": {
+    "file": "assets/covers/othello.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#915d32",
+    "w": 644,
+    "h": 1000,
+    "palette": [
+      "#653302",
+      "#e0af70",
+      "#390d09"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Tragedy"
+  ],
+  "region": "England",
+  "tags": [
+    "jealousy",
+    "manipulation",
+    "race",
+    "betrayal"
+  ],
+  "moods": [
+    "tragic",
+    "intense",
+    "dark"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a whispered poison",
+      "a handkerchief",
+      "a general undone"
+    ],
+    "oneLine": "A villain poisons a great general against his innocent wife."
+  },
+  "summary": "The noble Moorish general Othello is poisoned against his innocent wife Desdemona by his ensign Iago, one of the most chillingly motiveless villains in all of literature, until jealousy drives him to a terrible act. Shakespeare's tightest, most claustrophobic tragedy is a devastating study of how easily trust can be turned to destruction. Intimate and unbearably tense, it builds to one of the most harrowing endings on any stage, and gives Iago some of the most disturbing lines ever written.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Shakespeare's tightest, most unbearable tragedy, and Iago is the most chilling villain in all drama.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Iago speaks more lines than the title character, unusual for a Shakespeare play.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

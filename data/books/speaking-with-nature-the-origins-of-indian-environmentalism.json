@@ -1,0 +1,75 @@
+{
+  "slug": "speaking-with-nature-the-origins-of-indian-environmentalism",
+  "title": "Speaking with Nature: The Origins of Indian Environmentalism",
+  "subtitle": null,
+  "authors": [
+    "ramachandra-guha"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2024,
+  "edition": {
+    "publisher": "Fourth Estate India",
+    "series": null,
+    "isbn": "936213490X",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/speaking-with-nature-the-origins-of-indian-environmentalism.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#adb37f",
+    "w": 720,
+    "h": 1090,
+    "palette": [
+      "#a9b551",
+      "#ccd39c",
+      "#e2e5cd"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History"
+  ],
+  "region": "India",
+  "tags": [
+    "India",
+    "environmentalism",
+    "biography",
+    "ecology"
+  ],
+  "moods": [
+    "curious",
+    "cerebral",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "forgotten pioneers",
+      "a century of India",
+      "living with nature"
+    ],
+    "oneLine": "The deep, homegrown roots of Indian environmental thought."
+  },
+  "summary": "Ramachandra Guha uncovers the surprisingly deep roots of Indian environmental thought, telling the stories of pioneering thinkers, scientists and writers who, long before it was fashionable, argued for living in balance with nature. Ranging across a century of Indian history, he shows that environmentalism was not simply imported from the West but has its own rich indigenous lineage. Engagingly written and full of forgotten figures, it recovers a vital tradition and reframes India as an early home of ecological wisdom.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Guha recovers India's own deep tradition of ecological thought, and the forgotten pioneers behind it. Engaging and illuminating.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Guha argues Indian environmentalism has indigenous roots, not merely Western imports.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

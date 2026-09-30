@@ -1,0 +1,76 @@
+{
+  "slug": "silas-marner",
+  "title": "Silas Marner",
+  "subtitle": null,
+  "authors": [
+    "george-eliot"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1861,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin English Library",
+    "isbn": "0141389451",
+    "pageCount": 241
+  },
+  "cover": {
+    "file": "assets/covers/silas-marner.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8b4768",
+    "w": 653,
+    "h": 1000,
+    "palette": [
+      "#843a5d",
+      "#dabac7",
+      "#c69db0"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "redemption",
+    "community",
+    "fatherhood",
+    "fable"
+  ],
+  "moods": [
+    "tender",
+    "hopeful",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "comfort reading",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a lonely weaver",
+      "stolen gold",
+      "a golden-haired child"
+    ],
+    "oneLine": "A bitter miser loses his gold and finds a lost child instead."
+  },
+  "summary": "A wronged, embittered weaver named Silas Marner withdraws from the world to hoard his gold, until the gold is stolen and a golden-haired orphan child wanders into his cottage and, over the years, back into his heart. George Eliot's shortest novel is a warm moral fable about loss, community and the redeeming power of love. Compact and beautifully told, it is the most approachable of her books and a quietly moving story of a broken man made whole.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Eliot's shortest and warmest book, a broken miser saved by a lost child. A quietly perfect fable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is often the first George Eliot novel readers meet, thanks to its short length.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

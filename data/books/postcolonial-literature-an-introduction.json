@@ -1,0 +1,69 @@
+{
+  "slug": "postcolonial-literature-an-introduction",
+  "title": "Postcolonial Literature: An Introduction",
+  "subtitle": null,
+  "authors": [
+    "pramod-k-nayar"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Pearson India",
+    "series": null,
+    "isbn": "8193473450",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/postcolonial-literature-an-introduction.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#524f64",
+    "w": 658,
+    "h": 1000,
+    "palette": [
+      "#3e465d",
+      "#081923",
+      "#970c5b"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Introduction"
+  ],
+  "region": "India",
+  "tags": [
+    "postcolonialism",
+    "world literature",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "curious"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "writing after empire",
+      "diaspora and resistance",
+      "a first guide"
+    ],
+    "oneLine": "An accessible introduction to postcolonial literature."
+  },
+  "summary": "Pramod K. Nayar's introduction surveys postcolonial literature, the writing that emerged from and responds to the experience of colonialism across Africa, Asia, the Caribbean and beyond. It covers major themes, from hybridity and diaspora to resistance and nation, and key writers and critics, with clear explanation and examples. A useful, accessible guide to a vast and vital body of world literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A clear guide to postcolonial literature across Africa, Asia and the Caribbean. Accessible and wide-ranging.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

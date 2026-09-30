@@ -1,0 +1,77 @@
+{
+  "slug": "sense-and-sensibility",
+  "title": "Sense and Sensibility",
+  "subtitle": null,
+  "authors": [
+    "jane-austen"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1811,
+  "edition": {
+    "publisher": null,
+    "series": "Penguin Clothbound Edition",
+    "isbn": null,
+    "pageCount": 352
+  },
+  "cover": {
+    "file": "assets/covers/sense-and-sensibility.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b3c0e2",
+    "w": 646,
+    "h": 1000,
+    "palette": [
+      "#a2e4f6",
+      "#c59acc",
+      "#d36eb3"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Romance"
+  ],
+  "region": "England",
+  "tags": [
+    "sisters",
+    "marriage",
+    "money",
+    "Regency"
+  ],
+  "moods": [
+    "romantic",
+    "witty",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "on a rainy day",
+      "to relax and unwind",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a Regency drawing room",
+      "two sisters",
+      "a broken heart"
+    ],
+    "oneLine": "Two sisters, one all reason and one all feeling, meet love and money."
+  },
+  "summary": "When their father dies and leaves them poor, the sensible Elinor and the passionate Marianne Dashwood must navigate love, heartbreak and the marriage market with very different temperaments. Austen's first published novel sets reason against feeling in the two sisters and watches, with cool wit and real tenderness, how each learns from the other. Sharp about money, class and the narrow choices open to women, it announced one of the great voices in English fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Austen's debut, two sisters who feel the world very differently. Sharp about money and marriage, and quietly moving.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was Austen's first published novel, credited only to 'A Lady'.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A3",
+  "enriched": true
+}

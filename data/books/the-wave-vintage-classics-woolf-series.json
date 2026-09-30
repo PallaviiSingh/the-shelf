@@ -1,0 +1,77 @@
+{
+  "slug": "the-wave-vintage-classics-woolf-series",
+  "title": "The Wave (Vintage Classics Woolf Series)",
+  "subtitle": null,
+  "authors": [
+    "virginia-woolf"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1931,
+  "edition": {
+    "publisher": "Vintage Classics",
+    "series": null,
+    "isbn": "1784870846",
+    "pageCount": 256
+  },
+  "cover": {
+    "file": "assets/covers/the-wave-vintage-classics-woolf-series.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#798573",
+    "w": 720,
+    "h": 989,
+    "palette": [
+      "#e9c639",
+      "#9bc8e3",
+      "#0f5039"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "modernism",
+    "consciousness",
+    "time",
+    "poetic"
+  ],
+  "moods": [
+    "luminous",
+    "experimental",
+    "dreamlike"
+  ],
+  "difficulty": "summit",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours",
+      "by the water"
+    ],
+    "sensory": [
+      "six interwoven voices",
+      "the rhythm of waves",
+      "a day's passing light"
+    ],
+    "oneLine": "Six friends' voices rise and fall like the sea, from childhood to age."
+  },
+  "summary": "Six friends speak in turn from childhood to old age, their interwoven monologues rising and falling like the sea, while brief lyrical interludes track the sun across a single day. The Waves is Woolf's most experimental and poetic novel, dissolving character and plot almost entirely into pure voice and rhythm. Demanding and hypnotic, it pushes the modernist novel as far as it can go, and rewards patient readers with some of the most beautiful prose in the language.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Woolf at her most experimental and poetic, six voices rising like the sea. Demanding, hypnotic, and gorgeously written.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Woolf called it a 'playpoem' and considered it her most ambitious experiment.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

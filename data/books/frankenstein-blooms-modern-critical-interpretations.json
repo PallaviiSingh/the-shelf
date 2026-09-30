@@ -1,0 +1,69 @@
+{
+  "slug": "frankenstein-blooms-modern-critical-interpretations",
+  "title": "Frankenstein Bloom's Modern Critical Interpretations",
+  "subtitle": null,
+  "authors": [
+    "mary-shelly",
+    "harold-bloom"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Chelsea House Publishers",
+    "series": null,
+    "isbn": "0791093034",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/frankenstein-blooms-modern-critical-interpretations.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6e6964",
+    "w": 662,
+    "h": 1000,
+    "palette": [
+      "#61284b",
+      "#1f3c25",
+      "#11120d"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Criticism"
+  ],
+  "region": "World",
+  "tags": [
+    "Frankenstein",
+    "criticism",
+    "essays",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "a much-read novel",
+      "essays from many angles",
+      "a critical companion"
+    ],
+    "oneLine": "Critical essays on Mary Shelley's Frankenstein."
+  },
+  "summary": "Part of Harold Bloom's Modern Critical Interpretations series, this volume gathers influential scholarly essays on Mary Shelley's Frankenstein, one of the most analysed novels in English. The essays approach the book from many angles, from Romanticism and science to gender, creation and monstrosity, with Bloom's editorial framing. A valuable critical companion for students writing about Frankenstein, collecting some of the best criticism the novel has drawn.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The best scholarly essays on Frankenstein, gathered by Harold Bloom. A rich critical companion.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

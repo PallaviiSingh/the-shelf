@@ -1,0 +1,17 @@
+{
+  "slug": "girish-karnad",
+  "name": "Girish Karnad",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Girish Raghunath Kārnād was an Indian playwright, actor, film director, writer, and a Jnanpith awardee, who predominantly worked in Kannada, Hindi, Tamil, Telugu, Malayalam and Marathi films. His rise as a playwright in the 1960s marked the coming of age of modern Indian playwriting in Kannada, just as Badal Sarkar did in Bengali, Vijay Tendulkar",
+  "photo": {
+    "file": "assets/authors/girish-karnad.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Girish_Karnad"
+  },
+  "books": [
+    "tughlaq"
+  ],
+  "enriched": false
+}

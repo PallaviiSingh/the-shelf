@@ -1,0 +1,19 @@
+{
+  "slug": "han-kang",
+  "name": "Han Kang",
+  "birthYear": 1970,
+  "deathYear": null,
+  "nationality": "South Korean",
+  "bio": "South Korean writer, and the daughter of the novelist Han Seung-won. Her spare, disturbing novels deal with violence, grief and the body. The Vegetarian won the 2016 International Booker Prize, and in 2024 she became the first Korean and first Asian woman to win the Nobel Prize in Literature, cited for prose 'that confronts historical traumas.'",
+  "photo": {
+    "file": "assets/authors/han-kang.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Han_Kang",
+    "license": "CC BY-SA 4.0",
+    "attribution": "John Sears"
+  },
+  "books": [
+    "human-acts",
+    "the-vegetarian"
+  ]
+}

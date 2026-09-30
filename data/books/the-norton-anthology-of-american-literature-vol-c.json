@@ -1,0 +1,64 @@
+{
+  "slug": "the-norton-anthology-of-american-literature-vol-c",
+  "title": "The Norton Anthology of American Literature, Vol C",
+  "subtitle": null,
+  "authors": [],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-norton-anthology-of-american-literature-vol-c.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#767056",
+    "w": 257,
+    "h": 400,
+    "palette": [
+      "#fdfacc",
+      "#6f9d82",
+      "#6b523a"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Anthology"
+  ],
+  "region": "United States",
+  "tags": [
+    "anthology",
+    "American literature",
+    "reference"
+  ],
+  "moods": [
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "realism and regionalism",
+      "Twain and James",
+      "a modernising America"
+    ],
+    "oneLine": "The Norton anthology of American literature, the age of realism."
+  },
+  "summary": "Volume C of the Norton Anthology of American Literature covers the decades after the Civil War, from realism and regionalism to the turn of the century, with writers like Twain, James, Wharton, Dickinson's later reception and the naturalists. It gathers the literature of a rapidly modernising America, with introductions, notes and context. A cornerstone anthology for the study of American writing in the age of realism.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Norton anthology of American realism and regionalism, Twain to Wharton. A modernising nation's literature.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "0",
+  "enriched": true
+}

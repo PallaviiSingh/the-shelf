@@ -1,0 +1,77 @@
+{
+  "slug": "the-night-before-christmas",
+  "title": "The Night Before Christmas",
+  "subtitle": null,
+  "authors": [
+    "nikolay-gogol"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1832,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "0143122487",
+    "pageCount": 435
+  },
+  "cover": {
+    "file": "assets/covers/the-night-before-christmas.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b29f9a",
+    "w": 661,
+    "h": 1000,
+    "palette": [
+      "#aaa49e",
+      "#c41323",
+      "#e3ccce"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Short Stories"
+  ],
+  "region": "Ukraine",
+  "tags": [
+    "folk tale",
+    "Christmas",
+    "the Devil",
+    "Ukraine"
+  ],
+  "moods": [
+    "playful",
+    "dreamlike",
+    "comforting"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "by a fire",
+      "to laugh",
+      "in winter"
+    ],
+    "sensory": [
+      "a snowbound village",
+      "a captured devil",
+      "a flight to the city"
+    ],
+    "oneLine": "A lovesick blacksmith catches the Devil to win a pair of slippers."
+  },
+  "summary": "On Christmas Eve in a Ukrainian village, a lovesick blacksmith strikes a bargain, catches the Devil himself, and flies to St Petersburg to win the slippers that will win his sweetheart. Gogol's exuberant folk-tale, from his early Evenings on a Farm Near Dikanka, mixes Christmas magic, comedy and the supernatural with his unmistakable relish for the absurd. Short, warm and wildly inventive, it is a festive read quite unlike the usual carols and snow.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A wild, funny Christmas folk-tale with the Devil in it. Gogol's festive magic, unlike any other Christmas story.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It comes from Gogol's early Ukrainian folk-tale collection, Evenings on a Farm Near Dikanka.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

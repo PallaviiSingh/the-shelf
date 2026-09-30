@@ -1,0 +1,71 @@
+{
+  "slug": "postmodernism-for-beginners",
+  "title": "Postmodernism for Beginners",
+  "subtitle": null,
+  "authors": [
+    "jim-powell"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orient BlackSwan",
+    "series": null,
+    "isbn": "8125020233",
+    "pageCount": 192
+  },
+  "cover": {
+    "file": "assets/covers/postmodernism-for-beginners.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7d672c",
+    "w": 625,
+    "h": 1000,
+    "palette": [
+      "#7ccd04",
+      "#f50902",
+      "#4b0d59"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy",
+    "Introduction",
+    "Graphic & Comics"
+  ],
+  "region": "World",
+  "tags": [
+    "postmodernism",
+    "introduction",
+    "theory"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "grand narratives",
+      "hyperreality",
+      "cartoons and clarity"
+    ],
+    "oneLine": "An illustrated introduction to postmodernism."
+  },
+  "summary": "Part of the illustrated For Beginners series, this book introduces postmodernism, the slippery but pervasive movement in art, thought and culture, through clear text and cartoons. It explains key thinkers and ideas, from the collapse of grand narratives to hyperreality and pastiche, and shows postmodernism at work across the arts. An accessible, entertaining first map of a notoriously elusive subject.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Postmodernism's slippery ideas made accessible with text and cartoons. An entertaining first map.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

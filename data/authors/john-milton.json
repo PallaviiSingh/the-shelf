@@ -1,0 +1,17 @@
+{
+  "slug": "john-milton",
+  "name": "John Milton",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "John Milton was an English poet, polemicist, and civil servant. His 1667 epic poem Paradise Lost was written in blank verse and included 12 books, written in a time of immense religious flux and political upheaval. It addressed the fall of man, including the temptation of Adam and Eve by the fallen angel Satan, and",
+  "photo": {
+    "file": "assets/authors/john-milton.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_Milton"
+  },
+  "books": [
+    "paradise-lost"
+  ],
+  "enriched": false
+}

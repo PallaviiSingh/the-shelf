@@ -1,0 +1,14 @@
+{
+  "slug": "jim-powell",
+  "name": "Jim Powell",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "derrida-for-beginners",
+    "postmodernism-for-beginners"
+  ],
+  "enriched": false
+}

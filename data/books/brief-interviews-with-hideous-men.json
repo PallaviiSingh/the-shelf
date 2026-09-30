@@ -1,0 +1,76 @@
+{
+  "slug": "brief-interviews-with-hideous-men",
+  "title": "Brief Interviews with Hideous Men",
+  "subtitle": null,
+  "authors": [
+    "david-foster-wallace"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1999,
+  "edition": {
+    "publisher": "Abacus",
+    "series": null,
+    "isbn": "9780349111889",
+    "pageCount": 281
+  },
+  "cover": {
+    "file": "assets/covers/brief-interviews-with-hideous-men.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#494348",
+    "w": 637,
+    "h": 1000,
+    "palette": [
+      "#4e3a37",
+      "#255384",
+      "#136ea1"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "masculinity",
+    "irony",
+    "experimental",
+    "stories"
+  ],
+  "moods": [
+    "cerebral",
+    "unsettling",
+    "satirical"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a series of monologues",
+      "modern masculinity",
+      "footnotes and forms"
+    ],
+    "oneLine": "Formally daring stories that put modern masculinity on the couch."
+  },
+  "summary": "A collection of David Foster Wallace's stories, formally daring and morally probing, including the title sequence of monologues in which men expose, often appallingly, their attitudes to women and themselves. Ranging from footnoted experiments to gut-punch short pieces, it wrestles with irony, sincerity, sex and the difficulty of genuine connection in a self-conscious age. Demanding and uneven, it shows Wallace at his most inventive and his most uncomfortable, and rewards the reader willing to work.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Wallace at his most inventive and uncomfortable, dissecting modern men and irony. Demanding, but nothing else reads like it.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The title interviews are presented as answers only, with the interviewer's questions left blank.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

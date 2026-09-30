@@ -1,0 +1,18 @@
+{
+  "slug": "saadat-hasan-manto",
+  "name": "Saadat Hasan Manto",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Saadat Hasan Manto NI was a Pakistani writer, playwright and novelist from Punjab, who is regarded as the greatest short-story author in Urdu literature. He was active from 1933 during British rule till his death in 1955 after independence.",
+  "photo": {
+    "file": "assets/authors/saadat-hasan-manto.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Saadat_Hasan_Manto"
+  },
+  "books": [
+    "bombay-stories",
+    "why-i-write"
+  ],
+  "enriched": false
+}

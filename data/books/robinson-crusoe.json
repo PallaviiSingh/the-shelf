@@ -1,0 +1,76 @@
+{
+  "slug": "robinson-crusoe",
+  "title": "Robinson Crusoe",
+  "subtitle": null,
+  "authors": [
+    "daniel-defoe"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1719,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141393408",
+    "pageCount": 274
+  },
+  "cover": {
+    "file": "assets/covers/robinson-crusoe.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#374649",
+    "w": 607,
+    "h": 1000,
+    "palette": [
+      "#18292e",
+      "#36454a"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Adventure"
+  ],
+  "region": "England",
+  "tags": [
+    "shipwreck",
+    "survival",
+    "island",
+    "colonialism"
+  ],
+  "moods": [
+    "adventurous",
+    "solitary",
+    "resourceful"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "by the water",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a deserted island",
+      "a lone survivor",
+      "a footprint in the sand"
+    ],
+    "oneLine": "A shipwrecked man builds a life alone on a desert island."
+  },
+  "summary": "Shipwrecked and alone on a deserted island, Robinson Crusoe spends nearly three decades building a life from almost nothing, keeping a journal, taming the wilderness, and wrestling with faith and solitude before the arrival of the man he names Friday. Often called the first English novel, Defoe's tale reads with the plain, gripping authority of a real castaway's account. It founded the whole genre of survival fiction and still fascinates, though modern readers also read it as a story about empire and the colonial mind.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The original castaway story, and arguably the first English novel. Plain, gripping, and quietly loaded with everything the empire believed.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Often called the first English novel, it was loosely inspired by the real castaway Alexander Selkirk.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B3",
+  "enriched": true
+}

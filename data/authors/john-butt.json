@@ -1,0 +1,13 @@
+{
+  "slug": "john-butt",
+  "name": "John Butt",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "oxford-history-of-english-literature-the-age-of-johnson-1740-1789"
+  ],
+  "enriched": false
+}

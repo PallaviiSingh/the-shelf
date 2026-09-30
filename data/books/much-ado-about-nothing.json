@@ -1,0 +1,78 @@
+{
+  "slug": "much-ado-about-nothing",
+  "title": "Much Ado About Nothing",
+  "subtitle": null,
+  "authors": [
+    "shakespeare"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1598,
+  "edition": {
+    "publisher": "Arden Shakespeare",
+    "series": null,
+    "isbn": "9789382563174",
+    "pageCount": 160
+  },
+  "cover": {
+    "file": "assets/covers/much-ado-about-nothing.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9b7c60",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#ccae86",
+      "#ae896a",
+      "#56533b"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Comedy"
+  ],
+  "region": "England",
+  "tags": [
+    "wit",
+    "courtship",
+    "deception",
+    "comedy"
+  ],
+  "moods": [
+    "witty",
+    "romantic",
+    "playful"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "to laugh",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a war of wits",
+      "a merry courtship",
+      "a trick of love"
+    ],
+    "oneLine": "Two sworn enemies of marriage are tricked into falling for each other."
+  },
+  "summary": "The sparring wits Beatrice and Benedick swear they will never marry, and are tricked by their friends into falling in love, while a darker scheme nearly destroys a second, younger couple. Shakespeare's sharpest romantic comedy crackles with some of his best banter and gives us one of literature's great battling couples. Funny, warm and just shadowed enough to have real stakes, it is the wittiest of the comedies and the clear ancestor of every screwball romance since.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The wittiest of Shakespeare's comedies, and Beatrice and Benedick are the great sparring couple. The ancestor of every screwball romance.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Beatrice and Benedick's banter has been called the model for the modern romantic comedy.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

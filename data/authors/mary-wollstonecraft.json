@@ -1,0 +1,13 @@
+{
+  "slug": "mary-wollstonecraft",
+  "name": "Mary Wollstonecraft",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "a-vindication-of-the-rights-of-woman"
+  ],
+  "enriched": false
+}

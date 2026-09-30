@@ -1,0 +1,71 @@
+{
+  "slug": "nietzsche-for-beginners",
+  "title": "Nietzsche for Beginners",
+  "subtitle": null,
+  "authors": [
+    "marc-sautet"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orient Blackswan",
+    "series": null,
+    "isbn": "8125026606",
+    "pageCount": 191
+  },
+  "cover": {
+    "file": "assets/covers/nietzsche-for-beginners.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a66b8f",
+    "w": 500,
+    "h": 761,
+    "palette": [
+      "#c271b3",
+      "#e6408c",
+      "#ad8586"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy",
+    "Introduction",
+    "Graphic & Comics"
+  ],
+  "region": "Germany",
+  "tags": [
+    "philosophy",
+    "Nietzsche",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "the death of God",
+      "the will to power",
+      "cartoons and clarity"
+    ],
+    "oneLine": "An illustrated introduction to the philosophy of Nietzsche."
+  },
+  "summary": "Part of the illustrated For Beginners series, this book introduces the explosive philosophy of Friedrich Nietzsche, from the death of God and the will to power to the eternal recurrence and the overman, through clear text and cartoons. It sets his ideas in the context of his life and their huge influence on later thought. An accessible, entertaining first encounter with one of the most provocative and misunderstood philosophers of all time.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Nietzsche's explosive ideas made accessible with text and cartoons. An entertaining first encounter.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

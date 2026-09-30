@@ -1,0 +1,19 @@
+{
+  "slug": "sisir-kumar-das",
+  "name": "Sisir Kumar Das",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Sisir Kumar Das (1936–2003) was an Indian scholar of literature, specializing in Indian literature, as well as a linguist, poet, playwright, translator, and comparatist. His three-volume A History of Indian Literature is a significant contribution to the field. He also edited the multi-volume English Writings of Rabindranath Tagore.",
+  "photo": {
+    "file": "assets/authors/sisir-kumar-das.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sisir_Kumar_Das"
+  },
+  "books": [
+    "a-history-of-indian-literature-1800-1910-western-impact-indian-respons",
+    "a-history-of-indian-literature-1911-1956-struggle-for-freedom-triumph-",
+    "a-history-of-indian-literature-500-1399-from-the-courtly-to-the-popula"
+  ],
+  "enriched": false
+}

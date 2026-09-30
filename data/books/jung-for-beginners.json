@@ -1,0 +1,72 @@
+{
+  "slug": "jung-for-beginners",
+  "title": "Jung for Beginners",
+  "subtitle": null,
+  "authors": [
+    "platania-joe",
+    "joe-lee"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orient BlackSwan",
+    "series": null,
+    "isbn": "8125031677",
+    "pageCount": 153
+  },
+  "cover": {
+    "file": "assets/covers/jung-for-beginners.jpg",
+    "source": "openlibrary",
+    "match": "title-search",
+    "sourceUrl": null,
+    "dominantColor": "#6c4e64",
+    "w": 314,
+    "h": 475,
+    "palette": [
+      "#55087e",
+      "#9b7399",
+      "#f8fa42"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy",
+    "Introduction",
+    "Graphic & Comics"
+  ],
+  "region": "Switzerland",
+  "tags": [
+    "psychology",
+    "Jung",
+    "introduction"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "curious"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "the collective unconscious",
+      "archetypes and the shadow",
+      "cartoons and clarity"
+    ],
+    "oneLine": "An illustrated introduction to the psychology of Carl Jung."
+  },
+  "summary": "Part of the illustrated For Beginners series, this book introduces the psychology of Carl Jung, from the collective unconscious and archetypes to individuation and the shadow, through clear text and cartoons. It traces his life, his break with Freud and the wide influence of his ideas on psychology, myth and spirituality. An accessible, entertaining first encounter with one of the most imaginative and enduring figures in the study of the mind.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Jung's psychology of archetypes and the unconscious, made accessible with text and cartoons. An entertaining first encounter.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

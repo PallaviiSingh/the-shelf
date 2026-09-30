@@ -1,0 +1,77 @@
+{
+  "slug": "invisible-man",
+  "title": "Invisible Man",
+  "subtitle": null,
+  "authors": [
+    "h-g-wells"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1897,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "0141389516",
+    "pageCount": 170
+  },
+  "cover": {
+    "file": "assets/covers/invisible-man.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5f2f51",
+    "w": 326,
+    "h": 500,
+    "palette": [
+      "#51354f",
+      "#802253",
+      "#c20378"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Science Fiction",
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "invisibility",
+    "science",
+    "madness",
+    "power"
+  ],
+  "moods": [
+    "unsettling",
+    "suspenseful",
+    "cerebral"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to be thrilled",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a bandaged stranger",
+      "an English village",
+      "unseen menace"
+    ],
+    "oneLine": "A scientist turns invisible, and unlimited secrecy turns him monstrous."
+  },
+  "summary": "A brilliant, unstable scientist discovers how to make himself invisible, then finds he cannot reverse it, and that unlimited secrecy drives him toward cruelty and terror. Wells's novel (not to be confused with Ralph Ellison's later book of the same name) is a sharp, fast fable about power without accountability: what a man becomes when no one can see what he does. Both a gripping chase and a moral experiment, it remains one of the founding works of science fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A founding sci-fi fable about power with no witnesses. Fast, eerie, and sharper than its many adaptations.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is often confused with Ralph Ellison's 1952 novel of the same title, which is a completely different book.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "fyodor-dostoyevsky",
+  "name": "Fyodor Dostoyevsky",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Fyodor Mikhailovich Dostoevsky was a Russian philosopher, novelist, short-story writer, essayist and journalist. He is regarded as one of the greatest novelists in both Russian and world literature, and many of his works are considered highly influential masterpieces. Dostoevsky's literary works explore the human condition in the troubled political, social and spiritual atmospheres of 19th-century",
+  "photo": null,
+  "books": [
+    "crime-and-punishment",
+    "white-nights"
+  ],
+  "enriched": false
+}

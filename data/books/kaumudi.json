@@ -1,0 +1,77 @@
+{
+  "slug": "kaumudi",
+  "title": "Kaumudi",
+  "subtitle": null,
+  "authors": [
+    "shivrani-devi"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 1937,
+  "edition": {
+    "publisher": "Nayee Kitab Prakashan",
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/kaumudi.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#c2a66e",
+    "w": 359,
+    "h": 557,
+    "palette": [
+      "#e8cf97",
+      "#876f4e",
+      "#cfb367"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Shivrani Devi",
+    "women",
+    "short stories"
+  ],
+  "moods": [
+    "tender",
+    "defiant",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "women's courage",
+      "social reform",
+      "a bold woman's pen"
+    ],
+    "oneLine": "The second short-story collection of the writer Shivrani Devi."
+  },
+  "summary": "Kaumudi, or Moonlight, was Shivrani Devi's second collection of short stories, following Nari Hraday. Her fiction foregrounds the lives, courage and social reform of women, and several readers have found her bolder than her husband Premchand on questions of women's freedom. Out of print for decades and recently reissued, it restores to Hindi readers the work of a writer and freedom fighter who deserves to be known for her own pen, and not only as the wife of a famous man.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Shivrani Devi's second story collection, bold on women's lives and freedom. A neglected voice recently revived.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was reissued roughly seven decades after its first appearance, bringing her back before Hindi readers.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

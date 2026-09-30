@@ -1,0 +1,78 @@
+{
+  "slug": "bombay-stories",
+  "title": "Bombay Stories",
+  "subtitle": null,
+  "authors": [
+    "saadat-hasan-manto"
+  ],
+  "translator": null,
+  "originalLanguage": "Urdu",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Vintage Books",
+    "series": null,
+    "isbn": "8184006411",
+    "pageCount": 272
+  },
+  "cover": {
+    "file": "assets/covers/bombay-stories.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#796866",
+    "w": 427,
+    "h": 650,
+    "palette": [
+      "#39383e",
+      "#1f1011",
+      "#815553"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Classic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Urdu",
+    "Manto",
+    "Bombay",
+    "short stories"
+  ],
+  "moods": [
+    "bleak",
+    "intense",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "teeming Bombay",
+      "life on the margins",
+      "an unflinching eye"
+    ],
+    "oneLine": "Saadat Hasan Manto's fierce, humane stories of old Bombay."
+  },
+  "summary": "Bombay Stories gathers the fiction Saadat Hasan Manto set in the teeming, seductive, brutal city of Bombay, peopled by pimps, prostitutes, film-world hangers-on and ordinary strugglers. The greatest Urdu short-story writer of the twentieth century, Manto wrote with unflinching honesty and deep compassion about those on the margins, refusing all moralising. Sharp, humane and utterly without sentimentality, these stories capture a whole city and confirm Manto as a fearless master of the form.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Manto's unflinching, compassionate stories of Bombay's margins, pimps, prostitutes and strugglers. A fearless master.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Manto was tried for obscenity six times, three times before and three times after Partition.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

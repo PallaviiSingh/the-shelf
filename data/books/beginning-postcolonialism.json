@@ -1,0 +1,69 @@
+{
+  "slug": "beginning-postcolonialism",
+  "title": "Beginning Postcolonialism",
+  "subtitle": null,
+  "authors": [
+    "john-mcleod"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Viva Books",
+    "series": null,
+    "isbn": "9788130919041",
+    "pageCount": 352
+  },
+  "cover": {
+    "file": "assets/covers/beginning-postcolonialism.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#ab8455",
+    "w": 177,
+    "h": 285,
+    "palette": [
+      "#e43f36",
+      "#2c936e",
+      "#f9e99b"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Introduction"
+  ],
+  "region": "World",
+  "tags": [
+    "postcolonialism",
+    "introduction",
+    "criticism"
+  ],
+  "moods": [
+    "cerebral",
+    "clear-eyed"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "the legacy of empire",
+      "Said and Spivak",
+      "a first guide"
+    ],
+    "oneLine": "A clear first introduction to postcolonial studies."
+  },
+  "summary": "John McLeod's Beginning Postcolonialism is a widely used first introduction to postcolonial studies, explaining how literature and theory grapple with the legacies of empire, colonial and anti-colonial discourse, migration, nation and identity. It introduces key thinkers like Said, Spivak and Bhabha in clear language and applies the ideas to real texts. Reassuring and genuinely helpful, it is a reliable starting point for one of the most important fields in contemporary literary study.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The friendliest introduction to postcolonial studies, Said, Spivak and Bhabha made clear. A reliable starting point.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

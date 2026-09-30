@@ -1,0 +1,68 @@
+{
+  "slug": "oxford-history-of-english-literature-the-victorian-novel",
+  "title": "Oxford History of English Literature: The Victorian Novel",
+  "subtitle": null,
+  "authors": [
+    "alan-horsman"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Clarendon Press",
+    "series": null,
+    "isbn": "0198122160",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/oxford-history-of-english-literature-the-victorian-novel.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#737160",
+    "w": 323,
+    "h": 500,
+    "palette": [
+      "#252210",
+      "#c9c9b6",
+      "#e1e0cd"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "Victorian",
+    "the novel",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "Dickens and Eliot",
+      "the great novelists",
+      "a golden age of fiction"
+    ],
+    "oneLine": "The Oxford history of the Victorian novel."
+  },
+  "summary": "Alan Horsman's volume in the Oxford History of English Literature is devoted to the Victorian novel, the form that dominated nineteenth-century English literature. It surveys the great novelists from Dickens and Thackeray to the Brontes, Eliot, Trollope and Hardy, tracing the growth, variety and achievement of Victorian fiction. An authoritative scholarly account of the golden age of the English novel, essential for students of nineteenth-century literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Oxford account of the Victorian novel, from Dickens to Hardy. The golden age of English fiction, surveyed authoritatively.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

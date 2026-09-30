@@ -1,0 +1,77 @@
+{
+  "slug": "a-study-in-scarlet",
+  "title": "A Study in Scarlet",
+  "subtitle": null,
+  "authors": [
+    "arthur-conan-doyle"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1887,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "0141395524",
+    "pageCount": 162
+  },
+  "cover": {
+    "file": "assets/covers/a-study-in-scarlet.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a62d4a",
+    "w": 720,
+    "h": 1123,
+    "palette": [
+      "#b21c4a",
+      "#242549",
+      "#6a2049"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Mystery & Crime",
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "Sherlock Holmes",
+    "detection",
+    "London",
+    "first meeting"
+  ],
+  "moods": [
+    "suspenseful",
+    "playful",
+    "cerebral"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to be thrilled",
+      "on a train or plane"
+    ],
+    "sensory": [
+      "221B Baker Street",
+      "a London murder",
+      "a chain of deductions"
+    ],
+    "oneLine": "Holmes and Watson meet, and modern detective fiction is born."
+  },
+  "summary": "The novel that introduced the world to Sherlock Holmes and Dr Watson, as the two meet, take rooms at Baker Street, and tackle a baffling London murder whose roots reach back to the American frontier. Conan Doyle lays out, fully formed, the method that would define detective fiction: observation, deduction and the flourish of the reveal. A brisk, hugely enjoyable origin story, it is where a hundred years of crime writing effectively begins, and where Holmes first says more or less everything you remember him saying.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Where Holmes and Watson first meet, and where detective fiction really begins. Brisk, clever and endlessly re-readable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Conan Doyle was paid just 25 pounds for all rights to this first Holmes story.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

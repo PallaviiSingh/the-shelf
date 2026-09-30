@@ -1,0 +1,68 @@
+{
+  "slug": "a-history-of-indian-literature-500-1399-from-the-courtly-to-the-popula",
+  "title": "A History Of Indian Literature (500-1399) From The Courtly To The Popular",
+  "subtitle": null,
+  "authors": [
+    "sisir-kumar-das"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Sahitya Akademi Publications",
+    "series": null,
+    "isbn": "8126021713",
+    "pageCount": 302
+  },
+  "cover": {
+    "file": "assets/covers/a-history-of-indian-literature-500-1399-from-the-courtly-to-the-popula.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#58402f",
+    "w": 370,
+    "h": 550,
+    "palette": [
+      "#40281f",
+      "#6d5437",
+      "#9e7d54"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "India",
+  "tags": [
+    "Indian literature",
+    "literary history",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "a thousand years",
+      "many languages at once",
+      "classical to medieval"
+    ],
+    "oneLine": "A history of Indian literature from 500 to 1399, courtly to popular."
+  },
+  "summary": "Part of Sisir Kumar Das's monumental history of Indian literature for the Sahitya Akademi, this volume covers 500 to 1399, from the courtly to the popular. It surveys the vast, multilingual literary traditions of the subcontinent across a millennium, tracing Sanskrit, Prakrit and the emerging regional languages together rather than in isolation. A pioneering, authoritative scholarly account that treats Indian literature as a single connected whole, indispensable for understanding the country's classical and medieval writing.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Sisir Kumar Das's monumental, multilingual history of Indian literature, 500 to 1399. Pioneering and authoritative.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "A1",
+  "enriched": true
+}

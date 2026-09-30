@@ -1,0 +1,18 @@
+{
+  "slug": "amitav-ghosh",
+  "name": "Amitav Ghosh",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Amitav Ghosh is an American writer. He won the 54th Jnanpith award in 2018, India's highest literary honour. Ghosh's ambitious novels use complex narrative strategies to probe the nature of national and personal identity, particularly of the people of India and South Asia. He has written historical fiction and non-fiction works discussing topics such as",
+  "photo": null,
+  "books": [
+    "ghost-eye-a-novel",
+    "river-of-smoke",
+    "the-great-derangement-climate-change-and-the-unthinkable",
+    "the-nutmegs-curse-parables-for-a-planet-in-crisis",
+    "the-shadow-lines",
+    "wild-fictions"
+  ],
+  "enriched": false
+}

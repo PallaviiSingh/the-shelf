@@ -1,0 +1,77 @@
+{
+  "slug": "middlemarch",
+  "title": "Middlemarch",
+  "subtitle": null,
+  "authors": [
+    "george-eliot"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1871,
+  "edition": {
+    "publisher": null,
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141196890",
+    "pageCount": 793
+  },
+  "cover": {
+    "file": "assets/covers/middlemarch.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#daa69e",
+    "w": 720,
+    "h": 1183,
+    "palette": [
+      "#d39293",
+      "#f0e9c4",
+      "#e0baa9"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "provincial life",
+    "marriage",
+    "idealism",
+    "ambition"
+  ],
+  "moods": [
+    "cerebral",
+    "melancholic",
+    "warm"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a provincial town",
+      "a disastrous marriage",
+      "a thwarted idealist"
+    ],
+    "oneLine": "A whole English town of thwarted dreams, in the greatest of Victorian novels."
+  },
+  "summary": "In the provincial town of Middlemarch, the idealistic Dorothea makes a disastrous marriage, an ambitious young doctor sees his dreams eroded by debt and gossip, and dozens of lives quietly intersect. George Eliot's vast panorama of English provincial life is widely called the greatest novel in the language, a profoundly wise study of ambition, disappointment and the small daily compromises that shape a life. Demanding but immensely rewarding, it repays every hour with astonishing psychological depth.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Often called the greatest English novel, and it earns the claim. Immensely wise about ambition, marriage and ordinary life.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Virginia Woolf famously called it 'one of the few English novels written for grown-up people'.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C3",
+  "enriched": true
+}

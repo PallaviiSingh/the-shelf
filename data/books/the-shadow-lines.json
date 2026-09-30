@@ -1,0 +1,76 @@
+{
+  "slug": "the-shadow-lines",
+  "title": "The Shadow Lines",
+  "subtitle": null,
+  "authors": [
+    "amitav-ghosh"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1988,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 252
+  },
+  "cover": {
+    "file": "assets/covers/the-shadow-lines.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d6d89a",
+    "w": 350,
+    "h": 550,
+    "palette": [
+      "#e0e3b7",
+      "#e9ea54",
+      "#c6c9a0"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "memory",
+    "borders",
+    "Partition",
+    "family"
+  ],
+  "moods": [
+    "melancholic",
+    "cerebral",
+    "haunting"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to feel something deeply",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "Calcutta and London",
+      "lines on a map",
+      "a slowly understood violence"
+    ],
+    "oneLine": "Across three cities, a family shows how borders cut through real lives."
+  },
+  "summary": "Moving between Calcutta, Dhaka and London across three generations, Amitav Ghosh's novel follows a narrator piecing together his family's story and the way national borders, drawn on maps, cut through real lives and memories. Circling a violence he only slowly understands, the book meditates on how arbitrary lines create both nations and tragedies. Elegant, non-linear and deeply intelligent, it is one of the finest Indian novels in English and a profound reflection on memory, freedom and belonging.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Ghosh's elegant meditation on borders, memory and how lines on a map cut through real lives. One of the finest Indian novels.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won the Sahitya Akademi Award, India's national literary honour.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

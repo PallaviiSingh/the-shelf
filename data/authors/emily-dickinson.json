@@ -1,0 +1,13 @@
+{
+  "slug": "emily-dickinson",
+  "name": "Emily Dickinson",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Emily Elizabeth Dickinson was an American poet. Largely unpublished and unknown during her lifetime, her work is now widely regarded as canonical. The Poetry Foundation describes her as having \"created in her writing a distinctively elliptical language for expressing what was possible but not yet realized.\"",
+  "photo": null,
+  "books": [
+    "hope-is-the-thing-with-feathers-poems-of-emily-dickinson"
+  ],
+  "enriched": false
+}

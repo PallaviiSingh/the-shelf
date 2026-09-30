@@ -1,0 +1,18 @@
+{
+  "slug": "jon-krakauer",
+  "name": "Jon Krakauer",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Jon Krakauer is an American writer and mountaineer. He is the author of bestselling nonfiction books—Into the Wild; Into Thin Air; Under the Banner of Heaven; and Where Men Win Glory: The Odyssey of Pat Tillman—as well as numerous magazine articles. He was a member of an ill-fated expedition to summit Mount Everest in 1996,",
+  "photo": {
+    "file": "assets/authors/jon-krakauer.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jon_Krakauer"
+  },
+  "books": [
+    "into-the-wild",
+    "into-thin-air"
+  ],
+  "enriched": false
+}

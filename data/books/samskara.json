@@ -1,0 +1,77 @@
+{
+  "slug": "samskara",
+  "title": "Samskara",
+  "subtitle": null,
+  "authors": [
+    "u-r-ananthamurthy"
+  ],
+  "translator": null,
+  "originalLanguage": "Kannada",
+  "translated": true,
+  "originalPublicationYear": 1965,
+  "edition": {
+    "publisher": "Oxford",
+    "series": null,
+    "isbn": "0198077149",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/samskara.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#60625c",
+    "w": 180,
+    "h": 277,
+    "palette": [
+      "#393d3b",
+      "#10131c",
+      "#6a533b"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Classic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Kannada",
+    "Ananthamurthy",
+    "caste",
+    "religion"
+  ],
+  "moods": [
+    "cerebral",
+    "bleak",
+    "intense"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "a rigid agrahara",
+      "an unperformed funeral",
+      "a crisis of faith"
+    ],
+    "oneLine": "A transgressor's death shakes a Brahmin community's faith, in a Kannada classic."
+  },
+  "summary": "Samskara is U. R. Ananthamurthy's landmark Kannada novel, in which the death of a rebellious, transgressive Brahmin throws a rigid South Indian agrahara into crisis: no one will perform his last rites, and the community's most learned priest is forced into a spiritual reckoning that shakes his faith and his caste certainties. A searing critique of orthodoxy, ritual and caste, it is one of the most important works of modern Indian fiction and a profound meditation on decay and renewal.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Ananthamurthy's searing Kannada classic, a death that forces a Brahmin community into a crisis of caste and faith.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its film adaptation is regarded as a landmark of Indian parallel cinema.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

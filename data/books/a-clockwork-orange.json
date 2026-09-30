@@ -1,0 +1,76 @@
+{
+  "slug": "a-clockwork-orange",
+  "title": "A Clockwork Orange",
+  "subtitle": null,
+  "authors": [
+    "anthony-burgess"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1962,
+  "edition": {
+    "publisher": "Penguin Books Ltd",
+    "series": "Penguin Classics",
+    "pageCount": 176
+  },
+  "cover": {
+    "file": "assets/covers/a-clockwork-orange.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/0141182601-L.jpg?default=false",
+    "dominantColor": "#cccfd2",
+    "w": 326,
+    "h": 500,
+    "palette": [
+      "#e6e5e4",
+      "#a3aac6",
+      "#8e93ac"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Dystopian"
+  ],
+  "region": "England",
+  "tags": [
+    "violence",
+    "free will",
+    "dystopia",
+    "invented language"
+  ],
+  "moods": [
+    "disturbing",
+    "satirical",
+    "intense"
+  ],
+  "difficulty": "challenging",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be thrilled",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a violent near-future",
+      "an invented slang",
+      "a forced cure"
+    ],
+    "oneLine": "A violent youth is 'cured' of his free will, in Burgess's invented slang."
+  },
+  "summary": "In a near-future England, the teenage Alex leads a gang on nightly sprees of 'ultra-violence', narrating it all in Nadsat, the invented Russian-tinged slang Burgess created for him, until the state seizes him for an experimental cure that strips away his ability to choose evil, or good. A dazzling, disturbing fable about free will, conditioning and the morality of the state, it is as unsettling as it is inventive. Short, ferocious and unlike anything else, with a language you learn as you read.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A ferocious, inventive fable about free will and state control, told in its own invented slang. Disturbing and unforgettable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Burgess invented an entire teen slang, Nadsat, based largely on Russian, for the novel.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

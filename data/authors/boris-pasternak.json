@@ -1,0 +1,18 @@
+{
+  "slug": "boris-pasternak",
+  "name": "Boris Pasternak",
+  "birthYear": 1890,
+  "deathYear": 1960,
+  "nationality": "Russian (Soviet)",
+  "bio": "Russian poet, novelist and translator, first famous for his poetry. His one novel, Doctor Zhivago, was refused publication at home and smuggled to Italy, where it came out in 1957. He won the 1958 Nobel Prize in Literature and was forced by the Soviet authorities to turn it down. He died two years later.",
+  "photo": {
+    "file": "assets/authors/boris-pasternak.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Boris_Pasternak",
+    "license": "Public domain",
+    "attribution": "Владимир Савостьянов / ТАСС"
+  },
+  "books": [
+    "doctor-zhivago"
+  ]
+}

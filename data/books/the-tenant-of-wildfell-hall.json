@@ -1,0 +1,76 @@
+{
+  "slug": "the-tenant-of-wildfell-hall",
+  "title": "The Tenant of Wildfell Hall",
+  "subtitle": null,
+  "authors": [
+    "anne-bront"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1848,
+  "edition": {
+    "publisher": null,
+    "series": "Penguin Clothbound Edition",
+    "isbn": "024119895X",
+    "pageCount": 432
+  },
+  "cover": {
+    "file": "assets/covers/the-tenant-of-wildfell-hall.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#374c42",
+    "w": 720,
+    "h": 1156,
+    "palette": [
+      "#273836",
+      "#4f6c53",
+      "#6f946b"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "marriage",
+    "addiction",
+    "independence",
+    "secrets"
+  ],
+  "moods": [
+    "fierce",
+    "cerebral",
+    "hopeful"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a shuttered old hall",
+      "a secret diary",
+      "a woman's flight"
+    ],
+    "oneLine": "A widow's secret: she fled a cruel husband to save herself and her son."
+  },
+  "summary": "A mysterious young widow arrives at Wildfell Hall with her small son and sets the local gossips talking, until her diary reveals the truth: she has fled a dissolute, abusive husband to protect herself and her child. Anne Bronte's second novel was startlingly frank for its time about alcoholism, marital cruelty and a woman's right to leave, and was long overshadowed by her sisters' work. Bold and morally serious, it is now recognised as an early feminist landmark.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The boldest Bronte, a frank Victorian novel about leaving an abusive marriage. An early feminist landmark, long underrated.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was so frank about marital abuse that Anne's own sister Charlotte suppressed its reprinting.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C3",
+  "enriched": true
+}

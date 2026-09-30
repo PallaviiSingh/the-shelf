@@ -1,0 +1,74 @@
+{
+  "slug": "the-position-of-women-in-hindu-civilization",
+  "title": "The Position of Women in Hindu Civilization",
+  "subtitle": null,
+  "authors": [
+    "a-s-altekar"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-position-of-women-in-hindu-civilization.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#843418",
+    "w": 657,
+    "h": 1000,
+    "palette": [
+      "#390906",
+      "#e46c23",
+      "#6b220f"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History"
+  ],
+  "region": "India",
+  "tags": [
+    "India",
+    "history",
+    "women",
+    "society"
+  ],
+  "moods": [
+    "cerebral",
+    "political"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "ancient texts",
+      "shifting laws",
+      "centuries of change"
+    ],
+    "oneLine": "How women's status in Hindu society shifted from the Vedic age to now."
+  },
+  "summary": "A.S. Altekar's classic study surveys the changing status of women in Hindu society from the Vedic age to modern times, drawing on scripture, law and social practice to trace how their rights in marriage, property, education and public life expanded and contracted across the centuries. Scholarly and much debated, it remains a foundational reference in Indian social history, both for its wealth of material and for the arguments later scholars have made with it about how that history should be read.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A foundational, much-argued-with study of women's changing place in Indian history. Essential background, best read critically.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "First published in the 1930s, it remains a standard reference and a starting point for later debate.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

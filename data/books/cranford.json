@@ -1,0 +1,76 @@
+{
+  "slug": "cranford",
+  "title": "Cranford",
+  "subtitle": null,
+  "authors": [
+    "elizabeth-gaskell"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1853,
+  "edition": {
+    "publisher": null,
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141442549",
+    "pageCount": 244
+  },
+  "cover": {
+    "file": "assets/covers/cranford.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#86b14e",
+    "w": 647,
+    "h": 1000,
+    "palette": [
+      "#a3b84d",
+      "#0b9251",
+      "#52a550"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "small town",
+    "women",
+    "community",
+    "Victorian"
+  ],
+  "moods": [
+    "warm",
+    "comforting",
+    "gently comic"
+  ],
+  "difficulty": "gentle",
+  "pace": "gentle",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "comfort reading",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a sleepy country town",
+      "genteel tea parties",
+      "a circle of old friends"
+    ],
+    "oneLine": "The gentle, funny life of a country town ruled by its older women."
+  },
+  "summary": "In the sleepy country town of Cranford, life is quietly ruled by a circle of genteel, mostly unmarried older women whose small dramas, economies and kindnesses fill Gaskell's warm, episodic portrait of provincial life. Gentle and often very funny, it finds real feeling in tea parties, faded fortunes and the loyalty of women to one another. A comforting, beautifully observed classic about an ordinary community, and a soothing antidote to grander, gloomier Victorian fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A warm, funny portrait of small-town women looking out for one another. The coziest of Victorian classics.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Gaskell based the town on Knutsford in Cheshire, where she grew up.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C3",
+  "enriched": true
+}

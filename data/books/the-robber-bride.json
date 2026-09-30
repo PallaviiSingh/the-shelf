@@ -1,0 +1,75 @@
+{
+  "slug": "the-robber-bride",
+  "title": "The Robber Bride",
+  "subtitle": null,
+  "authors": [
+    "margaret-atwood"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1993,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 528
+  },
+  "cover": {
+    "file": "assets/covers/the-robber-bride.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#c42f3b",
+    "w": 636,
+    "h": 1000,
+    "palette": [
+      "#c61a2d",
+      "#c85256",
+      "#cc8680"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Canada",
+  "tags": [
+    "friendship",
+    "betrayal",
+    "women",
+    "Toronto"
+  ],
+  "moods": [
+    "satirical",
+    "unsettling",
+    "playful"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "Toronto",
+      "three old friends",
+      "a returning nemesis"
+    ],
+    "oneLine": "A ruthless woman returns from the 'dead' to torment three old friends."
+  },
+  "summary": "Three women, long bound by their shared history with the seductive, ruthless Zenia, believe her safely dead, until she walks back into their lives to wreak havoc once more. Atwood spins their intertwined pasts into a rich, wicked novel about female friendship, betrayal and the villainesses we cannot quite stop needing. Sharp, gossipy and psychologically acute, it is one of her most purely entertaining books, anchored by one of fiction's great, unrepentant bad women.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Atwood at her most wickedly entertaining, built around one unforgettable villainess. Gossipy, sharp and a total pleasure.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Zenia is often cited as one of the most memorable villains in modern fiction.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A3",
+  "enriched": true
+}

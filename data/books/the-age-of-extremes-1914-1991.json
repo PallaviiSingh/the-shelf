@@ -1,0 +1,75 @@
+{
+  "slug": "the-age-of-extremes-1914-1991",
+  "title": "The Age of Extremes (1914-1991)",
+  "subtitle": null,
+  "authors": [
+    "eric-hobsbawm"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1994,
+  "edition": {
+    "publisher": "Abacus",
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-age-of-extremes-1914-1991.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#43535e",
+    "w": 720,
+    "h": 1129,
+    "palette": [
+      "#1f2125",
+      "#394e58",
+      "#4e7080"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "History"
+  ],
+  "region": "World",
+  "tags": [
+    "20th century",
+    "world wars",
+    "Cold War",
+    "communism"
+  ],
+  "moods": [
+    "bleak",
+    "epic",
+    "political"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a century of extremes",
+      "world wars and boom",
+      "the fall of an empire"
+    ],
+    "oneLine": "Hobsbawm's history of the short, violent twentieth century."
+  },
+  "summary": "Hobsbawm's account of what he called the 'short twentieth century', from the outbreak of the First World War to the collapse of the Soviet Union. He divides the era into an age of catastrophe, a golden age of postwar boom, and a final landslide of uncertainty, weaving war, revolution, economics and culture into a single grand narrative. Written by a historian who lived through most of it, this final volume is the most personal and widely read of the quartet.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Hobsbawm's masterful reckoning with his own violent century, from 1914 to the fall of the USSR. The most gripping of the four.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Hobsbawm called 1914 to 1991 the 'short twentieth century', a phrase now widely used.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B1",
+  "enriched": true
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "ideology-a-very-short-introduction",
+  "title": "Ideology: A Very Short Introduction",
+  "subtitle": null,
+  "authors": [
+    "freeden"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Oxford",
+    "series": null,
+    "isbn": "019280281X",
+    "pageCount": 152
+  },
+  "cover": {
+    "file": "assets/covers/ideology-a-very-short-introduction.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#849932",
+    "w": 210,
+    "h": 328,
+    "trimmed": true,
+    "palette": [
+      "#098b41",
+      "#cc8121",
+      "#fdf103"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Introduction"
+  ],
+  "region": "World",
+  "tags": [
+    "ideology",
+    "politics",
+    "introduction",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "clear-eyed"
+  ],
+  "difficulty": "gentle",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to study",
+      "in a cafe"
+    ],
+    "sensory": [
+      "a slippery word",
+      "how politics is organised",
+      "a compact primer"
+    ],
+    "oneLine": "A short introduction to the idea of ideology."
+  },
+  "summary": "Michael Freeden's contribution to the Very Short Introductions series explains 'ideology', one of the most used and most slippery words in politics. It traces the concept's history and shows how ideologies, from liberalism and socialism to nationalism, actually organise political thought and action. Clear, balanced and admirably compact, it cuts through confusion to show why ideology matters and how to think about it. An ideal short primer on a central political idea.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A clear, compact primer on 'ideology', one of politics' slipperiest words. The ideal short starting point.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

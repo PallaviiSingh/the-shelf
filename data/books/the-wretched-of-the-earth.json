@@ -1,0 +1,75 @@
+{
+  "slug": "the-wretched-of-the-earth",
+  "title": "The Wretched of the Earth",
+  "subtitle": null,
+  "authors": [
+    "frantz-fanon"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1961,
+  "edition": {
+    "publisher": "Penguin classics",
+    "series": null,
+    "isbn": "0141186542",
+    "pageCount": 256
+  },
+  "cover": {
+    "file": "assets/covers/the-wretched-of-the-earth.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": null,
+    "dominantColor": "#b0aea9",
+    "w": 326,
+    "h": 500,
+    "palette": [
+      "#b8b5af",
+      "#dedad3"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory"
+  ],
+  "region": "Algeria",
+  "tags": [
+    "postcolonialism",
+    "revolution",
+    "Fanon",
+    "politics"
+  ],
+  "moods": [
+    "cerebral",
+    "political",
+    "intense"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to feel something deeply",
+      "to study"
+    ],
+    "sensory": [
+      "colonial violence",
+      "the fight for freedom",
+      "a global manifesto"
+    ],
+    "oneLine": "Fanon's fierce classic on colonial violence and the fight for freedom."
+  },
+  "summary": "Written as Fanon was dying and drawing on his role in the Algerian struggle, The Wretched of the Earth is the classic analysis of colonial violence and the psychology of liberation. It argues fiercely for the necessity of anti-colonial revolt and warns of the pitfalls awaiting newly independent nations. With its famous preface by Sartre, it became a manifesto for liberation movements across the world and remains a foundational, incendiary text of postcolonial thought.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Fanon's incendiary classic on colonial violence and liberation. A manifesto that shaped movements worldwide.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its original French edition carried an incendiary preface by Jean-Paul Sartre.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

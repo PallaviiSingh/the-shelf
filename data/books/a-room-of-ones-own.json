@@ -1,0 +1,77 @@
+{
+  "slug": "a-room-of-ones-own",
+  "title": "A Room of One's Own",
+  "subtitle": null,
+  "authors": [
+    "virginia-woolf"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1929,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0141183535",
+    "pageCount": 143
+  },
+  "cover": {
+    "file": "assets/covers/a-room-of-ones-own.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4c4a76",
+    "w": 220,
+    "h": 329,
+    "trimmed": true,
+    "palette": [
+      "#353366",
+      "#b5b6c8",
+      "#535170"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays"
+  ],
+  "region": "England",
+  "tags": [
+    "women writers",
+    "money",
+    "freedom",
+    "imagination"
+  ],
+  "moods": [
+    "cerebral",
+    "luminous",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "a locked library",
+      "Shakespeare's sister",
+      "a room and a wage"
+    ],
+    "oneLine": "Why a woman needs money and a room of her own to write."
+  },
+  "summary": "From a simple, radical premise, that a woman needs money and a room of her own if she is to write fiction, Virginia Woolf spins one of the great essays in the language. Ranging over history, the imagined fate of Shakespeare's equally gifted sister, and the material conditions that have silenced women, she makes the case that genius needs freedom and independence to flower. Witty, exploratory and quietly furious, it remains a touchstone for anyone thinking about art, money and gender.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A short, dazzling essay that reframed how we think about women and creativity. As alive and witty now as in 1929.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The imagined figure of 'Shakespeare's sister' has become a permanent way of talking about lost female genius.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

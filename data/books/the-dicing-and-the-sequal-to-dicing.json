@@ -1,0 +1,75 @@
+{
+  "slug": "the-dicing-and-the-sequal-to-dicing",
+  "title": "The Dicing and the Sequal to Dicing",
+  "subtitle": null,
+  "authors": [],
+  "translator": null,
+  "originalLanguage": "Sanskrit",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-dicing-and-the-sequal-to-dicing.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7f6a57",
+    "w": 183,
+    "h": 300,
+    "palette": [
+      "#6a4c42",
+      "#ccc9b5",
+      "#e2c968"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Verse Epic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Mahabharata",
+    "epic",
+    "Sanskrit",
+    "classic"
+  ],
+  "moods": [
+    "epic",
+    "tragic",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "a rigged game",
+      "a queen staked and lost",
+      "the road to war"
+    ],
+    "oneLine": "The Mahabharata's fateful dice game and its sequel."
+  },
+  "summary": "The famous dice-game episode from the Mahabharata and its immediate sequel, in which the eldest Pandava, Yudhishthira, is lured into a rigged game and gambles away everything, including his brothers and their wife Draupadi, whose public humiliation sets the great epic's war in motion. Presented as a study text with translation, it isolates one of the most charged and consequential passages in all of Indian literature, a turning point of honour, fate and revenge.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Mahabharata's pivotal dice game, where a kingdom and a queen are gambled away. One of the epic's most charged passages.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Draupadi's question during the dice game, whether a man who has lost himself can then stake his wife, is one of the epic's great moral cruxes.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A1",
+  "enriched": true
+}

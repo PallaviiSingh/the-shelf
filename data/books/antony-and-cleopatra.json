@@ -1,0 +1,78 @@
+{
+  "slug": "antony-and-cleopatra",
+  "title": "Antony and Cleopatra",
+  "subtitle": null,
+  "authors": [
+    "shakespeare"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1607,
+  "edition": {
+    "publisher": "Worldview Critical Edition",
+    "series": null,
+    "isbn": "9788186423448",
+    "pageCount": 206
+  },
+  "cover": {
+    "file": "assets/covers/antony-and-cleopatra.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#898c78",
+    "w": 651,
+    "h": 1000,
+    "palette": [
+      "#b4d0b7",
+      "#9a826d",
+      "#e2b484"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Tragedy"
+  ],
+  "region": "England",
+  "tags": [
+    "Rome",
+    "Egypt",
+    "love",
+    "power"
+  ],
+  "moods": [
+    "romantic",
+    "epic",
+    "tragic"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "Rome and Egypt",
+      "a queen of infinite variety",
+      "an empire lost for love"
+    ],
+    "oneLine": "A Roman general throws away an empire for the queen of Egypt."
+  },
+  "summary": "Torn between his duty to Rome and his consuming passion for the Egyptian queen Cleopatra, the great general Mark Antony sacrifices an empire for love, in a sweeping tragedy that moves between two worlds. Shakespeare's grandest late tragedy gives Cleopatra one of the richest roles ever written for a woman, and its poetry soars as the lovers ruin themselves magnificently. Expansive, sensuous and deeply moving, it is a mature masterpiece about love, power and the theatre of a life lived large.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Shakespeare's grandest late tragedy, and Cleopatra is one of the greatest roles ever written. Sweeping and sensuous.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Cleopatra has more lines than almost any other female character in Shakespeare.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

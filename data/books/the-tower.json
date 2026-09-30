@@ -1,0 +1,77 @@
+{
+  "slug": "the-tower",
+  "title": "The Tower",
+  "subtitle": null,
+  "authors": [
+    "w-b-yeats"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1928,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0241303095",
+    "pageCount": 362
+  },
+  "cover": {
+    "file": "assets/covers/the-tower.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4e5255",
+    "w": 576,
+    "h": 1000,
+    "palette": [
+      "#222836",
+      "#e1dfb9",
+      "#c2c2a5"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "Ireland",
+  "tags": [
+    "aging",
+    "Ireland",
+    "myth",
+    "modernism"
+  ],
+  "moods": [
+    "melancholic",
+    "mystical",
+    "grand"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "in bed at night",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "a Norman tower",
+      "old age defied",
+      "a mystical Ireland"
+    ],
+    "oneLine": "Yeats in his sixties at his grandest, on age, art and refusal to fade."
+  },
+  "summary": "Published when Yeats was in his sixties, 'The Tower' is often called the greatest single volume of his career, containing masterpieces like 'Sailing to Byzantium' and the title poem, meditations on age, art, memory and the fierce refusal to fade. Named for the Norman tower he made his home, it fuses personal reckoning with Irish history and mystical symbolism at the height of his powers. Dense, magnificent and unforgettable, it is modern poetry at its grandest.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Often called Yeats's greatest volume, and modern poetry at its grandest. 'Sailing to Byzantium' lives here.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The tower of the title is Thoor Ballylee, the medieval tower Yeats restored and lived in.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

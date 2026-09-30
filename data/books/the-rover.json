@@ -1,0 +1,78 @@
+{
+  "slug": "the-rover",
+  "title": "The Rover",
+  "subtitle": null,
+  "authors": [
+    "aphra-behn"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1677,
+  "edition": {
+    "publisher": "Worldview Critical Editions",
+    "series": null,
+    "isbn": "8186423494",
+    "pageCount": 220
+  },
+  "cover": {
+    "file": "assets/covers/the-rover.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#969393",
+    "w": 653,
+    "h": 1000,
+    "palette": [
+      "#b4b1b2",
+      "#9a1107",
+      "#af8785"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Comedy"
+  ],
+  "region": "England",
+  "tags": [
+    "Restoration",
+    "women",
+    "desire",
+    "comedy"
+  ],
+  "moods": [
+    "playful",
+    "romantic",
+    "witty"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "a short sitting",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a Naples carnival",
+      "masked revellers",
+      "women turning the tables"
+    ],
+    "oneLine": "Exiled cavaliers chase love at carnival, by English theatre's first woman playwright."
+  },
+  "summary": "A band of exiled English cavaliers pursue love, sex and intrigue among the masked revellers of a Naples carnival, while the spirited Hellena and the courtesan Angellica turn the tables on the men who chase them. Aphra Behn, the first professional woman playwright in English, wrote this witty, risqué Restoration comedy with a sharp eye for women's desire and freedom. Bawdy, fast and surprisingly modern, it has been rediscovered as a landmark of early feminist theatre.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A witty, risqué Restoration romp by the first professional woman playwright in English. Bawdy, fast and surprisingly modern.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Aphra Behn was the first Englishwoman known to have earned her living by writing.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

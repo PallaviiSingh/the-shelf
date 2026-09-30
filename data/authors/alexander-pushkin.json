@@ -1,0 +1,14 @@
+{
+  "slug": "alexander-pushkin",
+  "name": "Alexander Pushkin",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Alexander Sergeyevich Pushkin was a Russian poet, playwright, and novelist of the Romantic era. He is considered by many to be the greatest Russian poet, as well as the founder of modern Russian literature.",
+  "photo": null,
+  "books": [
+    "the-collected-stories",
+    "the-queen-of-spades"
+  ],
+  "enriched": false
+}

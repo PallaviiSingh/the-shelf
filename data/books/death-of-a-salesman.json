@@ -1,0 +1,78 @@
+{
+  "slug": "death-of-a-salesman",
+  "title": "Death of a Salesman",
+  "subtitle": null,
+  "authors": [
+    "arthur-miller"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1949,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "9780141182742",
+    "pageCount": 139
+  },
+  "cover": {
+    "file": "assets/covers/death-of-a-salesman.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#726d6b",
+    "w": 720,
+    "h": 1106,
+    "palette": [
+      "#3d3c3c",
+      "#dee4ce",
+      "#6a544f"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Tragedy"
+  ],
+  "region": "United States",
+  "tags": [
+    "American Dream",
+    "family",
+    "failure",
+    "memory"
+  ],
+  "moods": [
+    "bleak",
+    "tragic",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a tired salesman",
+      "a family's illusions",
+      "a fading dream"
+    ],
+    "oneLine": "An aging salesman's illusions and the American Dream collapse together."
+  },
+  "summary": "Willy Loman, an aging travelling salesman who has staked his life on being well-liked and successful, unravels as his illusions and his strained relationship with his sons finally collapse. Arthur Miller's devastating play is the great American tragedy of the ordinary man, a searing critique of the American Dream and the cost of a life built on self-deception. Moving fluidly between present and memory, it remains one of the most powerful and widely performed plays of the twentieth century.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The great American tragedy of the ordinary man, and a searing critique of the American Dream. Devastating.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won the Pulitzer Prize and is one of the most performed American plays ever written.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

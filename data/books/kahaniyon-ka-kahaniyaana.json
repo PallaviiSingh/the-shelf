@@ -1,0 +1,76 @@
+{
+  "slug": "kahaniyon-ka-kahaniyaana",
+  "title": "Kahaniyon Ka Kahaniyaana",
+  "subtitle": null,
+  "authors": [
+    "vinod-kumar-shukla"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 2025,
+  "edition": {
+    "publisher": "Hind Yugm",
+    "series": null,
+    "isbn": "8119555295",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/kahaniyon-ka-kahaniyaana.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b4aba4",
+    "w": 720,
+    "h": 1108,
+    "palette": [
+      "#e1dfd2",
+      "#213b83",
+      "#80411e"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Vinod Kumar Shukla",
+    "short stories",
+    "storytelling"
+  ],
+  "moods": [
+    "quiet",
+    "cerebral",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "common lives",
+      "plain philosophical prose",
+      "storytelling itself"
+    ],
+    "oneLine": "Short stories that turn back on the act of storytelling itself."
+  },
+  "summary": "A collection of short stories by Vinod Kumar Shukla, written in his plain, philosophical language and centred on common people, their experiences and their recollections. As its playful title suggests, the book also turns back on the act of storytelling itself, quietly asking what a story is and why we tell them. Gentle, reflective and unmistakably Shukla, it appeared in 2025, the year he was named for the Jnanpith Award. A characteristic gathering from a beloved and singular writer.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Vinod Kumar Shukla's plain, philosophical stories that quietly ask what a story even is. Gentle and reflective.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It appeared in 2025, the year Shukla was named for the Jnanpith Award.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

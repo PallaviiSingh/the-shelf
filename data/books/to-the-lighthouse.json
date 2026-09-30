@@ -1,0 +1,77 @@
+{
+  "slug": "to-the-lighthouse",
+  "title": "To the Lighthouse",
+  "subtitle": null,
+  "authors": [
+    "virginia-woolf"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1927,
+  "edition": {
+    "publisher": "William Collins",
+    "series": null,
+    "isbn": "9780007934416",
+    "pageCount": 242
+  },
+  "cover": {
+    "file": "assets/covers/to-the-lighthouse.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#476b89",
+    "w": 720,
+    "h": 1015,
+    "palette": [
+      "#4c8bc3",
+      "#3a719b",
+      "#233e52"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "family",
+    "time",
+    "memory",
+    "modernism"
+  ],
+  "moods": [
+    "luminous",
+    "melancholic",
+    "tender"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to feel something deeply",
+      "by the water"
+    ],
+    "sensory": [
+      "a summer house",
+      "a distant lighthouse",
+      "the passage of years"
+    ],
+    "oneLine": "A family, a seaside house, and ten years passing toward the lighthouse."
+  },
+  "summary": "Across two days separated by ten years and a war, the Ramsay family and their guests gather at a summer house by the sea, where a childhood promise of a trip to the lighthouse hangs unfulfilled. Woolf's most autobiographical and perhaps most perfect novel dissolves plot into the flow of consciousness and the passage of time itself, with a famous central section in which years and deaths pass in a few luminous pages. A profound meditation on time, loss and art.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Woolf's most perfect novel, a meditation on time, family and loss by the sea. That middle section is a marvel.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its short middle section, 'Time Passes', compresses a decade and several deaths into a few pages.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

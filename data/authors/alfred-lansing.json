@@ -1,0 +1,13 @@
+{
+  "slug": "alfred-lansing",
+  "name": "Alfred Lansing",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Alfred Mark Lansing was an American journalist and writer, best known for his book Endurance: Shackleton's Incredible Voyage (1959), an account of Sir Ernest Shackleton's Antarctic explorations.",
+  "photo": null,
+  "books": [
+    "endurance"
+  ],
+  "enriched": false
+}

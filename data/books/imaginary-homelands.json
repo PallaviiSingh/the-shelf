@@ -1,0 +1,76 @@
+{
+  "slug": "imaginary-homelands",
+  "title": "Imaginary Homelands",
+  "subtitle": null,
+  "authors": [
+    "salman-rushdie"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1991,
+  "edition": {
+    "publisher": "Vintage",
+    "series": null,
+    "isbn": "0099542250",
+    "pageCount": 439
+  },
+  "cover": {
+    "file": "assets/covers/imaginary-homelands.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#53acc5",
+    "w": 720,
+    "h": 1103,
+    "palette": [
+      "#57c7db",
+      "#519ab4",
+      "#516e98"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays"
+  ],
+  "region": "India",
+  "tags": [
+    "migration",
+    "identity",
+    "literature",
+    "criticism"
+  ],
+  "moods": [
+    "cerebral",
+    "political",
+    "witty"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "in a cafe",
+      "a short sitting"
+    ],
+    "sensory": [
+      "the migrant's memory",
+      "a homeland rebuilt",
+      "a combative mind"
+    ],
+    "oneLine": "Rushdie's essays on migration, memory and the writer between cultures."
+  },
+  "summary": "A wide-ranging collection of Salman Rushdie's essays and criticism from the 1980s, on literature, politics, migration and the condition of the writer caught between cultures. The title essay's idea of the migrant writer reconstructing a lost homeland from memory has become a touchstone of postcolonial thought. Sharp, combative and brilliantly written, the pieces range from Indian and English writers to censorship and the aftermath of his own controversies. Essential reading on belonging, exile and the imagination.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Rushdie's brilliant essays on migration, memory and belonging. The title idea alone reshaped how we talk about the migrant writer.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The title essay's notion of 'imaginary homelands' became a key phrase in postcolonial criticism.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

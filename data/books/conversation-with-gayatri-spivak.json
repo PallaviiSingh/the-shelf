@@ -1,0 +1,69 @@
+{
+  "slug": "conversation-with-gayatri-spivak",
+  "title": "Conversation with Gayatri Spivak",
+  "subtitle": null,
+  "authors": [
+    "gayatri-spivak"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Seagull Books",
+    "series": null,
+    "isbn": "1905422288",
+    "pageCount": 151
+  },
+  "cover": {
+    "file": "assets/covers/conversation-with-gayatri-spivak.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#ded0c6",
+    "w": 695,
+    "h": 1000,
+    "palette": [
+      "#e1ddd1",
+      "#ec1b24",
+      "#e25052"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Interviews"
+  ],
+  "region": "India",
+  "tags": [
+    "Spivak",
+    "postcolonialism",
+    "feminism",
+    "theory"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "a formidable mind",
+      "postcolonial theory",
+      "thought in dialogue"
+    ],
+    "oneLine": "Conversations with the theorist Gayatri Spivak."
+  },
+  "summary": "This book gathers conversations with Gayatri Chakravorty Spivak, one of the most important and demanding theorists of our time, known for her work in postcolonial studies, feminism and deconstruction and her famous essay 'Can the Subaltern Speak?'. In dialogue she ranges over her ideas, her intellectual life and the politics of knowledge in accessible, spoken form. A valuable and relatively approachable way into the thought of a notoriously difficult but hugely influential thinker.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The formidable Gayatri Spivak in conversation, a rare accessible way into a difficult, vital thinker.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

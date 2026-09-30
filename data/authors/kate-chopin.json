@@ -1,0 +1,17 @@
+{
+  "slug": "kate-chopin",
+  "name": "Kate Chopin",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Katherine Chopin was an American author of short stories and novels based in Louisiana. She is considered by scholars to have been a forerunner of American 20th-century feminist authors of Southern or Catholic background, such as Zelda Fitzgerald, and she is among the most frequently read and recognized writers of Louisiana Creole heritage. She is",
+  "photo": {
+    "file": "assets/authors/kate-chopin.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Kate_Chopin"
+  },
+  "books": [
+    "awakening"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "yiyun-li",
+  "name": "Yiyun Li",
+  "birthYear": 1972,
+  "deathYear": null,
+  "nationality": "Chinese-American",
+  "bio": "Chinese-born American writer who came to the United States to study immunology before she moved to fiction. She is a MacArthur Fellow, writes in English with a spare, exact style across novels, stories and memoir, and teaches at Princeton. Her recent work faces terrible personal loss head-on.",
+  "photo": {
+    "file": "assets/authors/yiyun-li.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Yiyun_Li",
+    "license": "CC BY 3.0",
+    "attribution": "Librairie Mollat"
+  },
+  "books": [
+    "things-in-nature-merely-grow"
+  ]
+}

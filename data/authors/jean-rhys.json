@@ -1,0 +1,17 @@
+{
+  "slug": "jean-rhys",
+  "name": "Jean Rhys",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Jean Rhys was a British Creole novelist who was born and grew up in the Caribbean island of Dominica. From the age of 16, she resided mainly in England, where she was sent for her education. She is best known for her final novel, Wide Sargasso Sea (1966), written as a prequel to Charlotte Brontë's",
+  "photo": {
+    "file": "assets/authors/jean-rhys.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jean_Rhys"
+  },
+  "books": [
+    "wide-sargasso-sea"
+  ],
+  "enriched": false
+}

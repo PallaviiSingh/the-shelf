@@ -1,0 +1,69 @@
+{
+  "slug": "an-introduction-to-cultural-studies",
+  "title": "An Introduction to Cultural Studies",
+  "subtitle": null,
+  "authors": [
+    "pramod-k-nayar"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Viva Books",
+    "series": null,
+    "isbn": "8130933985",
+    "pageCount": 304
+  },
+  "cover": {
+    "file": "assets/covers/an-introduction-to-cultural-studies.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9f8889",
+    "w": 646,
+    "h": 1000,
+    "palette": [
+      "#e5739a",
+      "#6f84c1",
+      "#f58258"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Introduction"
+  ],
+  "region": "India",
+  "tags": [
+    "cultural studies",
+    "introduction",
+    "theory"
+  ],
+  "moods": [
+    "cerebral",
+    "curious"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard",
+      "in a cafe"
+    ],
+    "sensory": [
+      "culture and power",
+      "media and identity",
+      "a first guide"
+    ],
+    "oneLine": "An accessible introduction to cultural studies."
+  },
+  "summary": "Pramod K. Nayar's introduction surveys cultural studies, the interdisciplinary field that analyses culture, power and everyday life, from popular media and consumerism to identity, race and globalization. It explains the field's key concepts and thinkers and applies them to contemporary, often Indian, examples. Clear and accessible, it is a useful first guide to a wide-ranging and influential area of the humanities.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A clear guide to cultural studies, how culture, power and everyday life intersect. A useful first map.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

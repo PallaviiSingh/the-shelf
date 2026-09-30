@@ -1,0 +1,74 @@
+{
+  "slug": "oliver-twist",
+  "title": "Oliver Twist",
+  "subtitle": null,
+  "authors": [
+    "charles-dickens"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1838,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "0141198885",
+    "pageCount": 414
+  },
+  "cover": {
+    "file": "assets/covers/oliver-twist.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#dfdbc9",
+    "w": 641,
+    "h": 1000,
+    "palette": [
+      "#e8e2cc"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "poverty",
+    "London",
+    "crime",
+    "orphan"
+  ],
+  "moods": [
+    "bleak",
+    "suspenseful",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a rainy day",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a grim workhouse",
+      "London's underworld",
+      "a gang of pickpockets"
+    ],
+    "oneLine": "A workhouse orphan falls in with London's child pickpockets."
+  },
+  "summary": "Born in a workhouse and sold into misery, the orphan Oliver Twist runs away to London and falls in with Fagin's gang of child pickpockets, caught between the criminal underworld and the hope of rescue. Dickens's early novel is a furious, vivid indictment of poverty and the cruelty of Victorian institutions, filled with unforgettable villains and a plot that never lets go. Sentimental and savage by turns, it made the young author a national conscience.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Dickens's furious cry against poverty, with Fagin, the Artful Dodger and an orphan you root for. Savage and unforgettable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its portrait of workhouses and child poverty helped stir real Victorian social reform.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

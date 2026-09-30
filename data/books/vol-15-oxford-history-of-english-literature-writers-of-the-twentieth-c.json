@@ -1,0 +1,68 @@
+{
+  "slug": "vol-15-oxford-history-of-english-literature-writers-of-the-twentieth-c",
+  "title": "Vol 15. Oxford History of English Literature: Writers of the Twentieth Century Hardy to Lawrence",
+  "subtitle": null,
+  "authors": [
+    "j-i-m-stewart"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Clarendon Press",
+    "series": null,
+    "isbn": "0198122403",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-15-oxford-history-of-english-literature-writers-of-the-twentieth-c.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#76817e",
+    "w": 607,
+    "h": 1000,
+    "palette": [
+      "#012a50",
+      "#fee8b2",
+      "#3d5466"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "twentieth century",
+    "modernism",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "Hardy and Conrad",
+      "the turn of the century",
+      "toward modernism"
+    ],
+    "oneLine": "The Oxford history of twentieth-century writers, Hardy to Lawrence."
+  },
+  "summary": "J. I. M. Stewart's volume in the Oxford History of English Literature covers writers of the early twentieth century, from Hardy to Lawrence. It surveys the poetry and fiction of the years around the turn of the century and the First World War, taking in Hardy, Conrad, Kipling, Yeats, the Georgians and D. H. Lawrence. An authoritative scholarly account of English literature's passage from the Victorian age into modernism.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Oxford account of English writers from Hardy to Lawrence, the passage into modernism. Authoritative.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

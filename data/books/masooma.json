@@ -1,0 +1,77 @@
+{
+  "slug": "masooma",
+  "title": "Masooma",
+  "subtitle": null,
+  "authors": [
+    "ismat-chughtai"
+  ],
+  "translator": null,
+  "originalLanguage": "Urdu",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Women Unlimited",
+    "series": null,
+    "isbn": "8188965669",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/masooma.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#63b5de",
+    "w": 645,
+    "h": 1000,
+    "palette": [
+      "#5cc8ec",
+      "#b30169",
+      "#54a0b6"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Urdu",
+    "Ismat Chughtai",
+    "women",
+    "exploitation"
+  ],
+  "moods": [
+    "bleak",
+    "defiant",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "poverty's traps",
+      "Bombay's underworld",
+      "a woman used and discarded"
+    ],
+    "oneLine": "A young woman pushed into prostitution, in a fearless Urdu novel."
+  },
+  "summary": "Masooma is a novel by Ismat Chughtai that follows a young woman drawn, through poverty and circumstance, into the world of prostitution in Bombay, exposing the economic and social forces that trap women. Written with Chughtai's characteristic frankness and unsentimental sympathy, it refuses to look away from exploitation while insisting on its heroine's humanity. A hard-hitting work from one of Urdu literature's most fearless writers, it remains a powerful indictment of the way society uses and discards women.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Ismat Chughtai's hard-hitting novel of a young woman trapped into prostitution. Frank, unsentimental and humane.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Chughtai's fiction consistently confronted the economic exploitation of women.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

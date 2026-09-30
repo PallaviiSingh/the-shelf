@@ -1,0 +1,13 @@
+{
+  "slug": "van-howell",
+  "name": "Van Howell",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "derrida-for-beginners"
+  ],
+  "enriched": false
+}

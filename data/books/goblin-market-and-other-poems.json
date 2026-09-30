@@ -1,0 +1,77 @@
+{
+  "slug": "goblin-market-and-other-poems",
+  "title": "Goblin Market and other Poems",
+  "subtitle": null,
+  "authors": [
+    "christina-rossetti"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1862,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9780241303061",
+    "pageCount": 50
+  },
+  "cover": {
+    "file": "assets/covers/goblin-market-and-other-poems.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#63235a",
+    "w": 585,
+    "h": 1000,
+    "palette": [
+      "#26324a",
+      "#e1037c",
+      "#b40f6f"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "England",
+  "tags": [
+    "Victorian",
+    "fairy tale",
+    "sisters",
+    "temptation"
+  ],
+  "moods": [
+    "sensuous",
+    "dreamlike",
+    "haunting"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to feel something deeply",
+      "a short sitting"
+    ],
+    "sensory": [
+      "goblin merchants",
+      "forbidden fruit",
+      "two sisters"
+    ],
+    "oneLine": "Two sisters and the tempting fruit of goblin men, in Rossetti's strange fable."
+  },
+  "summary": "Christina Rossetti's 'Goblin Market' tells of two sisters tempted by the forbidden fruit of goblin merchants, a strange, sensuous fairy tale that has been read as everything from a children's poem to a parable of temptation, sacrifice and desire. Gathered with her other lyrics, it shows one of the finest Victorian poets at her most vivid and mysterious. Musical, richly imagined and quietly subversive, this is a small collection with an outsized power to unsettle and delight.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Rossetti's strange, sensuous fairy tale of goblins and sisters, endlessly interpreted. Musical and quietly subversive.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "'Goblin Market' has been read as a children's poem, a religious allegory and a study of desire.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E4",
+  "enriched": true
+}

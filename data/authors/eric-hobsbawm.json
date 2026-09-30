@@ -1,0 +1,20 @@
+{
+  "slug": "eric-hobsbawm",
+  "name": "Eric Hobsbawm",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Eric John Ernest Hobsbawm was a British historian of the rise of industrial capitalism, socialism and nationalism. His best-known works include his tetralogy about what he called the \"long 19th century\" and the \"short 20th century\", and an edited volume that introduced the influential idea of \"invented traditions\". He was a life-long Marxist, and his",
+  "photo": {
+    "file": "assets/authors/eric-hobsbawm.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Eric_Hobsbawm"
+  },
+  "books": [
+    "the-age-of-capital-1848-1875",
+    "the-age-of-empire-1875-1914",
+    "the-age-of-extremes-1914-1991",
+    "the-age-of-revolution-1789-1848"
+  ],
+  "enriched": false
+}

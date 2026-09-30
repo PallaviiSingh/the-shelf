@@ -1,0 +1,77 @@
+{
+  "slug": "the-best-of-wodehouse",
+  "title": "The Best of Wodehouse",
+  "subtitle": null,
+  "authors": [
+    "p-g-wodehouse"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2000,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 560
+  },
+  "cover": {
+    "file": "assets/covers/the-best-of-wodehouse.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#847051",
+    "w": 627,
+    "h": 1000,
+    "palette": [
+      "#503e25",
+      "#9a8257",
+      "#fceac5"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Comic Novel"
+  ],
+  "region": "England",
+  "tags": [
+    "comedy",
+    "Jeeves",
+    "English humour",
+    "farce"
+  ],
+  "moods": [
+    "playful",
+    "joyful",
+    "comforting"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "to relax and unwind",
+      "comfort reading"
+    ],
+    "sensory": [
+      "a sunlit England",
+      "Jeeves and Wooster",
+      "a splendid muddle"
+    ],
+    "oneLine": "The best of the funniest writer in the English language."
+  },
+  "summary": "A generous selection of P. G. Wodehouse's finest comic writing, gathering the immortal Jeeves and Wooster and other inhabitants of his sunlit, scrape-prone England where the worst that can happen is a stern aunt or a lost engagement. Wodehouse's prose is a marvel of perfectly balanced sentences and gleeful absurdity, and this collection is the ideal way to meet the funniest writer in the language. Pure, blissful escapism from a master of the comic form.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The funniest writer in English, gathered in one volume. Pure, blissful, perfectly crafted escapism.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Wodehouse's mastery of the comic sentence made even fellow writers despair of matching him.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A4",
+  "enriched": true
+}

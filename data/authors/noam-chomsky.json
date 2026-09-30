@@ -1,0 +1,17 @@
+{
+  "slug": "noam-chomsky",
+  "name": "Noam Chomsky",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Avram Noam Chomsky is an American intellectual, philosopher, linguist, political activist, and social critic. Sometimes called \"the father of modern linguistics\", Chomsky is also a major figure in analytic philosophy and one of the founders of the field of cognitive science. He is a laureate professor of linguistics at the University of Arizona and an",
+  "photo": {
+    "file": "assets/authors/noam-chomsky.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Noam_Chomsky"
+  },
+  "books": [
+    "media-control"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "toni-morrison",
+  "name": "Toni Morrison",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Chloe Anthony Wofford \"Toni\" Morrison was an American novelist and editor. She was awarded the Nobel Prize in Literature in 1993. Her first novel, The Bluest Eye, was published in 1970. The critically acclaimed Song of Solomon (1977) brought her national attention and won the National Book Critics Circle Award. In 1988, Morrison won the",
+  "photo": {
+    "file": "assets/authors/toni-morrison.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Toni_Morrison"
+  },
+  "books": [
+    "mouth-full-of-blood",
+    "the-bluest-eye"
+  ],
+  "enriched": false
+}

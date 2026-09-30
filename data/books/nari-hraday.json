@@ -1,0 +1,78 @@
+{
+  "slug": "nari-hraday",
+  "title": "Nari Hraday",
+  "subtitle": null,
+  "authors": [
+    "shivrani-devi"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 1933,
+  "edition": {
+    "publisher": "Nayee kitab prakashan",
+    "series": null,
+    "isbn": "9788197829871",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/nari-hraday.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#ebd3c8",
+    "w": 658,
+    "h": 918,
+    "trimmed": true,
+    "palette": [
+      "#f7e9df",
+      "#e9c9b5",
+      "#d39b81"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Shivrani Devi",
+    "women",
+    "short stories"
+  ],
+  "moods": [
+    "tender",
+    "defiant",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "women's inner lives",
+      "courage and struggle",
+      "an early woman's voice"
+    ],
+    "oneLine": "The first short stories of Shivrani Devi, on the inner lives of women."
+  },
+  "summary": "Nari Hraday, or Woman's Heart, was the first book of short stories by Shivrani Devi, a Hindi writer and freedom fighter long remembered mainly as the wife of Premchand. Her stories, which first appeared in magazines like Chand and Hans, centre on the inner lives, courage and struggles of women, written with a directness that some readers find bolder than her famous husband on questions of women's freedom. Out of print for decades and recently revived, it marks the arrival of a distinctive woman's voice in early Hindi fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The first stories of Shivrani Devi, Premchand's wife and a bold voice on women's lives in her own right. Recently revived.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Shivrani Devi wrote around fifty short stories, gathered mainly in Nari Hraday and Kaumudi.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

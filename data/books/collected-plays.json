@@ -1,0 +1,75 @@
+{
+  "slug": "collected-plays",
+  "title": "Collected Plays",
+  "subtitle": null,
+  "authors": [
+    "mahesh-dattani"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin India",
+    "series": null,
+    "isbn": "0140293256",
+    "pageCount": 250
+  },
+  "cover": {
+    "file": "assets/covers/collected-plays.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#da6b2b",
+    "w": 421,
+    "h": 650,
+    "palette": [
+      "#f26523",
+      "#fcb813",
+      "#a13439"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Drama"
+  ],
+  "region": "India",
+  "tags": [
+    "drama",
+    "Mahesh Dattani",
+    "gender",
+    "English"
+  ],
+  "moods": [
+    "intense",
+    "cerebral",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "contemporary urban India",
+      "subjects kept in shadow",
+      "fearless theatre"
+    ],
+    "oneLine": "The collected plays of Mahesh Dattani, on contemporary urban India."
+  },
+  "summary": "A collection of the plays of Mahesh Dattani, the first Indian playwright writing in English to win the Sahitya Akademi Award. His work brings to the stage the tensions of contemporary urban India, tackling subjects long kept in the shadows: gender, sexuality, communal prejudice, family secrets and the pressures of tradition. Sharp, theatrically inventive and socially fearless, this gathering shows why Dattani is regarded as one of the most important voices in modern Indian English drama.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The socially fearless plays of India's foremost English-language dramatist, on gender, sexuality and family secrets.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Dattani was the first playwright writing in English to win India's Sahitya Akademi Award.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

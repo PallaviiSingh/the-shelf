@@ -1,0 +1,13 @@
+{
+  "slug": "frantz-kafka",
+  "name": "Frantz Kafka",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "",
+  "photo": null,
+  "books": [
+    "collected-stories"
+  ],
+  "enriched": false
+}

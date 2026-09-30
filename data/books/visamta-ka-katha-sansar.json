@@ -1,0 +1,77 @@
+{
+  "slug": "visamta-ka-katha-sansar",
+  "title": "Visamta ka Katha Sansar",
+  "subtitle": null,
+  "authors": [
+    "homvati-devi",
+    "sudha-singh"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Anamika Publishers",
+    "series": null,
+    "isbn": "9364103513",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/visamta-ka-katha-sansar.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#343333",
+    "w": 651,
+    "h": 1000,
+    "palette": [
+      "#2a2a2a",
+      "#812c30"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Homvati Devi",
+    "women",
+    "short stories"
+  ],
+  "moods": [
+    "bleak",
+    "tender",
+    "defiant"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to feel something deeply",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "patriarchy and widowhood",
+      "women's constrained lives",
+      "a recovered voice"
+    ],
+    "oneLine": "The recovered fiction of the forgotten Hindi feminist Homvati Devi."
+  },
+  "summary": "This volume, edited by the scholar Sudha Singh, brings back the fiction of Homvati Devi, a pioneering and long-forgotten Hindi woman writer of the 1930s and 1940s and a contemporary of Premchand and Mahadevi Varma. Writing in magazines like Chand, she told unflinching stories of patriarchy, widowhood, caste and superstition and the constrained lives of women, work that earned her the description 'the Mahadevi Varma of western Uttar Pradesh'. It restores a neglected feminist voice to modern Hindi readers.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A recovery of Homvati Devi, a forgotten early Hindi feminist writer of women, caste and widowhood. Overdue and valuable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Homvati Devi's story 'Gote ki Topi', about a young widow, was adapted into a film titled Sindoor.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

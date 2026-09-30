@@ -1,0 +1,77 @@
+{
+  "slug": "david-copperfield",
+  "title": "David Copperfield",
+  "subtitle": null,
+  "authors": [
+    "charles-dickens"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1850,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "0141199164",
+    "pageCount": 742
+  },
+  "cover": {
+    "file": "assets/covers/david-copperfield.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a49747",
+    "w": 646,
+    "h": 1000,
+    "palette": [
+      "#afa04b",
+      "#363215",
+      "#7c7335"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Coming of Age"
+  ],
+  "region": "England",
+  "tags": [
+    "orphan",
+    "memory",
+    "Victorian",
+    "autobiographical"
+  ],
+  "moods": [
+    "warm",
+    "melancholic",
+    "hopeful"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a rainy day",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a Victorian boyhood",
+      "a gallery of characters",
+      "a life remembered"
+    ],
+    "oneLine": "Dickens's warm, personal story of a boy growing into himself."
+  },
+  "summary": "From a harsh childhood through school, London, love and eventual vocation, David Copperfield tells the story of his own life and the vivid gallery of people who shaped it, from the villainous Uriah Heep to the perennially hopeful Mr Micawber. Dickens's most personal novel, and his own favourite, is a warm, sprawling coming-of-age full of comedy, sorrow and unforgettable characters. A rich human panorama and one of the best entry points into his enormous world.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Dickens's own favourite and most personal novel, a warm, sprawling life story. Micawber and Uriah Heep alone are worth it.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Dickens called David Copperfield his 'favourite child' among all his novels.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

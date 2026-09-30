@@ -1,0 +1,69 @@
+{
+  "slug": "a-history-of-indian-literature-1800-1910-western-impact-indian-respons",
+  "title": "A History Of Indian Literature (1800-1910) Western Impact- Indian Response",
+  "subtitle": null,
+  "authors": [
+    "sisir-kumar-das"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Sahitya Akademi Publications",
+    "series": null,
+    "isbn": "8172010060",
+    "pageCount": 815
+  },
+  "cover": {
+    "file": "assets/covers/a-history-of-indian-literature-1800-1910-western-impact-indian-respons.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#43524a",
+    "w": 370,
+    "h": 550,
+    "palette": [
+      "#3d4c4a",
+      "#577c50",
+      "#80574b"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "India",
+  "tags": [
+    "Indian literature",
+    "colonial",
+    "literary history",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "colonial modernity",
+      "print and the novel",
+      "many languages at once"
+    ],
+    "oneLine": "A history of Indian literature, 1800 to 1910, Western impact and Indian response."
+  },
+  "summary": "Part of Sisir Kumar Das's landmark history of Indian literature for the Sahitya Akademi, this volume covers 1800 to 1910, subtitled Western Impact, Indian Response. It surveys how the many literatures of India responded to colonial rule, print, English education and new forms like the novel and the essay, across dozens of languages at once. A pioneering, authoritative account of the making of modern Indian literature in the nineteenth century.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Das's landmark history of how India's many literatures met colonial modernity, 1800 to 1910. Pioneering scholarship.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "A1",
+  "enriched": true
+}

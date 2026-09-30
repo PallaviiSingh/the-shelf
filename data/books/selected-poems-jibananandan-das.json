@@ -1,0 +1,77 @@
+{
+  "slug": "selected-poems-jibananandan-das",
+  "title": "Selected Poems - Jibananandan Das",
+  "subtitle": null,
+  "authors": [
+    "jibananandan-das"
+  ],
+  "translator": null,
+  "originalLanguage": "Bengali",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin India",
+    "series": null,
+    "isbn": "0857426346",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/selected-poems-jibananandan-das.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#464954",
+    "w": 720,
+    "h": 1118,
+    "palette": [
+      "#14266a",
+      "#241d13",
+      "#6a3d1f"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Poetry Collection",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Bengali",
+    "Jibanananda Das",
+    "poetry",
+    "modernism"
+  ],
+  "moods": [
+    "luminous",
+    "melancholic",
+    "dreamlike"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to feel something deeply",
+      "in a garden"
+    ],
+    "sensory": [
+      "rural Bengal",
+      "rivers and twilight",
+      "beauty and loss"
+    ],
+    "oneLine": "Selected poems of the great Bengali modernist Jibanananda Das."
+  },
+  "summary": "A selection of the poetry of Jibanananda Das, widely regarded as the most important Bengali poet after Tagore and a pioneer of modernism in the language. Steeped in the landscapes, rivers and twilight of rural Bengal, his verse is haunting, image-rich and suffused with beauty, loss and a deep sense of time. His famous poem 'Banalata Sen' is among the best-loved in Bengali. This collection introduces a singular, dreamlike poetic voice.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The haunting, image-rich poetry of Jibanananda Das, the great Bengali modernist after Tagore. Dreamlike and beautiful.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "His poem 'Banalata Sen' is one of the most famous and beloved in all of Bengali poetry.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

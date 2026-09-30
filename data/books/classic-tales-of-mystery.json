@@ -1,0 +1,76 @@
+{
+  "slug": "classic-tales-of-mystery",
+  "title": "Classic Tales of Mystery",
+  "subtitle": null,
+  "authors": [
+    "ken-mondschein"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Canterbury Classics",
+    "series": null,
+    "isbn": "1645178145",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/classic-tales-of-mystery.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#3f374a",
+    "w": 355,
+    "h": 563,
+    "palette": [
+      "#14131a",
+      "#3a1e3b",
+      "#683469"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Mystery & Crime",
+    "Short Stories"
+  ],
+  "region": "World",
+  "tags": [
+    "detective",
+    "anthology",
+    "crime"
+  ],
+  "moods": [
+    "suspenseful",
+    "playful",
+    "cerebral"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "in bed at night",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "locked rooms",
+      "a fair-play clue",
+      "a final reveal"
+    ],
+    "oneLine": "The finest short mysteries, from Victorian sleuths to the golden age."
+  },
+  "summary": "A collector's gathering of the mystery story's finest short works, tracing the genre from its Victorian beginnings through its golden age. Alongside the great detectives are locked rooms, impossible crimes and ingenious solutions, showing how the puzzle-story was built and perfected. Edited with an introduction that sets the scene, it is a satisfying tour for anyone who loves a fair-play mystery, and a fine way to meet the writers who taught Christie and her rivals their trade.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A one-volume history of the mystery, from Victorian sleuths to the golden age. Great for a puzzle a night.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The 'fair-play' mystery, where the reader has every clue the detective does, was codified in this era.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

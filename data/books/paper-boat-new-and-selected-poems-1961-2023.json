@@ -1,0 +1,76 @@
+{
+  "slug": "paper-boat-new-and-selected-poems-1961-2023",
+  "title": "Paper Boat: New and Selected Poems 1961-2023",
+  "subtitle": null,
+  "authors": [
+    "margaret-atwood"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2024,
+  "edition": {
+    "publisher": "Chatto & Windus",
+    "series": null,
+    "isbn": "1784745944",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/paper-boat-new-and-selected-poems-1961-2023.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a5a8a5",
+    "w": 720,
+    "h": 1116,
+    "palette": [
+      "#f3e7d3",
+      "#1e3c57",
+      "#3a556a"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Poetry Collection"
+  ],
+  "region": "Canada",
+  "tags": [
+    "poetry",
+    "myth",
+    "aging",
+    "selected"
+  ],
+  "moods": [
+    "cerebral",
+    "melancholic",
+    "luminous"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "in bed at night",
+      "to think hard"
+    ],
+    "sensory": [
+      "myth and marsh",
+      "a long career",
+      "a cool clear eye"
+    ],
+    "oneLine": "Sixty years of Atwood's poetry, from sharp beginnings to late grief."
+  },
+  "summary": "Six decades of Margaret Atwood's poetry in one generous volume, from her earliest sharp-edged work to recent poems on aging, grief and the natural world. Long celebrated as a novelist, Atwood began as a poet, and these pages show the same wit, mythic imagination and cool precision at work in verse. Spanning 1961 to 2023, it is both a career retrospective and a reminder that one of the great living writers has always been, first, a poet.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Six decades of Atwood the poet, where a lot of readers forget she began. Witty, mythic and cool-eyed.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Atwood published poetry before fiction, and has always considered herself a poet first.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A3",
+  "enriched": true
+}

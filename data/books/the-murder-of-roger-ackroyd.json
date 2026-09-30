@@ -1,0 +1,76 @@
+{
+  "slug": "the-murder-of-roger-ackroyd",
+  "title": "The Murder of Roger Ackroyd",
+  "subtitle": null,
+  "authors": [
+    "agatha-christie"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1926,
+  "edition": {
+    "publisher": "Harper Collins",
+    "series": null,
+    "isbn": "9780007527526",
+    "pageCount": 256
+  },
+  "cover": {
+    "file": "assets/covers/the-murder-of-roger-ackroyd.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#335358",
+    "w": 624,
+    "h": 1000,
+    "palette": [
+      "#0c363d",
+      "#264d55",
+      "#4f6b6f"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Mystery & Crime"
+  ],
+  "region": "England",
+  "tags": [
+    "Poirot",
+    "twist",
+    "village",
+    "narration"
+  ],
+  "moods": [
+    "suspenseful",
+    "cerebral",
+    "playful"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to be thrilled",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "an English village",
+      "a country house",
+      "an impossible solution"
+    ],
+    "oneLine": "A village murder with the boldest twist in all of crime fiction."
+  },
+  "summary": "In a quiet English village, the wealthy Roger Ackroyd is found stabbed, and a retired Hercule Poirot is drawn in to untangle a web of blackmail and secrets. The solution, when it comes, is one of the most famous and audacious twists in all of detective fiction, a piece of sleight of hand so bold it changed what mysteries were allowed to do. Endlessly imitated and still startling, this is Christie at the very top of her devious game.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Home to the most famous twist in detective fiction. Go in knowing nothing and let Christie pull the rug out.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its ending was so controversial it was debated as possible cheating, and is now considered a masterstroke.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

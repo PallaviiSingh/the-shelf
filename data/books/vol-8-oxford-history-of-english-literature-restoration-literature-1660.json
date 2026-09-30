@@ -1,0 +1,68 @@
+{
+  "slug": "vol-8-oxford-history-of-english-literature-restoration-literature-1660",
+  "title": "Vol 8 Oxford History of English Literature: Restoration Literature (1660-1700) Dryden, Bunyan, and Pepys",
+  "subtitle": null,
+  "authors": [
+    "james-r-sutherland"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Clarendon Press",
+    "series": null,
+    "isbn": "0198122349",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-8-oxford-history-of-english-literature-restoration-literature-1660.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4d4946",
+    "w": 352,
+    "h": 568,
+    "palette": [
+      "#091538",
+      "#b4975a",
+      "#807150"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "Restoration",
+    "Dryden",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "Restoration wit",
+      "Bunyan and Pepys",
+      "a restored monarchy"
+    ],
+    "oneLine": "The Oxford history of Restoration literature, 1660 to 1700."
+  },
+  "summary": "James Sutherland's volume in the Oxford History of English Literature covers Restoration literature from 1660 to 1700, the age of Dryden, Bunyan and Pepys. It surveys the poetry, drama, prose and diaries of the era that followed the return of the monarchy, from witty Restoration comedy to Bunyan's Pilgrim's Progress and Pepys's diary. An authoritative, readable scholarly account of a lively and distinctive period in English writing.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Oxford account of Restoration literature, Dryden, Bunyan and Pepys. Authoritative and readable.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

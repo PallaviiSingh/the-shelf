@@ -1,0 +1,76 @@
+{
+  "slug": "the-letters-of-vincent-van-gogh",
+  "title": "The Letters of Vincent Van Gogh",
+  "subtitle": null,
+  "authors": [
+    "vincent-van-gogh"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1914,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "0140446745",
+    "pageCount": 116
+  },
+  "cover": {
+    "file": "assets/covers/the-letters-of-vincent-van-gogh.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#88846d",
+    "w": 635,
+    "h": 1000,
+    "palette": [
+      "#cacab0",
+      "#23293c",
+      "#9a813f"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Letters & Diaries"
+  ],
+  "region": "Netherlands",
+  "tags": [
+    "art",
+    "letters",
+    "Van Gogh",
+    "the creative life"
+  ],
+  "moods": [
+    "tender",
+    "melancholic",
+    "luminous"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "on a rainy day",
+      "to feel something deeply",
+      "in a cafe"
+    ],
+    "sensory": [
+      "a painter's studio",
+      "letters to a brother",
+      "colour and light"
+    ],
+    "oneLine": "Van Gogh's letters, an artist's inner life beside his greatest work."
+  },
+  "summary": "Vincent van Gogh's letters, mostly to his devoted brother Theo, are one of the great records of an artist's inner life: his struggles with poverty and illness, his fierce ideas about colour and light, and his tender, tormented search for meaning through painting. Written alongside the creation of his greatest work, they let you watch a masterpiece take shape from the inside, and reveal a mind far more articulate and self-aware than the myth of the mad genius suggests. Moving and endlessly quotable.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Watch a genius think, doubt and create in real time. Van Gogh on the page is as luminous as his paintings.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "He wrote hundreds of letters, most to his brother Theo, who supported him throughout his life.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

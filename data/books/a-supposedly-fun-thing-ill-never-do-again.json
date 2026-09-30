@@ -1,0 +1,76 @@
+{
+  "slug": "a-supposedly-fun-thing-ill-never-do-again",
+  "title": "A Supposedly Fun Thing I'll Never do Again",
+  "subtitle": null,
+  "authors": [
+    "david-foster-wallace"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1997,
+  "edition": {
+    "publisher": "Little, Brown Book Group",
+    "series": null,
+    "isbn": "0349110018",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/a-supposedly-fun-thing-ill-never-do-again.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d75977",
+    "w": 711,
+    "h": 1000,
+    "palette": [
+      "#c71c86",
+      "#fccd41",
+      "#f69c52"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays"
+  ],
+  "region": "United States",
+  "tags": [
+    "essays",
+    "irony",
+    "America",
+    "reportage"
+  ],
+  "moods": [
+    "playful",
+    "cerebral",
+    "satirical"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "a short sitting",
+      "on a train or plane"
+    ],
+    "sensory": [
+      "a luxury cruise",
+      "a state fair",
+      "a wall of footnotes"
+    ],
+    "oneLine": "Wallace's brilliant, hilarious essays, from a cruise ship to a state fair."
+  },
+  "summary": "David Foster Wallace's first essay collection, including the hilarious title piece on the surreal excess of a luxury cruise, plus reporting on state fairs, tennis, David Lynch and the corrosions of television and irony. His nonfiction shows off everything the novels do, the maximal footnotes, the moral seriousness, the astonishing eye, but in a more immediately delightful package. For many readers it is the best door into Wallace: funny, brilliant and genuinely fun to read.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The best, most delightful door into Wallace. The cruise-ship essay alone is one of the funniest things ever written.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The title essay about a Caribbean cruise is frequently named one of the best essays in modern American writing.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

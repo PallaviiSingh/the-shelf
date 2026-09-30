@@ -1,0 +1,74 @@
+{
+  "slug": "the-madwoman-in-the-attic",
+  "title": "The Madwoman in the Attic",
+  "subtitle": null,
+  "authors": [
+    "gilbert-and-gubar"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1979,
+  "edition": {
+    "publisher": "Worldview Critical Editions",
+    "series": null,
+    "isbn": "8186423842",
+    "pageCount": 719
+  },
+  "cover": {
+    "file": "assets/covers/the-madwoman-in-the-attic.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#9b6055",
+    "w": 618,
+    "h": 1000,
+    "palette": [
+      "#975752",
+      "#fa8362",
+      "#cc6457"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Philosophy & Theory"
+  ],
+  "region": "United States",
+  "tags": [
+    "Victorian",
+    "women writers",
+    "literary criticism",
+    "canon"
+  ],
+  "moods": [
+    "cerebral",
+    "political"
+  ],
+  "difficulty": "summit",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "the Victorian canon",
+      "angel and monster",
+      "hidden rage"
+    ],
+    "oneLine": "Re-reading the great Victorian women writers, and the rage they had to hide."
+  },
+  "summary": "Sandra Gilbert and Susan Gubar's landmark of feminist literary criticism re-reads the great nineteenth-century women writers, from Austen and the Brontes to Dickinson, arguing that they wrote within, and against, a male tradition that offered them only the roles of angel or monster. The 'madwoman' of the title, Bertha in Jane Eyre, becomes a figure for the rage such writers had to hide or disguise. Sweeping and dense, it reshaped how the Victorian canon is taught and read.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The book that changed how we read nineteenth-century women writers. Dense but transformative, with Jane Eyre's madwoman at its heart.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its title comes from Bertha Mason, the 'madwoman' locked in the attic of Jane Eyre.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "roxane-gay",
+  "name": "Roxane Gay",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Roxane Gay is an American writer, professor, editor, and social commentator. Gay is the author of The New York Times best-selling essay collection Bad Feminist (2014), as well as the short story collection Ayiti (2011), the novel An Untamed State (2014), the short story collection Difficult Women (2017), and the memoir Hunger (2017).",
+  "photo": {
+    "file": "assets/authors/roxane-gay.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Roxane_Gay"
+  },
+  "books": [
+    "bad-feminists",
+    "difficult-women"
+  ],
+  "enriched": false
+}

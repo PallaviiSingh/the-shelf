@@ -1,0 +1,17 @@
+{
+  "slug": "bipan-chandra",
+  "name": "Bipan Chandra",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Bipan Chandra was an Indian historian, specialising in economic and political history of modern India. An emeritus professor of modern history at Jawaharlal Nehru University, he specialized on the Indian independence movement is considered a leading scholar on Mahatma Gandhi. He is referred to as a \"nationalist-Marxist\" historian influenced by the Marxian approach. He authored",
+  "photo": {
+    "file": "assets/authors/bipan-chandra.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Bipan_Chandra"
+  },
+  "books": [
+    "indias-stuggle-for-independence"
+  ],
+  "enriched": false
+}

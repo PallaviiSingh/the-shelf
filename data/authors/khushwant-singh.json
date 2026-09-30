@@ -1,0 +1,17 @@
+{
+  "slug": "khushwant-singh",
+  "name": "Khushwant Singh",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Khushwant Singh FKC was an Indian author, lawyer, diplomat, journalist and politician. His experience in the 1947 Partition of India inspired him to write Train to Pakistan in 1956, which became his most well-known novel.",
+  "photo": {
+    "file": "assets/authors/khushwant-singh.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Khushwant_Singh"
+  },
+  "books": [
+    "train-to-pakistan"
+  ],
+  "enriched": false
+}

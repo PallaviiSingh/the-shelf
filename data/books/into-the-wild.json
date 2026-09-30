@@ -1,0 +1,75 @@
+{
+  "slug": "into-the-wild",
+  "title": "Into the Wild",
+  "subtitle": null,
+  "authors": [
+    "jon-krakauer"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1996,
+  "edition": {
+    "publisher": "Pan",
+    "series": null,
+    "isbn": "0330469983",
+    "pageCount": 284
+  },
+  "cover": {
+    "file": "assets/covers/into-the-wild.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#b2b1b7",
+    "w": 660,
+    "h": 1000,
+    "palette": [
+      "#e2e1e7",
+      "#1d1f29"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "United States",
+  "tags": [
+    "wilderness",
+    "Alaska",
+    "idealism",
+    "solitude"
+  ],
+  "moods": [
+    "melancholic",
+    "luminous",
+    "bleak"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "Alaskan wilderness",
+      "an abandoned bus",
+      "a hunger for the real"
+    ],
+    "oneLine": "A young idealist walks into the Alaskan wild, and does not come back."
+  },
+  "summary": "In 1992, a bright young idealist named Chris McCandless gave away his savings, walked into the Alaskan wilderness with almost nothing, and died there months later. Jon Krakauer reconstructs his journey and short life, weighing his romantic hunger for wildness and truth against the recklessness that killed him, and drawing on his own youthful risk-taking to understand him. Searching and non-judgmental, it is a moving meditation on idealism, solitude and the pull of the wild.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A haunting portrait of a young idealist who walked into the Alaskan wild and never came back. Searching and deeply humane.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It grew from a magazine article Krakauer wrote, and made the abandoned 'Magic Bus' a pilgrimage site.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

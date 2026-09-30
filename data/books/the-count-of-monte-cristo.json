@@ -1,0 +1,77 @@
+{
+  "slug": "the-count-of-monte-cristo",
+  "title": "The Count of Monte Cristo",
+  "subtitle": null,
+  "authors": [
+    "alexander-dumas"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1844,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9780141392462",
+    "pageCount": 593
+  },
+  "cover": {
+    "file": "assets/covers/the-count-of-monte-cristo.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#50625b",
+    "w": 631,
+    "h": 1000,
+    "palette": [
+      "#346660",
+      "#e75245",
+      "#b1594f"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Historical Fiction"
+  ],
+  "region": "France",
+  "tags": [
+    "revenge",
+    "escape",
+    "fortune",
+    "betrayal"
+  ],
+  "moods": [
+    "epic",
+    "suspenseful",
+    "romantic"
+  ],
+  "difficulty": "moderate",
+  "pace": "propulsive",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to escape",
+      "on a train or plane"
+    ],
+    "sensory": [
+      "an island prison",
+      "hidden treasure",
+      "masked Parisian society"
+    ],
+    "oneLine": "A framed man escapes, finds a fortune, and returns to ruin his enemies."
+  },
+  "summary": "Edmond Dantes, a young sailor on the eve of everything he wants, is framed by jealous rivals and buried alive in an island prison. Years later he escapes, uncovers a legendary fortune and returns to belle-epoque Paris as the mysterious, immensely rich Count of Monte Cristo, to repay every friend and destroy every enemy. Dumas's revenge epic is one of the most purely entertaining big novels ever written, a machine of disguises, duels, secrets and slow, delicious payback that somehow also asks what vengeance costs the avenger.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The greatest revenge story ever told, and a total page-turner despite its size. Betrayal, escape, treasure and payback served ice cold.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Dumas wrote at industrial speed with a team of collaborators, and remains one of the most widely read authors in the world.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B4",
+  "enriched": true
+}

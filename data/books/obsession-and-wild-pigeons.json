@@ -1,0 +1,77 @@
+{
+  "slug": "obsession-and-wild-pigeons",
+  "title": "Obsession & Wild Pigeons",
+  "subtitle": null,
+  "authors": [
+    "ismat-chughtai"
+  ],
+  "translator": null,
+  "originalLanguage": "Urdu",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Speaking Tiger Publishing Private Limited",
+    "series": null,
+    "isbn": "9388326970",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/obsession-and-wild-pigeons.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d3dc9f",
+    "w": 225,
+    "h": 350,
+    "palette": [
+      "#e5eca0",
+      "#b2b484",
+      "#103a6c"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Short Stories",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Urdu",
+    "Ismat Chughtai",
+    "women",
+    "short stories"
+  ],
+  "moods": [
+    "sensual",
+    "satirical",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "desire and longing",
+      "women's inner worlds",
+      "a candid wit"
+    ],
+    "oneLine": "Stories of desire and longing by Ismat Chughtai."
+  },
+  "summary": "A collection of short fiction by Ismat Chughtai, gathering stories that explore desire, longing and the constrained lives of women with her characteristic candour and wit. Chughtai wrote about the inner and domestic worlds of Muslim middle-class India as few others dared, unafraid of sexuality, jealousy and the hypocrisies of respectable society. Sharp, humane and often provocative, these stories confirm her reputation as one of the great voices of modern Urdu literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "More of Ismat Chughtai's candid, witty stories of desire and women's constrained lives. Provocative and humane.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Chughtai is regarded as one of the four pillars of the modern Urdu short story.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "mrs-dalloway",
+  "title": "Mrs. Dalloway",
+  "subtitle": null,
+  "authors": [
+    "virginia-woolf"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1925,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin English Library",
+    "isbn": "9780241341117",
+    "pageCount": 224
+  },
+  "cover": {
+    "file": "assets/covers/mrs-dalloway.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#c6c7ca",
+    "w": 649,
+    "h": 1000,
+    "palette": [
+      "#bdc8ca",
+      "#f5aabb",
+      "#f4e2e7"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "London",
+    "one day",
+    "modernism",
+    "memory"
+  ],
+  "moods": [
+    "luminous",
+    "melancholic",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to feel something deeply",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a June day in London",
+      "a party in the making",
+      "a mind's inner tide"
+    ],
+    "oneLine": "One June day in London holds a whole life and its griefs."
+  },
+  "summary": "On a single June day in London, Clarissa Dalloway prepares to give a party, while across the city a shell-shocked veteran named Septimus moves toward tragedy, their lives never quite touching. Woolf's luminous novel flows through her characters' memories and inner lives in a continuous stream of consciousness, capturing how the whole of a person can live inside an ordinary hour. Radiant, sorrowful and formally daring, it is her most beloved and accessible masterpiece.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Woolf's most radiant and accessible novel, a whole life inside one London day. Beautiful and quietly heartbreaking.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Woolf's working title for the novel was 'The Hours', later borrowed for a novel and film about her.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

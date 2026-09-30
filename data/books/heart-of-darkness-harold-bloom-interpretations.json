@@ -1,0 +1,68 @@
+{
+  "slug": "heart-of-darkness-harold-bloom-interpretations",
+  "title": "Heart of Darkness (Harold Bloom Interpretations)",
+  "subtitle": null,
+  "authors": [
+    "harold-bloom"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Chelsea House Publishers",
+    "series": null,
+    "isbn": "1555460151",
+    "pageCount": 157
+  },
+  "cover": {
+    "file": "assets/covers/heart-of-darkness-harold-bloom-interpretations.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4b4d3e",
+    "w": 672,
+    "h": 1000,
+    "palette": [
+      "#373a35",
+      "#9c6951",
+      "#57663f"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Criticism"
+  ],
+  "region": "World",
+  "tags": [
+    "Conrad",
+    "criticism",
+    "essays",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "a debated masterpiece",
+      "empire and ambiguity",
+      "a critical companion"
+    ],
+    "oneLine": "Critical essays on Conrad's Heart of Darkness."
+  },
+  "summary": "Part of Harold Bloom's critical interpretations series, this volume gathers influential scholarly essays on Joseph Conrad's Heart of Darkness, one of the most debated works in modern literature. The essays approach the novella from many angles, from imperialism and race to narrative and moral ambiguity, including the famous postcolonial critiques. A valuable critical companion for students writing about Conrad's dark, endlessly argued-over masterpiece.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The key scholarly essays on Heart of Darkness, gathered by Harold Bloom. A companion to an endlessly debated book.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

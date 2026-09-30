@@ -1,0 +1,76 @@
+{
+  "slug": "the-call-of-the-wild",
+  "title": "The Call of the Wild",
+  "subtitle": null,
+  "authors": [
+    "jack-london"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1903,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin English Library",
+    "isbn": "0241341493",
+    "pageCount": 128
+  },
+  "cover": {
+    "file": "assets/covers/the-call-of-the-wild.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#d3d0d8",
+    "w": 651,
+    "h": 1000,
+    "palette": [
+      "#e6e7eb",
+      "#d1b2b3",
+      "#c48788"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "United States",
+  "tags": [
+    "Yukon",
+    "survival",
+    "dogs",
+    "the wild"
+  ],
+  "moods": [
+    "epic",
+    "bleak",
+    "luminous"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to be thrilled",
+      "a short sitting",
+      "in winter"
+    ],
+    "sensory": [
+      "the frozen Yukon",
+      "a sled team",
+      "the pull of the wild"
+    ],
+    "oneLine": "A stolen dog sheds domestication and answers the call of the wild."
+  },
+  "summary": "Buck, a pampered California dog, is stolen and sold into the brutal world of Klondike sled teams, where he sheds domestication and answers an older, wilder call. Jack London's short, muscular classic tells the story from the dog's own point of view, turning a Gold Rush adventure into a primal fable about instinct, survival and the pull of the wild. Fast, vivid and unsentimental, it remains one of the great animal stories and a perfect introduction to London.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A short, fierce adventure told from a dog's point of view. Primal, gripping, and impossible to read at half speed.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "London drew on his own year in the Klondike during the Gold Rush.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

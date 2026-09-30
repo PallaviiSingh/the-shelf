@@ -1,0 +1,17 @@
+{
+  "slug": "truman-capote",
+  "name": "Truman Capote",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Truman Garcia Capote was an American novelist, screenwriter, and playwright. Several of his short stories, novels, and plays have been praised as literary classics, and he is regarded as one of the founders of New Journalism, along with Gay Talese, Hunter S. Thompson, Norman Mailer, Joan Didion, and Tom Wolfe. His work and his life",
+  "photo": {
+    "file": "assets/authors/truman-capote.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Truman_Capote"
+  },
+  "books": [
+    "in-cold-blood-a-true-account-of-a-multiple-murder-and-its-consequences"
+  ],
+  "enriched": false
+}

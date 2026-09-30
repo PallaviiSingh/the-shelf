@@ -1,0 +1,20 @@
+{
+  "slug": "munshi-premchand",
+  "name": "Munshi Premchand",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Dhanpat Rai Srivastava, better known as Munshi Premchand based on his pen name Premchand, was an Indian writer famous for his modern Hindustani literature.",
+  "photo": {
+    "file": "assets/authors/munshi-premchand.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Premchand"
+  },
+  "books": [
+    "the-complete-short-stories-premchand-vol-1",
+    "the-complete-short-stories-premchand-vol-2",
+    "the-complete-short-stories-premchand-vol-3",
+    "the-complete-short-stories-premchand-vol-4"
+  ],
+  "enriched": false
+}

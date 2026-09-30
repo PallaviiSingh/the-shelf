@@ -1,0 +1,17 @@
+{
+  "slug": "j-d-salinger",
+  "name": "J.D. Salinger",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Jerome David Salinger was an American writer best known for his 1951 novel The Catcher in the Rye. Salinger published several short stories in Story magazine in 1940, before serving in World War II. In 1948, his critically acclaimed story \"A Perfect Day for Bananafish\" appeared in The New Yorker, which published much of his",
+  "photo": {
+    "file": "assets/authors/j-d-salinger.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/J._D._Salinger"
+  },
+  "books": [
+    "the-catcher-in-the-rye"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "ben-jonson",
+  "name": "Ben Jonson",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Ben Jonson was an English playwright, poet and actor. Jonson's artistry exerted a lasting influence on English poetry and stage comedy. He popularised the comedy of humours; he is best known for the satirical plays Every Man in His Humour (1598), Volpone, or The Fox, The Alchemist (1610), and Bartholomew Fair (1614), and for his",
+  "photo": null,
+  "books": [
+    "the-alchemist"
+  ],
+  "enriched": false
+}

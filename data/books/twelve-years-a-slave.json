@@ -1,0 +1,75 @@
+{
+  "slug": "twelve-years-a-slave",
+  "title": "Twelve Year's a Slave",
+  "subtitle": null,
+  "authors": [
+    "solomon-northup"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1853,
+  "edition": {
+    "publisher": "Pirates",
+    "series": null,
+    "isbn": "9788192681023",
+    "pageCount": 234
+  },
+  "cover": {
+    "file": "assets/covers/twelve-years-a-slave.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#665d4a",
+    "w": 720,
+    "h": 1094,
+    "palette": [
+      "#cd992a",
+      "#271d0d",
+      "#6b521c"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "United States",
+  "tags": [
+    "slavery",
+    "memoir",
+    "freedom",
+    "America"
+  ],
+  "moods": [
+    "bleak",
+    "political",
+    "hopeful"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "a Louisiana plantation",
+      "a stolen freedom",
+      "a long endurance"
+    ],
+    "oneLine": "A free Black man is kidnapped into twelve years of slavery, and bears witness."
+  },
+  "summary": "Solomon Northup, a free Black man living in New York, was kidnapped in 1841 and sold into slavery in Louisiana, where he endured twelve brutal years before regaining his freedom. His firsthand account is a searing, precise record of the daily reality of American slavery, written to bear witness and to fuel the abolitionist cause. Restrained yet devastating, it stands among the most important slave narratives ever published and a foundational document of American history.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A searing firsthand witness to American slavery, restrained and devastating. Essential, unforgettable history.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Published in 1853, it was adapted into the Oscar-winning film in 2013, renewing its readership.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E2",
+  "enriched": true
+}

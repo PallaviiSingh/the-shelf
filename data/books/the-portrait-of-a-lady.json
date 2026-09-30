@@ -1,0 +1,77 @@
+{
+  "slug": "the-portrait-of-a-lady",
+  "title": "The Portrait of a Lady",
+  "subtitle": null,
+  "authors": [
+    "henry-james"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1881,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "0141394668",
+    "pageCount": 608
+  },
+  "cover": {
+    "file": "assets/covers/the-portrait-of-a-lady.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6b662f",
+    "w": 626,
+    "h": 1000,
+    "palette": [
+      "#515829",
+      "#b08b3f",
+      "#817233"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "freedom",
+    "marriage",
+    "Europe",
+    "independence"
+  ],
+  "moods": [
+    "cerebral",
+    "melancholic",
+    "romantic"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "expatriate Europe",
+      "an inheritance",
+      "a closing trap"
+    ],
+    "oneLine": "A free-spirited American heiress is slowly ensnared by the wrong marriage."
+  },
+  "summary": "Isabel Archer, a spirited young American who prizes her freedom above all, comes into a fortune and into the orbit of Europe's expatriate society, where her independence is slowly, subtly ensnared by a cold and manipulative marriage. Henry James's masterpiece is a novel of consciousness, tracing every shade of Isabel's dawning awareness of the trap she has walked into. Demanding and psychologically exquisite, it is one of the great studies of freedom, self-deception and the price of a wrong choice.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Henry James at the height of his powers, and one of fiction's great heroines. Slow, exquisite, and quietly devastating.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "James later added a famous preface analysing how he built the novel around Isabel's consciousness.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C3",
+  "enriched": true
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "the-mahabharata-the-dicing-the-sequel-to-the-dicing-and-the-temptation",
+  "title": "The Mahabharata - The Dicing, The Sequel to the Dicing and The Temptation of Karna",
+  "subtitle": null,
+  "authors": [
+    "vyasa"
+  ],
+  "translator": null,
+  "originalLanguage": "Sanskrit",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Worldview Publications",
+    "series": null,
+    "isbn": "9382267298",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-mahabharata-the-dicing-the-sequel-to-the-dicing-and-the-temptation.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a07a6b",
+    "w": 720,
+    "h": 1098,
+    "palette": [
+      "#b89f66",
+      "#513d50",
+      "#ded299"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Verse Epic",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Mahabharata",
+    "epic",
+    "Sanskrit",
+    "classic"
+  ],
+  "moods": [
+    "epic",
+    "tragic",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard"
+    ],
+    "sensory": [
+      "a rigged dice game",
+      "Draupadi's humiliation",
+      "the seeds of war"
+    ],
+    "oneLine": "The fateful dice game and other great episodes of the Mahabharata."
+  },
+  "summary": "Three of the most dramatic episodes from the Mahabharata, the vast Sanskrit epic of India: the fateful game of dice in which Yudhishthira gambles away his kingdom, his brothers, himself and their shared wife Draupadi; its terrible sequel; and the temptation of Karna. These sections turn on honour, fate and the seeds of the great war, and are among the epic's most powerful. A gripping way into the immense poem at the heart of Indian civilization.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The most dramatic episodes of the Mahabharata, the dice game that dooms a kingdom. A gripping way into the great epic.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The Mahabharata is one of the longest epic poems ever composed, many times the length of the Iliad and Odyssey combined.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

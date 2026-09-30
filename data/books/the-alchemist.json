@@ -1,0 +1,78 @@
+{
+  "slug": "the-alchemist",
+  "title": "The Alchemist",
+  "subtitle": null,
+  "authors": [
+    "ben-jonson"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1610,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 208
+  },
+  "cover": {
+    "file": "assets/covers/the-alchemist.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#554531",
+    "w": 664,
+    "h": 1000,
+    "palette": [
+      "#441e5a",
+      "#3a3c22",
+      "#202210"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Comedy"
+  ],
+  "region": "England",
+  "tags": [
+    "con artists",
+    "greed",
+    "London",
+    "satire"
+  ],
+  "moods": [
+    "satirical",
+    "playful",
+    "witty"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "a short sitting",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a borrowed house",
+      "a parade of dupes",
+      "the philosopher's stone"
+    ],
+    "oneLine": "Con artists fleece a city of greedy fools in Jonson's clockwork farce."
+  },
+  "summary": "While their master is away, a servant and two con artists set up shop in his London house, fleecing a parade of greedy, gullible victims with promises of the philosopher's stone. Ben Jonson's fast, brilliant comedy is a perfectly engineered farce and one of the sharpest satires of human greed ever staged. Crammed with schemes, disguises and glorious language, it moves like clockwork toward its collapse. The finest city comedy of its age and Jonson's comic masterpiece.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A perfectly engineered farce about con artists and greed, and Jonson's comic masterpiece. Moves like clockwork.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Jonson was Shakespeare's great rival and friend, and this is his best-loved comedy.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

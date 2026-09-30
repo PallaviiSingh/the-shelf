@@ -1,0 +1,76 @@
+{
+  "slug": "a-critical-reading-of-the-selected-poems-of-t-s-eliot",
+  "title": "A Critical Reading of the Selected poems of T.S. Eliot",
+  "subtitle": null,
+  "authors": [
+    "manju-jain",
+    "t-s-eliot"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Oxford University Press",
+    "series": null,
+    "isbn": "019565837X",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/a-critical-reading-of-the-selected-poems-of-t-s-eliot.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": null,
+    "dominantColor": "#6f7582",
+    "w": 323,
+    "h": 500,
+    "palette": [
+      "#35383b",
+      "#223f8d",
+      "#f4f4e0"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Poetry",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "modernism",
+    "T S Eliot",
+    "criticism",
+    "study guide"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study"
+    ],
+    "sensory": [
+      "close reading",
+      "Eliot's allusions",
+      "a student's companion"
+    ],
+    "oneLine": "A critical companion to the poetry of T. S. Eliot."
+  },
+  "summary": "A scholarly critical companion to the major poems of T. S. Eliot, offering close readings, context and interpretation to guide students through some of the most demanding verse in English. Tracing the arc from 'The Love Song of J. Alfred Prufrock' and 'The Waste Land' to the later religious poetry, it unpacks Eliot's allusions, forms and ideas. An invaluable aid for anyone grappling with the poet who did most to shape the modern literary imagination.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A close, scholarly reading of Eliot's major poems, unlocking the most demanding verse in modern English.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Eliot layered his poems with quotations in several languages, which such guides help decode.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "hitchhikers-guide-to-the-galaxy",
+  "title": "Hitchhiker's Guide to the Galaxy",
+  "subtitle": null,
+  "authors": [
+    "douglas-adams"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1979,
+  "edition": {
+    "publisher": "RHUS",
+    "series": null,
+    "isbn": "0345453743",
+    "pageCount": 216
+  },
+  "cover": {
+    "file": "assets/covers/hitchhikers-guide-to-the-galaxy.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#444a52",
+    "w": 314,
+    "h": 475,
+    "palette": [
+      "#1f1f25",
+      "#293951",
+      "#586481"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Science Fiction"
+  ],
+  "region": "England",
+  "tags": [
+    "comedy",
+    "space",
+    "absurd",
+    "British"
+  ],
+  "moods": [
+    "playful",
+    "satirical",
+    "cerebral"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "a short sitting",
+      "on a train or plane"
+    ],
+    "sensory": [
+      "a demolished Earth",
+      "a depressed robot",
+      "the number 42"
+    ],
+    "oneLine": "Earth is demolished for a bypass, and one Englishman hitches into the absurd."
+  },
+  "summary": "Seconds before Earth is demolished to make way for a hyperspace bypass, hapless Englishman Arthur Dent is rescued by his friend Ford Prefect, who turns out to be a roving researcher for a galactic guidebook. What follows is a gloriously silly cosmic romp through depressed robots, two-headed presidents and the answer to life, the universe and everything. Adams's comic classic is one of the funniest books ever written, whip-smart beneath the daftness, and endlessly quotable.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The funniest book in the galaxy, and secretly very clever. Read it with a towel and don't panic.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The answer to life, the universe and everything, 42, has become one of geek culture's best-known jokes.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "0",
+  "enriched": true
+}

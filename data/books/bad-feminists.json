@@ -1,0 +1,76 @@
+{
+  "slug": "bad-feminists",
+  "title": "Bad Feminists",
+  "subtitle": null,
+  "authors": [
+    "roxane-gay"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2014,
+  "edition": {
+    "publisher": "Constable & Robinson",
+    "series": null,
+    "isbn": "1472119738",
+    "pageCount": 324
+  },
+  "cover": {
+    "file": "assets/covers/bad-feminists.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#dfc7d5",
+    "w": 665,
+    "h": 1000,
+    "palette": [
+      "#e4a9cd",
+      "#f2cbe4",
+      "#e02896"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays"
+  ],
+  "region": "United States",
+  "tags": [
+    "essays",
+    "culture",
+    "race",
+    "feminism"
+  ],
+  "moods": [
+    "playful",
+    "political",
+    "tender"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "in a cafe",
+      "to laugh"
+    ],
+    "sensory": [
+      "pop culture",
+      "personal essays",
+      "glorious contradiction"
+    ],
+    "oneLine": "Embracing feminism while still loving the messy, problematic culture around it."
+  },
+  "summary": "In a collection of sharp, funny, personal essays, Roxane Gay embraces the label 'bad feminist' for anyone who believes in equality while still loving pink, bad pop songs and problematic films. Ranging across race, gender, publishing and pop culture, she makes room for contradiction and imperfection in feminism, insisting it is better to be a flawed feminist than none at all. Warm, candid and widely loved, it helped bring feminist argument to a huge new readership.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Feminism made human, funny and forgiving of contradiction. The essay collection that let a lot of people back in.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The book's title and argument made 'bad feminist' a widely used, affectionate self-description.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

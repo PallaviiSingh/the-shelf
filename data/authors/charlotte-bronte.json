@@ -1,0 +1,18 @@
+{
+  "slug": "charlotte-bronte",
+  "name": "Charlotte Brontë",
+  "birthYear": 1816,
+  "deathYear": 1855,
+  "nationality": "British",
+  "bio": "English novelist and poet, the eldest of the three Brontë sisters who lived to adulthood. She grew up in the parsonage at Haworth, on the Yorkshire moors, and first published under the male-sounding name Currer Bell. Her 1847 novel Jane Eyre was a hit straight away and has never gone out of print. She outlived all her siblings and died in 1855, early in a pregnancy.",
+  "photo": {
+    "file": "assets/authors/charlotte-bronte.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB",
+    "license": "Public domain",
+    "attribution": "Branwell Brontë"
+  },
+  "books": [
+    "jane-eyre"
+  ]
+}

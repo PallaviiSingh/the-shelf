@@ -1,0 +1,77 @@
+{
+  "slug": "intertidal",
+  "title": "Intertidal",
+  "subtitle": null,
+  "authors": [
+    "yuvan-aves"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2023,
+  "edition": {
+    "publisher": "Bloomsbury India",
+    "series": null,
+    "isbn": "9356402345",
+    "pageCount": 288
+  },
+  "cover": {
+    "file": "assets/covers/intertidal.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#738aa4",
+    "w": 625,
+    "h": 1000,
+    "palette": [
+      "#3a9ccd",
+      "#caa096",
+      "#b5867f"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Nature Writing",
+    "Memoir & Biography"
+  ],
+  "region": "India",
+  "tags": [
+    "Chennai",
+    "coast",
+    "natural history",
+    "observation"
+  ],
+  "moods": [
+    "luminous",
+    "meditative",
+    "curious"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "in a garden",
+      "to relax and unwind",
+      "by the water"
+    ],
+    "sensory": [
+      "a tidal shoreline",
+      "marsh creatures",
+      "patient attention"
+    ],
+    "oneLine": "A naturalist's tender year-long diary of the Chennai coast and marshes."
+  },
+  "summary": "Yuvan Aves, a naturalist and educator, keeps a diary of the coast and marshes around Chennai across a year, attending closely to the creatures of the shoreline and the rhythms of the tide. Weaving natural history with memoir and reflection, he turns patient observation into a way of understanding both the living world and his own life. Tender, richly detailed and deeply attentive, it is a luminous work of Indian nature writing that teaches the reader to look at an overlooked landscape with new eyes.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A naturalist's luminous year-long diary of the Chennai coast. Tender, closely observed Indian nature writing.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Yuvan Aves is a Chennai-based naturalist and environmental educator.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

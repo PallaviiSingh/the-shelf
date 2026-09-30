@@ -1,0 +1,17 @@
+{
+  "slug": "gayatri-spivak",
+  "name": "Gayatri Spivak",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Gayatri Chakravorty Spivak is an Indian literary theorist and feminist critic. She is a professor at Columbia University and a founding member of Columbia's Institute for Comparative Literature and Society.",
+  "photo": {
+    "file": "assets/authors/gayatri-spivak.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gayatri_Chakravorty_Spivak"
+  },
+  "books": [
+    "conversation-with-gayatri-spivak"
+  ],
+  "enriched": false
+}

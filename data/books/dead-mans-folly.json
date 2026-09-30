@@ -1,0 +1,76 @@
+{
+  "slug": "dead-mans-folly",
+  "title": "Dead Man's Folly",
+  "subtitle": null,
+  "authors": [
+    "agatha-christie"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1956,
+  "edition": {
+    "publisher": "Harper Collins",
+    "series": null,
+    "isbn": "000755687X",
+    "pageCount": 217
+  },
+  "cover": {
+    "file": "assets/covers/dead-mans-folly.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": null,
+    "dominantColor": "#4e5568",
+    "w": 322,
+    "h": 500,
+    "palette": [
+      "#4f6a95",
+      "#190d1e",
+      "#3a5967"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Mystery & Crime"
+  ],
+  "region": "England",
+  "tags": [
+    "Poirot",
+    "country house",
+    "fete",
+    "murder"
+  ],
+  "moods": [
+    "suspenseful",
+    "playful",
+    "cerebral"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "in a garden",
+      "to be thrilled"
+    ],
+    "sensory": [
+      "a country fete",
+      "a Devon estate",
+      "a game turned real"
+    ],
+    "oneLine": "A pretend murder hunt at a village fete becomes a real one."
+  },
+  "summary": "Invited to help stage a pretend murder hunt at a grand country-house fete, the mystery writer Ariadne Oliver senses something genuinely wrong, and calls in Hercule Poirot. She is right: the girl playing the victim is found really dead. Set among the gardens and boathouses of a Devon estate, it is a warm, clever late Christie that gently sends up the whole business of detective fiction even as it delivers a satisfying one.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A country-house fete, a staged murder that turns real, and Christie teasing her own genre. Cosy and clever.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Ariadne Oliver, the mystery novelist in the book, is widely read as Christie's affectionate self-portrait.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

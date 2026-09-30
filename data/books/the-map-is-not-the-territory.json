@@ -1,0 +1,76 @@
+{
+  "slug": "the-map-is-not-the-territory",
+  "title": "The Map is not the Territory",
+  "subtitle": null,
+  "authors": [
+    "aranya"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2025,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-map-is-not-the-territory.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#879aa9",
+    "w": 672,
+    "h": 1000,
+    "palette": [
+      "#819ab8",
+      "#878550",
+      "#9d9d68"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Poetry Collection"
+  ],
+  "region": "India",
+  "tags": [
+    "poetry",
+    "debut",
+    "multilingual",
+    "India"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "luminous"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "in a cafe",
+      "a short sitting",
+      "to think hard"
+    ],
+    "sensory": [
+      "the noise of the city",
+      "many languages at once",
+      "word and thing"
+    ],
+    "oneLine": "A debut collection of poems on the city, love, politics and art."
+  },
+  "summary": "A debut poetry collection by the Delhi-based poet writing as Aranya, assembled over some fifteen years and moving through sections on urban life, love, politics and art. The poems delight in sound, texture, taste and colour, confront political violence, and question institutional hierarchies, giving people, objects and animals equal weight on the page. Drawing on English alongside Hindi, Kannada, Marathi and other tongues, and taking its title from a famous dictum about how words can never be the thing itself, it is a richly textured first book.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A richly textured debut of poems on the city, love and politics, alive to sound and many languages. A striking first book.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its title echoes the general-semantics dictum that 'the map is not the territory'.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

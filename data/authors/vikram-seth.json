@@ -1,0 +1,17 @@
+{
+  "slug": "vikram-seth",
+  "name": "Vikram Seth",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Vikram Seth is an Indian novelist and poet. The author of three novels and several collections of poetry, he is a recipient of the Padma Shri, a Sahitya Akademi Award, the Pravasi Bharatiya Samman, the WH Smith Literary Award and the Crossword Book Award. Seth's collections of poetry such as Mappings and Beastly Tales are",
+  "photo": {
+    "file": "assets/authors/vikram-seth.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Vikram_Seth"
+  },
+  "books": [
+    "a-suitable-boy"
+  ],
+  "enriched": false
+}

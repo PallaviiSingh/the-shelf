@@ -1,0 +1,17 @@
+{
+  "slug": "mohan-rakesh",
+  "name": "Mohan Rakesh",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Mohan Rakesh was one of the pioneers of the Nai Kahani literary movement of the Hindi literature in India in the 1950s. He wrote the first modern Hindi play, Ashadh Ka Ek Din (1958), which won a competition organised by the Sangeet Natak Akademi. He made significant contributions to the novel, the short story, travelogue,",
+  "photo": {
+    "file": "assets/authors/mohan-rakesh.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mohan_Rakesh"
+  },
+  "books": [
+    "halfway-house"
+  ],
+  "enriched": false
+}

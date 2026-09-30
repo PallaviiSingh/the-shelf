@@ -1,0 +1,74 @@
+{
+  "slug": "mouth-full-of-blood",
+  "title": "Mouth Full of Blood",
+  "subtitle": null,
+  "authors": [
+    "toni-morrison"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2019,
+  "edition": {
+    "publisher": "Chatto & Windus",
+    "series": null,
+    "isbn": "1784742856",
+    "pageCount": 368
+  },
+  "cover": {
+    "file": "assets/covers/mouth-full-of-blood.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6f5766",
+    "w": 226,
+    "h": 350,
+    "palette": [
+      "#213772",
+      "#c33622",
+      "#652023"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays"
+  ],
+  "region": "United States",
+  "tags": [
+    "essays",
+    "race",
+    "art",
+    "politics"
+  ],
+  "moods": [
+    "cerebral",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a lectern",
+      "questions of belonging",
+      "a writer's conscience"
+    ],
+    "oneLine": "Toni Morrison on race, art and language, across decades of essays."
+  },
+  "summary": "A career-spanning collection of Toni Morrison's essays, speeches and meditations, ranging over race, art, language, memory and the responsibilities of the writer. Whether eulogising James Baldwin, dissecting the politics of belonging, or reflecting on her own craft, she brings the same moral seriousness and luminous prose as her fiction. It is a chance to sit with one of the great minds of American letters thinking aloud, and a fine companion to the novels.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Morrison the essayist and thinker, as luminous as Morrison the novelist. A chance to sit with a great mind at work.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The collection gathers speeches, essays and meditations written across some forty years.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "henry-david-thoreau",
+  "name": "Henry David Thoreau",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Henry David Thoreau was an American naturalist, essayist, poet, and philosopher. A leading transcendentalist, he is best known for his book Walden, a reflection upon simple living in natural surroundings, and his essay \"Civil Disobedience\", an argument in favor of citizen disobedience against an unjust state.",
+  "photo": null,
+  "books": [
+    "walden-and-other-writings"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "pugmarks-and-carbon-footprints",
+  "title": "Pugmarks and Carbon Footprints",
+  "subtitle": null,
+  "authors": [
+    "rohan-chakravarty-green-humour"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Vintage Books",
+    "series": null,
+    "isbn": "0143459899",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/pugmarks-and-carbon-footprints.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#967746",
+    "w": 708,
+    "h": 1000,
+    "palette": [
+      "#a56714",
+      "#ebdba3",
+      "#3d230f"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Graphic & Comics",
+    "Nature Writing"
+  ],
+  "region": "India",
+  "tags": [
+    "cartoons",
+    "wildlife",
+    "conservation",
+    "humour"
+  ],
+  "moods": [
+    "playful",
+    "witty",
+    "warm"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "a short sitting",
+      "comfort reading"
+    ],
+    "sensory": [
+      "animal tracks",
+      "a carbon footprint",
+      "cartoons with a cause"
+    ],
+    "oneLine": "Green Humour cartoons on wildlife, habitat loss and our carbon footprint."
+  },
+  "summary": "Another gathering of Rohan Chakravarty's Green Humour cartoons, pairing the tracks of wild animals with the human carbon footprint that increasingly threatens them. With his trademark blend of comedy, science and advocacy, Chakravarty draws attention to endangered species, habitat loss and climate change while keeping the reader laughing. Sharp, informed and affectionate toward the creatures it champions, it is both an entertaining comic collection and a gentle nudge toward conservation from India's leading wildlife cartoonist.",
+  "summarySource": "knowledge",
+  "whyReadIt": "More Green Humour, pairing animal tracks with our carbon footprint. Funny, informed and quietly persuasive.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Chakravarty's cartoons have been used by conservation groups and publications worldwide.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

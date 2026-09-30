@@ -1,0 +1,77 @@
+{
+  "slug": "the-upheaval",
+  "title": "The Upheaval",
+  "subtitle": null,
+  "authors": [
+    "pundalik-n-naik"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2002,
+  "edition": {
+    "publisher": "Oxford University Press",
+    "series": null,
+    "isbn": "0195660390",
+    "pageCount": 276
+  },
+  "cover": {
+    "file": "assets/covers/the-upheaval.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#847d64",
+    "w": 631,
+    "h": 1000,
+    "palette": [
+      "#b3b19d",
+      "#533c22",
+      "#69573a"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Goa",
+    "mining",
+    "village",
+    "translation"
+  ],
+  "moods": [
+    "bleak",
+    "political",
+    "tragic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to feel something deeply",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a Goan village",
+      "the coming of mining",
+      "a poisoned land"
+    ],
+    "oneLine": "Mining tears apart a traditional Goan village and its way of life."
+  },
+  "summary": "Translated from the Konkani, Pundalik Naik's novel tells how the arrival of mining tears apart a traditional Goan village, poisoning its land, water and way of life and corroding the bonds between its people. Widely regarded as the first modern novel written in Konkani, it is an early and powerful work of environmental fiction, tracing how the promise of money and progress leaves ruin behind. Earthy and unsparing, it gives voice to a rural world upended by extraction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A powerful Konkani novel of how mining destroys a Goan village. Early, unsparing environmental fiction.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is often described as the first modern novel written in the Konkani language.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

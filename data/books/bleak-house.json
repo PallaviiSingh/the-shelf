@@ -1,0 +1,75 @@
+{
+  "slug": "bleak-house",
+  "title": "Bleak House",
+  "subtitle": null,
+  "authors": [
+    "charles-dickens"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1853,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141198354",
+    "pageCount": 817
+  },
+  "cover": {
+    "file": "assets/covers/bleak-house.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#8c1739",
+    "w": 614,
+    "h": 1000,
+    "palette": [
+      "#7f0c3c",
+      "#b33633"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "law",
+    "London",
+    "mystery",
+    "satire"
+  ],
+  "moods": [
+    "bleak",
+    "suspenseful",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "London fog",
+      "an endless lawsuit",
+      "a buried secret"
+    ],
+    "oneLine": "A ruinous lawsuit and a buried secret, in Dickens's most ambitious novel."
+  },
+  "summary": "An endless lawsuit, Jarndyce and Jarndyce, grinds through the fog-bound Court of Chancery, entangling a huge cast whose fates turn on a long-buried secret. Alternating between a cool narrator and the warm voice of the orphan Esther Summerson, Dickens builds his most ambitious novel: part mystery, part fierce satire of a legal system that devours the people it claims to serve. Dense, brilliant and structurally daring, it is widely considered his greatest work.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Often called Dickens's greatest, a foggy mystery and a savage satire of the law. Dense, ambitious and stunningly built.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its portrait of the Court of Chancery is one of literature's great attacks on legal delay.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C4",
+  "enriched": true
+}

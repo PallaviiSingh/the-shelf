@@ -1,0 +1,76 @@
+{
+  "slug": "wives-and-daughters",
+  "title": "Wives and Daughters",
+  "subtitle": null,
+  "authors": [
+    "elizabeth-gaskell"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1865,
+  "edition": {
+    "publisher": "Penguin",
+    "series": "Penguin English Library",
+    "isbn": "978-0141973937",
+    "pageCount": 622
+  },
+  "cover": {
+    "file": "assets/covers/wives-and-daughters.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#698587",
+    "w": 652,
+    "h": 1000,
+    "palette": [
+      "#6b898b",
+      "#132835",
+      "#526d72"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "family",
+    "stepfamily",
+    "provincial",
+    "coming of age"
+  ],
+  "moods": [
+    "warm",
+    "tender",
+    "gently comic"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "comfort reading",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a country town",
+      "a new stepfamily",
+      "a doctor's daughter"
+    ],
+    "oneLine": "A doctor's daughter navigates a new stepmother and small-town life."
+  },
+  "summary": "Molly Gibson, a country doctor's good-natured daughter, must adjust when her father remarries and a glamorous, self-serving stepmother and stepsister enter their quiet lives. Gaskell's last, unfinished novel is a rich, warm study of English provincial society, family loyalty and growing up, widely regarded as her masterpiece. She died with only the final pages left to write, but what remains is complete in every way that matters: subtle, humane and full of beautifully drawn people.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Gaskell's warm, humane masterpiece, cut off just short of the end. Molly Gibson is one of the loveliest heroines in Victorian fiction.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Gaskell died before writing the final chapter; an editor's note explains how it would have ended.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

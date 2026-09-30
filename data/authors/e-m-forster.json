@@ -1,0 +1,17 @@
+{
+  "slug": "e-m-forster",
+  "name": "E.M. Forster",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Edward Morgan Forster was an English author. He is best known for his novels, particularly A Room with a View (1908), Howards End (1910) and A Passage to India (1924). He also wrote numerous short stories, essays, speeches and broadcasts, as well as biographies and pageant plays. His short story \"The Machine Stops\" (1909) is",
+  "photo": {
+    "file": "assets/authors/e-m-forster.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/E._M._Forster"
+  },
+  "books": [
+    "a-passage-to-india"
+  ],
+  "enriched": false
+}

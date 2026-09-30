@@ -1,0 +1,17 @@
+{
+  "slug": "louisa-may-alcott",
+  "name": "Louisa May Alcott",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Louisa May Alcott was an American novelist, short story writer, and poet best known for writing the novel Little Women (1868) and its sequels Good Wives (1869), Little Men (1871), and Jo's Boys (1886). Raised in New England by her transcendentalist parents, Abigail May and Amos Bronson Alcott, she grew up among many well-known intellectuals",
+  "photo": {
+    "file": "assets/authors/louisa-may-alcott.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Louisa_May_Alcott"
+  },
+  "books": [
+    "good-wives"
+  ],
+  "enriched": false
+}

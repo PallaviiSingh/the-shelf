@@ -1,0 +1,76 @@
+{
+  "slug": "a-life-in-words",
+  "title": "A Life in Words",
+  "subtitle": null,
+  "authors": [
+    "ismat-chughtai"
+  ],
+  "translator": null,
+  "originalLanguage": "Urdu",
+  "translated": true,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "0143420313",
+    "pageCount": 312
+  },
+  "cover": {
+    "file": "assets/covers/a-life-in-words.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#94765f",
+    "w": 451,
+    "h": 650,
+    "palette": [
+      "#543c37",
+      "#caa07f",
+      "#b0866b"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Urdu",
+    "Ismat Chughtai",
+    "memoir"
+  ],
+  "moods": [
+    "warm",
+    "defiant",
+    "witty"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "on a rainy day",
+      "in a cafe"
+    ],
+    "sensory": [
+      "a rebellious childhood",
+      "literary friendships",
+      "an obscenity trial"
+    ],
+    "oneLine": "The memoir of the bold Urdu writer Ismat Chughtai."
+  },
+  "summary": "A Life in Words is the memoir of Ismat Chughtai, translated from her Urdu Kaghazi Hai Pairahan, recalling her childhood in a large Muslim family, her battles for education, her literary friendships and the famous obscenity trial that made her notorious. Written with the same wit, candour and rebellious spirit as her fiction, it is a vivid self-portrait of one of India's boldest women writers and a window onto the literary world of her time.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The witty, candid memoir of the fearless Ismat Chughtai, including her famous obscenity trial. A vivid self-portrait.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The memoir recounts her 1940s obscenity trial over the story 'Lihaaf', which she won.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B2",
+  "enriched": true
+}

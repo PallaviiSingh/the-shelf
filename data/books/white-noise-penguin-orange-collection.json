@@ -1,0 +1,76 @@
+{
+  "slug": "white-noise-penguin-orange-collection",
+  "title": "White Noise: (Penguin Orange Collection)",
+  "subtitle": null,
+  "authors": [
+    "don-delillo"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1985,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "9780143129554",
+    "pageCount": 326
+  },
+  "cover": {
+    "file": "assets/covers/white-noise-penguin-orange-collection.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#e3865c",
+    "w": 720,
+    "h": 1090,
+    "palette": [
+      "#f34f11",
+      "#eae6e0",
+      "#b43e14"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "consumerism",
+    "death",
+    "media",
+    "the postmodern"
+  ],
+  "moods": [
+    "satirical",
+    "cerebral",
+    "unsettling"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "a short sitting",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "supermarket aisles",
+      "a toxic cloud",
+      "television hum"
+    ],
+    "oneLine": "A family's low hum of dread turns literal when a toxic cloud arrives."
+  },
+  "summary": "Jack Gladney, a professor of Hitler studies, and his family drift through a haze of supermarkets, television and low-grade dread until an 'airborne toxic event' makes their fear of death suddenly literal. DeLillo's landmark postmodern comedy skewers consumer culture, media saturation and the modern terror of mortality with brilliant, quotable satire. Funny, eerie and eerily prophetic about our media-soaked age, it is one of the defining American novels of the late twentieth century.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The great postmodern comedy of consumerism and the fear of death. Funny, eerie, and more prophetic every year.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won the National Book Award and is often taught as the defining postmodern American novel.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

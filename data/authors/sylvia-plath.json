@@ -1,0 +1,18 @@
+{
+  "slug": "sylvia-plath",
+  "name": "Sylvia Plath",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Sylvia Plath was an American poet and author. She is credited with advancing the genre of confessional poetry and her works include The Colossus and Other Poems (1960), Ariel (1965), and The Bell Jar (1963), a semi-autobiographical novel published one month before her suicide. The Collected Poems were published in 1981, which included previously unpublished",
+  "photo": {
+    "file": "assets/authors/sylvia-plath.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Sylvia_Plath"
+  },
+  "books": [
+    "the-bell-jar",
+    "the-unabridged-journals-of-sylvia-plath"
+  ],
+  "enriched": false
+}

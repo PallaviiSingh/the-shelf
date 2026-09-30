@@ -1,0 +1,77 @@
+{
+  "slug": "orbital",
+  "title": "Orbital",
+  "subtitle": null,
+  "authors": [
+    "samantha-harvey"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2023,
+  "edition": {
+    "publisher": "Penguin Random House",
+    "series": "Vintage",
+    "pageCount": 144
+  },
+  "cover": {
+    "file": "assets/covers/orbital.jpg",
+    "source": "openlibrary",
+    "match": "isbn",
+    "sourceUrl": "https://covers.openlibrary.org/b/isbn/1529922933-L.jpg?default=false",
+    "dominantColor": "#3d434d",
+    "w": 328,
+    "h": 500,
+    "palette": [
+      "#0c0f16",
+      "#335b9b",
+      "#232a37"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "Earth orbit",
+  "tags": [
+    "space",
+    "Earth",
+    "time",
+    "contemplation"
+  ],
+  "moods": [
+    "luminous",
+    "meditative",
+    "tender"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to relax and unwind",
+      "to think hard",
+      "in bed at night"
+    ],
+    "sensory": [
+      "the space station",
+      "sixteen sunrises",
+      "the Earth from above"
+    ],
+    "oneLine": "Six astronauts orbit Earth for a day, in a luminous meditation on the planet."
+  },
+  "summary": "Over a single day, six astronauts aboard the International Space Station circle the Earth sixteen times, and Samantha Harvey turns their sixteen sunrises into a luminous meditation on the planet, time, and the smallness and preciousness of human life. Almost plotless and deeply contemplative, it reads like a prose poem to the world seen from above. Short and radiant, it won the Booker Prize and has been embraced as one of the most quietly beautiful novels of recent years.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A luminous, near-plotless prose-poem about Earth seen from orbit. The Booker winner that reads like a meditation.",
+  "awards": [
+    "Booker Prize 2024"
+  ],
+  "funFacts": [
+    {
+      "text": "It won the 2024 Booker Prize and is one of the shortest novels ever to do so.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

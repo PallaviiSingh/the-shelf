@@ -1,0 +1,79 @@
+{
+  "slug": "doctor-faustus",
+  "title": "Doctor Faustus",
+  "subtitle": null,
+  "authors": [
+    "christopher-marlowe",
+    "suroopa-mukherjee"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1592,
+  "edition": {
+    "publisher": "Worldview Critical Edition",
+    "series": null,
+    "isbn": "8186423419",
+    "pageCount": 111
+  },
+  "cover": {
+    "file": "assets/covers/doctor-faustus.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#ab5d44",
+    "w": 430,
+    "h": 640,
+    "palette": [
+      "#eb6940",
+      "#9c503a",
+      "#554e3a"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Tragedy"
+  ],
+  "region": "England",
+  "tags": [
+    "the devil",
+    "knowledge",
+    "damnation",
+    "Renaissance"
+  ],
+  "moods": [
+    "dark",
+    "tragic",
+    "cerebral"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours",
+      "in bed at night"
+    ],
+    "sensory": [
+      "a scholar's study",
+      "a pact in blood",
+      "a looming damnation"
+    ],
+    "oneLine": "A scholar sells his soul to the devil for knowledge and power."
+  },
+  "summary": "The brilliant scholar Faustus, hungry for infinite knowledge and power, sells his soul to the devil for twenty-four years of magic, and slides toward a damnation he keeps meaning to escape. Marlowe's electrifying Renaissance tragedy is the great dramatic version of the Faust legend, blazing with ambition and dread. This scholarly edition supplies the introduction and notes to guide a modern reader. Dark, poetic and morally charged, it is the most powerful English play before Shakespeare's maturity.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The great dramatic bargain with the devil, blazing with Renaissance ambition and dread. Marlowe at his most electrifying.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Marlowe, born the same year as Shakespeare, was the leading English playwright before him.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

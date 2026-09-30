@@ -1,0 +1,77 @@
+{
+  "slug": "dylan-thomas-ominbus-under-milk-wood-poems-stories-and-broadcasts",
+  "title": "Dylan Thomas Ominbus - Under Milk Wood, Poems, Stories, and Broadcasts",
+  "subtitle": null,
+  "authors": [
+    "dylan-thomas"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Orion Publishing Group",
+    "series": null,
+    "isbn": "1780227280",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/dylan-thomas-ominbus-under-milk-wood-poems-stories-and-broadcasts.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#2e4f73",
+    "w": 653,
+    "h": 1000,
+    "palette": [
+      "#343659",
+      "#09a1cd",
+      "#1f87b1"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "Wales",
+  "tags": [
+    "Wales",
+    "voice",
+    "radio",
+    "lyricism"
+  ],
+  "moods": [
+    "lyrical",
+    "playful",
+    "melancholic"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to be absorbed for hours",
+      "to feel something deeply"
+    ],
+    "sensory": [
+      "a Welsh small town",
+      "incantatory verse",
+      "words made to be spoken"
+    ],
+    "oneLine": "The lush poems, stories and Under Milk Wood of Dylan Thomas."
+  },
+  "summary": "A generous omnibus of Dylan Thomas, the great Welsh poet of the mid-twentieth century, gathering his lush, incantatory poems alongside stories, broadcasts and his beloved 'play for voices', Under Milk Wood. Thomas wrote some of the most quoted lines in modern poetry, from 'Do not go gentle into that good night' to the dreamy small-town chorus of Under Milk Wood. Rich, musical and made to be read aloud, this collection captures a writer intoxicated by the sound of language.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A generous gathering of Dylan Thomas, drunk on the music of language. Under Milk Wood and the great poems together.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "His villanelle 'Do not go gentle into that good night' is among the most quoted poems in English.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "E3",
+  "enriched": true
+}

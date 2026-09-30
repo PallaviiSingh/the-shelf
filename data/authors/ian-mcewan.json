@@ -1,0 +1,13 @@
+{
+  "slug": "ian-mcewan",
+  "name": "Ian McEwan",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Ian Russell McEwan is a British novelist and screenwriter. In 2008, The Times featured him at number 35 on its list of \"the 50 greatest British writers since 1945\", and The Daily Telegraph ranked him number 19 out of \"the 100 most powerful people in British culture\".",
+  "photo": null,
+  "books": [
+    "atonement"
+  ],
+  "enriched": false
+}

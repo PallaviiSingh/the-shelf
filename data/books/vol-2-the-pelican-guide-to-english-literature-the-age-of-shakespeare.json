@@ -1,0 +1,69 @@
+{
+  "slug": "vol-2-the-pelican-guide-to-english-literature-the-age-of-shakespeare",
+  "title": "Vol 2. The Pelican Guide to English Literature: The Age of Shakespeare",
+  "subtitle": null,
+  "authors": [
+    "boris-ford"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "0140138080",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-2-the-pelican-guide-to-english-literature-the-age-of-shakespeare.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#574936",
+    "w": 360,
+    "h": 552,
+    "palette": [
+      "#23241f",
+      "#b3ae83",
+      "#503e23"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "Renaissance",
+    "Shakespeare",
+    "Pelican Guide",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "Elizabethan England",
+      "Shakespeare and Donne",
+      "criticism for all"
+    ],
+    "oneLine": "The Pelican Guide to the age of Shakespeare."
+  },
+  "summary": "The second volume of Boris Ford's Pelican Guide to English Literature covers the Age of Shakespeare. It pairs a survey of the Elizabethan and Jacobean period with critical essays on Shakespeare, Marlowe, Jonson, Donne and their contemporaries. Accessible and stimulating, it brought serious criticism of the greatest age of English literature to a wide readership, and remains a valued companion for students of Renaissance drama and poetry.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Pelican Guide's lively critical companion to the age of Shakespeare. Accessible and stimulating.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

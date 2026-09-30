@@ -1,0 +1,76 @@
+{
+  "slug": "paradise-lost",
+  "title": "Paradise Lost",
+  "subtitle": null,
+  "authors": [
+    "john-milton"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1667,
+  "edition": {
+    "publisher": "Worldview Critical Edition",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "9382267026",
+    "pageCount": 333
+  },
+  "cover": {
+    "file": "assets/covers/paradise-lost.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#60423d",
+    "w": 618,
+    "h": 1000,
+    "palette": [
+      "#454646",
+      "#833e32",
+      "#e03213"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Verse Epic"
+  ],
+  "region": "England",
+  "tags": [
+    "Bible",
+    "Satan",
+    "the Fall",
+    "epic"
+  ],
+  "moods": [
+    "epic",
+    "grand",
+    "cerebral"
+  ],
+  "difficulty": "summit",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a war in heaven",
+      "Satan in Hell",
+      "the garden's fall"
+    ],
+    "oneLine": "Milton's towering epic of Satan's rebellion and humankind's fall."
+  },
+  "summary": "Milton's towering epic retells the fall of humankind: the rebellion of Satan against God, his expulsion into Hell, and his temptation of Adam and Eve in the Garden of Eden. Written in majestic blank verse by a blind poet dictating to his daughters, it is the grandest poem in English, and its charismatic, defiant Satan has fascinated readers for centuries. Demanding but overwhelming, it aims, in its own words, to 'justify the ways of God to men'.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The grandest epic in English, and its rebel Satan is one of literature's great characters. Demanding and overwhelming.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Milton was completely blind when he composed the poem, dictating it to family members.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

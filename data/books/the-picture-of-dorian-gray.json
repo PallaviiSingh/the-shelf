@@ -1,0 +1,75 @@
+{
+  "slug": "the-picture-of-dorian-gray",
+  "title": "The Picture of Dorian Gray",
+  "subtitle": null,
+  "authors": [
+    "oscar-wilde"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1890,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin Clothbound Edition",
+    "isbn": "0141442468",
+    "pageCount": 246
+  },
+  "cover": {
+    "file": "assets/covers/the-picture-of-dorian-gray.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#403f43",
+    "w": 647,
+    "h": 1000,
+    "palette": [
+      "#18161c"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Gothic"
+  ],
+  "region": "Ireland",
+  "tags": [
+    "vanity",
+    "corruption",
+    "aestheticism",
+    "the double"
+  ],
+  "moods": [
+    "decadent",
+    "haunting",
+    "witty"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to be absorbed for hours",
+      "in bed at night",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a flawless young face",
+      "a rotting portrait",
+      "a life of pleasure"
+    ],
+    "oneLine": "A man stays young while his hidden portrait rots with every sin."
+  },
+  "summary": "A beautiful young man wishes that his portrait would age in his place, and gets his wish: as Dorian Gray plunges into a life of pleasure and cruelty, his face stays flawless while the hidden picture rots with every sin. Wilde's only novel is a glittering Gothic fable about beauty, corruption and the price of a life without conscience, studded with his famous epigrams. Scandalous in its day, it remains a deliciously wicked meditation on vanity and the soul.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Wilde's glittering, wicked Gothic fable about beauty and corruption. Full of epigrams and quietly terrifying.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The novel's frankness was used against Wilde at his later trials.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B3",
+  "enriched": true
+}

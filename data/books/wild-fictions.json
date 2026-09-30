@@ -1,0 +1,76 @@
+{
+  "slug": "wild-fictions",
+  "title": "Wild Fictions",
+  "subtitle": null,
+  "authors": [
+    "amitav-ghosh"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2025,
+  "edition": {
+    "publisher": "Fourth Estate India",
+    "series": null,
+    "isbn": "9365691001",
+    "pageCount": 472
+  },
+  "cover": {
+    "file": "assets/covers/wild-fictions.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6e8b94",
+    "w": 679,
+    "h": 1000,
+    "palette": [
+      "#4f676f",
+      "#374f57",
+      "#b3cace"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays"
+  ],
+  "region": "India",
+  "tags": [
+    "history",
+    "literature",
+    "climate",
+    "nonfiction"
+  ],
+  "moods": [
+    "cerebral",
+    "curious",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "in a cafe",
+      "a short sitting"
+    ],
+    "sensory": [
+      "hidden histories",
+      "the personal and planetary",
+      "a searching mind"
+    ],
+    "oneLine": "Amitav Ghosh's essays on literature, history, colonialism and climate."
+  },
+  "summary": "A generous gathering of Amitav Ghosh's essays and non-fiction spanning more than two decades, ranging across literature, history, colonialism, language and the climate crisis that has increasingly preoccupied him. Written with the same curiosity and narrative gift as his novels, these pieces connect the personal and the planetary, tracing hidden threads between commerce, empire and the natural world. A rich companion for readers of his fiction and a map of one of the most restless and searching minds in contemporary writing.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Two decades of Ghosh's essays on history, literature and climate. Curious, wide-ranging and quietly urgent.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The collection draws together Ghosh's non-fiction from across his career.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

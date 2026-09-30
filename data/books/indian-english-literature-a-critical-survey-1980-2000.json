@@ -1,0 +1,69 @@
+{
+  "slug": "indian-english-literature-a-critical-survey-1980-2000",
+  "title": "Indian English Literature - A Critical Survey (1980-2000)",
+  "subtitle": null,
+  "authors": [
+    "shyamala-a-narayan"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Penecraft International",
+    "series": null,
+    "isbn": "978-8185753447",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/indian-english-literature-a-critical-survey-1980-2000.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#ceb9b1",
+    "w": 720,
+    "h": 1110,
+    "palette": [
+      "#cdb8b1",
+      "#b49b86",
+      "#8f7258"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "India",
+  "tags": [
+    "Indian literature",
+    "English",
+    "criticism",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "the post-Rushdie boom",
+      "new Indian voices",
+      "a critical guide"
+    ],
+    "oneLine": "A critical survey of Indian English literature, 1980 to 2000."
+  },
+  "summary": "Shyamala A. Narayan's critical survey covers Indian English literature from 1980 to 2000, the decades when it surged onto the world stage. It reviews the fiction, poetry, drama and non-fiction of the period, discussing the boom that followed Midnight's Children and the many new voices who reshaped Indian writing in English. A useful reference and critical guide to a rich and transformative twenty years, aimed at students and scholars of contemporary Indian literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A critical survey of Indian English literature's world-conquering years, 1980 to 2000. Useful reference and guide.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "A1",
+  "enriched": true
+}

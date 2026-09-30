@@ -1,0 +1,19 @@
+{
+  "slug": "t-s-eliot",
+  "name": "T.S. Eliot",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Thomas Stearns Eliot was a poet, essayist and playwright. He was a leading figure of modernist poetry in the English language where he altered the art through his use of pessimistic language, writing style, and verse structure. Awarded the 1948 Nobel Prize in Literature, he is considered one of the greatest poets of the English",
+  "photo": {
+    "file": "assets/authors/t-s-eliot.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/T._S._Eliot"
+  },
+  "books": [
+    "a-critical-reading-of-the-selected-poems-of-t-s-eliot",
+    "a-selection-of-poems",
+    "murder-in-the-cathedral"
+  ],
+  "enriched": false
+}

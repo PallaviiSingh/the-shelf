@@ -1,0 +1,78 @@
+{
+  "slug": "the-rape-of-the-lock",
+  "title": "The Rape of the Lock",
+  "subtitle": null,
+  "authors": [
+    "alexander-pope",
+    "harriet-raghunathan"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1714,
+  "edition": {
+    "publisher": "Worldview Critical Edition",
+    "series": null,
+    "isbn": "9382267476",
+    "pageCount": 67
+  },
+  "cover": {
+    "file": "assets/covers/the-rape-of-the-lock.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4a6654",
+    "w": 315,
+    "h": 475,
+    "palette": [
+      "#248353",
+      "#0a3a1c",
+      "#4e9871"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Satire"
+  ],
+  "region": "England",
+  "tags": [
+    "mock-epic",
+    "society",
+    "satire",
+    "18th century"
+  ],
+  "moods": [
+    "satirical",
+    "playful",
+    "witty"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "a short sitting",
+      "to think hard"
+    ],
+    "sensory": [
+      "a stolen curl",
+      "warring sylphs",
+      "a card-table battle"
+    ],
+    "oneLine": "Pope turns a snipped lock of hair into a glittering mock-epic."
+  },
+  "summary": "When a young lord snips a lock of hair from a fashionable beauty, Pope inflates the trivial society scandal into a glittering mock-epic, complete with warring sylphs, epic battles and heroic speeches over a card table. The supreme achievement of English mock-heroic verse, it satirises the vanities of the fashionable world with dazzling wit and perfect polish. This edition adds scholarly guidance. Sparkling, precise and endlessly clever, it is Pope's most delightful poem.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Pope's dazzling mock-epic over a stolen lock of hair. Sparkling, precise and the wittiest of eighteenth-century poems.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Pope wrote it to make peace between two real feuding families, turning their quarrel into comedy.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

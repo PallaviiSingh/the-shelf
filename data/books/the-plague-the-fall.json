@@ -1,0 +1,77 @@
+{
+  "slug": "the-plague-the-fall",
+  "title": "The Plague, The Fall",
+  "subtitle": null,
+  "authors": [
+    "albert-camus"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1947,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 680
+  },
+  "cover": {
+    "file": "assets/covers/the-plague-the-fall.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#817665",
+    "w": 295,
+    "h": 475,
+    "palette": [
+      "#594e3f",
+      "#a29683",
+      "#7b6e5c"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "France / Algeria",
+  "tags": [
+    "absurdism",
+    "epidemic",
+    "guilt",
+    "morality"
+  ],
+  "moods": [
+    "bleak",
+    "cerebral",
+    "political"
+  ],
+  "difficulty": "challenging",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to feel something deeply",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a quarantined city",
+      "an Amsterdam bar",
+      "a confession"
+    ],
+    "oneLine": "An epidemic tests a city, and a lawyer confesses the rot behind his good name."
+  },
+  "summary": "Two of Camus's central novels in one volume. The Plague watches an Algerian city sealed off by an epidemic, and finds in its doctors and volunteers a quiet, secular heroism, doing the next necessary thing in the face of meaningless suffering. The Fall is its dark mirror, a former Parisian lawyer confessing, in a seedy Amsterdam bar, the hollowness and hidden cowardice beneath his good conscience. Together they show Camus turning the philosophy of the absurd into human drama about how, and whether, to live decently.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Camus at his most humane and his most unsparing, back to back. The Plague reads uncannily well after a real one.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Camus won the Nobel Prize in Literature in 1957 and died in a car crash three years later, at 46.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A4",
+  "enriched": true
+}

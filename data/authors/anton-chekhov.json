@@ -1,0 +1,17 @@
+{
+  "slug": "anton-chekhov",
+  "name": "Anton Chekhov",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Anton Pavlovich Chekhov was a Russian playwright and short story writer. Widely considered one of the greatest writers of all time, his career as a playwright produced four classics, and his best short stories are held in high esteem by writers and critics. Along with Henrik Ibsen and August Strindberg, Chekhov is often referred to",
+  "photo": {
+    "file": "assets/authors/anton-chekhov.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Anton_Chekhov"
+  },
+  "books": [
+    "the-complete-short-novels"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "the-great-derangement-climate-change-and-the-unthinkable",
+  "title": "The Great Derangement: Climate Change and the Unthinkable",
+  "subtitle": null,
+  "authors": [
+    "amitav-ghosh"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 2016,
+  "edition": {
+    "publisher": "Penguin",
+    "series": null,
+    "isbn": "014342906X",
+    "pageCount": 196
+  },
+  "cover": {
+    "file": "assets/covers/the-great-derangement-climate-change-and-the-unthinkable.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#678173",
+    "w": 651,
+    "h": 1000,
+    "palette": [
+      "#20503f",
+      "#567f6a",
+      "#719481"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Essays",
+    "Environmental Humanities"
+  ],
+  "region": "World",
+  "tags": [
+    "climate change",
+    "literature",
+    "empire",
+    "imagination"
+  ],
+  "moods": [
+    "cerebral",
+    "urgent",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to study",
+      "in a cafe"
+    ],
+    "sensory": [
+      "a failing imagination",
+      "empire and oil",
+      "the planetary crisis"
+    ],
+    "oneLine": "Ghosh on why art and modern thought fail to reckon with climate change."
+  },
+  "summary": "Why, Amitav Ghosh asks, has the modern imagination, especially the serious novel, failed to reckon with climate change? In three sweeping essays on literature, history and politics, he argues that our very forms of art and thought leave us unable to grasp the planetary crisis, and traces the roots of that failure back to empire and fossil-fuelled modernity. Provocative, wide-ranging and beautifully argued, it is one of the most influential books on climate and culture, and a challenge to writers and readers alike.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Ghosh asks why literature and modern thought can't grasp climate change. Provocative, wide-ranging and hugely influential.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its argument that the realist novel struggles to depict climate change is much debated.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

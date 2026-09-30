@@ -1,0 +1,77 @@
+{
+  "slug": "the-rime-of-the-ancient-mariner-and-other-poems",
+  "title": "The Rime of the Ancient Mariner and Other Poems",
+  "subtitle": null,
+  "authors": [
+    "samuel-taylor-coleridge"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1798,
+  "edition": {
+    "publisher": "William Collins",
+    "series": null,
+    "isbn": "0008167567",
+    "pageCount": 54
+  },
+  "cover": {
+    "file": "assets/covers/the-rime-of-the-ancient-mariner-and-other-poems.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#4e555b",
+    "w": 622,
+    "h": 1000,
+    "palette": [
+      "#1f2225",
+      "#ccdde0",
+      "#85b0bb"
+    ]
+  },
+  "genre": "Poetry",
+  "subgenres": [
+    "Classic",
+    "Poetry Collection"
+  ],
+  "region": "England",
+  "tags": [
+    "Romanticism",
+    "the sea",
+    "guilt",
+    "the supernatural"
+  ],
+  "moods": [
+    "haunting",
+    "dreamlike",
+    "supernatural"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "to be absorbed for hours",
+      "by the water"
+    ],
+    "sensory": [
+      "a ghostly ship",
+      "a slain albatross",
+      "an opium dream"
+    ],
+    "oneLine": "A sailor cursed for killing an albatross, in Coleridge's haunted ballad."
+  },
+  "summary": "Coleridge's spellbinding ballad of a sailor cursed for killing an albatross, doomed to drift on a ghostly sea and to tell his tale forever, is one of the strangest and most haunting poems in English, gathered here with other work including the opium-dream fragment 'Kubla Khan'. Dreamlike, musical and shot through with guilt and wonder, these poems show the supernatural side of Romanticism at its most powerful. A small book of some of the most unforgettable verse ever written.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Coleridge's spellbinding, haunted ballad of the cursed sailor, with 'Kubla Khan' alongside. Unforgettable and strange.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The albatross around the neck has become a common phrase for an inescapable burden.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

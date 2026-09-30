@@ -1,0 +1,76 @@
+{
+  "slug": "sanditon",
+  "title": "Sanditon",
+  "subtitle": null,
+  "authors": [
+    "jane-austen"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1817,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": "Penguin English Library",
+    "isbn": "0241436583",
+    "pageCount": 272
+  },
+  "cover": {
+    "file": "assets/covers/sanditon.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#cdd34b",
+    "w": 613,
+    "h": 1000,
+    "palette": [
+      "#f6d82d",
+      "#cad350",
+      "#83cb7f"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic"
+  ],
+  "region": "England",
+  "tags": [
+    "unfinished",
+    "seaside",
+    "speculation",
+    "Regency"
+  ],
+  "moods": [
+    "playful",
+    "satirical",
+    "witty"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "a short sitting",
+      "to laugh",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a new seaside resort",
+      "a hopeful speculator",
+      "a cast of hypochondriacs"
+    ],
+    "oneLine": "Austen's unfinished last novel, sharp and funny, set at a booming spa town."
+  },
+  "summary": "Austen's final, unfinished novel opens on the newly fashionable seaside resort of Sanditon, where a hopeful speculator dreams of turning a sleepy village into a spa town, and a cast of hypochondriacs and schemers gathers around the bright young Charlotte Heywood. Austen wrote only a dozen sharp, funny chapters before her death, but they crackle with fresh energy and a new interest in money, health fads and property. A tantalising glimpse of where her genius might have gone next.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Austen's last, unfinished novel, twelve crackling chapters cut short by her death. A tantalising glimpse of a new direction.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Austen wrote only eleven or twelve chapters before illness forced her to stop.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "B3",
+  "enriched": true
+}

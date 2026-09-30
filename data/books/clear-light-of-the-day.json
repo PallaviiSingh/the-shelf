@@ -1,0 +1,76 @@
+{
+  "slug": "clear-light-of-the-day",
+  "title": "Clear Light of the Day",
+  "subtitle": null,
+  "authors": [
+    "anita-desai"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1980,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 183
+  },
+  "cover": {
+    "file": "assets/covers/clear-light-of-the-day.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7d7871",
+    "w": 424,
+    "h": 650,
+    "palette": [
+      "#221a13",
+      "#51381e",
+      "#ad9d86"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "India",
+  "tags": [
+    "family",
+    "memory",
+    "siblings",
+    "Old Delhi"
+  ],
+  "moods": [
+    "melancholic",
+    "tender",
+    "meditative"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a crumbling Delhi house",
+      "two reunited sisters",
+      "the weight of memory"
+    ],
+    "oneLine": "Two sisters reunite in Old Delhi and confront the family's buried past."
+  },
+  "summary": "When two sisters reunite in the crumbling family home in Old Delhi, old wounds, memories and resentments surface, carrying them back through childhood, illness and the shadow of Partition. Anita Desai's quiet, luminous novel moves backward in time to uncover how a family was shaped, closing on a note of hard-won acceptance. Interior and beautifully observed, it is a subtle study of memory, siblinghood and the way the past keeps living inside a house. One of Desai's finest and most personal novels.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Anita Desai's luminous, interior novel of two sisters and a family's buried past. Subtle and quietly moving.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was shortlisted for the Booker Prize, one of three Desai novels to reach the shortlist.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "A2",
+  "enriched": true
+}

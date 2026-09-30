@@ -1,0 +1,78 @@
+{
+  "slug": "a-silent-place",
+  "title": "A Silent Place",
+  "subtitle": null,
+  "authors": [
+    "vinod-kumar-shukla"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 2018,
+  "edition": {
+    "publisher": "Eka",
+    "series": null,
+    "isbn": "9390679141",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/a-silent-place.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#757e7f",
+    "w": 325,
+    "h": 499,
+    "palette": [
+      "#98b7cf",
+      "#102427",
+      "#3d5153"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Magical Realism",
+    "Translated"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "Vinod Kumar Shukla",
+    "meditation",
+    "surreal"
+  ],
+  "moods": [
+    "quiet",
+    "dreamlike",
+    "meditative"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "in bed at night",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a shifting landscape",
+      "gentle eccentrics",
+      "a longing for quiet"
+    ],
+    "oneLine": "The English translation of Shukla's dreamlike meditation on stillness."
+  },
+  "summary": "A Silent Place is Satti Khanna's English translation of Vinod Kumar Shukla's quietly surreal novel Ek Chuppi Jagah. Following the children Bolu and Koona through a dreamlike, ever-shifting landscape peopled by gentle eccentrics, it is a meditation on stillness and on how the noise and materialism of modern life estrange us from ourselves and the world. Spare, poetic and unclassifiable, it brings one of the most original voices in Hindi fiction to English readers in the same wonder-struck register.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The English translation of Vinod Kumar Shukla's dreamlike novel about stillness and disconnection. Spare, poetic, unclassifiable.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is Satti Khanna's translation of the Hindi novel Ek Chuppi Jagah.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

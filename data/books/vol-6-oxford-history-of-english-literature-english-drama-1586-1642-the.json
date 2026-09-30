@@ -1,0 +1,69 @@
+{
+  "slug": "vol-6-oxford-history-of-english-literature-english-drama-1586-1642-the",
+  "title": "Vol 6 Oxford History of English Literature: English Drama 1586- 1642: The Age of Shakespeare",
+  "subtitle": null,
+  "authors": [
+    "g-k-hunter"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Clarendon Press",
+    "series": null,
+    "isbn": "0198122136",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-6-oxford-history-of-english-literature-english-drama-1586-1642-the.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#898f8b",
+    "w": 607,
+    "h": 1000,
+    "palette": [
+      "#fdf5cc",
+      "#293a54",
+      "#c9c9b2"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "drama",
+    "Renaissance",
+    "Shakespeare",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "the Renaissance stage",
+      "Shakespeare's contemporaries",
+      "a golden age"
+    ],
+    "oneLine": "The Oxford history of English drama in the age of Shakespeare."
+  },
+  "summary": "G. K. Hunter's volume in the Oxford History of English Literature covers English drama from 1586 to 1642, the golden age of Shakespeare, Marlowe, Jonson, Webster and their contemporaries, up to the closing of the theatres in the Civil War. It surveys the playwrights, companies and forms of the greatest period in English theatre. A rich, authoritative scholarly account of the age of Shakespeare and Renaissance drama at its height.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Oxford history of the age of Shakespeare, English drama at its Renaissance height. Rich and authoritative.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

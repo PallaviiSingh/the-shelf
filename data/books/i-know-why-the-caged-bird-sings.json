@@ -1,0 +1,76 @@
+{
+  "slug": "i-know-why-the-caged-bird-sings",
+  "title": "I Know Why the Caged Bird Sings",
+  "subtitle": null,
+  "authors": [
+    "maya-angelou"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1969,
+  "edition": {
+    "publisher": "Virago",
+    "series": null,
+    "isbn": "9780860685111",
+    "pageCount": 281
+  },
+  "cover": {
+    "file": "assets/covers/i-know-why-the-caged-bird-sings.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#6fb6b0",
+    "w": 720,
+    "h": 1131,
+    "palette": [
+      "#64b9b5",
+      "#9bd0c5",
+      "#cce3cc"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Memoir & Biography"
+  ],
+  "region": "United States",
+  "tags": [
+    "race",
+    "childhood",
+    "the South",
+    "resilience"
+  ],
+  "moods": [
+    "tender",
+    "bleak",
+    "hopeful"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "on a rainy day",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "a segregated town",
+      "a lost voice",
+      "the return of words"
+    ],
+    "oneLine": "Maya Angelou's childhood in the Jim Crow South, and how she found her voice."
+  },
+  "summary": "Maya Angelou's landmark memoir tells of her childhood in the segregated American South, of trauma and silence, and of how literature, community and her own fierce spirit brought her voice back. Written in luminous, musical prose, it is a story of racism and resilience, of a Black girl becoming herself against every pressure to disappear. The first of her autobiographies, it became a modern classic and one of the most beloved and most banned memoirs in America.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A luminous, unforgettable memoir of a Black girlhood in the segregated South. Painful, musical and ultimately triumphant.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was one of the first widely read memoirs by a Black American woman, and remains frequently taught and challenged.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

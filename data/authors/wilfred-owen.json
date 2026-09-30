@@ -1,0 +1,17 @@
+{
+  "slug": "wilfred-owen",
+  "name": "Wilfred Owen",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Wilfred Edward Salter Owen was an English poet and soldier. He was one of the leading poets of the First World War. His war poetry on the horrors of trenches and gas warfare was much influenced by his mentor Siegfried Sassoon and stood in contrast to the public perception of war at the time and",
+  "photo": {
+    "file": "assets/authors/wilfred-owen.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Wilfred_Owen"
+  },
+  "books": [
+    "poems"
+  ],
+  "enriched": false
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "aapka-bunti",
+  "title": "Aapka Bunti",
+  "subtitle": null,
+  "authors": [
+    "mannu-bhandari"
+  ],
+  "translator": null,
+  "originalLanguage": "Hindi",
+  "translated": true,
+  "originalPublicationYear": 1971,
+  "edition": {
+    "publisher": "Radhakrishan Prakashan",
+    "series": null,
+    "isbn": "8183610935",
+    "pageCount": 207
+  },
+  "cover": {
+    "file": "assets/covers/aapka-bunti.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#a1c9cb",
+    "w": 657,
+    "h": 1000,
+    "palette": [
+      "#05b3df",
+      "#f4f0e3",
+      "#1195b4"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Classic"
+  ],
+  "region": "India",
+  "tags": [
+    "Hindi",
+    "family",
+    "childhood",
+    "Mannu Bhandari"
+  ],
+  "moods": [
+    "tender",
+    "melancholic",
+    "warm"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a child's-eye view",
+      "a family breaking",
+      "a tender hurt"
+    ],
+    "oneLine": "A young boy caught in his parents' separation, in a beloved Hindi novel."
+  },
+  "summary": "Aapka Bunti is one of the most acclaimed Hindi novels of its era, telling the story of a sensitive young boy, Bunti, caught in the emotional wreckage of his parents' separation and remarriage. Mannu Bhandari renders a child's bewilderment and hurt with piercing tenderness, making the novel a landmark portrait of divorce and its effect on children in modern India. Restrained, moving and psychologically acute, it remains a much-loved classic of post-independence Hindi fiction.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A piercing, tender Hindi classic seen through a child caught in his parents' divorce. Restrained and deeply moving.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It is considered one of the most important Hindi novels dealing with a child's inner world.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C2",
+  "enriched": true
+}

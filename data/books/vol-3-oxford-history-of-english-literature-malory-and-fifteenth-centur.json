@@ -1,0 +1,69 @@
+{
+  "slug": "vol-3-oxford-history-of-english-literature-malory-and-fifteenth-centur",
+  "title": "Vol 3 Oxford History of English Literature: Malory and Fifteenth- century Drama, Lyrics and Ballads",
+  "subtitle": null,
+  "authors": [
+    "e-k-chambers"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Clarendon Press",
+    "series": null,
+    "isbn": "0198122306",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/vol-3-oxford-history-of-english-literature-malory-and-fifteenth-centur.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#808972",
+    "w": 321,
+    "h": 500,
+    "palette": [
+      "#243659",
+      "#ebeb93",
+      "#caca83"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Literary History",
+    "Criticism"
+  ],
+  "region": "England",
+  "tags": [
+    "medieval",
+    "Malory",
+    "literary history",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "scholarly"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "Malory's Arthur",
+      "medieval ballads",
+      "early drama"
+    ],
+    "oneLine": "The Oxford history of Malory and fifteenth-century drama, lyrics and ballads."
+  },
+  "summary": "This volume of the Oxford History of English Literature surveys Malory and the drama, lyrics and ballads of the fifteenth century, tracing the prose romance, popular verse and early theatre of late medieval England. It sets Malory's great Arthurian work alongside the songs, ballads and plays of the age, in the authoritative, context-rich manner of the series. A scholarly guide to a rich and varied period, useful to students and serious readers of medieval English literature.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Oxford survey of Malory and fifteenth-century drama, lyric and ballad. Authoritative and thorough.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "01",
+  "enriched": true
+}

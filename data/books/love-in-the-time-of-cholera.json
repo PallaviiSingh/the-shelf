@@ -1,0 +1,77 @@
+{
+  "slug": "love-in-the-time-of-cholera",
+  "title": "Love In The Time Of Cholera",
+  "subtitle": null,
+  "authors": [
+    "gabriel-garcia-marquez"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1985,
+  "edition": {
+    "publisher": "Penguin India",
+    "series": null,
+    "isbn": "014012389X",
+    "pageCount": 451
+  },
+  "cover": {
+    "file": "assets/covers/love-in-the-time-of-cholera.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#dd8a28",
+    "w": 641,
+    "h": 1000,
+    "palette": [
+      "#f99b0d",
+      "#b25125",
+      "#e55913"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction",
+    "Magical Realism"
+  ],
+  "region": "Colombia",
+  "tags": [
+    "love",
+    "aging",
+    "Caribbean",
+    "devotion"
+  ],
+  "moods": [
+    "romantic",
+    "melancholic",
+    "luminous"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "by the water",
+      "to feel something deeply",
+      "to relax and unwind"
+    ],
+    "sensory": [
+      "a Caribbean port",
+      "riverboats",
+      "half a century of longing"
+    ],
+    "oneLine": "A man waits fifty-one years to love the woman he never stopped wanting."
+  },
+  "summary": "Florentino Ariza loves Fermina Daza for more than fifty years, waiting through her long marriage to a respectable doctor for the chance to declare himself again. Marquez turns this improbable, obsessive devotion into a sweeping meditation on love in all its forms, romantic, foolish, faithful and absurd, set against a fever-bright Caribbean city over half a century. Sensuous, funny and wise about desire and old age, it argues that love and its lovesickness can outlast almost anything, including good sense.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A grand, sensuous love story that spans a lifetime and refuses to give up. Proof that Marquez could be as romantic as he was magical.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Marquez said the love story was partly inspired by the long courtship of his own parents.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "C1",
+  "enriched": true
+}

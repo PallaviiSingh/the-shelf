@@ -1,0 +1,77 @@
+{
+  "slug": "we-have-always-lived-in-the-castle",
+  "title": "We have Always Lived in the Castle",
+  "subtitle": null,
+  "authors": [
+    "shirley-jackson"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1962,
+  "edition": {
+    "publisher": "Penguin Classics",
+    "series": null,
+    "isbn": "0143134833",
+    "pageCount": 187
+  },
+  "cover": {
+    "file": "assets/covers/we-have-always-lived-in-the-castle.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#726f67",
+    "w": 720,
+    "h": 1100,
+    "palette": [
+      "#3c3b36",
+      "#220e0d",
+      "#ccc7b5"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Gothic & Horror",
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "isolation",
+    "family",
+    "the uncanny",
+    "poison"
+  ],
+  "moods": [
+    "unsettling",
+    "haunting",
+    "quiet"
+  ],
+  "difficulty": "gentle",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "in bed at night",
+      "on a rainy day",
+      "a short sitting"
+    ],
+    "sensory": [
+      "a decaying house",
+      "a hostile village",
+      "two devoted sisters"
+    ],
+    "oneLine": "Two sisters live shunned in a grand house, and one of them tells you why."
+  },
+  "summary": "Eighteen-year-old Merricat lives in a grand, decaying house with her gentle sister Constance and their ailing uncle, shunned by a village that believes Constance poisoned the rest of the family years ago. Narrated in Merricat's strange, enchanting, faintly sinister voice, Shirley Jackson's final novel is a small masterpiece of unease, a study of outsiderhood, cruelty and fierce sisterly love that never quite tips into the horror it always seems about to become. Odd, funny and deeply disquieting.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Shirley Jackson's eerie, enchanting last novel, narrated by one of fiction's strangest voices. Cosy and sinister at once.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It was Jackson's last completed novel, published three years before her death.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D4",
+  "enriched": true
+}

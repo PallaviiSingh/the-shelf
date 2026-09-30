@@ -1,0 +1,13 @@
+{
+  "slug": "donald-palmer",
+  "name": "Donald Palmer",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Donald D. Palmer is Emeritus Professor of Philosophy at the College of Marin in Kentfield, California. He is known for writing introductory books on philosophy and philosophers which attempt to make philosophical ideas accessible to novices. He also illustrates his own books. Currently he is visiting assistant professor of philosophy at North Carolina State University",
+  "photo": null,
+  "books": [
+    "sartre-for-beginners"
+  ],
+  "enriched": false
+}

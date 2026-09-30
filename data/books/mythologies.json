@@ -1,0 +1,77 @@
+{
+  "slug": "mythologies",
+  "title": "Mythologies",
+  "subtitle": null,
+  "authors": [
+    "roland-barthes"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1957,
+  "edition": {
+    "publisher": "Vintage Classics",
+    "series": null,
+    "isbn": "0099529750",
+    "pageCount": 161
+  },
+  "cover": {
+    "file": "assets/covers/mythologies.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#686263",
+    "w": 655,
+    "h": 1000,
+    "palette": [
+      "#150d0d",
+      "#3a2326",
+      "#713340"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Theory",
+    "Essays"
+  ],
+  "region": "France",
+  "tags": [
+    "semiotics",
+    "cultural studies",
+    "Barthes",
+    "theory"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "political"
+  ],
+  "difficulty": "moderate",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "in a cafe",
+      "a short sitting"
+    ],
+    "sensory": [
+      "everyday myths",
+      "ideology as nature",
+      "a witty eye"
+    ],
+    "oneLine": "Barthes decodes the hidden meanings of everyday culture."
+  },
+  "summary": "Roland Barthes's Mythologies is a dazzling collection of short essays decoding the hidden meanings of everyday French life, from wrestling and soap powder to steak and the face of Greta Garbo, followed by a theoretical essay on how myth works. Witty and revelatory, it showed how popular culture is saturated with ideology disguised as nature, and helped launch cultural studies and semiotics. Playful, brilliant and endlessly imitated, it changed how we read the ordinary world.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Barthes decoding the hidden ideology of everyday life, from wrestling to steak. Witty, brilliant and field-founding.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its essays helped found cultural studies and popularise the idea of reading everyday life as 'myth'.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "01",
+  "enriched": true
+}

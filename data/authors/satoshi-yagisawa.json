@@ -1,0 +1,19 @@
+{
+  "slug": "satoshi-yagisawa",
+  "name": "Satoshi Yagisawa",
+  "birthYear": 1977,
+  "deathYear": null,
+  "nationality": "Japanese",
+  "bio": "Japanese novelist, born in Chiba Prefecture and a graduate of Nihon University's College of Art. His gentle debut, Days at the Morisaki Bookshop, won the Chiyoda Literature Prize in 2009 and became an international bestseller, published in more than twenty countries and made into a film.",
+  "photo": {
+    "file": "assets/authors/satoshi-yagisawa.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Days_at_the_Morisaki_Bookshop",
+    "license": "Fair use",
+    "attribution": "Satoshi Yagisawa"
+  },
+  "books": [
+    "days-at-the-morisaki-bookshop",
+    "more-days-at-the-morisaki-bookshop"
+  ]
+}

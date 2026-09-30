@@ -1,0 +1,76 @@
+{
+  "slug": "the-bell-jar",
+  "title": "The Bell Jar",
+  "subtitle": null,
+  "authors": [
+    "sylvia-plath"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1963,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "8181320344",
+    "pageCount": 262
+  },
+  "cover": {
+    "file": "assets/covers/the-bell-jar.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#cdc5b4",
+    "w": 640,
+    "h": 1000,
+    "palette": [
+      "#f4eed9",
+      "#ccc8b7",
+      "#9c2128"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "mental illness",
+    "1950s",
+    "women",
+    "identity"
+  ],
+  "moods": [
+    "bleak",
+    "melancholic",
+    "cerebral"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to think hard",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a New York internship",
+      "a suffocating summer",
+      "a bell jar"
+    ],
+    "oneLine": "A brilliant young woman's descent into breakdown in 1950s America."
+  },
+  "summary": "A gifted young woman wins a glamorous magazine internship in New York, then spirals into depression and a breakdown as the narrow options open to women in 1950s America close around her. Sylvia Plath's only novel, drawn closely from her own life, describes mental illness and its treatment with clarity, dark humour and a terrible precision. Published just before her death, it has become a defining account of despair, and of a bright mind pressed under a bell jar of its own.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A piercing, darkly funny account of a mind coming apart. Painful, essential, and unforgettable once read.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Plath published it under a pseudonym a month before her death in 1963.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

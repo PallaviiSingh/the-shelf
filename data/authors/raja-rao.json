@@ -1,0 +1,17 @@
+{
+  "slug": "raja-rao",
+  "name": "Raja Rao",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Raja Rao was an Indian-American writer of English-language novels and short stories, whose works are deeply rooted in metaphysics. Rao has been described as a powerful writer and a scholar well versed in the Hindu, Buddhist, and Christian philosophies. The Serpent and the Rope (1960), a semi-autobiographical novel recounting a search for spiritual truth in",
+  "photo": {
+    "file": "assets/authors/raja-rao.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Raja_Rao"
+  },
+  "books": [
+    "kanthapura"
+  ],
+  "enriched": false
+}

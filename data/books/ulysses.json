@@ -1,0 +1,75 @@
+{
+  "slug": "ulysses",
+  "title": "Ulysses",
+  "subtitle": null,
+  "authors": [
+    "james-joyce"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1922,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "pageCount": 736
+  },
+  "cover": {
+    "file": "assets/covers/ulysses.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#5a6973",
+    "w": 720,
+    "h": 1103,
+    "palette": [
+      "#556e7e",
+      "#6c8795",
+      "#414d58"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Classic",
+    "Literary Fiction"
+  ],
+  "region": "Ireland",
+  "tags": [
+    "Dublin",
+    "modernism",
+    "one day",
+    "stream of consciousness"
+  ],
+  "moods": [
+    "cerebral",
+    "playful",
+    "epic"
+  ],
+  "difficulty": "summit",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to think hard",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "one Dublin day",
+      "a wandering mind",
+      "the whole of a city"
+    ],
+    "oneLine": "One ordinary Dublin day, and the novel that remade all fiction."
+  },
+  "summary": "Over the course of a single ordinary day in Dublin, three lives wander and intersect: the young Stephen Dedalus, the advertising canvasser Leopold Bloom, and Bloom's wife Molly, whose great monologue closes the book. Loosely mapping Homer's Odyssey onto one June day in 1904, Joyce's revolutionary novel remakes the possibilities of fiction, moving through a dazzling range of styles and stream of consciousness. Notoriously difficult and endlessly rewarding, it is the towering monument of literary modernism.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The Everest of the modern novel, one Dublin day that remade what fiction can do. Hard, dazzling, and worth the climb.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The entire novel takes place on a single day, 16 June 1904, now celebrated as Bloomsday.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D1",
+  "enriched": true
+}

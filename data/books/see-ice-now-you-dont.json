@@ -1,0 +1,77 @@
+{
+  "slug": "see-ice-now-you-dont",
+  "title": "See ice? Now you dont!",
+  "subtitle": null,
+  "authors": [
+    "rohan-chakravarty-green-humour"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Vintage Books",
+    "series": null,
+    "isbn": "0143470590",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/see-ice-now-you-dont.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#849fbc",
+    "w": 708,
+    "h": 1024,
+    "palette": [
+      "#86b5e7",
+      "#e8e0d0",
+      "#386db5"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Graphic & Comics",
+    "Nature Writing"
+  ],
+  "region": "India",
+  "tags": [
+    "cartoons",
+    "climate change",
+    "ice",
+    "humour"
+  ],
+  "moods": [
+    "playful",
+    "witty",
+    "urgent"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "a short sitting",
+      "in winter"
+    ],
+    "sensory": [
+      "melting ice",
+      "polar wildlife",
+      "a warming world"
+    ],
+    "oneLine": "Green Humour cartoons on vanishing ice and a warming planet."
+  },
+  "summary": "A themed collection of Rohan Chakravarty's Green Humour cartoons centred on the frozen world and its rapid disappearance, using the vanishing of polar and glacial ice as a lens on climate change. With his signature wit, Chakravarty turns melting ice, threatened polar wildlife and warming seas into cartoons that are funny, pointed and quietly alarming. A clever, accessible way to grasp one of the most visible signs of a heating planet, from India's best-loved wildlife cartoonist.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Green Humour on melting ice and a warming world. Funny, pointed and quietly alarming.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "The title plays on the way polar and glacial ice is rapidly disappearing.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

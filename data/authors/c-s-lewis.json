@@ -1,0 +1,17 @@
+{
+  "slug": "c-s-lewis",
+  "name": "C.S. Lewis",
+  "birthYear": null,
+  "deathYear": null,
+  "nationality": "",
+  "bio": "Clive Staples Lewis was a British author, literary scholar and Anglican lay theologian. He held academic positions in English literature at both Magdalen College, Oxford (1925–1954), and Magdalene College, Cambridge (1954–1963). He is best known as the author of The Chronicles of Narnia, but he is also noted for his other works of fiction, such",
+  "photo": {
+    "file": "assets/authors/c-s-lewis.jpg",
+    "source": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/C._S._Lewis"
+  },
+  "books": [
+    "the-chronicles-of-narnia"
+  ],
+  "enriched": false
+}

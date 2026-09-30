@@ -1,0 +1,78 @@
+{
+  "slug": "the-playboy-of-the-western-world",
+  "title": "The Playboy of the Western World",
+  "subtitle": null,
+  "authors": [
+    "j-m-synge"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1907,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": null,
+    "pageCount": 87
+  },
+  "cover": {
+    "file": "assets/covers/the-playboy-of-the-western-world.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#7e7978",
+    "w": 324,
+    "h": 500,
+    "palette": [
+      "#01101f",
+      "#f3e8e0",
+      "#b3956b"
+    ]
+  },
+  "genre": "Drama",
+  "subgenres": [
+    "Classic",
+    "Drama",
+    "Comedy"
+  ],
+  "region": "Ireland",
+  "tags": [
+    "Ireland",
+    "rural",
+    "storytelling",
+    "satire"
+  ],
+  "moods": [
+    "satirical",
+    "playful",
+    "dark"
+  ],
+  "difficulty": "moderate",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "to laugh",
+      "a short sitting",
+      "on a rainy day"
+    ],
+    "sensory": [
+      "a remote Irish village",
+      "a boastful stranger",
+      "a father back from the dead"
+    ],
+    "oneLine": "A young man's tale of killing his father makes him a village hero."
+  },
+  "summary": "A young man stumbles into a remote Irish village claiming to have killed his father, and instead of horror he finds fame, admiration and the love of the local women, until his supposedly dead father turns up alive. Synge's lyrical, subversive comedy caused riots at its Dublin premiere for its irreverent portrait of the Irish peasantry. Rich in language and sly about heroism, storytelling and self-invention, it is a landmark of the Irish theatrical revival and still bitingly funny.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The lyrical Irish comedy that caused riots, sly about heroism and tall tales. Still bitingly funny.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "Its Dublin premiere sparked riots by audiences who felt it insulted rural Ireland.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "D3",
+  "enriched": true
+}

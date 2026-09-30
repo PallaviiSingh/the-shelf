@@ -1,0 +1,75 @@
+{
+  "slug": "the-color-purple",
+  "title": "The Color Purple",
+  "subtitle": null,
+  "authors": [
+    "alice-walker"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": 1982,
+  "edition": {
+    "publisher": null,
+    "series": null,
+    "isbn": "9781780228716",
+    "pageCount": 262
+  },
+  "cover": {
+    "file": "assets/covers/the-color-purple.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#61526a",
+    "w": 654,
+    "h": 1000,
+    "palette": [
+      "#555255",
+      "#9655b3",
+      "#b599c6"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Literary Fiction"
+  ],
+  "region": "United States",
+  "tags": [
+    "race",
+    "abuse",
+    "sisterhood",
+    "the South"
+  ],
+  "moods": [
+    "bleak",
+    "tender",
+    "hopeful"
+  ],
+  "difficulty": "moderate",
+  "pace": "steady",
+  "vibeProfile": {
+    "occasions": [
+      "to feel something deeply",
+      "to be absorbed for hours"
+    ],
+    "sensory": [
+      "the early-century South",
+      "letters to God",
+      "a woman finding her voice"
+    ],
+    "oneLine": "A abused Black woman in the South slowly claims her life, through the love of women."
+  },
+  "summary": "Told in letters, first to God and then to a long-lost sister, this is the story of Celie, a poor Black woman in the early-twentieth-century South who survives abuse and degradation and, through the love of other women, slowly claims her own life and voice. Alice Walker's Pulitzer-winning novel is harrowing and, ultimately, radiant, a story of endurance, sisterhood and hard-won joy written in an unforgettable vernacular voice. One of the landmark American novels of its century.",
+  "summarySource": "knowledge",
+  "whyReadIt": "A harrowing, ultimately radiant novel of survival and sisterhood. It earns every bit of its final joy.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It won the Pulitzer Prize and the National Book Award, and was later filmed and staged as a musical.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "F3",
+  "enriched": true
+}

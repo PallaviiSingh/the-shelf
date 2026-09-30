@@ -1,0 +1,78 @@
+{
+  "slug": "the-whispering-mountains",
+  "title": "The Whispering Mountains",
+  "subtitle": null,
+  "authors": [
+    "namita-gokhale"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "Puffin",
+    "series": null,
+    "isbn": "0143470221",
+    "pageCount": null
+  },
+  "cover": {
+    "file": "assets/covers/the-whispering-mountains.png",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#59656e",
+    "w": 363,
+    "h": 587,
+    "alpha": true,
+    "palette": [
+      "#1c415a",
+      "#3e667e",
+      "#7bbcd9"
+    ]
+  },
+  "genre": "Fiction",
+  "subgenres": [
+    "Children's",
+    "Folklore"
+  ],
+  "region": "India",
+  "tags": [
+    "folktales",
+    "Himalayas",
+    "children",
+    "India"
+  ],
+  "moods": [
+    "playful",
+    "warm",
+    "dreamlike"
+  ],
+  "difficulty": "gentle",
+  "pace": "brisk",
+  "vibeProfile": {
+    "occasions": [
+      "comfort reading",
+      "in bed at night",
+      "to relax and unwind"
+    ],
+    "sensory": [
+      "the Himalayas",
+      "tricksters and shapeshifters",
+      "magic close at hand"
+    ],
+    "oneLine": "Enchanting folktales gathered from across the Himalayas."
+  },
+  "summary": "A richly illustrated collection of Himalayan folktales retold by Namita Gokhale with Malashri Lal, gathering stories handed down through generations across the mountains. Here trees, flowers, animals and birds live alongside humans, the wicked and the good are rarely what they seem, and magic is always close: clever women outwit thieves, fools turn out wise, and creation myths, tricksters and shapeshifters abound. Warm and enchanting, it is a lovely doorway into the storytelling of the Himalayas for younger readers and anyone who loves a folktale.",
+  "summarySource": "knowledge",
+  "whyReadIt": "Enchanting Himalayan folktales retold by Namita Gokhale, full of magic, tricksters and clever women. A lovely doorway for younger readers.",
+  "awards": [],
+  "funFacts": [
+    {
+      "text": "It gathers folktales from across the Himalayan region, co-authored with the scholar Malashri Lal.",
+      "source": null,
+      "type": "knowledge"
+    }
+  ],
+  "physicalShelf": "2",
+  "enriched": true
+}

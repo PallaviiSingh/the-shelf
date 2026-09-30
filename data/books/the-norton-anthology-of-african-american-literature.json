@@ -1,0 +1,68 @@
+{
+  "slug": "the-norton-anthology-of-african-american-literature",
+  "title": "The Norton Anthology of African American Literature",
+  "subtitle": null,
+  "authors": [
+    "henry-louis-gates",
+    "nellie-y-mckay"
+  ],
+  "translator": null,
+  "originalLanguage": "English",
+  "translated": false,
+  "originalPublicationYear": null,
+  "edition": {
+    "publisher": "W W Norton & Co Inc",
+    "series": null,
+    "isbn": "0393959082",
+    "pageCount": 1632
+  },
+  "cover": {
+    "file": "assets/covers/the-norton-anthology-of-african-american-literature.jpg",
+    "source": "owned",
+    "match": "owned-edition",
+    "sourceUrl": null,
+    "dominantColor": "#763c26",
+    "w": 578,
+    "h": 1000,
+    "palette": [
+      "#851006",
+      "#b46d23",
+      "#1d1c13"
+    ]
+  },
+  "genre": "Non-fiction",
+  "subgenres": [
+    "Anthology"
+  ],
+  "region": "United States",
+  "tags": [
+    "anthology",
+    "African American",
+    "reference"
+  ],
+  "moods": [
+    "cerebral",
+    "political"
+  ],
+  "difficulty": "challenging",
+  "pace": "slow-burn",
+  "vibeProfile": {
+    "occasions": [
+      "to study",
+      "to think hard"
+    ],
+    "sensory": [
+      "spirituals to now",
+      "the Harlem Renaissance",
+      "a powerful tradition"
+    ],
+    "oneLine": "The Norton anthology of African American literature."
+  },
+  "summary": "Edited by Henry Louis Gates Jr. and Nellie Y. McKay, this landmark anthology gathers the sweep of African American literature, from the oral tradition, spirituals and slave narratives through the Harlem Renaissance to contemporary fiction, poetry and essays. With rich introductions and context, it maps a tradition of extraordinary power and reach. A foundational reference that established African American literature as a field, indispensable for its study.",
+  "summarySource": "knowledge",
+  "whyReadIt": "The landmark anthology that established African American literature as a field, from spirituals to now. Foundational.",
+  "awards": [],
+  "funFacts": [],
+  "physicalShelf": "0",
+  "enriched": true
+}
