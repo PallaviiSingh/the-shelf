@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "slug": "sorajjem",
+    "title": "Sorajjem",
+    "subtitle": null,
+    "authors": [
+      "akkineni-kutumbarao-translated-by-alladi-uma-and-m-sridhar"
+    ],
+    "translator": null,
+    "originalLanguage": "English",
+    "translated": false,
+    "originalPublicationYear": 2016,
+    "edition": {
+      "publisher": "Orient Blackswan",
+      "series": null,
+      "isbn": "9788125062936",
+      "pageCount": null
+    },
+    "cover": {
+      "file": "assets/covers/sorajjem.jpg",
+      "source": "owned",
+      "match": "owned-edition",
+      "sourceUrl": null,
+      "dominantColor": "#e65645",
+      "w": 648,
+      "h": 1000,
+      "palette": [
+        "#e65645",
+        "#d75849",
+        "#c85749"
+      ]
+    },
+    "genre": "Fiction",
+    "subgenres": [],
+    "region": "India",
+    "tags": [],
+    "moods": [],
+    "difficulty": "moderate",
+    "pace": "steady",
+    "vibeProfile": {
+      "occasions": [],
+      "sensory": [],
+      "oneLine": ""
+    },
+    "summary": "In Malapalli, an ‘Untouchable’ corner of a village in the Andhra region, every child’s dreams are crushed. They cannot stay at school. They tend the buffaloes. They work the fields. They are sexually exploited. They are expected to be content with a paltry pay. When they assert their rights, they are threatened, killed, or worse, forced to migrate to unknown far-away lands.\nThis is the story of the first sixteen years in the life of Sorajjem, born during the month of India’s Independence. It is also a story of the sufferings of her community, the Malas. In this country where Gandhian values run deep, caste oppression is comfortably entrenched. This story is set in the recent past. But it can well be a story of contemporary India.\nWritten in 1973 and published in 1981, Sorajjem is one of the early Telugu novels written by a non-Dalit writer that depicts the problems faced by the Dalits. This masterful translation captures the lived reality of inhumanity, alienation, displacement and sexual atrocity that the Dalits face at the hands of caste-Hindus, and explores why seeds of revolution are sown in Dalit lives.",
+    "summarySource": "owner",
+    "whyReadIt": "",
+    "awards": [],
+    "funFacts": [],
+    "physicalShelf": null,
+    "enriched": true,
+    "subject": "Indian Literature in Translation",
+    "shelfName": "New Arrivals",
+    "_authors": [
+      {
+        "slug": "akkineni-kutumbarao-translated-by-alladi-uma-and-m-sridhar",
+        "name": "Akkineni Kutumbarao (translated by Alladi Uma and M. Sridhar)"
+      }
+    ],
+    "_added": true
+  }
+]
